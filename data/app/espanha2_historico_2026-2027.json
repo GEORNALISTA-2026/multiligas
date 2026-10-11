@@ -1,6 +1,6 @@
 {
   "season": "2026/2027",
-  "updated_at": "2026-10-10T19:50:01.164Z",
+  "updated_at": "2026-10-11T06:42:14.217Z",
   "teams": {
     "Real Sociedad B": {
       "team": "Real Sociedad B",
@@ -167,50 +167,50 @@
         },
         {
           "rodada": 9,
-          "data": "2026-10-10T19:00:00.000Z",
+          "data": "2026-10-10T19:00:00Z",
           "local": "Fora",
           "adversario": "Celta Fortuna",
-          "gols_pro": 0,
-          "gols_contra": 3,
-          "placar": "0 x 3",
-          "xg": 0,
-          "xga": 0,
-          "xgd": 0,
-          "posse": null,
-          "chutes": null,
-          "chutes_no_gol": null,
-          "escanteios": null,
-          "desarmes": null,
-          "xg_movel_5": 1.17,
-          "xga_movel_5": 1.53,
-          "xgd_movel_5": -0.36
+          "gols_pro": 1,
+          "gols_contra": 4,
+          "placar": "1 x 4",
+          "xg": 1.78,
+          "xga": 1.89,
+          "xgd": -0.11,
+          "posse": 50,
+          "chutes": 23,
+          "chutes_no_gol": 5,
+          "escanteios": 10,
+          "desarmes": 13,
+          "xg_movel_5": 1.52,
+          "xga_movel_5": 1.91,
+          "xgd_movel_5": -0.38
         }
       ],
       "tendencia": {
         "ataque": {
-          "status": "Estável",
-          "variacao": 2.4,
-          "temporada": 1.14,
-          "ultimos_5": 1.17
+          "status": "Melhorando",
+          "variacao": 13.8,
+          "temporada": 1.34,
+          "ultimos_5": 1.52
         },
         "defesa": {
-          "status": "Estável",
-          "variacao": -3.6,
-          "temporada": 1.48,
-          "ultimos_5": 1.53
+          "status": "Piorando",
+          "variacao": -13.1,
+          "temporada": 1.69,
+          "ultimos_5": 1.91
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -7.6,
-          "temporada": -0.33,
-          "ultimos_5": -0.36
+          "variacao": -10.2,
+          "temporada": -0.35,
+          "ultimos_5": -0.38
         }
       },
       "resumo": {
         "jogos": 9,
-        "xg_medio": 1.14,
-        "xga_medio": 1.48,
-        "xgd_medio": -0.33
+        "xg_medio": 1.34,
+        "xga_medio": 1.69,
+        "xgd_medio": -0.35
       }
     },
     "Castellón": {
@@ -760,7 +760,7 @@
         },
         {
           "rodada": 9,
-          "data": "2026-10-10T14:15:00.000Z",
+          "data": "2026-10-10T14:15:00Z",
           "local": "Casa",
           "adversario": "Sabadell",
           "gols_pro": 1,
@@ -1162,50 +1162,50 @@
         },
         {
           "rodada": 9,
-          "data": "2026-10-10T19:00:00.000Z",
+          "data": "2026-10-10T19:00:00Z",
           "local": "Casa",
           "adversario": "Real Sociedad B",
-          "gols_pro": 3,
-          "gols_contra": 0,
-          "placar": "3 x 0",
-          "xg": 0,
-          "xga": 0,
-          "xgd": 0,
-          "posse": null,
-          "chutes": null,
-          "chutes_no_gol": null,
-          "escanteios": null,
-          "desarmes": null,
-          "xg_movel_5": 0.91,
-          "xga_movel_5": 1.24,
-          "xgd_movel_5": -0.33
+          "gols_pro": 4,
+          "gols_contra": 1,
+          "placar": "4 x 1",
+          "xg": 1.89,
+          "xga": 1.78,
+          "xgd": 0.11,
+          "posse": 50,
+          "chutes": 13,
+          "chutes_no_gol": 8,
+          "escanteios": 1,
+          "desarmes": 20,
+          "xg_movel_5": 1.29,
+          "xga_movel_5": 1.6,
+          "xgd_movel_5": -0.31
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Piorando",
-          "variacao": -24.9,
-          "temporada": 1.22,
-          "ultimos_5": 0.91
+          "variacao": -9.5,
+          "temporada": 1.43,
+          "ultimos_5": 1.29
         },
         "defesa": {
-          "status": "Melhorando",
-          "variacao": 14.7,
-          "temporada": 1.46,
-          "ultimos_5": 1.24
+          "status": "Estável",
+          "variacao": 3.4,
+          "temporada": 1.65,
+          "ultimos_5": 1.6
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -37.3,
-          "temporada": -0.24,
-          "ultimos_5": -0.33
+          "variacao": -35,
+          "temporada": -0.23,
+          "ultimos_5": -0.31
         }
       },
       "resumo": {
         "jogos": 9,
-        "xg_medio": 1.22,
-        "xga_medio": 1.46,
-        "xgd_medio": -0.24
+        "xg_medio": 1.43,
+        "xga_medio": 1.65,
+        "xgd_medio": -0.23
       }
     },
     "Real Oviedo": {
@@ -2710,7 +2710,7 @@
         },
         {
           "rodada": 9,
-          "data": "2026-10-10T16:30:00.000Z",
+          "data": "2026-10-10T16:30:00Z",
           "local": "Fora",
           "adversario": "Eldense",
           "gols_pro": 1,
@@ -3876,7 +3876,7 @@
         },
         {
           "rodada": 9,
-          "data": "2026-10-10T14:15:00.000Z",
+          "data": "2026-10-10T14:15:00Z",
           "local": "Fora",
           "adversario": "AD Ceuta FC",
           "gols_pro": 2,
@@ -4278,7 +4278,7 @@
         },
         {
           "rodada": 9,
-          "data": "2026-10-10T16:30:00.000Z",
+          "data": "2026-10-10T16:30:00Z",
           "local": "Casa",
           "adversario": "Córdoba",
           "gols_pro": 2,

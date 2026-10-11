@@ -1,6 +1,6 @@
 {
   "season": "2026/2027",
-  "updated_at": "2026-10-10T19:53:14.567Z",
+  "updated_at": "2026-10-11T06:46:20.086Z",
   "teams": {
     "Estoril": {
       "team": "Estoril",
@@ -147,50 +147,50 @@
         },
         {
           "rodada": 8,
-          "data": "2026-10-10T19:30:00.000Z",
+          "data": "2026-10-10T19:30:00Z",
           "local": "Fora",
           "adversario": "Académico Viseu",
-          "gols_pro": 0,
-          "gols_contra": 0,
-          "placar": "0 x 0",
-          "xg": 0,
-          "xga": 0,
-          "xgd": 0,
-          "posse": null,
-          "chutes": null,
-          "chutes_no_gol": null,
-          "escanteios": null,
-          "desarmes": null,
-          "xg_movel_5": 0.65,
-          "xga_movel_5": 1.49,
-          "xgd_movel_5": -0.84
+          "gols_pro": 1,
+          "gols_contra": 2,
+          "placar": "1 x 2",
+          "xg": 1.36,
+          "xga": 0.73,
+          "xgd": 0.63,
+          "posse": 49,
+          "chutes": 15,
+          "chutes_no_gol": 9,
+          "escanteios": 5,
+          "desarmes": 17,
+          "xg_movel_5": 0.92,
+          "xga_movel_5": 1.64,
+          "xgd_movel_5": -0.72
         }
       ],
       "tendencia": {
         "ataque": {
-          "status": "Piorando",
-          "variacao": -14.2,
-          "temporada": 0.76,
-          "ultimos_5": 0.65
+          "status": "Estável",
+          "variacao": -0.5,
+          "temporada": 0.93,
+          "ultimos_5": 0.92
         },
         "defesa": {
-          "status": "Estável",
-          "variacao": -2.1,
-          "temporada": 1.46,
-          "ultimos_5": 1.49
+          "status": "Piorando",
+          "variacao": -5.5,
+          "temporada": 1.55,
+          "ultimos_5": 1.64
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -19.5,
-          "temporada": -0.71,
-          "ultimos_5": -0.84
+          "variacao": -14.4,
+          "temporada": -0.63,
+          "ultimos_5": -0.72
         }
       },
       "resumo": {
         "jogos": 8,
-        "xg_medio": 0.76,
-        "xga_medio": 1.46,
-        "xgd_medio": -0.71
+        "xg_medio": 0.93,
+        "xga_medio": 1.55,
+        "xgd_medio": -0.63
       }
     },
     "Famalicão": {
@@ -509,7 +509,7 @@
         },
         {
           "rodada": 8,
-          "data": "2026-10-10T17:00:00.000Z",
+          "data": "2026-10-10T17:00:00Z",
           "local": "Casa",
           "adversario": "FC Porto",
           "gols_pro": 1,
@@ -700,50 +700,50 @@
         },
         {
           "rodada": 8,
-          "data": "2026-10-10T19:30:00.000Z",
+          "data": "2026-10-10T19:30:00Z",
           "local": "Casa",
           "adversario": "Santa Clara",
           "gols_pro": 0,
-          "gols_contra": 0,
-          "placar": "0 x 0",
-          "xg": 0,
-          "xga": 0,
-          "xgd": 0,
-          "posse": null,
-          "chutes": null,
-          "chutes_no_gol": null,
-          "escanteios": null,
-          "desarmes": null,
-          "xg_movel_5": 1,
-          "xga_movel_5": 1.33,
-          "xgd_movel_5": -0.33
+          "gols_contra": 1,
+          "placar": "0 x 1",
+          "xg": 0.43,
+          "xga": 0.61,
+          "xgd": -0.18,
+          "posse": 38,
+          "chutes": 5,
+          "chutes_no_gol": 2,
+          "escanteios": 3,
+          "desarmes": 16,
+          "xg_movel_5": 1.09,
+          "xga_movel_5": 1.45,
+          "xgd_movel_5": -0.36
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Melhorando",
-          "variacao": 19,
-          "temporada": 0.84,
-          "ultimos_5": 1
+          "variacao": 21.4,
+          "temporada": 0.9,
+          "ultimos_5": 1.09
         },
         "defesa": {
           "status": "Melhorando",
-          "variacao": 15.8,
-          "temporada": 1.58,
-          "ultimos_5": 1.33
+          "variacao": 12.3,
+          "temporada": 1.66,
+          "ultimos_5": 1.45
         },
         "equilibrio": {
           "status": "Melhorando",
-          "variacao": 55.6,
-          "temporada": -0.73,
-          "ultimos_5": -0.33
+          "variacao": 52.2,
+          "temporada": -0.76,
+          "ultimos_5": -0.36
         }
       },
       "resumo": {
         "jogos": 8,
-        "xg_medio": 0.84,
-        "xga_medio": 1.58,
-        "xgd_medio": -0.73
+        "xg_medio": 0.9,
+        "xga_medio": 1.66,
+        "xgd_medio": -0.76
       }
     },
     "Vitória de Guimarães": {
@@ -1595,7 +1595,7 @@
         },
         {
           "rodada": 8,
-          "data": "2026-10-10T17:00:00.000Z",
+          "data": "2026-10-10T17:00:00Z",
           "local": "Fora",
           "adversario": "Marítimo",
           "gols_pro": 2,
@@ -2128,50 +2128,50 @@
         },
         {
           "rodada": 8,
-          "data": "2026-10-10T19:30:00.000Z",
+          "data": "2026-10-10T19:30:00Z",
           "local": "Casa",
           "adversario": "Estoril",
-          "gols_pro": 0,
-          "gols_contra": 0,
-          "placar": "0 x 0",
-          "xg": 0,
-          "xga": 0,
-          "xgd": 0,
-          "posse": null,
-          "chutes": null,
-          "chutes_no_gol": null,
-          "escanteios": null,
-          "desarmes": null,
-          "xg_movel_5": 1.1,
-          "xga_movel_5": 1.31,
-          "xgd_movel_5": -0.21
+          "gols_pro": 2,
+          "gols_contra": 1,
+          "placar": "2 x 1",
+          "xg": 0.73,
+          "xga": 1.36,
+          "xgd": -0.63,
+          "posse": 51,
+          "chutes": 15,
+          "chutes_no_gol": 6,
+          "escanteios": 2,
+          "desarmes": 13,
+          "xg_movel_5": 1.24,
+          "xga_movel_5": 1.58,
+          "xgd_movel_5": -0.33
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Estável",
-          "variacao": -1,
-          "temporada": 1.11,
-          "ultimos_5": 1.1
+          "variacao": 3.7,
+          "temporada": 1.2,
+          "ultimos_5": 1.24
         },
         "defesa": {
           "status": "Melhorando",
-          "variacao": 16.7,
-          "temporada": 1.57,
-          "ultimos_5": 1.31
+          "variacao": 9.2,
+          "temporada": 1.74,
+          "ultimos_5": 1.58
         },
         "equilibrio": {
           "status": "Melhorando",
-          "variacao": 54.8,
-          "temporada": -0.46,
-          "ultimos_5": -0.21
+          "variacao": 38,
+          "temporada": -0.54,
+          "ultimos_5": -0.33
         }
       },
       "resumo": {
         "jogos": 8,
-        "xg_medio": 1.11,
-        "xga_medio": 1.57,
-        "xgd_medio": -0.46
+        "xg_medio": 1.2,
+        "xga_medio": 1.74,
+        "xgd_medio": -0.54
       }
     },
     "Gil Vicente": {
@@ -3023,50 +3023,50 @@
         },
         {
           "rodada": 8,
-          "data": "2026-10-10T19:30:00.000Z",
+          "data": "2026-10-10T19:30:00Z",
           "local": "Fora",
           "adversario": "Casa Pia AC",
-          "gols_pro": 0,
+          "gols_pro": 1,
           "gols_contra": 0,
-          "placar": "0 x 0",
-          "xg": 0,
-          "xga": 0,
-          "xgd": 0,
-          "posse": null,
-          "chutes": null,
-          "chutes_no_gol": null,
-          "escanteios": null,
-          "desarmes": null,
-          "xg_movel_5": 1.33,
-          "xga_movel_5": 0.51,
-          "xgd_movel_5": 0.83
+          "placar": "1 x 0",
+          "xg": 0.61,
+          "xga": 0.43,
+          "xgd": 0.18,
+          "posse": 62,
+          "chutes": 14,
+          "chutes_no_gol": 2,
+          "escanteios": 7,
+          "desarmes": 18,
+          "xg_movel_5": 1.45,
+          "xga_movel_5": 0.59,
+          "xgd_movel_5": 0.86
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Estável",
-          "variacao": -4.2,
-          "temporada": 1.39,
-          "ultimos_5": 1.33
+          "variacao": -0.8,
+          "temporada": 1.47,
+          "ultimos_5": 1.45
         },
         "defesa": {
           "status": "Melhorando",
-          "variacao": 26.3,
-          "temporada": 0.69,
-          "ultimos_5": 0.51
+          "variacao": 20,
+          "temporada": 0.74,
+          "ultimos_5": 0.59
         },
         "equilibrio": {
           "status": "Melhorando",
-          "variacao": 17.4,
-          "temporada": 0.7,
-          "ultimos_5": 0.83
+          "variacao": 18.7,
+          "temporada": 0.73,
+          "ultimos_5": 0.86
         }
       },
       "resumo": {
         "jogos": 8,
-        "xg_medio": 1.39,
-        "xga_medio": 0.69,
-        "xgd_medio": 0.7
+        "xg_medio": 1.47,
+        "xga_medio": 0.74,
+        "xgd_medio": 0.73
       }
     },
     "Nacional": {

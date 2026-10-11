@@ -1,6 +1,6 @@
 {
   "season": "2026/2027",
-  "updated_at": "2026-10-10T19:51:17.453Z",
+  "updated_at": "2026-10-11T06:43:47.783Z",
   "teams": {
     "LR Vicenza": {
       "team": "LR Vicenza",
@@ -107,7 +107,7 @@
         },
         {
           "rodada": 6,
-          "data": "2026-10-10T15:15:00.000Z",
+          "data": "2026-10-10T15:15:00Z",
           "local": "Casa",
           "adversario": "Pisa",
           "gols_pro": 0,
@@ -651,50 +651,50 @@
         },
         {
           "rodada": 6,
-          "data": "2026-10-10T13:00:00.000Z",
+          "data": "2026-10-10T13:00:00Z",
           "local": "Casa",
           "adversario": "Ascoli",
           "gols_pro": 0,
           "gols_contra": 0,
           "placar": "0 x 0",
-          "xg": 1.08,
-          "xga": 0.65,
-          "xgd": 0.43,
+          "xg": 1.02,
+          "xga": 0.58,
+          "xgd": 0.44,
           "posse": 42,
           "chutes": 16,
           "chutes_no_gol": 4,
           "escanteios": 5,
-          "desarmes": 21,
-          "xg_movel_5": 0.88,
-          "xga_movel_5": 1.21,
+          "desarmes": 22,
+          "xg_movel_5": 0.87,
+          "xga_movel_5": 1.19,
           "xgd_movel_5": -0.32
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Estável",
-          "variacao": 0.3,
-          "temporada": 0.88,
-          "ultimos_5": 0.88
+          "variacao": 0,
+          "temporada": 0.87,
+          "ultimos_5": 0.87
         },
         "defesa": {
           "status": "Piorando",
-          "variacao": -7.8,
-          "temporada": 1.12,
-          "ultimos_5": 1.21
+          "variacao": -7.7,
+          "temporada": 1.11,
+          "ultimos_5": 1.19
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -36.1,
-          "temporada": -0.24,
+          "variacao": -36.2,
+          "temporada": -0.23,
           "ultimos_5": -0.32
         }
       },
       "resumo": {
         "jogos": 6,
-        "xg_medio": 0.88,
-        "xga_medio": 1.12,
-        "xgd_medio": -0.24
+        "xg_medio": 0.87,
+        "xga_medio": 1.11,
+        "xgd_medio": -0.23
       }
     },
     "Virtus Entella": {
@@ -802,7 +802,7 @@
         },
         {
           "rodada": 6,
-          "data": "2026-10-10T13:00:00.000Z",
+          "data": "2026-10-10T13:00:00Z",
           "local": "Casa",
           "adversario": "Juve Stabia",
           "gols_pro": 1,
@@ -1104,7 +1104,7 @@
         },
         {
           "rodada": 6,
-          "data": "2026-10-10T17:30:00.000Z",
+          "data": "2026-10-10T17:30:00Z",
           "local": "Casa",
           "adversario": "Cremonese",
           "gols_pro": 0,
@@ -1255,7 +1255,7 @@
         },
         {
           "rodada": 6,
-          "data": "2026-10-10T13:00:00.000Z",
+          "data": "2026-10-10T13:00:00Z",
           "local": "Casa",
           "adversario": "Cesena",
           "gols_pro": 2,
@@ -1537,7 +1537,7 @@
         },
         {
           "rodada": 6,
-          "data": "2026-10-10T13:00:00.000Z",
+          "data": "2026-10-10T13:00:00Z",
           "local": "Casa",
           "adversario": "Palermo",
           "gols_pro": 2,
@@ -1688,7 +1688,7 @@
         },
         {
           "rodada": 6,
-          "data": "2026-10-10T17:30:00.000Z",
+          "data": "2026-10-10T17:30:00Z",
           "local": "Fora",
           "adversario": "Arezzo",
           "gols_pro": 0,
@@ -1970,49 +1970,49 @@
         },
         {
           "rodada": 6,
-          "data": "2026-10-10T13:00:00.000Z",
+          "data": "2026-10-10T13:00:00Z",
           "local": "Fora",
           "adversario": "Südtirol",
           "gols_pro": 0,
           "gols_contra": 0,
           "placar": "0 x 0",
-          "xg": 0.65,
-          "xga": 1.08,
-          "xgd": -0.43,
+          "xg": 0.58,
+          "xga": 1.02,
+          "xgd": -0.44,
           "posse": 58,
           "chutes": 9,
           "chutes_no_gol": 2,
           "escanteios": 5,
-          "desarmes": 15,
-          "xg_movel_5": 1.53,
-          "xga_movel_5": 0.97,
+          "desarmes": 17,
+          "xg_movel_5": 1.52,
+          "xga_movel_5": 0.96,
           "xgd_movel_5": 0.56
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Estável",
-          "variacao": 4.1,
-          "temporada": 1.47,
-          "ultimos_5": 1.53
+          "variacao": 4,
+          "temporada": 1.46,
+          "ultimos_5": 1.52
         },
         "defesa": {
           "status": "Melhorando",
-          "variacao": 25.9,
-          "temporada": 1.31,
-          "ultimos_5": 0.97
+          "variacao": 26.2,
+          "temporada": 1.3,
+          "ultimos_5": 0.96
         },
         "equilibrio": {
           "status": "Melhorando",
-          "variacao": 246.4,
+          "variacao": 248.8,
           "temporada": 0.16,
           "ultimos_5": 0.56
         }
       },
       "resumo": {
         "jogos": 6,
-        "xg_medio": 1.47,
-        "xga_medio": 1.31,
+        "xg_medio": 1.46,
+        "xga_medio": 1.3,
         "xgd_medio": 0.16
       }
     },
@@ -2121,7 +2121,7 @@
         },
         {
           "rodada": 6,
-          "data": "2026-10-10T15:15:00.000Z",
+          "data": "2026-10-10T15:15:00Z",
           "local": "Fora",
           "adversario": "LR Vicenza",
           "gols_pro": 3,
@@ -2403,7 +2403,7 @@
         },
         {
           "rodada": 6,
-          "data": "2026-10-10T13:00:00.000Z",
+          "data": "2026-10-10T13:00:00Z",
           "local": "Fora",
           "adversario": "Benevento",
           "gols_pro": 0,
@@ -2705,7 +2705,7 @@
         },
         {
           "rodada": 6,
-          "data": "2026-10-10T13:00:00.000Z",
+          "data": "2026-10-10T13:00:00Z",
           "local": "Fora",
           "adversario": "Empoli",
           "gols_pro": 4,
@@ -2856,7 +2856,7 @@
         },
         {
           "rodada": 6,
-          "data": "2026-10-10T13:00:00.000Z",
+          "data": "2026-10-10T13:00:00Z",
           "local": "Fora",
           "adversario": "Virtus Entella",
           "gols_pro": 1,

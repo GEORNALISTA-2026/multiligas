@@ -1,6 +1,6 @@
 {
   "season": "2026/2027",
-  "updated_at": "2026-10-10T19:55:49.889Z",
+  "updated_at": "2026-10-11T06:49:28.576Z",
   "teams": {
     "Lausanne": {
       "team": "Lausanne",
@@ -609,7 +609,7 @@
         },
         {
           "rodada": 10,
-          "data": "2026-10-10T16:00:00.000Z",
+          "data": "2026-10-10T16:00:00Z",
           "local": "Casa",
           "adversario": "Sion",
           "gols_pro": 3,
@@ -1051,7 +1051,7 @@
         },
         {
           "rodada": 10,
-          "data": "2026-10-10T16:00:00.000Z",
+          "data": "2026-10-10T16:00:00Z",
           "local": "Fora",
           "adversario": "Lugano",
           "gols_pro": 0,
@@ -1282,7 +1282,7 @@
         },
         {
           "rodada": 10,
-          "data": "2026-10-10T16:00:00.000Z",
+          "data": "2026-10-10T16:00:00Z",
           "local": "Fora",
           "adversario": "FC Zürich",
           "gols_pro": 2,
@@ -1724,7 +1724,7 @@
         },
         {
           "rodada": 10,
-          "data": "2026-10-10T16:00:00.000Z",
+          "data": "2026-10-10T16:00:00Z",
           "local": "Fora",
           "adversario": "Servette",
           "gols_pro": 0,
@@ -1955,7 +1955,7 @@
         },
         {
           "rodada": 10,
-          "data": "2026-10-10T16:00:00.000Z",
+          "data": "2026-10-10T16:00:00Z",
           "local": "Casa",
           "adversario": "Luzern",
           "gols_pro": 4,
@@ -2608,7 +2608,7 @@
         },
         {
           "rodada": 10,
-          "data": "2026-10-10T16:00:00.000Z",
+          "data": "2026-10-10T16:00:00Z",
           "local": "Casa",
           "adversario": "Thun",
           "gols_pro": 4,

@@ -1,6 +1,6 @@
 {
   "season": "2026/2027",
-  "updated_at": "2026-10-10T19:50:41.341Z",
+  "updated_at": "2026-10-11T06:43:04.719Z",
   "teams": {
     "Boulogne": {
       "team": "Boulogne",
@@ -529,7 +529,7 @@
         },
         {
           "rodada": 8,
-          "data": "2026-10-10T12:00:00.000Z",
+          "data": "2026-10-10T12:00:00Z",
           "local": "Casa",
           "adversario": "Red Star",
           "gols_pro": 2,
@@ -720,7 +720,7 @@
         },
         {
           "rodada": 8,
-          "data": "2026-10-10T12:00:00.000Z",
+          "data": "2026-10-10T12:00:00Z",
           "local": "Fora",
           "adversario": "Nantes",
           "gols_pro": 0,
@@ -2017,7 +2017,7 @@
         },
         {
           "rodada": 8,
-          "data": "2026-10-10T12:00:00.000Z",
+          "data": "2026-10-10T12:00:00Z",
           "local": "Casa",
           "adversario": "Reims",
           "gols_pro": 0,
@@ -2208,7 +2208,7 @@
         },
         {
           "rodada": 8,
-          "data": "2026-10-10T12:00:00.000Z",
+          "data": "2026-10-10T12:00:00Z",
           "local": "Fora",
           "adversario": "Clermont Foot",
           "gols_pro": 3,
@@ -2781,50 +2781,50 @@
         },
         {
           "rodada": 8,
-          "data": "2026-10-10T18:00:00.000Z",
+          "data": "2026-10-10T18:00:00Z",
           "local": "Fora",
           "adversario": "Saint-Étienne",
           "gols_pro": 0,
           "gols_contra": 2,
           "placar": "0 x 2",
-          "xg": 0,
-          "xga": 0,
-          "xgd": 0,
-          "posse": null,
-          "chutes": null,
-          "chutes_no_gol": null,
-          "escanteios": null,
-          "desarmes": null,
-          "xg_movel_5": 1,
-          "xga_movel_5": 1.74,
-          "xgd_movel_5": -0.74
+          "xg": 0.74,
+          "xga": 1.6,
+          "xgd": -0.86,
+          "posse": 38,
+          "chutes": 10,
+          "chutes_no_gol": 4,
+          "escanteios": 6,
+          "desarmes": 6,
+          "xg_movel_5": 1.15,
+          "xga_movel_5": 2.06,
+          "xgd_movel_5": -0.91
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Piorando",
-          "variacao": -22.4,
-          "temporada": 1.29,
-          "ultimos_5": 1
+          "variacao": -16.9,
+          "temporada": 1.38,
+          "ultimos_5": 1.15
         },
         "defesa": {
           "status": "Estável",
-          "variacao": 2,
-          "temporada": 1.77,
-          "ultimos_5": 1.74
+          "variacao": -4.3,
+          "temporada": 1.97,
+          "ultimos_5": 2.06
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -51.8,
-          "temporada": -0.49,
-          "ultimos_5": -0.74
+          "variacao": -53.3,
+          "temporada": -0.59,
+          "ultimos_5": -0.91
         }
       },
       "resumo": {
         "jogos": 8,
-        "xg_medio": 1.29,
-        "xga_medio": 1.77,
-        "xgd_medio": -0.49
+        "xg_medio": 1.38,
+        "xga_medio": 1.97,
+        "xgd_medio": -0.59
       }
     },
     "Laval": {
@@ -3354,50 +3354,50 @@
         },
         {
           "rodada": 8,
-          "data": "2026-10-10T18:00:00.000Z",
+          "data": "2026-10-10T18:00:00Z",
           "local": "Casa",
           "adversario": "Rodez",
           "gols_pro": 2,
           "gols_contra": 0,
           "placar": "2 x 0",
-          "xg": 0,
-          "xga": 0,
-          "xgd": 0,
-          "posse": null,
-          "chutes": null,
-          "chutes_no_gol": null,
-          "escanteios": null,
-          "desarmes": null,
-          "xg_movel_5": 1.55,
-          "xga_movel_5": 0.8,
-          "xgd_movel_5": 0.75
+          "xg": 1.6,
+          "xga": 0.74,
+          "xgd": 0.86,
+          "posse": 62,
+          "chutes": 10,
+          "chutes_no_gol": 4,
+          "escanteios": 1,
+          "desarmes": 18,
+          "xg_movel_5": 1.87,
+          "xga_movel_5": 0.95,
+          "xgd_movel_5": 0.93
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Piorando",
-          "variacao": -18.7,
-          "temporada": 1.91,
-          "ultimos_5": 1.55
+          "variacao": -11.3,
+          "temporada": 2.11,
+          "ultimos_5": 1.87
         },
         "defesa": {
           "status": "Piorando",
-          "variacao": -17.6,
-          "temporada": 0.68,
-          "ultimos_5": 0.8
+          "variacao": -22.7,
+          "temporada": 0.77,
+          "ultimos_5": 0.95
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -38.8,
-          "temporada": 1.23,
-          "ultimos_5": 0.75
+          "variacao": -30.9,
+          "temporada": 1.34,
+          "ultimos_5": 0.93
         }
       },
       "resumo": {
         "jogos": 8,
-        "xg_medio": 1.91,
-        "xga_medio": 0.68,
-        "xgd_medio": 1.23
+        "xg_medio": 2.11,
+        "xga_medio": 0.77,
+        "xgd_medio": 1.34
       }
     }
   }

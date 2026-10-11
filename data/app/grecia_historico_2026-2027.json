@@ -1,6 +1,6 @@
 {
   "season": "2026/2027",
-  "updated_at": "2026-10-10T19:53:48.696Z",
+  "updated_at": "2026-10-11T06:47:02.331Z",
   "teams": {
     "AEK Athens": {
       "team": "AEK Athens",
@@ -107,7 +107,7 @@
         },
         {
           "rodada": 6,
-          "data": "2026-10-10T16:30:00.000Z",
+          "data": "2026-10-10T16:30:00Z",
           "local": "Casa",
           "adversario": "OFI Crete",
           "gols_pro": 3,
@@ -782,7 +782,7 @@
         },
         {
           "rodada": 6,
-          "data": "2026-10-10T16:30:00.000Z",
+          "data": "2026-10-10T16:30:00Z",
           "local": "Fora",
           "adversario": "Asteras Tripolis",
           "gols_pro": 1,
@@ -933,7 +933,7 @@
         },
         {
           "rodada": 6,
-          "data": "2026-10-10T16:30:00.000Z",
+          "data": "2026-10-10T16:30:00Z",
           "local": "Fora",
           "adversario": "AEK Athens",
           "gols_pro": 0,
@@ -1608,7 +1608,7 @@
         },
         {
           "rodada": 6,
-          "data": "2026-10-10T16:30:00.000Z",
+          "data": "2026-10-10T16:30:00Z",
           "local": "Casa",
           "adversario": "Atromitos",
           "gols_pro": 2,

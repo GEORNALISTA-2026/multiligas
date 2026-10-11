@@ -1,6 +1,6 @@
 {
   "season": "2026",
-  "updated_at": "2026-10-10T19:55:26.492Z",
+  "updated_at": "2026-10-11T06:49:01.726Z",
   "teams": {
     "Hamarkameratene": {
       "team": "Hamarkameratene",
@@ -1800,7 +1800,7 @@
         },
         {
           "rodada": 23,
-          "data": "2026-10-10T16:00:00.000Z",
+          "data": "2026-10-10T16:00:00Z",
           "local": "Casa",
           "adversario": "Sandefjord",
           "gols_pro": 1,
@@ -2271,7 +2271,7 @@
         },
         {
           "rodada": 23,
-          "data": "2026-10-10T14:00:00.000Z",
+          "data": "2026-10-10T14:00:00Z",
           "local": "Fora",
           "adversario": "Bodø/Glimt",
           "gols_pro": 1,
@@ -5468,7 +5468,7 @@
         },
         {
           "rodada": 23,
-          "data": "2026-10-10T16:00:00.000Z",
+          "data": "2026-10-10T16:00:00Z",
           "local": "Fora",
           "adversario": "Rosenborg",
           "gols_pro": 1,
@@ -7292,7 +7292,7 @@
         },
         {
           "rodada": 23,
-          "data": "2026-10-10T14:00:00.000Z",
+          "data": "2026-10-10T14:00:00Z",
           "local": "Casa",
           "adversario": "Kristiansund",
           "gols_pro": 3,

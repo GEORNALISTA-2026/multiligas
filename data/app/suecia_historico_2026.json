@@ -1,6 +1,6 @@
 {
   "season": "2026",
-  "updated_at": "2026-10-10T19:56:55.805Z",
+  "updated_at": "2026-10-11T06:50:42.627Z",
   "teams": {
     "Degerfors": {
       "team": "Degerfors",
@@ -447,7 +447,7 @@
         },
         {
           "rodada": 23,
-          "data": "2026-10-10T15:30:00.000Z",
+          "data": "2026-10-10T15:30:00Z",
           "local": "Fora",
           "adversario": "Mjällby",
           "gols_pro": 1,
@@ -938,7 +938,7 @@
         },
         {
           "rodada": 23,
-          "data": "2026-10-10T13:00:00.000Z",
+          "data": "2026-10-10T13:00:00Z",
           "local": "Fora",
           "adversario": "GAIS",
           "gols_pro": 1,
@@ -1900,7 +1900,7 @@
         },
         {
           "rodada": 23,
-          "data": "2026-10-10T15:30:00.000Z",
+          "data": "2026-10-10T15:30:00Z",
           "local": "Casa",
           "adversario": "Degerfors",
           "gols_pro": 1,
@@ -2391,7 +2391,7 @@
         },
         {
           "rodada": 23,
-          "data": "2026-10-10T13:00:00.000Z",
+          "data": "2026-10-10T13:00:00Z",
           "local": "Casa",
           "adversario": "Brommapojkarna",
           "gols_pro": 5,
@@ -6690,7 +6690,7 @@
         },
         {
           "rodada": 23,
-          "data": "2026-10-10T13:00:00.000Z",
+          "data": "2026-10-10T13:00:00Z",
           "local": "Fora",
           "adversario": "AIK",
           "gols_pro": 6,
@@ -7181,7 +7181,7 @@
         },
         {
           "rodada": 23,
-          "data": "2026-10-10T13:00:00.000Z",
+          "data": "2026-10-10T13:00:00Z",
           "local": "Casa",
           "adversario": "Sirius",
           "gols_pro": 0,

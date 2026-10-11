@@ -1,6 +1,6 @@
 {
   "season": "2026/2027",
-  "updated_at": "2026-10-10T19:54:04.385Z",
+  "updated_at": "2026-10-11T06:47:23.034Z",
   "teams": {
     "Dundee United": {
       "team": "Dundee United",
@@ -147,7 +147,7 @@
         },
         {
           "rodada": 8,
-          "data": "2026-10-10T14:00:00.000Z",
+          "data": "2026-10-10T14:00:00Z",
           "local": "Casa",
           "adversario": "Hibernian",
           "gols_pro": 1,
@@ -338,7 +338,7 @@
         },
         {
           "rodada": 8,
-          "data": "2026-10-10T14:00:00.000Z",
+          "data": "2026-10-10T14:00:00Z",
           "local": "Casa",
           "adversario": "Kilmarnock",
           "gols_pro": 3,
@@ -529,7 +529,7 @@
         },
         {
           "rodada": 8,
-          "data": "2026-10-10T14:00:00.000Z",
+          "data": "2026-10-10T14:00:00Z",
           "local": "Casa",
           "adversario": "Dundee FC",
           "gols_pro": 1,
@@ -720,7 +720,7 @@
         },
         {
           "rodada": 8,
-          "data": "2026-10-10T14:00:00.000Z",
+          "data": "2026-10-10T14:00:00Z",
           "local": "Fora",
           "adversario": "Heart of Midlothian",
           "gols_pro": 0,
@@ -1082,7 +1082,7 @@
         },
         {
           "rodada": 8,
-          "data": "2026-10-10T14:00:00.000Z",
+          "data": "2026-10-10T14:00:00Z",
           "local": "Casa",
           "adversario": "St. Mirren",
           "gols_pro": 5,
@@ -1444,7 +1444,7 @@
         },
         {
           "rodada": 8,
-          "data": "2026-10-10T14:00:00.000Z",
+          "data": "2026-10-10T14:00:00Z",
           "local": "Fora",
           "adversario": "Rangers",
           "gols_pro": 1,
@@ -1635,7 +1635,7 @@
         },
         {
           "rodada": 8,
-          "data": "2026-10-10T14:00:00.000Z",
+          "data": "2026-10-10T14:00:00Z",
           "local": "Fora",
           "adversario": "Dundee United",
           "gols_pro": 0,
@@ -2168,7 +2168,7 @@
         },
         {
           "rodada": 8,
-          "data": "2026-10-10T14:00:00.000Z",
+          "data": "2026-10-10T14:00:00Z",
           "local": "Fora",
           "adversario": "Falkirk",
           "gols_pro": 2,
