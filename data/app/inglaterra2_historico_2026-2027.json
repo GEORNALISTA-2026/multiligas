@@ -1,6 +1,6 @@
 {
   "season": "2026/2027",
-  "updated_at": "2026-10-11T06:44:52.969Z",
+  "updated_at": "2026-10-12T06:51:32.717Z",
   "teams": {
     "Wolverhampton Wanderers": {
       "team": "Wolverhampton Wanderers",
@@ -2656,33 +2656,53 @@
           "xg_movel_5": 1.26,
           "xga_movel_5": 0.8,
           "xgd_movel_5": 0.46
+        },
+        {
+          "rodada": 9,
+          "data": "2026-10-11T11:00:00Z",
+          "local": "Fora",
+          "adversario": "Southampton",
+          "gols_pro": 0,
+          "gols_contra": 1,
+          "placar": "0 x 1",
+          "xg": 1.18,
+          "xga": 1.28,
+          "xgd": -0.1,
+          "posse": 49,
+          "chutes": 16,
+          "chutes_no_gol": 3,
+          "escanteios": 4,
+          "desarmes": 9,
+          "xg_movel_5": 1.22,
+          "xga_movel_5": 0.93,
+          "xgd_movel_5": 0.28
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Piorando",
-          "variacao": -9,
-          "temporada": 1.38,
-          "ultimos_5": 1.26
+          "variacao": -10.1,
+          "temporada": 1.36,
+          "ultimos_5": 1.22
         },
         "defesa": {
           "status": "Melhorando",
-          "variacao": 33.3,
-          "temporada": 1.2,
-          "ultimos_5": 0.8
+          "variacao": 22.7,
+          "temporada": 1.21,
+          "ultimos_5": 0.93
         },
         "equilibrio": {
           "status": "Melhorando",
-          "variacao": 151.3,
-          "temporada": 0.18,
-          "ultimos_5": 0.46
+          "variacao": 94.2,
+          "temporada": 0.15,
+          "ultimos_5": 0.28
         }
       },
       "resumo": {
-        "jogos": 7,
-        "xg_medio": 1.38,
-        "xga_medio": 1.2,
-        "xgd_medio": 0.18
+        "jogos": 8,
+        "xg_medio": 1.36,
+        "xga_medio": 1.21,
+        "xgd_medio": 0.15
       }
     },
     "Queens Park Rangers": {
@@ -4113,33 +4133,53 @@
           "xg_movel_5": 1.38,
           "xga_movel_5": 1.5,
           "xgd_movel_5": -0.11
+        },
+        {
+          "rodada": 9,
+          "data": "2026-10-11T11:00:00Z",
+          "local": "Casa",
+          "adversario": "Portsmouth",
+          "gols_pro": 1,
+          "gols_contra": 0,
+          "placar": "1 x 0",
+          "xg": 1.28,
+          "xga": 1.18,
+          "xgd": 0.1,
+          "posse": 51,
+          "chutes": 7,
+          "chutes_no_gol": 3,
+          "escanteios": 2,
+          "desarmes": 11,
+          "xg_movel_5": 1.44,
+          "xga_movel_5": 1.42,
+          "xgd_movel_5": 0.01
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Piorando",
-          "variacao": -24,
-          "temporada": 1.82,
-          "ultimos_5": 1.38
+          "variacao": -18.5,
+          "temporada": 1.76,
+          "ultimos_5": 1.44
         },
         "defesa": {
           "status": "Piorando",
-          "variacao": -13.2,
-          "temporada": 1.32,
-          "ultimos_5": 1.5
+          "variacao": -8.9,
+          "temporada": 1.31,
+          "ultimos_5": 1.42
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -122.4,
-          "temporada": 0.5,
-          "ultimos_5": -0.11
+          "variacao": -96.9,
+          "temporada": 0.46,
+          "ultimos_5": 0.01
         }
       },
       "resumo": {
-        "jogos": 8,
-        "xg_medio": 1.82,
-        "xga_medio": 1.32,
-        "xgd_medio": 0.5
+        "jogos": 9,
+        "xg_medio": 1.76,
+        "xga_medio": 1.31,
+        "xgd_medio": 0.46
       }
     },
     "Burnley": {

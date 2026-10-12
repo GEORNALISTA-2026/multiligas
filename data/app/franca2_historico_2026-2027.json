@@ -1,6 +1,6 @@
 {
   "season": "2026/2027",
-  "updated_at": "2026-10-11T06:43:04.719Z",
+  "updated_at": "2026-10-12T06:49:48.235Z",
   "teams": {
     "Boulogne": {
       "team": "Boulogne",
@@ -3367,7 +3367,7 @@
           "chutes": 10,
           "chutes_no_gol": 4,
           "escanteios": 1,
-          "desarmes": 18,
+          "desarmes": 17,
           "xg_movel_5": 1.87,
           "xga_movel_5": 0.95,
           "xgd_movel_5": 0.93
