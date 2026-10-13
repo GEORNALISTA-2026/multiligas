@@ -1,6 +1,6 @@
 {
   "season": "2026/2027",
-  "updated_at": "2026-10-12T06:47:30.347Z",
+  "updated_at": "2026-10-13T06:47:53.750Z",
   "league": {
     "name": "Alemanha",
     "season": "2026/2027",
@@ -97,10 +97,10 @@
       "touches_opp_box_conceded_avg": 56.58,
       "offsides_sum": 151,
       "offsides_avg": 3.36,
-      "big_chances_sum": 282,
-      "big_chances_avg": 6.27,
-      "big_chances_missed_sum": 176,
-      "big_chances_missed_avg": 3.91,
+      "big_chances_sum": 279,
+      "big_chances_avg": 6.2,
+      "big_chances_missed_sum": 173,
+      "big_chances_missed_avg": 3.84,
       "tackles_sum": 1439,
       "tackles_avg": 31.98,
       "interceptions_sum": 928,
@@ -1769,10 +1769,10 @@
         "touches_opp_box_conceded_avg": 27.4,
         "offsides_sum": 3,
         "offsides_avg": 0.6,
-        "big_chances_sum": 15,
-        "big_chances_avg": 3,
-        "big_chances_missed_sum": 12,
-        "big_chances_missed_avg": 2.4,
+        "big_chances_sum": 14,
+        "big_chances_avg": 2.8,
+        "big_chances_missed_sum": 11,
+        "big_chances_missed_avg": 2.2,
         "tackles_sum": 67,
         "tackles_avg": 13.4,
         "interceptions_sum": 43,
@@ -1896,10 +1896,10 @@
         "touches_opp_box_conceded_avg": 28.33,
         "offsides_sum": 2,
         "offsides_avg": 0.67,
-        "big_chances_sum": 8,
-        "big_chances_avg": 2.67,
-        "big_chances_missed_sum": 6,
-        "big_chances_missed_avg": 2,
+        "big_chances_sum": 7,
+        "big_chances_avg": 2.33,
+        "big_chances_missed_sum": 5,
+        "big_chances_missed_avg": 1.67,
         "tackles_sum": 51,
         "tackles_avg": 17,
         "interceptions_sum": 27,
@@ -2539,10 +2539,10 @@
         "touches_opp_box_conceded_avg": 23,
         "offsides_sum": 5,
         "offsides_avg": 1,
-        "big_chances_sum": 20,
-        "big_chances_avg": 4,
-        "big_chances_missed_sum": 11,
-        "big_chances_missed_avg": 2.2,
+        "big_chances_sum": 19,
+        "big_chances_avg": 3.8,
+        "big_chances_missed_sum": 10,
+        "big_chances_missed_avg": 2,
         "tackles_sum": 86,
         "tackles_avg": 17.2,
         "interceptions_sum": 61,
@@ -2666,10 +2666,10 @@
         "touches_opp_box_conceded_avg": 23,
         "offsides_sum": 2,
         "offsides_avg": 0.67,
-        "big_chances_sum": 10,
-        "big_chances_avg": 3.33,
-        "big_chances_missed_sum": 8,
-        "big_chances_missed_avg": 2.67,
+        "big_chances_sum": 9,
+        "big_chances_avg": 3,
+        "big_chances_missed_sum": 7,
+        "big_chances_missed_avg": 2.33,
         "tackles_sum": 57,
         "tackles_avg": 19,
         "interceptions_sum": 39,
@@ -4464,10 +4464,10 @@
         "touches_opp_box_conceded_avg": 28.2,
         "offsides_sum": 11,
         "offsides_avg": 2.2,
-        "big_chances_sum": 19,
-        "big_chances_avg": 3.8,
-        "big_chances_missed_sum": 10,
-        "big_chances_missed_avg": 2,
+        "big_chances_sum": 18,
+        "big_chances_avg": 3.6,
+        "big_chances_missed_sum": 9,
+        "big_chances_missed_avg": 1.8,
         "tackles_sum": 81,
         "tackles_avg": 16.2,
         "interceptions_sum": 60,
@@ -4718,10 +4718,10 @@
         "touches_opp_box_conceded_avg": 33,
         "offsides_sum": 7,
         "offsides_avg": 2.33,
-        "big_chances_sum": 12,
-        "big_chances_avg": 4,
-        "big_chances_missed_sum": 6,
-        "big_chances_missed_avg": 2,
+        "big_chances_sum": 11,
+        "big_chances_avg": 3.67,
+        "big_chances_missed_sum": 5,
+        "big_chances_missed_avg": 1.67,
         "tackles_sum": 54,
         "tackles_avg": 18,
         "interceptions_sum": 37,
@@ -8413,19 +8413,19 @@
         "value": 4
       },
       {
-        "team": "Mainz 05",
-        "value": 4
-      },
-      {
         "team": "RB Leipzig",
         "value": 4
       },
       {
-        "team": "Eintracht Frankfurt",
+        "team": "Mainz 05",
         "value": 3.8
       },
       {
         "team": "Hoffenheim",
+        "value": 3.6
+      },
+      {
+        "team": "Eintracht Frankfurt",
         "value": 3.6
       },
       {
@@ -8437,12 +8437,12 @@
         "value": 3.4
       },
       {
-        "team": "1. FC Köln",
+        "team": "Augsburg",
         "value": 3
       },
       {
-        "team": "Augsburg",
-        "value": 3
+        "team": "1. FC Köln",
+        "value": 2.8
       },
       {
         "team": "Werder Bremen",

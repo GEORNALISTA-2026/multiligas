@@ -1,6 +1,6 @@
 {
   "season": "2026/2027",
-  "updated_at": "2026-10-12T06:50:52.433Z",
+  "updated_at": "2026-10-13T06:52:46.528Z",
   "teams": {
     "Arsenal": {
       "team": "Arsenal",
@@ -255,33 +255,53 @@
           "xg_movel_5": 0.97,
           "xga_movel_5": 1.73,
           "xgd_movel_5": -0.75
+        },
+        {
+          "rodada": 6,
+          "data": "2026-10-12T19:00:00Z",
+          "local": "Casa",
+          "adversario": "Newcastle United",
+          "gols_pro": 4,
+          "gols_contra": 1,
+          "placar": "4 x 1",
+          "xg": 1.47,
+          "xga": 1.84,
+          "xgd": -0.37,
+          "posse": 33,
+          "chutes": 9,
+          "chutes_no_gol": 6,
+          "escanteios": 2,
+          "desarmes": 13,
+          "xg_movel_5": 1.23,
+          "xga_movel_5": 1.72,
+          "xgd_movel_5": -0.49
         }
       ],
       "tendencia": {
         "ataque": {
-          "status": "Estável",
-          "variacao": 0,
-          "temporada": 0.97,
-          "ultimos_5": 0.97
+          "status": "Melhorando",
+          "variacao": 16.2,
+          "temporada": 1.06,
+          "ultimos_5": 1.23
         },
         "defesa": {
           "status": "Estável",
-          "variacao": 0,
-          "temporada": 1.73,
-          "ultimos_5": 1.73
+          "variacao": 1.5,
+          "temporada": 1.75,
+          "ultimos_5": 1.72
         },
         "equilibrio": {
-          "status": "Estável",
-          "variacao": 0,
-          "temporada": -0.75,
-          "ultimos_5": -0.75
+          "status": "Melhorando",
+          "variacao": 28.7,
+          "temporada": -0.69,
+          "ultimos_5": -0.49
         }
       },
       "resumo": {
-        "jogos": 5,
-        "xg_medio": 0.97,
-        "xga_medio": 1.73,
-        "xgd_medio": -0.75
+        "jogos": 6,
+        "xg_medio": 1.06,
+        "xga_medio": 1.75,
+        "xgd_medio": -0.69
       }
     },
     "Hull City": {
@@ -2500,33 +2520,53 @@
           "xg_movel_5": 1.07,
           "xga_movel_5": 1.81,
           "xgd_movel_5": -0.74
+        },
+        {
+          "rodada": 6,
+          "data": "2026-10-12T19:00:00Z",
+          "local": "Fora",
+          "adversario": "Coventry City",
+          "gols_pro": 1,
+          "gols_contra": 4,
+          "placar": "1 x 4",
+          "xg": 1.84,
+          "xga": 1.47,
+          "xgd": 0.37,
+          "posse": 67,
+          "chutes": 19,
+          "chutes_no_gol": 6,
+          "escanteios": 6,
+          "desarmes": 14,
+          "xg_movel_5": 1.12,
+          "xga_movel_5": 1.51,
+          "xgd_movel_5": -0.39
         }
       ],
       "tendencia": {
         "ataque": {
-          "status": "Estável",
-          "variacao": 0,
-          "temporada": 1.07,
-          "ultimos_5": 1.07
+          "status": "Piorando",
+          "variacao": -6.4,
+          "temporada": 1.2,
+          "ultimos_5": 1.12
         },
         "defesa": {
-          "status": "Estável",
-          "variacao": 0,
-          "temporada": 1.81,
-          "ultimos_5": 1.81
+          "status": "Melhorando",
+          "variacao": 14,
+          "temporada": 1.75,
+          "ultimos_5": 1.51
         },
         "equilibrio": {
-          "status": "Estável",
-          "variacao": 0,
-          "temporada": -0.74,
-          "ultimos_5": -0.74
+          "status": "Melhorando",
+          "variacao": 30.1,
+          "temporada": -0.56,
+          "ultimos_5": -0.39
         }
       },
       "resumo": {
-        "jogos": 5,
-        "xg_medio": 1.07,
-        "xga_medio": 1.81,
-        "xgd_medio": -0.74
+        "jogos": 6,
+        "xg_medio": 1.2,
+        "xga_medio": 1.75,
+        "xgd_medio": -0.56
       }
     },
     "Liverpool": {

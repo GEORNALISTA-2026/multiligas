@@ -1,6 +1,6 @@
 {
   "season": "2026/2027",
-  "updated_at": "2026-10-12T06:48:24.222Z",
+  "updated_at": "2026-10-13T06:49:07.575Z",
   "teams": {
     "Deportivo Alavés": {
       "team": "Deportivo Alavés",
@@ -526,33 +526,53 @@
           "xg_movel_5": 0.7,
           "xga_movel_5": 1.17,
           "xgd_movel_5": -0.48
+        },
+        {
+          "rodada": 8,
+          "data": "2026-10-12T19:00:00Z",
+          "local": "Fora",
+          "adversario": "Levante",
+          "gols_pro": 3,
+          "gols_contra": 3,
+          "placar": "3 x 3",
+          "xg": 2.2,
+          "xga": 1.82,
+          "xgd": 0.38,
+          "posse": 43,
+          "chutes": 18,
+          "chutes_no_gol": 5,
+          "escanteios": 2,
+          "desarmes": 22,
+          "xg_movel_5": 0.96,
+          "xga_movel_5": 1.35,
+          "xgd_movel_5": -0.39
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Piorando",
-          "variacao": -29.6,
-          "temporada": 0.99,
-          "ultimos_5": 0.7
+          "variacao": -16.1,
+          "temporada": 1.14,
+          "ultimos_5": 0.96
         },
         "defesa": {
-          "status": "Melhorando",
-          "variacao": 10,
-          "temporada": 1.3,
-          "ultimos_5": 1.17
+          "status": "Estável",
+          "variacao": 1.2,
+          "temporada": 1.37,
+          "ultimos_5": 1.35
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -52.1,
-          "temporada": -0.31,
-          "ultimos_5": -0.48
+          "variacao": -74.1,
+          "temporada": -0.23,
+          "ultimos_5": -0.39
         }
       },
       "resumo": {
-        "jogos": 7,
-        "xg_medio": 0.99,
-        "xga_medio": 1.3,
-        "xgd_medio": -0.31
+        "jogos": 8,
+        "xg_medio": 1.14,
+        "xga_medio": 1.37,
+        "xgd_medio": -0.23
       }
     },
     "Rayo Vallecano": {
@@ -877,44 +897,44 @@
           "gols_pro": 2,
           "gols_contra": 2,
           "placar": "2 x 2",
-          "xg": 1.31,
-          "xga": 1.7,
-          "xgd": -0.39,
+          "xg": 1.28,
+          "xga": 1.8,
+          "xgd": -0.52,
           "posse": 54,
           "chutes": 20,
           "chutes_no_gol": 11,
           "escanteios": 8,
           "desarmes": 15,
-          "xg_movel_5": 1.31,
-          "xga_movel_5": 2.83,
-          "xgd_movel_5": -1.53
+          "xg_movel_5": 1.3,
+          "xga_movel_5": 2.85,
+          "xgd_movel_5": -1.55
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Piorando",
-          "variacao": -8.6,
+          "variacao": -8.8,
           "temporada": 1.43,
-          "ultimos_5": 1.31
+          "ultimos_5": 1.3
         },
         "defesa": {
           "status": "Piorando",
-          "variacao": -32.5,
-          "temporada": 2.14,
-          "ultimos_5": 2.83
+          "variacao": -32.7,
+          "temporada": 2.15,
+          "ultimos_5": 2.85
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -115.2,
-          "temporada": -0.71,
-          "ultimos_5": -1.53
+          "variacao": -114,
+          "temporada": -0.73,
+          "ultimos_5": -1.55
         }
       },
       "resumo": {
         "jogos": 8,
         "xg_medio": 1.43,
-        "xga_medio": 2.14,
-        "xgd_medio": -0.71
+        "xga_medio": 2.15,
+        "xgd_medio": -0.73
       }
     },
     "Villarreal": {
@@ -1421,33 +1441,53 @@
           "xg_movel_5": 1.58,
           "xga_movel_5": 2.21,
           "xgd_movel_5": -0.63
+        },
+        {
+          "rodada": 8,
+          "data": "2026-10-12T19:00:00Z",
+          "local": "Casa",
+          "adversario": "Sevilla",
+          "gols_pro": 3,
+          "gols_contra": 3,
+          "placar": "3 x 3",
+          "xg": 1.82,
+          "xga": 2.2,
+          "xgd": -0.38,
+          "posse": 57,
+          "chutes": 20,
+          "chutes_no_gol": 8,
+          "escanteios": 5,
+          "desarmes": 19,
+          "xg_movel_5": 1.69,
+          "xga_movel_5": 2.51,
+          "xgd_movel_5": -0.83
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Melhorando",
-          "variacao": 17.2,
-          "temporada": 1.35,
-          "ultimos_5": 1.58
+          "variacao": 19.2,
+          "temporada": 1.41,
+          "ultimos_5": 1.69
         },
         "defesa": {
           "status": "Piorando",
-          "variacao": -5.9,
-          "temporada": 2.09,
-          "ultimos_5": 2.21
+          "variacao": -19.4,
+          "temporada": 2.1,
+          "ultimos_5": 2.51
         },
         "equilibrio": {
-          "status": "Melhorando",
-          "variacao": 14.5,
-          "temporada": -0.74,
-          "ultimos_5": -0.63
+          "status": "Piorando",
+          "variacao": -19.7,
+          "temporada": -0.69,
+          "ultimos_5": -0.83
         }
       },
       "resumo": {
-        "jogos": 6,
-        "xg_medio": 1.35,
-        "xga_medio": 2.09,
-        "xgd_medio": -0.74
+        "jogos": 7,
+        "xg_medio": 1.41,
+        "xga_medio": 2.1,
+        "xgd_medio": -0.69
       }
     },
     "Deportivo A Coruña": {
@@ -2898,44 +2938,44 @@
           "gols_pro": 2,
           "gols_contra": 2,
           "placar": "2 x 2",
-          "xg": 1.7,
-          "xga": 1.31,
-          "xgd": 0.39,
+          "xg": 1.8,
+          "xga": 1.28,
+          "xgd": 0.52,
           "posse": 46,
           "chutes": 10,
           "chutes_no_gol": 2,
           "escanteios": 3,
-          "desarmes": 16,
-          "xg_movel_5": 0.97,
+          "desarmes": 15,
+          "xg_movel_5": 0.99,
           "xga_movel_5": 2.01,
-          "xgd_movel_5": -1.05
+          "xgd_movel_5": -1.02
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Estável",
-          "variacao": -3.9,
-          "temporada": 1.01,
-          "ultimos_5": 0.97
+          "variacao": -3.1,
+          "temporada": 1.02,
+          "ultimos_5": 0.99
         },
         "defesa": {
           "status": "Piorando",
-          "variacao": -25.7,
+          "variacao": -25.6,
           "temporada": 1.6,
           "ultimos_5": 2.01
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -75.8,
-          "temporada": -0.59,
-          "ultimos_5": -1.05
+          "variacao": -76.2,
+          "temporada": -0.58,
+          "ultimos_5": -1.02
         }
       },
       "resumo": {
         "jogos": 8,
-        "xg_medio": 1.01,
+        "xg_medio": 1.02,
         "xga_medio": 1.6,
-        "xgd_medio": -0.59
+        "xgd_medio": -0.58
       }
     },
     "Celta Vigo": {

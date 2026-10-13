@@ -1,6 +1,6 @@
 {
   "season": "2026",
-  "updated_at": "2026-10-12T06:55:53.686Z",
+  "updated_at": "2026-10-13T06:59:22.985Z",
   "teams": {
     "Hamarkameratene": {
       "team": "Hamarkameratene",
@@ -4192,33 +4192,53 @@
           "xg_movel_5": 1.28,
           "xga_movel_5": 2.1,
           "xgd_movel_5": -0.82
+        },
+        {
+          "rodada": 23,
+          "data": "2026-10-12T17:00:00Z",
+          "local": "Casa",
+          "adversario": "Vålerenga",
+          "gols_pro": 2,
+          "gols_contra": 1,
+          "placar": "2 x 1",
+          "xg": 2.04,
+          "xga": 1.7,
+          "xgd": 0.34,
+          "posse": 38,
+          "chutes": 13,
+          "chutes_no_gol": 5,
+          "escanteios": 7,
+          "desarmes": 17,
+          "xg_movel_5": 1.39,
+          "xga_movel_5": 1.98,
+          "xgd_movel_5": -0.59
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Melhorando",
-          "variacao": 6.6,
-          "temporada": 1.2,
-          "ultimos_5": 1.28
+          "variacao": 12,
+          "temporada": 1.24,
+          "ultimos_5": 1.39
         },
         "defesa": {
           "status": "Piorando",
-          "variacao": -11.6,
-          "temporada": 1.88,
-          "ultimos_5": 2.1
+          "variacao": -5.6,
+          "temporada": 1.87,
+          "ultimos_5": 1.98
         },
         "equilibrio": {
-          "status": "Piorando",
-          "variacao": -20.6,
-          "temporada": -0.68,
-          "ultimos_5": -0.82
+          "status": "Melhorando",
+          "variacao": 6.9,
+          "temporada": -0.63,
+          "ultimos_5": -0.59
         }
       },
       "resumo": {
-        "jogos": 21,
-        "xg_medio": 1.2,
-        "xga_medio": 1.88,
-        "xgd_medio": -0.68
+        "jogos": 22,
+        "xg_medio": 1.24,
+        "xga_medio": 1.87,
+        "xgd_medio": -0.63
       }
     },
     "Start": {
@@ -5114,33 +5134,53 @@
           "xg_movel_5": 1.97,
           "xga_movel_5": 1.62,
           "xgd_movel_5": 0.36
+        },
+        {
+          "rodada": 23,
+          "data": "2026-10-12T17:00:00Z",
+          "local": "Fora",
+          "adversario": "KFUM",
+          "gols_pro": 1,
+          "gols_contra": 2,
+          "placar": "1 x 2",
+          "xg": 1.7,
+          "xga": 2.04,
+          "xgd": -0.34,
+          "posse": 62,
+          "chutes": 22,
+          "chutes_no_gol": 5,
+          "escanteios": 12,
+          "desarmes": 17,
+          "xg_movel_5": 1.62,
+          "xga_movel_5": 1.5,
+          "xgd_movel_5": 0.12
         }
       ],
       "tendencia": {
         "ataque": {
-          "status": "Melhorando",
-          "variacao": 13.4,
+          "status": "Piorando",
+          "variacao": -6.6,
           "temporada": 1.74,
-          "ultimos_5": 1.97
+          "ultimos_5": 1.62
         },
         "defesa": {
           "status": "Melhorando",
-          "variacao": 12.3,
-          "temporada": 1.84,
-          "ultimos_5": 1.62
+          "variacao": 18.7,
+          "temporada": 1.85,
+          "ultimos_5": 1.5
         },
         "equilibrio": {
           "status": "Melhorando",
-          "variacao": 456.3,
-          "temporada": -0.1,
-          "ultimos_5": 0.36
+          "variacao": 207.8,
+          "temporada": -0.11,
+          "ultimos_5": 0.12
         }
       },
       "resumo": {
-        "jogos": 21,
+        "jogos": 22,
         "xg_medio": 1.74,
-        "xga_medio": 1.84,
-        "xgd_medio": -0.1
+        "xga_medio": 1.85,
+        "xgd_medio": -0.11
       }
     },
     "Sandefjord": {
