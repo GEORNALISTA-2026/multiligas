@@ -1,6 +1,6 @@
 {
   "season": "2026/2027",
-  "updated_at": "2026-10-14T07:07:40.672Z",
+  "updated_at": "2026-10-15T07:07:39.236Z",
   "teams": {
     "Estoril": {
       "team": "Estoril",
@@ -344,31 +344,31 @@
           "gols_pro": 1,
           "gols_contra": 4,
           "placar": "1 x 4",
-          "xg": 0.36,
-          "xga": 2.89,
+          "xg": 0.33,
+          "xga": 2.86,
           "xgd": -2.53,
           "posse": 64,
           "chutes": 13,
           "chutes_no_gol": 2,
           "escanteios": 8,
-          "desarmes": 27,
+          "desarmes": 26,
           "xg_movel_5": 0.81,
-          "xga_movel_5": 1.57,
+          "xga_movel_5": 1.56,
           "xgd_movel_5": -0.76
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Piorando",
-          "variacao": -12.1,
+          "variacao": -12.4,
           "temporada": 0.92,
           "ultimos_5": 0.81
         },
         "defesa": {
           "status": "Estável",
-          "variacao": -4.6,
+          "variacao": -4.5,
           "temporada": 1.5,
-          "ultimos_5": 1.57
+          "ultimos_5": 1.56
         },
         "equilibrio": {
           "status": "Piorando",
@@ -918,16 +918,16 @@
           "gols_contra": 2,
           "placar": "0 x 2",
           "xg": 0.43,
-          "xga": 2.76,
-          "xgd": -2.33,
+          "xga": 2.42,
+          "xgd": -1.99,
           "posse": 38,
           "chutes": 8,
           "chutes_no_gol": 0,
           "escanteios": 6,
           "desarmes": 21,
           "xg_movel_5": 1.34,
-          "xga_movel_5": 1.25,
-          "xgd_movel_5": 0.1
+          "xga_movel_5": 1.18,
+          "xgd_movel_5": 0.17
         }
       ],
       "tendencia": {
@@ -939,22 +939,22 @@
         },
         "defesa": {
           "status": "Piorando",
-          "variacao": -21,
-          "temporada": 1.03,
-          "ultimos_5": 1.25
+          "variacao": -19.3,
+          "temporada": 0.99,
+          "ultimos_5": 1.18
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -83.8,
-          "temporada": 0.61,
-          "ultimos_5": 0.1
+          "variacao": -74.4,
+          "temporada": 0.65,
+          "ultimos_5": 0.17
         }
       },
       "resumo": {
         "jogos": 8,
         "xg_medio": 1.64,
-        "xga_medio": 1.03,
-        "xgd_medio": 0.61
+        "xga_medio": 0.99,
+        "xgd_medio": 0.65
       }
     },
     "Arouca": {
@@ -1872,31 +1872,31 @@
           "gols_pro": 4,
           "gols_contra": 1,
           "placar": "4 x 1",
-          "xg": 2.89,
-          "xga": 0.36,
+          "xg": 2.86,
+          "xga": 0.33,
           "xgd": 2.53,
           "posse": 36,
           "chutes": 14,
           "chutes_no_gol": 5,
           "escanteios": 3,
-          "desarmes": 22,
-          "xg_movel_5": 1.82,
-          "xga_movel_5": 1.39,
+          "desarmes": 24,
+          "xg_movel_5": 1.81,
+          "xga_movel_5": 1.38,
           "xgd_movel_5": 0.43
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Melhorando",
-          "variacao": 13.2,
+          "variacao": 13.1,
           "temporada": 1.6,
-          "ultimos_5": 1.82
+          "ultimos_5": 1.81
         },
         "defesa": {
           "status": "Melhorando",
-          "variacao": 15.8,
+          "variacao": 16,
           "temporada": 1.65,
-          "ultimos_5": 1.39
+          "ultimos_5": 1.38
         },
         "equilibrio": {
           "status": "Melhorando",
@@ -2063,25 +2063,25 @@
           "gols_pro": 2,
           "gols_contra": 0,
           "placar": "2 x 0",
-          "xg": 2.76,
+          "xg": 2.42,
           "xga": 0.43,
-          "xgd": 2.33,
+          "xgd": 1.99,
           "posse": 62,
           "chutes": 23,
           "chutes_no_gol": 5,
           "escanteios": 11,
           "desarmes": 15,
-          "xg_movel_5": 2.03,
+          "xg_movel_5": 1.96,
           "xga_movel_5": 0.81,
-          "xgd_movel_5": 1.22
+          "xgd_movel_5": 1.15
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Piorando",
-          "variacao": -17.8,
-          "temporada": 2.47,
-          "ultimos_5": 2.03
+          "variacao": -19.2,
+          "temporada": 2.42,
+          "ultimos_5": 1.96
         },
         "defesa": {
           "status": "Piorando",
@@ -2091,16 +2091,16 @@
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -30.9,
-          "temporada": 1.76,
-          "ultimos_5": 1.22
+          "variacao": -33.2,
+          "temporada": 1.72,
+          "ultimos_5": 1.15
         }
       },
       "resumo": {
         "jogos": 8,
-        "xg_medio": 2.47,
+        "xg_medio": 2.42,
         "xga_medio": 0.7,
-        "xgd_medio": 1.76
+        "xgd_medio": 1.72
       }
     },
     "Académico Viseu": {

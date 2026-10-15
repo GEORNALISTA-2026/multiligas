@@ -1,6 +1,6 @@
 {
   "season": "2026/2027",
-  "updated_at": "2026-10-14T07:08:26.482Z",
+  "updated_at": "2026-10-15T07:08:26.546Z",
   "teams": {
     "AEK Athens": {
       "team": "AEK Athens",
@@ -415,17 +415,17 @@
           "gols_pro": 3,
           "gols_contra": 1,
           "placar": "3 x 1",
-          "xg": 2.36,
-          "xga": 1.25,
-          "xgd": 1.11,
+          "xg": 2.38,
+          "xga": 1.32,
+          "xgd": 1.06,
           "posse": 39,
           "chutes": 12,
           "chutes_no_gol": 6,
           "escanteios": 2,
-          "desarmes": 18,
-          "xg_movel_5": 1.52,
-          "xga_movel_5": 1.4,
-          "xgd_movel_5": 0.13
+          "desarmes": 19,
+          "xg_movel_5": 1.53,
+          "xga_movel_5": 1.41,
+          "xgd_movel_5": 0.12
         }
       ],
       "tendencia": {
@@ -433,26 +433,26 @@
           "status": "Estável",
           "variacao": 2.4,
           "temporada": 1.49,
-          "ultimos_5": 1.52
+          "ultimos_5": 1.53
         },
         "defesa": {
           "status": "Melhorando",
-          "variacao": 11.6,
-          "temporada": 1.58,
-          "ultimos_5": 1.4
+          "variacao": 11.4,
+          "temporada": 1.59,
+          "ultimos_5": 1.41
         },
         "equilibrio": {
           "status": "Melhorando",
-          "variacao": 235,
-          "temporada": -0.09,
-          "ultimos_5": 0.13
+          "variacao": 214.1,
+          "temporada": -0.1,
+          "ultimos_5": 0.12
         }
       },
       "resumo": {
         "jogos": 6,
         "xg_medio": 1.49,
-        "xga_medio": 1.58,
-        "xgd_medio": -0.09
+        "xga_medio": 1.59,
+        "xgd_medio": -0.1
       }
     },
     "Aris Thessaloniki": {
@@ -1321,44 +1321,44 @@
           "gols_pro": 1,
           "gols_contra": 3,
           "placar": "1 x 3",
-          "xg": 1.25,
-          "xga": 2.36,
-          "xgd": -1.11,
+          "xg": 1.32,
+          "xga": 2.38,
+          "xgd": -1.06,
           "posse": 61,
           "chutes": 19,
           "chutes_no_gol": 5,
           "escanteios": 7,
           "desarmes": 18,
-          "xg_movel_5": 1.8,
+          "xg_movel_5": 1.81,
           "xga_movel_5": 1.55,
-          "xgd_movel_5": 0.25
+          "xgd_movel_5": 0.26
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Estável",
-          "variacao": -3.2,
-          "temporada": 1.86,
-          "ultimos_5": 1.8
+          "variacao": -3,
+          "temporada": 1.87,
+          "ultimos_5": 1.81
         },
         "defesa": {
           "status": "Piorando",
           "variacao": -11.8,
-          "temporada": 1.38,
+          "temporada": 1.39,
           "ultimos_5": 1.55
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -47,
-          "temporada": 0.47,
-          "ultimos_5": 0.25
+          "variacao": -45.8,
+          "temporada": 0.48,
+          "ultimos_5": 0.26
         }
       },
       "resumo": {
         "jogos": 6,
-        "xg_medio": 1.86,
-        "xga_medio": 1.38,
-        "xgd_medio": 0.47
+        "xg_medio": 1.87,
+        "xga_medio": 1.39,
+        "xgd_medio": 0.48
       }
     },
     "Levadiakos": {
