@@ -1,6 +1,6 @@
 {
   "season": "2026/2027",
-  "updated_at": "2026-10-15T07:01:52.892Z",
+  "updated_at": "2026-10-16T07:00:22.551Z",
   "teams": {
     "Bochum": {
       "team": "Bochum",
@@ -1502,16 +1502,16 @@
           "gols_contra": 0,
           "placar": "3 x 0",
           "xg": 1.16,
-          "xga": 1,
-          "xgd": 0.16,
+          "xga": 0.98,
+          "xgd": 0.18,
           "posse": 49,
           "chutes": 19,
           "chutes_no_gol": 8,
           "escanteios": 9,
           "desarmes": 13,
           "xg_movel_5": 0.99,
-          "xga_movel_5": 1.33,
-          "xgd_movel_5": -0.34
+          "xga_movel_5": 1.32,
+          "xgd_movel_5": -0.33
         }
       ],
       "tendencia": {
@@ -1523,22 +1523,22 @@
         },
         "defesa": {
           "status": "Melhorando",
-          "variacao": 19.2,
+          "variacao": 19.3,
           "temporada": 1.64,
-          "ultimos_5": 1.33
+          "ultimos_5": 1.32
         },
         "equilibrio": {
           "status": "Melhorando",
-          "variacao": 26.5,
-          "temporada": -0.46,
-          "ultimos_5": -0.34
+          "variacao": 26.9,
+          "temporada": -0.45,
+          "ultimos_5": -0.33
         }
       },
       "resumo": {
         "jogos": 7,
         "xg_medio": 1.19,
         "xga_medio": 1.64,
-        "xgd_medio": -0.46
+        "xgd_medio": -0.45
       }
     },
     "Eintracht Braunschweig": {
@@ -2356,15 +2356,15 @@
           "gols_pro": 0,
           "gols_contra": 3,
           "placar": "0 x 3",
-          "xg": 1,
+          "xg": 0.98,
           "xga": 1.16,
-          "xgd": -0.16,
+          "xgd": -0.18,
           "posse": 51,
-          "chutes": 16,
+          "chutes": 15,
           "chutes_no_gol": 4,
           "escanteios": 7,
           "desarmes": 18,
-          "xg_movel_5": 1.69,
+          "xg_movel_5": 1.68,
           "xga_movel_5": 1.65,
           "xgd_movel_5": 0.04
         }
@@ -2372,9 +2372,9 @@
       "tendencia": {
         "ataque": {
           "status": "Piorando",
-          "variacao": -8.4,
+          "variacao": -8.5,
           "temporada": 1.84,
-          "ultimos_5": 1.69
+          "ultimos_5": 1.68
         },
         "defesa": {
           "status": "Estável",
@@ -2384,7 +2384,7 @@
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -81.3,
+          "variacao": -83,
           "temporada": 0.21,
           "ultimos_5": 0.04
         }

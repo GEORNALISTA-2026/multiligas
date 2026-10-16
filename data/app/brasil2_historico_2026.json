@@ -1,6 +1,6 @@
 {
   "season": "2026",
-  "updated_at": "2026-10-15T07:01:03.905Z",
+  "updated_at": "2026-10-16T06:59:41.011Z",
   "teams": {
     "Vila Nova": {
       "team": "Vila Nova",
@@ -1329,7 +1329,7 @@
           "xgd": 0.94,
           "posse": 51,
           "chutes": 21,
-          "chutes_no_gol": 8,
+          "chutes_no_gol": 9,
           "escanteios": 10,
           "desarmes": 16,
           "xg_movel_5": 1.89,

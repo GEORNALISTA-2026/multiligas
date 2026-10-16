@@ -1,6 +1,6 @@
 {
   "season": "2026",
-  "updated_at": "2026-10-15T07:12:29.497Z",
+  "updated_at": "2026-10-16T07:09:56.533Z",
   "teams": {
     "Degerfors": {
       "team": "Degerfors",
@@ -2908,44 +2908,44 @@
           "gols_pro": 0,
           "gols_contra": 4,
           "placar": "0 x 4",
-          "xg": 0.29,
-          "xga": 3.24,
-          "xgd": -2.95,
+          "xg": 0.34,
+          "xga": 3.03,
+          "xgd": -2.69,
           "posse": 44,
           "chutes": 9,
           "chutes_no_gol": 2,
           "escanteios": 4,
           "desarmes": 16,
-          "xg_movel_5": 1.18,
-          "xga_movel_5": 1.95,
-          "xgd_movel_5": -0.77
+          "xg_movel_5": 1.19,
+          "xga_movel_5": 1.91,
+          "xgd_movel_5": -0.72
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Melhorando",
-          "variacao": 11.2,
-          "temporada": 1.06,
-          "ultimos_5": 1.18
+          "variacao": 11.9,
+          "temporada": 1.07,
+          "ultimos_5": 1.19
         },
         "defesa": {
           "status": "Melhorando",
-          "variacao": 9.4,
-          "temporada": 2.15,
-          "ultimos_5": 1.95
+          "variacao": 10.9,
+          "temporada": 2.14,
+          "ultimos_5": 1.91
         },
         "equilibrio": {
           "status": "Melhorando",
-          "variacao": 29.4,
-          "temporada": -1.09,
-          "ultimos_5": -0.77
+          "variacao": 33.5,
+          "temporada": -1.08,
+          "ultimos_5": -0.72
         }
       },
       "resumo": {
         "jogos": 23,
-        "xg_medio": 1.06,
-        "xga_medio": 2.15,
-        "xgd_medio": -1.09
+        "xg_medio": 1.07,
+        "xga_medio": 2.14,
+        "xgd_medio": -1.08
       }
     },
     "Kalmar FF": {
@@ -5363,44 +5363,44 @@
           "gols_pro": 4,
           "gols_contra": 0,
           "placar": "4 x 0",
-          "xg": 3.24,
-          "xga": 0.29,
-          "xgd": 2.95,
+          "xg": 3.03,
+          "xga": 0.34,
+          "xgd": 2.69,
           "posse": 56,
           "chutes": 18,
           "chutes_no_gol": 7,
           "escanteios": 8,
-          "desarmes": 9,
-          "xg_movel_5": 1.59,
-          "xga_movel_5": 0.83,
-          "xgd_movel_5": 0.76
+          "desarmes": 8,
+          "xg_movel_5": 1.55,
+          "xga_movel_5": 0.84,
+          "xgd_movel_5": 0.71
         }
       ],
       "tendencia": {
         "ataque": {
-          "status": "Melhorando",
-          "variacao": 6.4,
-          "temporada": 1.5,
-          "ultimos_5": 1.59
+          "status": "Estável",
+          "variacao": 4.2,
+          "temporada": 1.49,
+          "ultimos_5": 1.55
         },
         "defesa": {
           "status": "Melhorando",
-          "variacao": 31.5,
+          "variacao": 30.8,
           "temporada": 1.22,
-          "ultimos_5": 0.83
+          "ultimos_5": 0.84
         },
         "equilibrio": {
           "status": "Melhorando",
-          "variacao": 170.2,
-          "temporada": 0.28,
-          "ultimos_5": 0.76
+          "variacao": 162.2,
+          "temporada": 0.27,
+          "ultimos_5": 0.71
         }
       },
       "resumo": {
         "jogos": 23,
-        "xg_medio": 1.5,
+        "xg_medio": 1.49,
         "xga_medio": 1.22,
-        "xgd_medio": 0.28
+        "xgd_medio": 0.27
       }
     },
     "IFK Göteborg": {
