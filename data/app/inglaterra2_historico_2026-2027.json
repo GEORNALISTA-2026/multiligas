@@ -1,6 +1,6 @@
 {
   "season": "2026/2027",
-  "updated_at": "2026-10-16T07:04:15.432Z",
+  "updated_at": "2026-10-17T07:01:07.621Z",
   "teams": {
     "Wolverhampton Wanderers": {
       "team": "Wolverhampton Wanderers",
@@ -184,30 +184,50 @@
           "xg_movel_5": 1.85,
           "xga_movel_5": 0.96,
           "xgd_movel_5": 0.89
+        },
+        {
+          "rodada": 11,
+          "data": "2026-10-16T19:00:00Z",
+          "local": "Fora",
+          "adversario": "Burnley",
+          "gols_pro": 2,
+          "gols_contra": 1,
+          "placar": "2 x 1",
+          "xg": 1.82,
+          "xga": 1,
+          "xgd": 0.82,
+          "posse": 53,
+          "chutes": 20,
+          "chutes_no_gol": 8,
+          "escanteios": 6,
+          "desarmes": 18,
+          "xg_movel_5": 1.72,
+          "xga_movel_5": 0.88,
+          "xgd_movel_5": 0.84
         }
       ],
       "tendencia": {
         "ataque": {
-          "status": "Estável",
-          "variacao": 1.6,
+          "status": "Piorando",
+          "variacao": -5.5,
           "temporada": 1.82,
-          "ultimos_5": 1.85
+          "ultimos_5": 1.72
         },
         "defesa": {
-          "status": "Estável",
-          "variacao": 5,
+          "status": "Melhorando",
+          "variacao": 12.6,
           "temporada": 1.01,
-          "ultimos_5": 0.96
+          "ultimos_5": 0.88
         },
         "equilibrio": {
-          "status": "Melhorando",
-          "variacao": 9.7,
+          "status": "Estável",
+          "variacao": 3.2,
           "temporada": 0.81,
-          "ultimos_5": 0.89
+          "ultimos_5": 0.84
         }
       },
       "resumo": {
-        "jogos": 9,
+        "jogos": 10,
         "xg_medio": 1.82,
         "xga_medio": 1.01,
         "xgd_medio": 0.81
@@ -4784,33 +4804,53 @@
           "xg_movel_5": 1.33,
           "xga_movel_5": 1.74,
           "xgd_movel_5": -0.42
+        },
+        {
+          "rodada": 11,
+          "data": "2026-10-16T19:00:00Z",
+          "local": "Casa",
+          "adversario": "Wolverhampton Wanderers",
+          "gols_pro": 1,
+          "gols_contra": 2,
+          "placar": "1 x 2",
+          "xg": 1,
+          "xga": 1.82,
+          "xgd": -0.82,
+          "posse": 47,
+          "chutes": 15,
+          "chutes_no_gol": 4,
+          "escanteios": 3,
+          "desarmes": 23,
+          "xg_movel_5": 1.23,
+          "xga_movel_5": 1.84,
+          "xgd_movel_5": -0.61
         }
       ],
       "tendencia": {
         "ataque": {
-          "status": "Melhorando",
-          "variacao": 8.4,
-          "temporada": 1.22,
-          "ultimos_5": 1.33
+          "status": "Estável",
+          "variacao": 1.9,
+          "temporada": 1.2,
+          "ultimos_5": 1.23
         },
         "defesa": {
           "status": "Piorando",
-          "variacao": -8.8,
-          "temporada": 1.6,
-          "ultimos_5": 1.74
+          "variacao": -13.3,
+          "temporada": 1.62,
+          "ultimos_5": 1.84
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -10.1,
-          "temporada": -0.38,
-          "ultimos_5": -0.42
+          "variacao": -45.9,
+          "temporada": -0.42,
+          "ultimos_5": -0.61
         }
       },
       "resumo": {
-        "jogos": 10,
-        "xg_medio": 1.22,
-        "xga_medio": 1.6,
-        "xgd_medio": -0.38
+        "jogos": 11,
+        "xg_medio": 1.2,
+        "xga_medio": 1.62,
+        "xgd_medio": -0.42
       }
     },
     "West Ham United": {

@@ -1,6 +1,6 @@
 {
   "season": "2026/2027",
-  "updated_at": "2026-10-16T06:59:59.077Z",
+  "updated_at": "2026-10-17T06:56:16.078Z",
   "teams": {
     "Bayern München": {
       "team": "Bayern München",
@@ -628,33 +628,53 @@
           "xg_movel_5": 1.82,
           "xga_movel_5": 1.82,
           "xgd_movel_5": 0.01
+        },
+        {
+          "rodada": 6,
+          "data": "2026-10-16T18:30:00Z",
+          "local": "Fora",
+          "adversario": "Eintracht Frankfurt",
+          "gols_pro": 0,
+          "gols_contra": 1,
+          "placar": "0 x 1",
+          "xg": 0.8,
+          "xga": 1.8,
+          "xgd": -1,
+          "posse": 44,
+          "chutes": 9,
+          "chutes_no_gol": 3,
+          "escanteios": 3,
+          "desarmes": 29,
+          "xg_movel_5": 1.59,
+          "xga_movel_5": 1.8,
+          "xgd_movel_5": -0.21
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Estável",
-          "variacao": 0,
-          "temporada": 1.82,
-          "ultimos_5": 1.82
+          "variacao": -3.6,
+          "temporada": 1.65,
+          "ultimos_5": 1.59
         },
         "defesa": {
           "status": "Estável",
-          "variacao": 0,
+          "variacao": 0.7,
           "temporada": 1.82,
-          "ultimos_5": 1.82
+          "ultimos_5": 1.8
         },
         "equilibrio": {
-          "status": "Estável",
-          "variacao": 0,
-          "temporada": 0.01,
-          "ultimos_5": 0.01
+          "status": "Piorando",
+          "variacao": -28.7,
+          "temporada": -0.16,
+          "ultimos_5": -0.21
         }
       },
       "resumo": {
-        "jogos": 5,
-        "xg_medio": 1.82,
+        "jogos": 6,
+        "xg_medio": 1.65,
         "xga_medio": 1.82,
-        "xgd_medio": 0.01
+        "xgd_medio": -0.16
       }
     },
     "Hoffenheim": {
@@ -1545,33 +1565,53 @@
           "xg_movel_5": 1.87,
           "xga_movel_5": 2.44,
           "xgd_movel_5": -0.57
+        },
+        {
+          "rodada": 6,
+          "data": "2026-10-16T18:30:00Z",
+          "local": "Casa",
+          "adversario": "1. FC Köln",
+          "gols_pro": 1,
+          "gols_contra": 0,
+          "placar": "1 x 0",
+          "xg": 1.8,
+          "xga": 0.8,
+          "xgd": 1,
+          "posse": 56,
+          "chutes": 15,
+          "chutes_no_gol": 7,
+          "escanteios": 7,
+          "desarmes": 22,
+          "xg_movel_5": 1.94,
+          "xga_movel_5": 2.23,
+          "xgd_movel_5": -0.29
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Estável",
-          "variacao": 0,
-          "temporada": 1.87,
-          "ultimos_5": 1.87
+          "variacao": 4.2,
+          "temporada": 1.86,
+          "ultimos_5": 1.94
         },
         "defesa": {
           "status": "Estável",
-          "variacao": 0,
-          "temporada": 2.44,
-          "ultimos_5": 2.44
+          "variacao": -3,
+          "temporada": 2.17,
+          "ultimos_5": 2.23
         },
         "equilibrio": {
           "status": "Estável",
-          "variacao": 0,
-          "temporada": -0.57,
-          "ultimos_5": -0.57
+          "variacao": 4.1,
+          "temporada": -0.31,
+          "ultimos_5": -0.29
         }
       },
       "resumo": {
-        "jogos": 5,
-        "xg_medio": 1.87,
-        "xga_medio": 2.44,
-        "xgd_medio": -0.57
+        "jogos": 6,
+        "xg_medio": 1.86,
+        "xga_medio": 2.17,
+        "xgd_medio": -0.31
       }
     },
     "Borussia Dortmund": {

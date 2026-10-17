@@ -1,6 +1,6 @@
 {
   "season": "2026/2027",
-  "updated_at": "2026-10-16T07:05:13.445Z",
+  "updated_at": "2026-10-17T07:02:15.001Z",
   "teams": {
     "Cambuur": {
       "team": "Cambuur",
@@ -355,33 +355,53 @@
           "xg_movel_5": 1.24,
           "xga_movel_5": 1.84,
           "xgd_movel_5": -0.59
+        },
+        {
+          "rodada": 9,
+          "data": "2026-10-16T18:00:00Z",
+          "local": "Fora",
+          "adversario": "SC Heerenveen",
+          "gols_pro": 0,
+          "gols_contra": 4,
+          "placar": "0 x 4",
+          "xg": 0.67,
+          "xga": 2.25,
+          "xgd": -1.58,
+          "posse": 48,
+          "chutes": 5,
+          "chutes_no_gol": 1,
+          "escanteios": 1,
+          "desarmes": 15,
+          "xg_movel_5": 1.11,
+          "xga_movel_5": 2.08,
+          "xgd_movel_5": -0.97
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Piorando",
-          "variacao": -12.8,
-          "temporada": 1.43,
-          "ultimos_5": 1.24
+          "variacao": -17,
+          "temporada": 1.34,
+          "ultimos_5": 1.11
         },
         "defesa": {
           "status": "Piorando",
-          "variacao": -8.3,
-          "temporada": 1.7,
-          "ultimos_5": 1.84
+          "variacao": -18.4,
+          "temporada": 1.76,
+          "ultimos_5": 2.08
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -119,
-          "temporada": -0.27,
-          "ultimos_5": -0.59
+          "variacao": -132.3,
+          "temporada": -0.42,
+          "ultimos_5": -0.97
         }
       },
       "resumo": {
-        "jogos": 8,
-        "xg_medio": 1.43,
-        "xga_medio": 1.7,
-        "xgd_medio": -0.27
+        "jogos": 9,
+        "xg_medio": 1.34,
+        "xga_medio": 1.76,
+        "xgd_medio": -0.42
       }
     },
     "NEC Nijmegen": {
@@ -3220,33 +3240,53 @@
           "xg_movel_5": 1.6,
           "xga_movel_5": 1.3,
           "xgd_movel_5": 0.3
+        },
+        {
+          "rodada": 9,
+          "data": "2026-10-16T18:00:00Z",
+          "local": "Casa",
+          "adversario": "Excelsior",
+          "gols_pro": 4,
+          "gols_contra": 0,
+          "placar": "4 x 0",
+          "xg": 2.25,
+          "xga": 0.67,
+          "xgd": 1.58,
+          "posse": 52,
+          "chutes": 14,
+          "chutes_no_gol": 7,
+          "escanteios": 4,
+          "desarmes": 9,
+          "xg_movel_5": 1.77,
+          "xga_movel_5": 1.11,
+          "xgd_movel_5": 0.66
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Melhorando",
-          "variacao": 17.6,
-          "temporada": 1.36,
-          "ultimos_5": 1.6
+          "variacao": 21.6,
+          "temporada": 1.46,
+          "ultimos_5": 1.77
         },
         "defesa": {
           "status": "Melhorando",
-          "variacao": 14.8,
-          "temporada": 1.52,
-          "ultimos_5": 1.3
+          "variacao": 22.1,
+          "temporada": 1.43,
+          "ultimos_5": 1.11
         },
         "equilibrio": {
           "status": "Melhorando",
-          "variacao": 283.2,
-          "temporada": -0.16,
-          "ultimos_5": 0.3
+          "variacao": 2100,
+          "temporada": 0.03,
+          "ultimos_5": 0.66
         }
       },
       "resumo": {
-        "jogos": 8,
-        "xg_medio": 1.36,
-        "xga_medio": 1.52,
-        "xgd_medio": -0.16
+        "jogos": 9,
+        "xg_medio": 1.46,
+        "xga_medio": 1.43,
+        "xgd_medio": 0.03
       }
     },
     "FC Twente": {

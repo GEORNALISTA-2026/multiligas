@@ -1,6 +1,6 @@
 {
   "season": "2026",
-  "updated_at": "2026-10-16T06:57:31.112Z",
+  "updated_at": "2026-10-17T06:53:33.205Z",
   "teams": {
     "Atlético-MG": {
       "team": "Atlético-MG",
@@ -3128,33 +3128,53 @@
           "xg_movel_5": 0.97,
           "xga_movel_5": 1.44,
           "xgd_movel_5": -0.46
+        },
+        {
+          "rodada": 31,
+          "data": "2026-10-16T23:00:00Z",
+          "local": "Fora",
+          "adversario": "Mirassol",
+          "gols_pro": 0,
+          "gols_contra": 2,
+          "placar": "0 x 2",
+          "xg": 0.7,
+          "xga": 3.16,
+          "xgd": -2.46,
+          "posse": 38,
+          "chutes": 13,
+          "chutes_no_gol": 4,
+          "escanteios": 2,
+          "desarmes": 19,
+          "xg_movel_5": 0.83,
+          "xga_movel_5": 1.82,
+          "xgd_movel_5": -0.99
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Piorando",
-          "variacao": -33.4,
-          "temporada": 1.46,
-          "ultimos_5": 0.97
+          "variacao": -42.4,
+          "temporada": 1.44,
+          "ultimos_5": 0.83
         },
         "defesa": {
           "status": "Piorando",
-          "variacao": -13.1,
-          "temporada": 1.27,
-          "ultimos_5": 1.44
+          "variacao": -36.6,
+          "temporada": 1.33,
+          "ultimos_5": 1.82
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -339.4,
-          "temporada": 0.19,
-          "ultimos_5": -0.46
+          "variacao": -1021.6,
+          "temporada": 0.11,
+          "ultimos_5": -0.99
         }
       },
       "resumo": {
-        "jogos": 30,
-        "xg_medio": 1.46,
-        "xga_medio": 1.27,
-        "xgd_medio": 0.19
+        "jogos": 31,
+        "xg_medio": 1.44,
+        "xga_medio": 1.33,
+        "xgd_medio": 0.11
       }
     },
     "Athletico Paranaense": {
@@ -10680,33 +10700,53 @@
           "xg_movel_5": 1.74,
           "xga_movel_5": 1.89,
           "xgd_movel_5": -0.16
+        },
+        {
+          "rodada": 31,
+          "data": "2026-10-16T23:00:00Z",
+          "local": "Casa",
+          "adversario": "Internacional",
+          "gols_pro": 2,
+          "gols_contra": 0,
+          "placar": "2 x 0",
+          "xg": 3.16,
+          "xga": 0.7,
+          "xgd": 2.46,
+          "posse": 62,
+          "chutes": 24,
+          "chutes_no_gol": 7,
+          "escanteios": 5,
+          "desarmes": 16,
+          "xg_movel_5": 1.98,
+          "xga_movel_5": 1.63,
+          "xgd_movel_5": 0.35
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Melhorando",
-          "variacao": 38.7,
-          "temporada": 1.25,
-          "ultimos_5": 1.74
+          "variacao": 51,
+          "temporada": 1.31,
+          "ultimos_5": 1.98
         },
         "defesa": {
           "status": "Piorando",
-          "variacao": -32.9,
-          "temporada": 1.43,
-          "ultimos_5": 1.89
+          "variacao": -16.6,
+          "temporada": 1.4,
+          "ultimos_5": 1.63
         },
         "equilibrio": {
           "status": "Melhorando",
-          "variacao": 8.8,
-          "temporada": -0.17,
-          "ultimos_5": -0.16
+          "variacao": 496,
+          "temporada": -0.09,
+          "ultimos_5": 0.35
         }
       },
       "resumo": {
-        "jogos": 30,
-        "xg_medio": 1.25,
-        "xga_medio": 1.43,
-        "xgd_medio": -0.17
+        "jogos": 31,
+        "xg_medio": 1.31,
+        "xga_medio": 1.4,
+        "xgd_medio": -0.09
       }
     },
     "Vasco da Gama": {
@@ -11915,7 +11955,7 @@
           "xga": 1.12,
           "xgd": -0.15,
           "posse": 56,
-          "chutes": 18,
+          "chutes": 19,
           "chutes_no_gol": 5,
           "escanteios": 7,
           "desarmes": 8,

@@ -1,6 +1,6 @@
 {
   "season": "2026/2027",
-  "updated_at": "2026-10-16T07:07:09.027Z",
+  "updated_at": "2026-10-17T07:04:29.010Z",
   "teams": {
     "Viborg": {
       "team": "Viborg",
@@ -2052,33 +2052,53 @@
           "xg_movel_5": 1.68,
           "xga_movel_5": 1.42,
           "xgd_movel_5": 0.26
+        },
+        {
+          "rodada": 11,
+          "data": "2026-10-16T17:00:00Z",
+          "local": "Casa",
+          "adversario": "Randers FC",
+          "gols_pro": 0,
+          "gols_contra": 0,
+          "placar": "0 x 0",
+          "xg": 0.72,
+          "xga": 1.8,
+          "xgd": -1.08,
+          "posse": 68,
+          "chutes": 10,
+          "chutes_no_gol": 5,
+          "escanteios": 4,
+          "desarmes": 13,
+          "xg_movel_5": 1.66,
+          "xga_movel_5": 1.39,
+          "xgd_movel_5": 0.27
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Melhorando",
-          "variacao": 27.9,
-          "temporada": 1.32,
-          "ultimos_5": 1.68
+          "variacao": 31.7,
+          "temporada": 1.26,
+          "ultimos_5": 1.66
         },
         "defesa": {
           "status": "Melhorando",
-          "variacao": 14.5,
-          "temporada": 1.66,
-          "ultimos_5": 1.42
+          "variacao": 16.6,
+          "temporada": 1.67,
+          "ultimos_5": 1.39
         },
         "equilibrio": {
           "status": "Melhorando",
-          "variacao": 176.7,
-          "temporada": -0.34,
-          "ultimos_5": 0.26
+          "variacao": 164.7,
+          "temporada": -0.41,
+          "ultimos_5": 0.27
         }
       },
       "resumo": {
-        "jogos": 10,
-        "xg_medio": 1.32,
-        "xga_medio": 1.66,
-        "xgd_medio": -0.34
+        "jogos": 11,
+        "xg_medio": 1.26,
+        "xga_medio": 1.67,
+        "xgd_medio": -0.41
       }
     },
     "Nordsjælland": {
@@ -2514,33 +2534,53 @@
           "xg_movel_5": 1.27,
           "xga_movel_5": 1.56,
           "xgd_movel_5": -0.28
+        },
+        {
+          "rodada": 11,
+          "data": "2026-10-16T17:00:00Z",
+          "local": "Fora",
+          "adversario": "AC Horsens",
+          "gols_pro": 0,
+          "gols_contra": 0,
+          "placar": "0 x 0",
+          "xg": 1.8,
+          "xga": 0.72,
+          "xgd": 1.08,
+          "posse": 32,
+          "chutes": 10,
+          "chutes_no_gol": 3,
+          "escanteios": 7,
+          "desarmes": 8,
+          "xg_movel_5": 1.41,
+          "xga_movel_5": 1.31,
+          "xgd_movel_5": 0.11
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Melhorando",
-          "variacao": 18.9,
-          "temporada": 1.07,
-          "ultimos_5": 1.27
+          "variacao": 24.3,
+          "temporada": 1.14,
+          "ultimos_5": 1.41
         },
         "defesa": {
           "status": "Melhorando",
-          "variacao": 7.4,
-          "temporada": 1.68,
-          "ultimos_5": 1.56
+          "variacao": 18,
+          "temporada": 1.59,
+          "ultimos_5": 1.31
         },
         "equilibrio": {
           "status": "Melhorando",
-          "variacao": 53.4,
-          "temporada": -0.61,
-          "ultimos_5": -0.28
+          "variacao": 123.2,
+          "temporada": -0.46,
+          "ultimos_5": 0.11
         }
       },
       "resumo": {
-        "jogos": 10,
-        "xg_medio": 1.07,
-        "xga_medio": 1.68,
-        "xgd_medio": -0.61
+        "jogos": 11,
+        "xg_medio": 1.14,
+        "xga_medio": 1.59,
+        "xgd_medio": -0.46
       }
     },
     "Silkeborg": {

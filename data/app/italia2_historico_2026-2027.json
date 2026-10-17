@@ -1,6 +1,6 @@
 {
   "season": "2026/2027",
-  "updated_at": "2026-10-16T07:03:07.341Z",
+  "updated_at": "2026-10-17T06:59:56.531Z",
   "teams": {
     "LR Vicenza": {
       "team": "LR Vicenza",
@@ -275,33 +275,53 @@
           "xg_movel_5": 1.38,
           "xga_movel_5": 1.86,
           "xgd_movel_5": -0.48
+        },
+        {
+          "rodada": 7,
+          "data": "2026-10-16T18:30:00Z",
+          "local": "Fora",
+          "adversario": "Hellas Verona",
+          "gols_pro": 2,
+          "gols_contra": 2,
+          "placar": "2 x 2",
+          "xg": 1.18,
+          "xga": 1.89,
+          "xgd": -0.71,
+          "posse": 43,
+          "chutes": 7,
+          "chutes_no_gol": 4,
+          "escanteios": 0,
+          "desarmes": 12,
+          "xg_movel_5": 1.42,
+          "xga_movel_5": 1.79,
+          "xgd_movel_5": -0.37
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Estável",
-          "variacao": -4.5,
-          "temporada": 1.45,
-          "ultimos_5": 1.38
+          "variacao": 1.1,
+          "temporada": 1.41,
+          "ultimos_5": 1.42
         },
         "defesa": {
           "status": "Estável",
-          "variacao": -0.1,
+          "variacao": 3.8,
           "temporada": 1.86,
-          "ultimos_5": 1.86
+          "ultimos_5": 1.79
         },
         "equilibrio": {
-          "status": "Piorando",
-          "variacao": -16.1,
-          "temporada": -0.41,
-          "ultimos_5": -0.48
+          "status": "Melhorando",
+          "variacao": 19,
+          "temporada": -0.45,
+          "ultimos_5": -0.37
         }
       },
       "resumo": {
-        "jogos": 6,
-        "xg_medio": 1.45,
+        "jogos": 7,
+        "xg_medio": 1.41,
         "xga_medio": 1.86,
-        "xgd_medio": -0.41
+        "xgd_medio": -0.45
       }
     },
     "Carrarese": {
@@ -1936,33 +1956,53 @@
           "xg_movel_5": 1.82,
           "xga_movel_5": 1.13,
           "xgd_movel_5": 0.69
+        },
+        {
+          "rodada": 7,
+          "data": "2026-10-16T18:30:00Z",
+          "local": "Casa",
+          "adversario": "Catanzaro",
+          "gols_pro": 2,
+          "gols_contra": 2,
+          "placar": "2 x 2",
+          "xg": 1.89,
+          "xga": 1.18,
+          "xgd": 0.71,
+          "posse": 57,
+          "chutes": 25,
+          "chutes_no_gol": 6,
+          "escanteios": 12,
+          "desarmes": 7,
+          "xg_movel_5": 1.88,
+          "xga_movel_5": 1.18,
+          "xgd_movel_5": 0.7
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Piorando",
-          "variacao": -9.7,
-          "temporada": 2.02,
-          "ultimos_5": 1.82
+          "variacao": -6.2,
+          "temporada": 2,
+          "ultimos_5": 1.88
         },
         "defesa": {
           "status": "Estável",
-          "variacao": 0.6,
+          "variacao": -3.1,
           "temporada": 1.14,
-          "ultimos_5": 1.13
+          "ultimos_5": 1.18
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -21.5,
-          "temporada": 0.88,
-          "ultimos_5": 0.69
+          "variacao": -18.6,
+          "temporada": 0.86,
+          "ultimos_5": 0.7
         }
       },
       "resumo": {
-        "jogos": 6,
-        "xg_medio": 2.02,
+        "jogos": 7,
+        "xg_medio": 2,
         "xga_medio": 1.14,
-        "xgd_medio": 0.88
+        "xgd_medio": 0.86
       }
     },
     "Ascoli": {
