@@ -1,6 +1,6 @@
 {
   "season": "2026",
-  "updated_at": "2026-10-17T07:07:38.268Z",
+  "updated_at": "2026-10-18T07:15:57.206Z",
   "teams": {
     "Degerfors": {
       "team": "Degerfors",
@@ -2428,33 +2428,53 @@
           "xg_movel_5": 1.86,
           "xga_movel_5": 2.59,
           "xgd_movel_5": -0.72
+        },
+        {
+          "rodada": 24,
+          "data": "2026-10-17T16:10:00Z",
+          "local": "Casa",
+          "adversario": "IFK Göteborg",
+          "gols_pro": 2,
+          "gols_contra": 2,
+          "placar": "2 x 2",
+          "xg": 1.98,
+          "xga": 0.93,
+          "xgd": 1.05,
+          "posse": 54,
+          "chutes": 12,
+          "chutes_no_gol": 3,
+          "escanteios": 3,
+          "desarmes": 12,
+          "xg_movel_5": 1.78,
+          "xga_movel_5": 2,
+          "xgd_movel_5": -0.22
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Melhorando",
-          "variacao": 23.4,
-          "temporada": 1.51,
-          "ultimos_5": 1.86
+          "variacao": 16.3,
+          "temporada": 1.53,
+          "ultimos_5": 1.78
         },
         "defesa": {
           "status": "Piorando",
-          "variacao": -43.3,
-          "temporada": 1.8,
-          "ultimos_5": 2.59
+          "variacao": -13,
+          "temporada": 1.77,
+          "ultimos_5": 2
         },
         "equilibrio": {
-          "status": "Piorando",
-          "variacao": -145.7,
-          "temporada": -0.29,
-          "ultimos_5": -0.72
+          "status": "Melhorando",
+          "variacao": 8.4,
+          "temporada": -0.24,
+          "ultimos_5": -0.22
         }
       },
       "resumo": {
-        "jogos": 23,
-        "xg_medio": 1.51,
-        "xga_medio": 1.8,
-        "xgd_medio": -0.29
+        "jogos": 24,
+        "xg_medio": 1.53,
+        "xga_medio": 1.77,
+        "xgd_medio": -0.24
       }
     },
     "Halmstads BK": {
@@ -5865,33 +5885,53 @@
           "xg_movel_5": 1.48,
           "xga_movel_5": 1.08,
           "xgd_movel_5": 0.4
+        },
+        {
+          "rodada": 24,
+          "data": "2026-10-17T16:10:00Z",
+          "local": "Fora",
+          "adversario": "AIK",
+          "gols_pro": 2,
+          "gols_contra": 2,
+          "placar": "2 x 2",
+          "xg": 0.93,
+          "xga": 1.98,
+          "xgd": -1.05,
+          "posse": 46,
+          "chutes": 14,
+          "chutes_no_gol": 6,
+          "escanteios": 4,
+          "desarmes": 22,
+          "xg_movel_5": 1.39,
+          "xga_movel_5": 1.25,
+          "xgd_movel_5": 0.13
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Piorando",
-          "variacao": -9.1,
-          "temporada": 1.63,
-          "ultimos_5": 1.48
+          "variacao": -13.4,
+          "temporada": 1.6,
+          "ultimos_5": 1.39
         },
         "defesa": {
           "status": "Melhorando",
-          "variacao": 25.2,
-          "temporada": 1.45,
-          "ultimos_5": 1.08
+          "variacao": 15,
+          "temporada": 1.47,
+          "ultimos_5": 1.25
         },
         "equilibrio": {
-          "status": "Melhorando",
-          "variacao": 120.6,
-          "temporada": 0.18,
-          "ultimos_5": 0.4
+          "status": "Estável",
+          "variacao": 3.7,
+          "temporada": 0.13,
+          "ultimos_5": 0.13
         }
       },
       "resumo": {
-        "jogos": 23,
-        "xg_medio": 1.63,
-        "xga_medio": 1.45,
-        "xgd_medio": 0.18
+        "jogos": 24,
+        "xg_medio": 1.6,
+        "xga_medio": 1.47,
+        "xgd_medio": 0.13
       }
     },
     "Häcken": {

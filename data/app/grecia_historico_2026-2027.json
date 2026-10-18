@@ -1,6 +1,6 @@
 {
   "season": "2026/2027",
-  "updated_at": "2026-10-17T07:03:37.578Z",
+  "updated_at": "2026-10-18T07:09:50.135Z",
   "teams": {
     "AEK Athens": {
       "team": "AEK Athens",
@@ -1181,32 +1181,52 @@
           "xg_movel_5": 1.11,
           "xga_movel_5": 1.93,
           "xgd_movel_5": -0.82
+        },
+        {
+          "rodada": 7,
+          "data": "2026-10-17T14:00:00Z",
+          "local": "Fora",
+          "adversario": "Levadiakos",
+          "gols_pro": 0,
+          "gols_contra": 0,
+          "placar": "0 x 0",
+          "xg": 0.2,
+          "xga": 1.02,
+          "xgd": -0.82,
+          "posse": 32,
+          "chutes": 4,
+          "chutes_no_gol": 1,
+          "escanteios": 2,
+          "desarmes": 20,
+          "xg_movel_5": 0.88,
+          "xga_movel_5": 2.02,
+          "xgd_movel_5": -1.14
         }
       ],
       "tendencia": {
         "ataque": {
-          "status": "Estável",
-          "variacao": 3,
-          "temporada": 1.07,
-          "ultimos_5": 1.11
+          "status": "Piorando",
+          "variacao": -6.8,
+          "temporada": 0.95,
+          "ultimos_5": 0.88
         },
         "defesa": {
-          "status": "Estável",
-          "variacao": -4.8,
-          "temporada": 1.84,
-          "ultimos_5": 1.93
+          "status": "Piorando",
+          "variacao": -17.2,
+          "temporada": 1.72,
+          "ultimos_5": 2.02
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -7.2,
+          "variacao": -46.7,
           "temporada": -0.77,
-          "ultimos_5": -0.82
+          "ultimos_5": -1.14
         }
       },
       "resumo": {
-        "jogos": 6,
-        "xg_medio": 1.07,
-        "xga_medio": 1.84,
+        "jogos": 7,
+        "xg_medio": 0.95,
+        "xga_medio": 1.72,
         "xgd_medio": -0.77
       }
     },
@@ -1483,33 +1503,53 @@
           "xg_movel_5": 0.64,
           "xga_movel_5": 1.03,
           "xgd_movel_5": -0.39
+        },
+        {
+          "rodada": 7,
+          "data": "2026-10-17T14:00:00Z",
+          "local": "Casa",
+          "adversario": "NFC Volos",
+          "gols_pro": 0,
+          "gols_contra": 0,
+          "placar": "0 x 0",
+          "xg": 1.02,
+          "xga": 0.2,
+          "xgd": 0.82,
+          "posse": 68,
+          "chutes": 14,
+          "chutes_no_gol": 4,
+          "escanteios": 9,
+          "desarmes": 15,
+          "xg_movel_5": 0.65,
+          "xga_movel_5": 0.85,
+          "xgd_movel_5": -0.2
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Estável",
-          "variacao": 1.9,
-          "temporada": 0.63,
-          "ultimos_5": 0.64
+          "variacao": -4.6,
+          "temporada": 0.69,
+          "ultimos_5": 0.65
         },
         "defesa": {
           "status": "Melhorando",
-          "variacao": 15.3,
-          "temporada": 1.22,
-          "ultimos_5": 1.03
+          "variacao": 20.4,
+          "temporada": 1.07,
+          "ultimos_5": 0.85
         },
         "equilibrio": {
           "status": "Melhorando",
-          "variacao": 33.7,
-          "temporada": -0.59,
-          "ultimos_5": -0.39
+          "variacao": 48.3,
+          "temporada": -0.39,
+          "ultimos_5": -0.2
         }
       },
       "resumo": {
-        "jogos": 6,
-        "xg_medio": 0.63,
-        "xga_medio": 1.22,
-        "xgd_medio": -0.59
+        "jogos": 7,
+        "xg_medio": 0.69,
+        "xga_medio": 1.07,
+        "xgd_medio": -0.39
       }
     },
     "Panetolikos": {
