@@ -1,6 +1,6 @@
 {
   "season": "2026/2027",
-  "updated_at": "2026-10-18T06:59:51.156Z",
+  "updated_at": "2026-10-19T07:06:57.176Z",
   "teams": {
     "Deportivo Alavés": {
       "team": "Deportivo Alavés",
@@ -164,33 +164,53 @@
           "xg_movel_5": 1.11,
           "xga_movel_5": 1.62,
           "xgd_movel_5": -0.51
+        },
+        {
+          "rodada": 9,
+          "data": "2026-10-18T14:15:00Z",
+          "local": "Fora",
+          "adversario": "Celta Vigo",
+          "gols_pro": 1,
+          "gols_contra": 2,
+          "placar": "1 x 2",
+          "xg": 1.06,
+          "xga": 0.97,
+          "xgd": 0.09,
+          "posse": 52,
+          "chutes": 20,
+          "chutes_no_gol": 9,
+          "escanteios": 4,
+          "desarmes": 12,
+          "xg_movel_5": 1.09,
+          "xga_movel_5": 1.49,
+          "xgd_movel_5": -0.4
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Piorando",
-          "variacao": -12.9,
-          "temporada": 1.28,
-          "ultimos_5": 1.11
+          "variacao": -13.4,
+          "temporada": 1.25,
+          "ultimos_5": 1.09
         },
         "defesa": {
           "status": "Piorando",
-          "variacao": -23.5,
-          "temporada": 1.31,
-          "ultimos_5": 1.62
+          "variacao": -16.7,
+          "temporada": 1.28,
+          "ultimos_5": 1.49
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -1351.4,
-          "temporada": -0.03,
-          "ultimos_5": -0.51
+          "variacao": -1804.2,
+          "temporada": -0.02,
+          "ultimos_5": -0.4
         }
       },
       "resumo": {
-        "jogos": 8,
-        "xg_medio": 1.28,
-        "xga_medio": 1.31,
-        "xgd_medio": -0.03
+        "jogos": 9,
+        "xg_medio": 1.25,
+        "xga_medio": 1.28,
+        "xgd_medio": -0.02
       }
     },
     "Getafe": {
@@ -546,33 +566,53 @@
           "xg_movel_5": 0.96,
           "xga_movel_5": 1.35,
           "xgd_movel_5": -0.39
+        },
+        {
+          "rodada": 9,
+          "data": "2026-10-18T19:00:00Z",
+          "local": "Fora",
+          "adversario": "Real Madrid",
+          "gols_pro": 1,
+          "gols_contra": 4,
+          "placar": "1 x 4",
+          "xg": 0.75,
+          "xga": 2.28,
+          "xgd": -1.53,
+          "posse": 35,
+          "chutes": 11,
+          "chutes_no_gol": 5,
+          "escanteios": 2,
+          "desarmes": 20,
+          "xg_movel_5": 1,
+          "xga_movel_5": 1.56,
+          "xgd_movel_5": -0.56
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Piorando",
-          "variacao": -16.1,
-          "temporada": 1.14,
-          "ultimos_5": 0.96
+          "variacao": -8.8,
+          "temporada": 1.1,
+          "ultimos_5": 1
         },
         "defesa": {
-          "status": "Estável",
-          "variacao": 1.2,
-          "temporada": 1.37,
-          "ultimos_5": 1.35
+          "status": "Piorando",
+          "variacao": -6.3,
+          "temporada": 1.47,
+          "ultimos_5": 1.56
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -74.1,
-          "temporada": -0.23,
-          "ultimos_5": -0.39
+          "variacao": -50.9,
+          "temporada": -0.37,
+          "ultimos_5": -0.56
         }
       },
       "resumo": {
-        "jogos": 8,
-        "xg_medio": 1.14,
-        "xga_medio": 1.37,
-        "xgd_medio": -0.23
+        "jogos": 9,
+        "xg_medio": 1.1,
+        "xga_medio": 1.47,
+        "xgd_medio": -0.37
       }
     },
     "Rayo Vallecano": {
@@ -908,33 +948,53 @@
           "xg_movel_5": 1.3,
           "xga_movel_5": 2.85,
           "xgd_movel_5": -1.55
+        },
+        {
+          "rodada": 9,
+          "data": "2026-10-18T12:00:00Z",
+          "local": "Fora",
+          "adversario": "Osasuna",
+          "gols_pro": 0,
+          "gols_contra": 2,
+          "placar": "0 x 2",
+          "xg": 0.28,
+          "xga": 3.65,
+          "xgd": -3.37,
+          "posse": 56,
+          "chutes": 9,
+          "chutes_no_gol": 1,
+          "escanteios": 4,
+          "desarmes": 14,
+          "xg_movel_5": 1.26,
+          "xga_movel_5": 3.26,
+          "xgd_movel_5": -2
         }
       ],
       "tendencia": {
         "ataque": {
-          "status": "Piorando",
-          "variacao": -8.8,
-          "temporada": 1.43,
-          "ultimos_5": 1.3
+          "status": "Estável",
+          "variacao": -2.9,
+          "temporada": 1.3,
+          "ultimos_5": 1.26
         },
         "defesa": {
           "status": "Piorando",
-          "variacao": -32.7,
-          "temporada": 2.15,
-          "ultimos_5": 2.85
+          "variacao": -40.7,
+          "temporada": 2.32,
+          "ultimos_5": 3.26
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -114,
-          "temporada": -0.73,
-          "ultimos_5": -1.55
+          "variacao": -96.3,
+          "temporada": -1.02,
+          "ultimos_5": -2
         }
       },
       "resumo": {
-        "jogos": 8,
-        "xg_medio": 1.43,
-        "xga_medio": 2.15,
-        "xgd_medio": -0.73
+        "jogos": 9,
+        "xg_medio": 1.3,
+        "xga_medio": 2.32,
+        "xgd_medio": -1.02
       }
     },
     "Villarreal": {
@@ -1510,31 +1570,31 @@
           "gols_pro": 1,
           "gols_contra": 1,
           "placar": "1 x 1",
-          "xg": 0.83,
-          "xga": 1.11,
-          "xgd": -0.28,
+          "xg": 0.79,
+          "xga": 1.08,
+          "xgd": -0.29,
           "posse": 54,
           "chutes": 11,
           "chutes_no_gol": 4,
           "escanteios": 5,
           "desarmes": 16,
-          "xg_movel_5": 1.3,
-          "xga_movel_5": 2.35,
+          "xg_movel_5": 1.29,
+          "xga_movel_5": 2.34,
           "xgd_movel_5": -1.05
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Estável",
-          "variacao": -3.1,
+          "variacao": -3.3,
           "temporada": 1.34,
-          "ultimos_5": 1.3
+          "ultimos_5": 1.29
         },
         "defesa": {
           "status": "Piorando",
-          "variacao": -18.7,
+          "variacao": -18.6,
           "temporada": 1.98,
-          "ultimos_5": 2.35
+          "ultimos_5": 2.34
         },
         "equilibrio": {
           "status": "Piorando",
@@ -1721,42 +1781,42 @@
           "gols_pro": 1,
           "gols_contra": 1,
           "placar": "1 x 1",
-          "xg": 1.11,
-          "xga": 0.83,
-          "xgd": 0.28,
+          "xg": 1.08,
+          "xga": 0.79,
+          "xgd": 0.29,
           "posse": 46,
           "chutes": 13,
           "chutes_no_gol": 5,
           "escanteios": 3,
           "desarmes": 8,
-          "xg_movel_5": 1.27,
-          "xga_movel_5": 0.92,
+          "xg_movel_5": 1.26,
+          "xga_movel_5": 0.91,
           "xgd_movel_5": 0.35
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Melhorando",
-          "variacao": 13.6,
-          "temporada": 1.12,
-          "ultimos_5": 1.27
+          "variacao": 13.4,
+          "temporada": 1.11,
+          "ultimos_5": 1.26
         },
         "defesa": {
           "status": "Melhorando",
-          "variacao": 20.4,
+          "variacao": 20.8,
           "temporada": 1.15,
-          "ultimos_5": 0.92
+          "ultimos_5": 0.91
         },
         "equilibrio": {
           "status": "Melhorando",
-          "variacao": 1121.9,
+          "variacao": 1162,
           "temporada": -0.03,
           "ultimos_5": 0.35
         }
       },
       "resumo": {
         "jogos": 9,
-        "xg_medio": 1.12,
+        "xg_medio": 1.11,
         "xga_medio": 1.15,
         "xgd_medio": -0.03
       }
@@ -2345,33 +2405,53 @@
           "xg_movel_5": 0.76,
           "xga_movel_5": 1.62,
           "xgd_movel_5": -0.86
+        },
+        {
+          "rodada": 9,
+          "data": "2026-10-18T16:30:00Z",
+          "local": "Casa",
+          "adversario": "Real Sociedad",
+          "gols_pro": 2,
+          "gols_contra": 5,
+          "placar": "2 x 5",
+          "xg": 1.24,
+          "xga": 2.44,
+          "xgd": -1.2,
+          "posse": 45,
+          "chutes": 17,
+          "chutes_no_gol": 6,
+          "escanteios": 4,
+          "desarmes": 22,
+          "xg_movel_5": 0.69,
+          "xga_movel_5": 1.91,
+          "xgd_movel_5": -1.22
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Piorando",
-          "variacao": -8,
-          "temporada": 0.83,
-          "ultimos_5": 0.76
+          "variacao": -20.9,
+          "temporada": 0.87,
+          "ultimos_5": 0.69
         },
         "defesa": {
-          "status": "Estável",
-          "variacao": -1.6,
-          "temporada": 1.6,
-          "ultimos_5": 1.62
+          "status": "Piorando",
+          "variacao": -13.3,
+          "temporada": 1.69,
+          "ultimos_5": 1.91
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -11.9,
-          "temporada": -0.77,
-          "ultimos_5": -0.86
+          "variacao": -49.7,
+          "temporada": -0.82,
+          "ultimos_5": -1.22
         }
       },
       "resumo": {
-        "jogos": 8,
-        "xg_medio": 0.83,
-        "xga_medio": 1.6,
-        "xgd_medio": -0.77
+        "jogos": 9,
+        "xg_medio": 0.87,
+        "xga_medio": 1.69,
+        "xgd_medio": -0.82
       }
     },
     "Real Betis": {
@@ -2747,33 +2827,53 @@
           "xg_movel_5": 1.21,
           "xga_movel_5": 1.71,
           "xgd_movel_5": -0.51
+        },
+        {
+          "rodada": 9,
+          "data": "2026-10-18T16:30:00Z",
+          "local": "Fora",
+          "adversario": "Málaga",
+          "gols_pro": 5,
+          "gols_contra": 2,
+          "placar": "5 x 2",
+          "xg": 2.44,
+          "xga": 1.24,
+          "xgd": 1.2,
+          "posse": 55,
+          "chutes": 21,
+          "chutes_no_gol": 9,
+          "escanteios": 5,
+          "desarmes": 18,
+          "xg_movel_5": 1.58,
+          "xga_movel_5": 1.49,
+          "xgd_movel_5": 0.09
         }
       ],
       "tendencia": {
         "ataque": {
-          "status": "Estável",
-          "variacao": -3.3,
-          "temporada": 1.25,
-          "ultimos_5": 1.21
+          "status": "Melhorando",
+          "variacao": 14.5,
+          "temporada": 1.38,
+          "ultimos_5": 1.58
         },
         "defesa": {
-          "status": "Estável",
-          "variacao": 0.3,
-          "temporada": 1.72,
-          "ultimos_5": 1.71
+          "status": "Melhorando",
+          "variacao": 10.7,
+          "temporada": 1.67,
+          "ultimos_5": 1.49
         },
         "equilibrio": {
-          "status": "Piorando",
-          "variacao": -7.4,
-          "temporada": -0.47,
-          "ultimos_5": -0.51
+          "status": "Melhorando",
+          "variacao": 132.9,
+          "temporada": -0.29,
+          "ultimos_5": 0.09
         }
       },
       "resumo": {
-        "jogos": 8,
-        "xg_medio": 1.25,
-        "xga_medio": 1.72,
-        "xgd_medio": -0.47
+        "jogos": 9,
+        "xg_medio": 1.38,
+        "xga_medio": 1.67,
+        "xgd_medio": -0.29
       }
     },
     "Athletic Club": {
@@ -3320,33 +3420,53 @@
           "xg_movel_5": 1.19,
           "xga_movel_5": 0.73,
           "xgd_movel_5": 0.46
+        },
+        {
+          "rodada": 9,
+          "data": "2026-10-18T14:15:00Z",
+          "local": "Casa",
+          "adversario": "Deportivo Alavés",
+          "gols_pro": 2,
+          "gols_contra": 1,
+          "placar": "2 x 1",
+          "xg": 0.97,
+          "xga": 1.06,
+          "xgd": -0.09,
+          "posse": 48,
+          "chutes": 6,
+          "chutes_no_gol": 3,
+          "escanteios": 0,
+          "desarmes": 15,
+          "xg_movel_5": 1.18,
+          "xga_movel_5": 0.81,
+          "xgd_movel_5": 0.37
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Melhorando",
-          "variacao": 27.7,
+          "variacao": 25.9,
           "temporada": 0.94,
-          "ultimos_5": 1.19
+          "ultimos_5": 1.18
         },
         "defesa": {
           "status": "Melhorando",
-          "variacao": 39.9,
-          "temporada": 1.22,
-          "ultimos_5": 0.73
+          "variacao": 32.2,
+          "temporada": 1.2,
+          "ultimos_5": 0.81
         },
         "equilibrio": {
           "status": "Melhorando",
-          "variacao": 263.5,
-          "temporada": -0.28,
-          "ultimos_5": 0.46
+          "variacao": 240.9,
+          "temporada": -0.26,
+          "ultimos_5": 0.37
         }
       },
       "resumo": {
-        "jogos": 8,
+        "jogos": 9,
         "xg_medio": 0.94,
-        "xga_medio": 1.22,
-        "xgd_medio": -0.28
+        "xga_medio": 1.2,
+        "xgd_medio": -0.26
       }
     },
     "Real Madrid": {
@@ -3511,33 +3631,53 @@
           "xg_movel_5": 2.28,
           "xga_movel_5": 1.17,
           "xgd_movel_5": 1.11
+        },
+        {
+          "rodada": 9,
+          "data": "2026-10-18T19:00:00Z",
+          "local": "Casa",
+          "adversario": "Sevilla",
+          "gols_pro": 4,
+          "gols_contra": 1,
+          "placar": "4 x 1",
+          "xg": 2.28,
+          "xga": 0.75,
+          "xgd": 1.53,
+          "posse": 65,
+          "chutes": 15,
+          "chutes_no_gol": 8,
+          "escanteios": 1,
+          "desarmes": 19,
+          "xg_movel_5": 2.05,
+          "xga_movel_5": 1.14,
+          "xgd_movel_5": 0.91
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Piorando",
-          "variacao": -8.3,
-          "temporada": 2.49,
-          "ultimos_5": 2.28
+          "variacao": -17,
+          "temporada": 2.47,
+          "ultimos_5": 2.05
         },
         "defesa": {
           "status": "Piorando",
-          "variacao": -13.4,
-          "temporada": 1.03,
-          "ultimos_5": 1.17
+          "variacao": -13.3,
+          "temporada": 1,
+          "ultimos_5": 1.14
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -23.7,
-          "temporada": 1.46,
-          "ultimos_5": 1.11
+          "variacao": -37.8,
+          "temporada": 1.47,
+          "ultimos_5": 0.91
         }
       },
       "resumo": {
-        "jogos": 8,
-        "xg_medio": 2.49,
-        "xga_medio": 1.03,
-        "xgd_medio": 1.46
+        "jogos": 9,
+        "xg_medio": 2.47,
+        "xga_medio": 1,
+        "xgd_medio": 1.47
       }
     },
     "Barcelona": {
@@ -3913,33 +4053,53 @@
           "xg_movel_5": 1.13,
           "xga_movel_5": 2.1,
           "xgd_movel_5": -0.97
+        },
+        {
+          "rodada": 9,
+          "data": "2026-10-18T12:00:00Z",
+          "local": "Casa",
+          "adversario": "Racing Santander",
+          "gols_pro": 2,
+          "gols_contra": 0,
+          "placar": "2 x 0",
+          "xg": 3.65,
+          "xga": 0.28,
+          "xgd": 3.37,
+          "posse": 44,
+          "chutes": 20,
+          "chutes_no_gol": 7,
+          "escanteios": 7,
+          "desarmes": 15,
+          "xg_movel_5": 1.53,
+          "xga_movel_5": 1.92,
+          "xgd_movel_5": -0.39
         }
       ],
       "tendencia": {
         "ataque": {
-          "status": "Piorando",
-          "variacao": -15,
-          "temporada": 1.33,
-          "ultimos_5": 1.13
+          "status": "Estável",
+          "variacao": -3.5,
+          "temporada": 1.59,
+          "ultimos_5": 1.53
         },
         "defesa": {
           "status": "Piorando",
-          "variacao": -33.3,
-          "temporada": 1.58,
-          "ultimos_5": 2.1
+          "variacao": -33.9,
+          "temporada": 1.43,
+          "ultimos_5": 1.92
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -292.7,
-          "temporada": -0.25,
-          "ultimos_5": -0.97
+          "variacao": -349.9,
+          "temporada": 0.15,
+          "ultimos_5": -0.39
         }
       },
       "resumo": {
-        "jogos": 8,
-        "xg_medio": 1.33,
-        "xga_medio": 1.58,
-        "xgd_medio": -0.25
+        "jogos": 9,
+        "xg_medio": 1.59,
+        "xga_medio": 1.43,
+        "xgd_medio": 0.15
       }
     }
   }
