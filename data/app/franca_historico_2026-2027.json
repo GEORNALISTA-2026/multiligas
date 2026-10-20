@@ -1,6 +1,6 @@
 {
   "season": "2026/2027",
-  "updated_at": "2026-10-19T07:08:15.926Z",
+  "updated_at": "2026-10-20T07:01:04.414Z",
   "teams": {
     "Marseille": {
       "team": "Marseille",
@@ -1160,8 +1160,8 @@
           "gols_contra": 2,
           "placar": "1 x 2",
           "xg": 1.55,
-          "xga": 1.5,
-          "xgd": 0.05,
+          "xga": 1.51,
+          "xgd": 0.04,
           "posse": 52,
           "chutes": 12,
           "chutes_no_gol": 5,
@@ -1187,7 +1187,7 @@
         },
         "equilibrio": {
           "status": "Melhorando",
-          "variacao": 73.7,
+          "variacao": 73.2,
           "temporada": -0.33,
           "ultimos_5": -0.09
         }
@@ -1672,15 +1672,15 @@
           "gols_pro": 2,
           "gols_contra": 1,
           "placar": "2 x 1",
-          "xg": 1.5,
+          "xg": 1.51,
           "xga": 1.55,
-          "xgd": -0.05,
+          "xgd": -0.04,
           "posse": 48,
           "chutes": 8,
           "chutes_no_gol": 4,
           "escanteios": 1,
           "desarmes": 11,
-          "xg_movel_5": 1.8,
+          "xg_movel_5": 1.81,
           "xga_movel_5": 1.05,
           "xgd_movel_5": 0.75
         }
@@ -1690,7 +1690,7 @@
           "status": "Melhorando",
           "variacao": 10.1,
           "temporada": 1.64,
-          "ultimos_5": 1.8
+          "ultimos_5": 1.81
         },
         "defesa": {
           "status": "Melhorando",
@@ -1700,7 +1700,7 @@
         },
         "equilibrio": {
           "status": "Melhorando",
-          "variacao": 91.6,
+          "variacao": 91.4,
           "temporada": 0.39,
           "ultimos_5": 0.75
         }
