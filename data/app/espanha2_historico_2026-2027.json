@@ -1,6 +1,6 @@
 {
   "season": "2026/2027",
-  "updated_at": "2026-10-20T07:00:41.723Z",
+  "updated_at": "2026-10-21T07:07:30.192Z",
   "teams": {
     "Real Sociedad B": {
       "team": "Real Sociedad B",
@@ -1348,44 +1348,44 @@
           "gols_pro": 1,
           "gols_contra": 1,
           "placar": "1 x 1",
-          "xg": 0.97,
-          "xga": 0.4,
-          "xgd": 0.57,
+          "xg": 0.92,
+          "xga": 1.35,
+          "xgd": -0.43,
           "posse": 55,
           "chutes": 14,
           "chutes_no_gol": 4,
           "escanteios": 4,
-          "desarmes": 10,
-          "xg_movel_5": 1.24,
-          "xga_movel_5": 1.52,
-          "xgd_movel_5": -0.28
+          "desarmes": 12,
+          "xg_movel_5": 1.23,
+          "xga_movel_5": 1.71,
+          "xgd_movel_5": -0.48
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Piorando",
-          "variacao": -11.6,
-          "temporada": 1.41,
-          "ultimos_5": 1.24
+          "variacao": -12,
+          "temporada": 1.4,
+          "ultimos_5": 1.23
         },
         "defesa": {
           "status": "Estável",
-          "variacao": 3.8,
-          "temporada": 1.58,
-          "ultimos_5": 1.52
+          "variacao": -2.1,
+          "temporada": 1.68,
+          "ultimos_5": 1.71
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -59.1,
-          "temporada": -0.18,
-          "ultimos_5": -0.28
+          "variacao": -73.9,
+          "temporada": -0.28,
+          "ultimos_5": -0.48
         }
       },
       "resumo": {
         "jogos": 10,
-        "xg_medio": 1.41,
-        "xga_medio": 1.58,
-        "xgd_medio": -0.18
+        "xg_medio": 1.4,
+        "xga_medio": 1.68,
+        "xgd_medio": -0.28
       }
     },
     "Real Oviedo": {
@@ -2734,44 +2734,44 @@
           "gols_pro": 1,
           "gols_contra": 1,
           "placar": "1 x 1",
-          "xg": 0.4,
-          "xga": 0.97,
-          "xgd": -0.57,
+          "xg": 1.35,
+          "xga": 0.92,
+          "xgd": 0.43,
           "posse": 45,
-          "chutes": 9,
+          "chutes": 10,
           "chutes_no_gol": 3,
           "escanteios": 4,
-          "desarmes": 16,
-          "xg_movel_5": 0.8,
-          "xga_movel_5": 1.76,
-          "xgd_movel_5": -0.95
+          "desarmes": 18,
+          "xg_movel_5": 0.99,
+          "xga_movel_5": 1.75,
+          "xgd_movel_5": -0.75
         }
       ],
       "tendencia": {
         "ataque": {
-          "status": "Estável",
-          "variacao": -3.7,
-          "temporada": 0.84,
-          "ultimos_5": 0.8
+          "status": "Melhorando",
+          "variacao": 6.9,
+          "temporada": 0.93,
+          "ultimos_5": 0.99
         },
         "defesa": {
           "status": "Piorando",
-          "variacao": -38.4,
+          "variacao": -38.2,
           "temporada": 1.27,
-          "ultimos_5": 1.76
+          "ultimos_5": 1.75
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -119.3,
-          "temporada": -0.43,
-          "ultimos_5": -0.95
+          "variacao": -125.1,
+          "temporada": -0.33,
+          "ultimos_5": -0.75
         }
       },
       "resumo": {
         "jogos": 10,
-        "xg_medio": 0.84,
+        "xg_medio": 0.93,
         "xga_medio": 1.27,
-        "xgd_medio": -0.43
+        "xgd_medio": -0.33
       }
     },
     "Burgos CF": {

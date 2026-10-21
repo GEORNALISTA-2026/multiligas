@@ -1,6 +1,6 @@
 {
   "season": "2026/2027",
-  "updated_at": "2026-10-20T07:06:13.214Z",
+  "updated_at": "2026-10-21T07:17:51.944Z",
   "teams": {
     "Dundee United": {
       "team": "Dundee United",
@@ -1228,44 +1228,44 @@
           "gols_pro": 1,
           "gols_contra": 7,
           "placar": "1 x 7",
-          "xg": 1.2,
-          "xga": 4.21,
-          "xgd": -3.01,
+          "xg": 1.56,
+          "xga": 4.22,
+          "xgd": -2.66,
           "posse": 52,
           "chutes": 20,
           "chutes_no_gol": 5,
           "escanteios": 3,
           "desarmes": 18,
-          "xg_movel_5": 1.96,
+          "xg_movel_5": 2.03,
           "xga_movel_5": 1.48,
-          "xgd_movel_5": 0.48
+          "xgd_movel_5": 0.55
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Estável",
-          "variacao": -0.7,
-          "temporada": 1.97,
-          "ultimos_5": 1.96
+          "variacao": 0.9,
+          "temporada": 2.01,
+          "ultimos_5": 2.03
         },
         "defesa": {
           "status": "Estável",
-          "variacao": 5,
+          "variacao": 4.9,
           "temporada": 1.56,
           "ultimos_5": 1.48
         },
         "equilibrio": {
           "status": "Melhorando",
-          "variacao": 15.1,
-          "temporada": 0.42,
-          "ultimos_5": 0.48
+          "variacao": 20.6,
+          "temporada": 0.46,
+          "ultimos_5": 0.55
         }
       },
       "resumo": {
         "jogos": 9,
-        "xg_medio": 1.97,
+        "xg_medio": 2.01,
         "xga_medio": 1.56,
-        "xgd_medio": 0.42
+        "xgd_medio": 0.46
       }
     },
     "St. Johnstone": {
@@ -2283,44 +2283,44 @@
           "gols_pro": 7,
           "gols_contra": 1,
           "placar": "7 x 1",
-          "xg": 4.21,
-          "xga": 1.2,
-          "xgd": 3.01,
+          "xg": 4.22,
+          "xga": 1.56,
+          "xgd": 2.66,
           "posse": 48,
           "chutes": 18,
           "chutes_no_gol": 10,
           "escanteios": 6,
           "desarmes": 22,
           "xg_movel_5": 2.67,
-          "xga_movel_5": 1.31,
-          "xgd_movel_5": 1.36
+          "xga_movel_5": 1.38,
+          "xgd_movel_5": 1.29
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Piorando",
-          "variacao": -8.7,
+          "variacao": -8.6,
           "temporada": 2.92,
           "ultimos_5": 2.67
         },
         "defesa": {
           "status": "Piorando",
-          "variacao": -27,
-          "temporada": 1.03,
-          "ultimos_5": 1.31
+          "variacao": -29,
+          "temporada": 1.07,
+          "ultimos_5": 1.38
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -28.2,
-          "temporada": 1.89,
-          "ultimos_5": 1.36
+          "variacao": -30.4,
+          "temporada": 1.85,
+          "ultimos_5": 1.29
         }
       },
       "resumo": {
         "jogos": 9,
         "xg_medio": 2.92,
-        "xga_medio": 1.03,
-        "xgd_medio": 1.89
+        "xga_medio": 1.07,
+        "xgd_medio": 1.85
       }
     },
     "Dundee FC": {

@@ -1,6 +1,6 @@
 {
   "season": "2026/2027",
-  "updated_at": "2026-10-20T07:00:03.847Z",
+  "updated_at": "2026-10-21T07:06:08.714Z",
   "teams": {
     "Deportivo Alavés": {
       "team": "Deportivo Alavés",
@@ -1419,15 +1419,15 @@
           "gols_pro": 0,
           "gols_contra": 1,
           "placar": "0 x 1",
-          "xg": 0.51,
+          "xg": 0.53,
           "xga": 1.47,
-          "xgd": -0.96,
+          "xgd": -0.94,
           "posse": 30,
           "chutes": 10,
           "chutes_no_gol": 2,
           "escanteios": 4,
           "desarmes": 11,
-          "xg_movel_5": 1.14,
+          "xg_movel_5": 1.15,
           "xga_movel_5": 1.31,
           "xgd_movel_5": -0.16
         }
@@ -1435,9 +1435,9 @@
       "tendencia": {
         "ataque": {
           "status": "Estável",
-          "variacao": 0.5,
+          "variacao": 0.7,
           "temporada": 1.14,
-          "ultimos_5": 1.14
+          "ultimos_5": 1.15
         },
         "defesa": {
           "status": "Estável",
@@ -1447,7 +1447,7 @@
         },
         "equilibrio": {
           "status": "Melhorando",
-          "variacao": 12.2,
+          "variacao": 13.3,
           "temporada": -0.18,
           "ultimos_5": -0.16
         }
@@ -2244,16 +2244,16 @@
           "gols_contra": 0,
           "placar": "1 x 0",
           "xg": 1.47,
-          "xga": 0.51,
-          "xgd": 0.96,
+          "xga": 0.53,
+          "xgd": 0.94,
           "posse": 70,
           "chutes": 19,
           "chutes_no_gol": 6,
           "escanteios": 12,
           "desarmes": 11,
           "xg_movel_5": 2.38,
-          "xga_movel_5": 0.57,
-          "xgd_movel_5": 1.81
+          "xga_movel_5": 0.58,
+          "xgd_movel_5": 1.8
         }
       ],
       "tendencia": {
@@ -2265,22 +2265,22 @@
         },
         "defesa": {
           "status": "Melhorando",
-          "variacao": 42.3,
+          "variacao": 42,
           "temporada": 0.99,
-          "ultimos_5": 0.57
+          "ultimos_5": 0.58
         },
         "equilibrio": {
           "status": "Melhorando",
-          "variacao": 145.5,
-          "temporada": 0.74,
-          "ultimos_5": 1.81
+          "variacao": 145.7,
+          "temporada": 0.73,
+          "ultimos_5": 1.8
         }
       },
       "resumo": {
         "jogos": 9,
         "xg_medio": 1.73,
         "xga_medio": 0.99,
-        "xgd_medio": 0.74
+        "xgd_medio": 0.73
       }
     },
     "Málaga": {

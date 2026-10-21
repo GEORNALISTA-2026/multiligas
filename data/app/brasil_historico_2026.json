@@ -1,6 +1,6 @@
 {
   "season": "2026",
-  "updated_at": "2026-10-20T06:56:26.304Z",
+  "updated_at": "2026-10-21T06:59:48.634Z",
   "teams": {
     "Atlético-MG": {
       "team": "Atlético-MG",
@@ -2566,25 +2566,25 @@
           "gols_pro": 1,
           "gols_contra": 1,
           "placar": "1 x 1",
-          "xg": 2.42,
+          "xg": 2.18,
           "xga": 1.47,
-          "xgd": 0.95,
+          "xgd": 0.71,
           "posse": 46,
           "chutes": 16,
           "chutes_no_gol": 5,
           "escanteios": 3,
           "desarmes": 11,
-          "xg_movel_5": 2.02,
+          "xg_movel_5": 1.98,
           "xga_movel_5": 2.25,
-          "xgd_movel_5": -0.23
+          "xgd_movel_5": -0.28
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Melhorando",
-          "variacao": 27.7,
+          "variacao": 25.3,
           "temporada": 1.58,
-          "ultimos_5": 2.02
+          "ultimos_5": 1.98
         },
         "defesa": {
           "status": "Piorando",
@@ -2594,16 +2594,16 @@
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -172.5,
-          "temporada": 0.32,
-          "ultimos_5": -0.23
+          "variacao": -189.8,
+          "temporada": 0.31,
+          "ultimos_5": -0.28
         }
       },
       "resumo": {
         "jogos": 31,
         "xg_medio": 1.58,
         "xga_medio": 1.27,
-        "xgd_medio": 0.32
+        "xgd_medio": 0.31
       }
     },
     "Internacional": {
@@ -5171,16 +5171,16 @@
           "gols_contra": 1,
           "placar": "1 x 1",
           "xg": 1.47,
-          "xga": 2.42,
-          "xgd": -0.95,
+          "xga": 2.18,
+          "xgd": -0.71,
           "posse": 54,
           "chutes": 25,
           "chutes_no_gol": 6,
           "escanteios": 14,
           "desarmes": 15,
           "xg_movel_5": 1.07,
-          "xga_movel_5": 2.13,
-          "xgd_movel_5": -1.05
+          "xga_movel_5": 2.08,
+          "xgd_movel_5": -1.01
         }
       ],
       "tendencia": {
@@ -5192,21 +5192,21 @@
         },
         "defesa": {
           "status": "Piorando",
-          "variacao": -28.9,
-          "temporada": 1.65,
-          "ultimos_5": 2.13
+          "variacao": -26.6,
+          "temporada": 1.64,
+          "ultimos_5": 2.08
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -77.8,
+          "variacao": -71.9,
           "temporada": -0.59,
-          "ultimos_5": -1.05
+          "ultimos_5": -1.01
         }
       },
       "resumo": {
         "jogos": 31,
         "xg_medio": 1.06,
-        "xga_medio": 1.65,
+        "xga_medio": 1.64,
         "xgd_medio": -0.59
       }
     },

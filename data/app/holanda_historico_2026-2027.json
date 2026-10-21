@@ -1,6 +1,6 @@
 {
   "season": "2026/2027",
-  "updated_at": "2026-10-20T07:04:35.390Z",
+  "updated_at": "2026-10-21T07:14:54.639Z",
   "teams": {
     "Cambuur": {
       "team": "Cambuur",
@@ -1017,25 +1017,25 @@
           "gols_pro": 1,
           "gols_contra": 4,
           "placar": "1 x 4",
-          "xg": 2.72,
+          "xg": 2.48,
           "xga": 1.93,
-          "xgd": 0.79,
+          "xgd": 0.55,
           "posse": 60,
           "chutes": 18,
           "chutes_no_gol": 6,
           "escanteios": 6,
           "desarmes": 12,
-          "xg_movel_5": 2.45,
+          "xg_movel_5": 2.4,
           "xga_movel_5": 1.61,
-          "xgd_movel_5": 0.84
+          "xgd_movel_5": 0.8
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Melhorando",
-          "variacao": 16.3,
-          "temporada": 2.11,
-          "ultimos_5": 2.45
+          "variacao": 15.5,
+          "temporada": 2.08,
+          "ultimos_5": 2.4
         },
         "defesa": {
           "status": "Melhorando",
@@ -1045,16 +1045,16 @@
         },
         "equilibrio": {
           "status": "Melhorando",
-          "variacao": 124.1,
-          "temporada": 0.38,
-          "ultimos_5": 0.84
+          "variacao": 127.4,
+          "temporada": 0.35,
+          "ultimos_5": 0.8
         }
       },
       "resumo": {
         "jogos": 9,
-        "xg_medio": 2.11,
+        "xg_medio": 2.08,
         "xga_medio": 1.73,
-        "xgd_medio": 0.38
+        "xgd_medio": 0.35
       }
     },
     "Willem II": {
@@ -3128,16 +3128,16 @@
           "gols_contra": 1,
           "placar": "4 x 1",
           "xg": 1.93,
-          "xga": 2.72,
-          "xgd": -0.79,
+          "xga": 2.48,
+          "xgd": -0.55,
           "posse": 40,
           "chutes": 19,
           "chutes_no_gol": 9,
           "escanteios": 5,
           "desarmes": 16,
           "xg_movel_5": 0.94,
-          "xga_movel_5": 2.25,
-          "xgd_movel_5": -1.31
+          "xga_movel_5": 2.2,
+          "xgd_movel_5": -1.26
         }
       ],
       "tendencia": {
@@ -3149,22 +3149,22 @@
         },
         "defesa": {
           "status": "Piorando",
-          "variacao": -8.2,
-          "temporada": 2.08,
-          "ultimos_5": 2.25
+          "variacao": -7.2,
+          "temporada": 2.06,
+          "ultimos_5": 2.2
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -33,
-          "temporada": -0.98,
-          "ultimos_5": -1.31
+          "variacao": -31.7,
+          "temporada": -0.96,
+          "ultimos_5": -1.26
         }
       },
       "resumo": {
         "jogos": 9,
         "xg_medio": 1.1,
-        "xga_medio": 2.08,
-        "xgd_medio": -0.98
+        "xga_medio": 2.06,
+        "xgd_medio": -0.96
       }
     },
     "Ajax": {
