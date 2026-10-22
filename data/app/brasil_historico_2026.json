@@ -1,6 +1,6 @@
 {
   "season": "2026",
-  "updated_at": "2026-10-21T06:59:48.634Z",
+  "updated_at": "2026-10-22T06:58:38.188Z",
   "teams": {
     "Atlético-MG": {
       "team": "Atlético-MG",
@@ -4519,37 +4519,37 @@
           "gols_pro": 1,
           "gols_contra": 1,
           "placar": "1 x 1",
-          "xg": 0.82,
-          "xga": 1.6,
-          "xgd": -0.78,
+          "xg": 0.92,
+          "xga": 1.56,
+          "xgd": -0.64,
           "posse": 32,
           "chutes": 5,
           "chutes_no_gol": 5,
           "escanteios": 1,
           "desarmes": 21,
-          "xg_movel_5": 1.31,
-          "xga_movel_5": 1.46,
-          "xgd_movel_5": -0.15
+          "xg_movel_5": 1.33,
+          "xga_movel_5": 1.45,
+          "xgd_movel_5": -0.13
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Melhorando",
-          "variacao": 25.9,
+          "variacao": 27.5,
           "temporada": 1.04,
-          "ultimos_5": 1.31
+          "ultimos_5": 1.33
         },
         "defesa": {
           "status": "Estável",
-          "variacao": -0.7,
+          "variacao": -0.2,
           "temporada": 1.45,
-          "ultimos_5": 1.46
+          "ultimos_5": 1.45
         },
         "equilibrio": {
           "status": "Melhorando",
-          "variacao": 62.7,
+          "variacao": 69.2,
           "temporada": -0.41,
-          "ultimos_5": -0.15
+          "ultimos_5": -0.13
         }
       },
       "resumo": {
@@ -8405,44 +8405,44 @@
           "gols_pro": 1,
           "gols_contra": 1,
           "placar": "1 x 1",
-          "xg": 1.6,
-          "xga": 0.82,
-          "xgd": 0.78,
+          "xg": 1.56,
+          "xga": 0.92,
+          "xgd": 0.64,
           "posse": 68,
           "chutes": 21,
           "chutes_no_gol": 6,
           "escanteios": 9,
-          "desarmes": 19,
-          "xg_movel_5": 1.5,
-          "xga_movel_5": 2.06,
-          "xgd_movel_5": -0.56
+          "desarmes": 21,
+          "xg_movel_5": 1.49,
+          "xga_movel_5": 2.08,
+          "xgd_movel_5": -0.59
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Melhorando",
-          "variacao": 41.3,
+          "variacao": 40.7,
           "temporada": 1.06,
-          "ultimos_5": 1.5
+          "ultimos_5": 1.49
         },
         "defesa": {
           "status": "Piorando",
-          "variacao": -78.5,
-          "temporada": 1.15,
-          "ultimos_5": 2.06
+          "variacao": -79.7,
+          "temporada": 1.16,
+          "ultimos_5": 2.08
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -500.7,
-          "temporada": -0.09,
-          "ultimos_5": -0.56
+          "variacao": -501.6,
+          "temporada": -0.1,
+          "ultimos_5": -0.59
         }
       },
       "resumo": {
         "jogos": 31,
         "xg_medio": 1.06,
-        "xga_medio": 1.15,
-        "xgd_medio": -0.09
+        "xga_medio": 1.16,
+        "xgd_medio": -0.1
       }
     },
     "Bahia": {
