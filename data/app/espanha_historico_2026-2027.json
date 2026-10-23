@@ -1,6 +1,6 @@
 {
   "season": "2026/2027",
-  "updated_at": "2026-10-22T07:02:06.574Z",
+  "updated_at": "2026-10-23T07:04:36.981Z",
   "teams": {
     "Deportivo Alavés": {
       "team": "Deportivo Alavés",
@@ -1570,17 +1570,17 @@
           "gols_pro": 3,
           "gols_contra": 1,
           "placar": "3 x 1",
-          "xg": 1.97,
-          "xga": 1.9,
-          "xgd": 0.07,
+          "xg": 1.82,
+          "xga": 2.04,
+          "xgd": -0.22,
           "posse": 38,
           "chutes": 12,
           "chutes_no_gol": 7,
           "escanteios": 3,
           "desarmes": 15,
-          "xg_movel_5": 1.88,
-          "xga_movel_5": 1.74,
-          "xgd_movel_5": 0.14
+          "xg_movel_5": 1.85,
+          "xga_movel_5": 1.77,
+          "xgd_movel_5": 0.09
         },
         {
           "rodada": 7,
@@ -1598,9 +1598,9 @@
           "chutes_no_gol": 1,
           "escanteios": 1,
           "desarmes": 23,
-          "xg_movel_5": 1.72,
-          "xga_movel_5": 2.45,
-          "xgd_movel_5": -0.74
+          "xg_movel_5": 1.69,
+          "xga_movel_5": 2.48,
+          "xgd_movel_5": -0.79
         },
         {
           "rodada": 8,
@@ -1618,9 +1618,9 @@
           "chutes_no_gol": 8,
           "escanteios": 5,
           "desarmes": 19,
-          "xg_movel_5": 1.53,
-          "xga_movel_5": 2.51,
-          "xgd_movel_5": -0.98
+          "xg_movel_5": 1.5,
+          "xga_movel_5": 2.54,
+          "xgd_movel_5": -1.04
         },
         {
           "rodada": 9,
@@ -1638,36 +1638,36 @@
           "chutes_no_gol": 4,
           "escanteios": 5,
           "desarmes": 16,
-          "xg_movel_5": 1.49,
-          "xga_movel_5": 2.41,
-          "xgd_movel_5": -0.92
+          "xg_movel_5": 1.46,
+          "xga_movel_5": 2.43,
+          "xgd_movel_5": -0.97
         }
       ],
       "tendencia": {
         "ataque": {
-          "status": "Melhorando",
-          "variacao": 5.9,
-          "temporada": 1.41,
-          "ultimos_5": 1.49
+          "status": "Estável",
+          "variacao": 5,
+          "temporada": 1.39,
+          "ultimos_5": 1.46
         },
         "defesa": {
           "status": "Piorando",
-          "variacao": -22.3,
-          "temporada": 1.97,
-          "ultimos_5": 2.41
+          "variacao": -22.7,
+          "temporada": 1.98,
+          "ultimos_5": 2.43
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -63.2,
-          "temporada": -0.56,
-          "ultimos_5": -0.92
+          "variacao": -64.2,
+          "temporada": -0.59,
+          "ultimos_5": -0.97
         }
       },
       "resumo": {
         "jogos": 9,
-        "xg_medio": 1.41,
-        "xga_medio": 1.97,
-        "xgd_medio": -0.56
+        "xg_medio": 1.39,
+        "xga_medio": 1.98,
+        "xgd_medio": -0.59
       }
     },
     "Deportivo A Coruña": {
@@ -3047,17 +3047,17 @@
           "gols_pro": 1,
           "gols_contra": 3,
           "placar": "1 x 3",
-          "xg": 1.9,
-          "xga": 1.97,
-          "xgd": -0.07,
+          "xg": 2.04,
+          "xga": 1.82,
+          "xgd": 0.22,
           "posse": 62,
           "chutes": 21,
           "chutes_no_gol": 4,
           "escanteios": 9,
           "desarmes": 10,
-          "xg_movel_5": 1.81,
-          "xga_movel_5": 1.17,
-          "xgd_movel_5": 0.65
+          "xg_movel_5": 1.84,
+          "xga_movel_5": 1.14,
+          "xgd_movel_5": 0.7
         },
         {
           "rodada": 7,
@@ -3075,9 +3075,9 @@
           "chutes_no_gol": 6,
           "escanteios": 5,
           "desarmes": 23,
-          "xg_movel_5": 1.86,
-          "xga_movel_5": 0.93,
-          "xgd_movel_5": 0.94
+          "xg_movel_5": 1.89,
+          "xga_movel_5": 0.9,
+          "xgd_movel_5": 1
         },
         {
           "rodada": 9,
@@ -3095,36 +3095,36 @@
           "chutes_no_gol": 2,
           "escanteios": 6,
           "desarmes": 14,
-          "xg_movel_5": 1.43,
-          "xga_movel_5": 1.06,
-          "xgd_movel_5": 0.37
+          "xg_movel_5": 1.45,
+          "xga_movel_5": 1.03,
+          "xgd_movel_5": 0.43
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Estável",
-          "variacao": -1.1,
-          "temporada": 1.44,
-          "ultimos_5": 1.43
+          "variacao": -0.3,
+          "temporada": 1.46,
+          "ultimos_5": 1.45
         },
         "defesa": {
           "status": "Melhorando",
-          "variacao": 26.6,
-          "temporada": 1.44,
-          "ultimos_5": 1.06
+          "variacao": 27.7,
+          "temporada": 1.42,
+          "ultimos_5": 1.03
         },
         "equilibrio": {
           "status": "Melhorando",
-          "variacao": 2651719460595748400,
-          "temporada": 0,
-          "ultimos_5": 0.37
+          "variacao": 1075.2,
+          "temporada": 0.04,
+          "ultimos_5": 0.43
         }
       },
       "resumo": {
         "jogos": 8,
-        "xg_medio": 1.44,
-        "xga_medio": 1.44,
-        "xgd_medio": 0
+        "xg_medio": 1.46,
+        "xga_medio": 1.42,
+        "xgd_medio": 0.04
       }
     },
     "Valencia": {

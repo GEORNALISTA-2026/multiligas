@@ -1,6 +1,6 @@
 {
   "season": "2026",
-  "updated_at": "2026-10-22T07:00:47.918Z",
+  "updated_at": "2026-10-23T07:02:21.694Z",
   "teams": {
     "Vila Nova": {
       "team": "Vila Nova",
@@ -6361,35 +6361,35 @@
           "gols_pro": 0,
           "gols_contra": 1,
           "placar": "0 x 1",
-          "xg": 1.48,
-          "xga": 1.67,
-          "xgd": -0.19,
+          "xg": 1.57,
+          "xga": 1.75,
+          "xgd": -0.18,
           "posse": 65,
-          "chutes": 24,
+          "chutes": 25,
           "chutes_no_gol": 7,
           "escanteios": 8,
-          "desarmes": 19,
-          "xg_movel_5": 1.38,
-          "xga_movel_5": 1.3,
+          "desarmes": 21,
+          "xg_movel_5": 1.4,
+          "xga_movel_5": 1.31,
           "xgd_movel_5": 0.09
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Melhorando",
-          "variacao": 8.9,
+          "variacao": 10.1,
           "temporada": 1.27,
-          "ultimos_5": 1.38
+          "ultimos_5": 1.4
         },
         "defesa": {
           "status": "Piorando",
-          "variacao": -36.2,
+          "variacao": -37.6,
           "temporada": 0.95,
-          "ultimos_5": 1.3
+          "ultimos_5": 1.31
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -72.4,
+          "variacao": -71.8,
           "temporada": 0.32,
           "ultimos_5": 0.09
         }
@@ -14182,37 +14182,37 @@
           "gols_pro": 1,
           "gols_contra": 0,
           "placar": "1 x 0",
-          "xg": 1.67,
-          "xga": 1.48,
-          "xgd": 0.19,
+          "xg": 1.75,
+          "xga": 1.57,
+          "xgd": 0.18,
           "posse": 35,
           "chutes": 12,
           "chutes_no_gol": 2,
           "escanteios": 2,
           "desarmes": 15,
-          "xg_movel_5": 1.22,
-          "xga_movel_5": 1.27,
-          "xgd_movel_5": -0.04
+          "xg_movel_5": 1.24,
+          "xga_movel_5": 1.28,
+          "xgd_movel_5": -0.05
         }
       ],
       "tendencia": {
         "ataque": {
-          "status": "Piorando",
-          "variacao": -5.2,
+          "status": "Estável",
+          "variacao": -4.1,
           "temporada": 1.29,
-          "ultimos_5": 1.22
+          "ultimos_5": 1.24
         },
         "defesa": {
           "status": "Melhorando",
-          "variacao": 11.5,
+          "variacao": 10.4,
           "temporada": 1.43,
-          "ultimos_5": 1.27
+          "ultimos_5": 1.28
         },
         "equilibrio": {
           "status": "Melhorando",
-          "variacao": 68.8,
+          "variacao": 67.4,
           "temporada": -0.14,
-          "ultimos_5": -0.04
+          "ultimos_5": -0.05
         }
       },
       "resumo": {

@@ -1,6 +1,6 @@
 {
   "season": "2026/2027",
-  "updated_at": "2026-10-22T07:02:58.216Z",
+  "updated_at": "2026-10-23T07:05:46.569Z",
   "teams": {
     "Real Sociedad B": {
       "team": "Real Sociedad B",
@@ -3176,15 +3176,15 @@
           "gols_pro": 1,
           "gols_contra": 2,
           "placar": "1 x 2",
-          "xg": 1.46,
+          "xg": 1.44,
           "xga": 2.55,
-          "xgd": -1.09,
+          "xgd": -1.11,
           "posse": 50,
           "chutes": 12,
           "chutes_no_gol": 6,
           "escanteios": 4,
           "desarmes": 16,
-          "xg_movel_5": 1.51,
+          "xg_movel_5": 1.5,
           "xga_movel_5": 1.67,
           "xgd_movel_5": -0.16
         },
@@ -3204,7 +3204,7 @@
           "chutes_no_gol": 3,
           "escanteios": 7,
           "desarmes": 11,
-          "xg_movel_5": 1.6,
+          "xg_movel_5": 1.59,
           "xga_movel_5": 1.71,
           "xgd_movel_5": -0.11
         }
@@ -3212,9 +3212,9 @@
       "tendencia": {
         "ataque": {
           "status": "Estável",
-          "variacao": -4.4,
+          "variacao": -4.5,
           "temporada": 1.67,
-          "ultimos_5": 1.6
+          "ultimos_5": 1.59
         },
         "defesa": {
           "status": "Melhorando",
@@ -3224,7 +3224,7 @@
         },
         "equilibrio": {
           "status": "Melhorando",
-          "variacao": 22.3,
+          "variacao": 20.6,
           "temporada": -0.14,
           "ultimos_5": -0.11
         }
@@ -5025,8 +5025,8 @@
           "gols_contra": 1,
           "placar": "2 x 1",
           "xg": 2.55,
-          "xga": 1.46,
-          "xgd": 1.09,
+          "xga": 1.44,
+          "xgd": 1.11,
           "posse": 50,
           "chutes": 14,
           "chutes_no_gol": 4,
@@ -5034,7 +5034,7 @@
           "desarmes": 19,
           "xg_movel_5": 1.67,
           "xga_movel_5": 0.95,
-          "xgd_movel_5": 0.71
+          "xgd_movel_5": 0.72
         },
         {
           "rodada": 10,
@@ -5054,7 +5054,7 @@
           "desarmes": 17,
           "xg_movel_5": 2.13,
           "xga_movel_5": 1.04,
-          "xgd_movel_5": 1.08
+          "xgd_movel_5": 1.09
         }
       ],
       "tendencia": {
@@ -5066,15 +5066,15 @@
         },
         "defesa": {
           "status": "Melhorando",
-          "variacao": 17.8,
+          "variacao": 18,
           "temporada": 1.27,
           "ultimos_5": 1.04
         },
         "equilibrio": {
           "status": "Melhorando",
-          "variacao": 426.2,
+          "variacao": 423.1,
           "temporada": 0.21,
-          "ultimos_5": 1.08
+          "ultimos_5": 1.09
         }
       },
       "resumo": {
