@@ -1,6 +1,6 @@
 {
   "season": "2026/2027",
-  "updated_at": "2026-10-23T07:05:46.569Z",
+  "updated_at": "2026-10-24T06:58:26.317Z",
   "teams": {
     "Real Sociedad B": {
       "team": "Real Sociedad B",
@@ -1821,33 +1821,53 @@
           "xg_movel_5": 2.36,
           "xga_movel_5": 1.57,
           "xgd_movel_5": 0.79
+        },
+        {
+          "rodada": 11,
+          "data": "2026-10-23T18:30:00Z",
+          "local": "Casa",
+          "adversario": "Real Valladolid",
+          "gols_pro": 2,
+          "gols_contra": 1,
+          "placar": "2 x 1",
+          "xg": 0.83,
+          "xga": 1.35,
+          "xgd": -0.52,
+          "posse": 42,
+          "chutes": 10,
+          "chutes_no_gol": 7,
+          "escanteios": 3,
+          "desarmes": 21,
+          "xg_movel_5": 2.01,
+          "xga_movel_5": 1.36,
+          "xgd_movel_5": 0.66
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Melhorando",
-          "variacao": 41.2,
-          "temporada": 1.67,
-          "ultimos_5": 2.36
+          "variacao": 26.5,
+          "temporada": 1.59,
+          "ultimos_5": 2.01
         },
         "defesa": {
-          "status": "Piorando",
-          "variacao": -21,
+          "status": "Estável",
+          "variacao": -4.2,
           "temporada": 1.3,
-          "ultimos_5": 1.57
+          "ultimos_5": 1.36
         },
         "equilibrio": {
           "status": "Melhorando",
-          "variacao": 111.9,
-          "temporada": 0.37,
-          "ultimos_5": 0.79
+          "variacao": 126.9,
+          "temporada": 0.29,
+          "ultimos_5": 0.66
         }
       },
       "resumo": {
-        "jogos": 10,
-        "xg_medio": 1.67,
+        "jogos": 11,
+        "xg_medio": 1.59,
         "xga_medio": 1.3,
-        "xgd_medio": 0.37
+        "xgd_medio": 0.29
       }
     },
     "Mallorca": {
@@ -2283,33 +2303,53 @@
           "xg_movel_5": 2.29,
           "xga_movel_5": 1.47,
           "xgd_movel_5": 0.82
+        },
+        {
+          "rodada": 11,
+          "data": "2026-10-23T18:30:00Z",
+          "local": "Fora",
+          "adversario": "Granada",
+          "gols_pro": 1,
+          "gols_contra": 2,
+          "placar": "1 x 2",
+          "xg": 1.35,
+          "xga": 0.83,
+          "xgd": 0.52,
+          "posse": 58,
+          "chutes": 14,
+          "chutes_no_gol": 8,
+          "escanteios": 4,
+          "desarmes": 16,
+          "xg_movel_5": 2.17,
+          "xga_movel_5": 1.44,
+          "xgd_movel_5": 0.73
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Melhorando",
-          "variacao": 46.1,
-          "temporada": 1.57,
-          "ultimos_5": 2.29
+          "variacao": 40.2,
+          "temporada": 1.55,
+          "ultimos_5": 2.17
         },
         "defesa": {
           "status": "Piorando",
-          "variacao": -17,
-          "temporada": 1.26,
-          "ultimos_5": 1.47
+          "variacao": -17.8,
+          "temporada": 1.22,
+          "ultimos_5": 1.44
         },
         "equilibrio": {
           "status": "Melhorando",
-          "variacao": 164.9,
-          "temporada": 0.31,
-          "ultimos_5": 0.82
+          "variacao": 123.7,
+          "temporada": 0.33,
+          "ultimos_5": 0.73
         }
       },
       "resumo": {
-        "jogos": 10,
-        "xg_medio": 1.57,
-        "xga_medio": 1.26,
-        "xgd_medio": 0.31
+        "jogos": 11,
+        "xg_medio": 1.55,
+        "xga_medio": 1.22,
+        "xgd_medio": 0.33
       }
     },
     "Eibar": {

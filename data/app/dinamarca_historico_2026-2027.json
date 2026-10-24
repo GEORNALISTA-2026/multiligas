@@ -1,6 +1,6 @@
 {
   "season": "2026/2027",
-  "updated_at": "2026-10-23T07:16:22.465Z",
+  "updated_at": "2026-10-24T07:04:17.981Z",
   "teams": {
     "Viborg": {
       "team": "Viborg",
@@ -977,33 +977,53 @@
           "xg_movel_5": 1.53,
           "xga_movel_5": 1.2,
           "xgd_movel_5": 0.32
+        },
+        {
+          "rodada": 12,
+          "data": "2026-10-23T17:00:00Z",
+          "local": "Fora",
+          "adversario": "Randers FC",
+          "gols_pro": 3,
+          "gols_contra": 1,
+          "placar": "3 x 1",
+          "xg": 3.5,
+          "xga": 2.03,
+          "xgd": 1.47,
+          "posse": 51,
+          "chutes": 15,
+          "chutes_no_gol": 8,
+          "escanteios": 6,
+          "desarmes": 18,
+          "xg_movel_5": 1.99,
+          "xga_movel_5": 1.44,
+          "xgd_movel_5": 0.55
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Melhorando",
-          "variacao": 5.3,
-          "temporada": 1.45,
-          "ultimos_5": 1.53
+          "variacao": 22.7,
+          "temporada": 1.62,
+          "ultimos_5": 1.99
         },
         "defesa": {
-          "status": "Melhorando",
-          "variacao": 15.2,
-          "temporada": 1.42,
-          "ultimos_5": 1.2
+          "status": "Estável",
+          "variacao": 2.1,
+          "temporada": 1.47,
+          "ultimos_5": 1.44
         },
         "equilibrio": {
           "status": "Melhorando",
-          "variacao": 918.3,
-          "temporada": 0.03,
-          "ultimos_5": 0.32
+          "variacao": 262.6,
+          "temporada": 0.15,
+          "ultimos_5": 0.55
         }
       },
       "resumo": {
-        "jogos": 11,
-        "xg_medio": 1.45,
-        "xga_medio": 1.42,
-        "xgd_medio": 0.03
+        "jogos": 12,
+        "xg_medio": 1.62,
+        "xga_medio": 1.47,
+        "xgd_medio": 0.15
       }
     },
     "Sønderjyske": {
@@ -2734,33 +2754,53 @@
           "xg_movel_5": 1.41,
           "xga_movel_5": 1.31,
           "xgd_movel_5": 0.11
+        },
+        {
+          "rodada": 12,
+          "data": "2026-10-23T17:00:00Z",
+          "local": "Casa",
+          "adversario": "Brøndby IF",
+          "gols_pro": 1,
+          "gols_contra": 3,
+          "placar": "1 x 3",
+          "xg": 2.03,
+          "xga": 3.5,
+          "xgd": -1.47,
+          "posse": 49,
+          "chutes": 11,
+          "chutes_no_gol": 5,
+          "escanteios": 6,
+          "desarmes": 16,
+          "xg_movel_5": 1.65,
+          "xga_movel_5": 1.77,
+          "xgd_movel_5": -0.12
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Melhorando",
-          "variacao": 24.3,
-          "temporada": 1.14,
-          "ultimos_5": 1.41
+          "variacao": 36.1,
+          "temporada": 1.21,
+          "ultimos_5": 1.65
         },
         "defesa": {
-          "status": "Melhorando",
-          "variacao": 18,
-          "temporada": 1.59,
-          "ultimos_5": 1.31
+          "status": "Estável",
+          "variacao": -0.9,
+          "temporada": 1.75,
+          "ultimos_5": 1.77
         },
         "equilibrio": {
           "status": "Melhorando",
-          "variacao": 123.2,
-          "temporada": -0.46,
-          "ultimos_5": 0.11
+          "variacao": 77.8,
+          "temporada": -0.54,
+          "ultimos_5": -0.12
         }
       },
       "resumo": {
-        "jogos": 11,
-        "xg_medio": 1.14,
-        "xga_medio": 1.59,
-        "xgd_medio": -0.46
+        "jogos": 12,
+        "xg_medio": 1.21,
+        "xga_medio": 1.75,
+        "xgd_medio": -0.54
       }
     },
     "Silkeborg": {

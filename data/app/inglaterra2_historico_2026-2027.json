@@ -1,6 +1,6 @@
 {
   "season": "2026/2027",
-  "updated_at": "2026-10-23T07:10:58.047Z",
+  "updated_at": "2026-10-24T07:01:16.423Z",
   "teams": {
     "Wolverhampton Wanderers": {
       "team": "Wolverhampton Wanderers",
@@ -726,33 +726,53 @@
           "xg_movel_5": 1.57,
           "xga_movel_5": 1.61,
           "xgd_movel_5": -0.04
+        },
+        {
+          "rodada": 12,
+          "data": "2026-10-23T19:00:00Z",
+          "local": "Casa",
+          "adversario": "Middlesbrough",
+          "gols_pro": 1,
+          "gols_contra": 5,
+          "placar": "1 x 5",
+          "xg": 0.91,
+          "xga": 4.17,
+          "xgd": -3.26,
+          "posse": 39,
+          "chutes": 12,
+          "chutes_no_gol": 4,
+          "escanteios": 2,
+          "desarmes": 11,
+          "xg_movel_5": 1.65,
+          "xga_movel_5": 2.08,
+          "xgd_movel_5": -0.43
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Melhorando",
-          "variacao": 10.3,
-          "temporada": 1.42,
-          "ultimos_5": 1.57
+          "variacao": 19.9,
+          "temporada": 1.38,
+          "ultimos_5": 1.65
         },
         "defesa": {
-          "status": "Melhorando",
-          "variacao": 8.9,
-          "temporada": 1.76,
-          "ultimos_5": 1.61
+          "status": "Piorando",
+          "variacao": -6,
+          "temporada": 1.96,
+          "ultimos_5": 2.08
         },
         "equilibrio": {
           "status": "Melhorando",
-          "variacao": 88.9,
-          "temporada": -0.34,
-          "ultimos_5": -0.04
+          "variacao": 26.7,
+          "temporada": -0.58,
+          "ultimos_5": -0.43
         }
       },
       "resumo": {
-        "jogos": 11,
-        "xg_medio": 1.42,
-        "xga_medio": 1.76,
-        "xgd_medio": -0.34
+        "jogos": 12,
+        "xg_medio": 1.38,
+        "xga_medio": 1.96,
+        "xgd_medio": -0.58
       }
     },
     "Preston North End": {
@@ -2232,33 +2252,53 @@
           "xg_movel_5": 2.13,
           "xga_movel_5": 1.03,
           "xgd_movel_5": 1.11
+        },
+        {
+          "rodada": 12,
+          "data": "2026-10-23T19:00:00Z",
+          "local": "Fora",
+          "adversario": "Bolton Wanderers",
+          "gols_pro": 5,
+          "gols_contra": 1,
+          "placar": "5 x 1",
+          "xg": 4.17,
+          "xga": 0.91,
+          "xgd": 3.26,
+          "posse": 61,
+          "chutes": 31,
+          "chutes_no_gol": 12,
+          "escanteios": 12,
+          "desarmes": 10,
+          "xg_movel_5": 2.49,
+          "xga_movel_5": 0.86,
+          "xgd_movel_5": 1.63
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Melhorando",
-          "variacao": 7.2,
-          "temporada": 1.99,
-          "ultimos_5": 2.13
+          "variacao": 14.7,
+          "temporada": 2.17,
+          "ultimos_5": 2.49
         },
         "defesa": {
-          "status": "Estável",
-          "variacao": 0.3,
-          "temporada": 1.03,
-          "ultimos_5": 1.03
+          "status": "Melhorando",
+          "variacao": 16,
+          "temporada": 1.02,
+          "ultimos_5": 0.86
         },
         "equilibrio": {
           "status": "Melhorando",
-          "variacao": 15.2,
-          "temporada": 0.96,
-          "ultimos_5": 1.11
+          "variacao": 41.9,
+          "temporada": 1.15,
+          "ultimos_5": 1.63
         }
       },
       "resumo": {
-        "jogos": 11,
-        "xg_medio": 1.99,
-        "xga_medio": 1.03,
-        "xgd_medio": 0.96
+        "jogos": 12,
+        "xg_medio": 2.17,
+        "xga_medio": 1.02,
+        "xgd_medio": 1.15
       }
     },
     "Lincoln City": {

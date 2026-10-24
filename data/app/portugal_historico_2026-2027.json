@@ -1,6 +1,6 @@
 {
   "season": "2026/2027",
-  "updated_at": "2026-10-23T07:13:32.604Z",
+  "updated_at": "2026-10-24T07:02:43.194Z",
   "teams": {
     "Estoril": {
       "team": "Estoril",
@@ -546,33 +546,53 @@
           "xg_movel_5": 0.62,
           "xga_movel_5": 1.59,
           "xgd_movel_5": -0.97
+        },
+        {
+          "rodada": 9,
+          "data": "2026-10-23T19:45:00Z",
+          "local": "Fora",
+          "adversario": "Vitória de Guimarães",
+          "gols_pro": 0,
+          "gols_contra": 5,
+          "placar": "0 x 5",
+          "xg": 0.52,
+          "xga": 1.78,
+          "xgd": -1.26,
+          "posse": 42,
+          "chutes": 10,
+          "chutes_no_gol": 2,
+          "escanteios": 5,
+          "desarmes": 13,
+          "xg_movel_5": 0.59,
+          "xga_movel_5": 1.64,
+          "xgd_movel_5": -1.05
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Piorando",
-          "variacao": -33.2,
-          "temporada": 0.93,
-          "ultimos_5": 0.62
+          "variacao": -33.8,
+          "temporada": 0.89,
+          "ultimos_5": 0.59
         },
         "defesa": {
           "status": "Piorando",
-          "variacao": -15,
-          "temporada": 1.38,
-          "ultimos_5": 1.59
+          "variacao": -14.7,
+          "temporada": 1.43,
+          "ultimos_5": 1.64
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -114.4,
-          "temporada": -0.45,
-          "ultimos_5": -0.97
+          "variacao": -94,
+          "temporada": -0.54,
+          "ultimos_5": -1.05
         }
       },
       "resumo": {
-        "jogos": 8,
-        "xg_medio": 0.93,
-        "xga_medio": 1.38,
-        "xgd_medio": -0.45
+        "jogos": 9,
+        "xg_medio": 0.89,
+        "xga_medio": 1.43,
+        "xgd_medio": -0.54
       }
     },
     "Casa Pia AC": {
@@ -928,33 +948,53 @@
           "xg_movel_5": 1.34,
           "xga_movel_5": 1.18,
           "xgd_movel_5": 0.17
+        },
+        {
+          "rodada": 9,
+          "data": "2026-10-23T19:45:00Z",
+          "local": "Casa",
+          "adversario": "Marítimo",
+          "gols_pro": 5,
+          "gols_contra": 0,
+          "placar": "5 x 0",
+          "xg": 1.78,
+          "xga": 0.52,
+          "xgd": 1.26,
+          "posse": 58,
+          "chutes": 16,
+          "chutes_no_gol": 8,
+          "escanteios": 6,
+          "desarmes": 17,
+          "xg_movel_5": 1.61,
+          "xga_movel_5": 1.1,
+          "xgd_movel_5": 0.51
         }
       ],
       "tendencia": {
         "ataque": {
-          "status": "Piorando",
-          "variacao": -17.8,
-          "temporada": 1.64,
-          "ultimos_5": 1.34
+          "status": "Estável",
+          "variacao": -2.7,
+          "temporada": 1.65,
+          "ultimos_5": 1.61
         },
         "defesa": {
           "status": "Piorando",
-          "variacao": -19.3,
-          "temporada": 0.99,
-          "ultimos_5": 1.18
+          "variacao": -17.1,
+          "temporada": 0.94,
+          "ultimos_5": 1.1
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -74.4,
-          "temporada": 0.65,
-          "ultimos_5": 0.17
+          "variacao": -28.7,
+          "temporada": 0.72,
+          "ultimos_5": 0.51
         }
       },
       "resumo": {
-        "jogos": 8,
-        "xg_medio": 1.64,
-        "xga_medio": 0.99,
-        "xgd_medio": 0.65
+        "jogos": 9,
+        "xg_medio": 1.65,
+        "xga_medio": 0.94,
+        "xgd_medio": 0.72
       }
     },
     "Arouca": {

@@ -1,135 +1,135 @@
 {
   "season": "2026/2027",
-  "updated_at": "2026-10-23T07:10:58.044Z",
+  "updated_at": "2026-10-24T07:01:16.419Z",
   "league": {
     "name": "Inglaterra 2a Div",
     "season": "2026/2027",
     "league_id": 48,
     "teams": 24,
     "stats": {
-      "games": 132,
+      "games": 133,
       "wins": 0,
       "draws": 0,
       "losses": 0,
-      "goals_for": 380,
+      "goals_for": 386,
       "goals_against": 0,
-      "total_goals": 380,
-      "avg_goals_for": 2.88,
+      "total_goals": 386,
+      "avg_goals_for": 2.9,
       "avg_goals_against": 0,
-      "avg_total_goals": 2.88,
-      "over_05_count": 124,
-      "over_15_count": 101,
-      "over_25_count": 81,
-      "over_35_count": 48,
-      "over_05": 93.9,
-      "over_15": 76.5,
-      "over_25": 61.4,
-      "over_35": 36.4,
-      "under_05": 6.1,
-      "under_15": 23.5,
-      "under_25": 38.6,
-      "under_35": 63.6,
-      "btts_count": 84,
-      "btts": 63.6,
+      "avg_total_goals": 2.9,
+      "over_05_count": 125,
+      "over_15_count": 102,
+      "over_25_count": 82,
+      "over_35_count": 49,
+      "over_05": 94,
+      "over_15": 76.7,
+      "over_25": 61.7,
+      "over_35": 36.8,
+      "under_05": 6,
+      "under_15": 23.3,
+      "under_25": 38.3,
+      "under_35": 63.2,
+      "btts_count": 85,
+      "btts": 63.9,
       "zero_zero_count": 8,
-      "zero_zero": 6.1,
+      "zero_zero": 6,
       "clean_sheets_count": 0,
       "clean_sheets": 0,
       "failed_to_score_count": 0,
       "failed_to_score": 0,
-      "xg_total": 377.39,
-      "xga_total": 377.39,
+      "xg_total": 382.47,
+      "xga_total": 382.47,
       "xgd_total": 0,
-      "xg": 2.86,
-      "xga": 2.86,
+      "xg": 2.88,
+      "xga": 2.88,
       "xgd": 0,
-      "xg_open_play_total": 260.79999999999984,
-      "xg_open_play": 1.98,
-      "xg_set_play_total": 96.04000000000002,
+      "xg_open_play_total": 264.86999999999983,
+      "xg_open_play": 1.99,
+      "xg_set_play_total": 97.05000000000001,
       "xg_set_play": 0.73,
-      "xg_non_penalty_total": 356.87999999999954,
-      "xg_non_penalty": 2.7,
-      "xgot_total": 355.9999999999999,
-      "xgot": 2.7,
-      "xgot_conceded_total": 355.9999999999999,
-      "xgot_conceded": 2.7,
-      "shots_total_sum": 3571,
-      "shots_total_avg": 27.05,
-      "shots_on_target_sum": 1129,
-      "shots_on_target_avg": 8.55,
-      "shots_off_target_sum": 1407,
-      "shots_off_target_avg": 10.66,
-      "shots_blocked_sum": 1035,
-      "shots_blocked_avg": 7.84,
+      "xg_non_penalty_total": 361.9599999999996,
+      "xg_non_penalty": 2.72,
+      "xgot_total": 361.3799999999999,
+      "xgot": 2.72,
+      "xgot_conceded_total": 361.3799999999999,
+      "xgot_conceded": 2.72,
+      "shots_total_sum": 3614,
+      "shots_total_avg": 27.17,
+      "shots_on_target_sum": 1145,
+      "shots_on_target_avg": 8.61,
+      "shots_off_target_sum": 1420,
+      "shots_off_target_avg": 10.68,
+      "shots_blocked_sum": 1049,
+      "shots_blocked_avg": 7.89,
       "shots_woodwork_sum": 77,
       "shots_woodwork_avg": 0.58,
-      "shots_inside_box_sum": 2381,
-      "shots_inside_box_avg": 18.04,
-      "shots_outside_box_sum": 1190,
-      "shots_outside_box_avg": 9.02,
-      "shots_conceded_total_sum": 3571,
-      "shots_conceded_avg": 27.05,
-      "shots_on_target_conceded_sum": 1129,
-      "shots_on_target_conceded_avg": 8.55,
-      "shots_inside_box_conceded_sum": 2381,
-      "shots_inside_box_conceded_avg": 18.04,
-      "possession_sum": 13200,
+      "shots_inside_box_sum": 2408,
+      "shots_inside_box_avg": 18.11,
+      "shots_outside_box_sum": 1206,
+      "shots_outside_box_avg": 9.07,
+      "shots_conceded_total_sum": 3614,
+      "shots_conceded_avg": 27.17,
+      "shots_on_target_conceded_sum": 1145,
+      "shots_on_target_conceded_avg": 8.61,
+      "shots_inside_box_conceded_sum": 2408,
+      "shots_inside_box_conceded_avg": 18.11,
+      "possession_sum": 13300,
       "possession_avg": 100,
-      "passes_accurate_sum": 88062,
-      "passes_accurate_avg": 667.14,
-      "passes_accuracy_pct_sum": 20762,
-      "passes_accuracy_pct_count": 264,
-      "passes_accuracy_pct_avg": 78.6,
-      "passes_own_half_sum": 45540,
-      "passes_own_half_avg": 345,
-      "passes_opp_half_sum": 42522,
-      "passes_opp_half_avg": 322.14,
-      "long_balls_accurate_sum": 5735,
-      "long_balls_accurate_avg": 43.45,
-      "crosses_accurate_sum": 1206,
-      "crosses_accurate_avg": 9.14,
-      "crosses_accuracy_pct_sum": 6417,
-      "crosses_accuracy_pct_count": 264,
+      "passes_accurate_sum": 88864,
+      "passes_accurate_avg": 668.15,
+      "passes_accuracy_pct_sum": 20935,
+      "passes_accuracy_pct_count": 266,
+      "passes_accuracy_pct_avg": 78.7,
+      "passes_own_half_sum": 45978,
+      "passes_own_half_avg": 345.7,
+      "passes_opp_half_sum": 42886,
+      "passes_opp_half_avg": 322.45,
+      "long_balls_accurate_sum": 5789,
+      "long_balls_accurate_avg": 43.53,
+      "crosses_accurate_sum": 1213,
+      "crosses_accurate_avg": 9.12,
+      "crosses_accuracy_pct_sum": 6464,
+      "crosses_accuracy_pct_count": 266,
       "crosses_accuracy_pct_avg": 24.3,
-      "touches_opp_box_sum": 6214,
-      "touches_opp_box_avg": 47.08,
-      "touches_opp_box_conceded_sum": 6214,
-      "touches_opp_box_conceded_avg": 47.08,
-      "offsides_sum": 595,
-      "offsides_avg": 4.51,
-      "big_chances_sum": 624,
-      "big_chances_avg": 4.73,
-      "big_chances_missed_sum": 410,
+      "touches_opp_box_sum": 6282,
+      "touches_opp_box_avg": 47.23,
+      "touches_opp_box_conceded_sum": 6282,
+      "touches_opp_box_conceded_avg": 47.23,
+      "offsides_sum": 599,
+      "offsides_avg": 4.5,
+      "big_chances_sum": 630,
+      "big_chances_avg": 4.74,
+      "big_chances_missed_sum": 413,
       "big_chances_missed_avg": 3.11,
-      "tackles_sum": 4026,
-      "tackles_avg": 30.5,
-      "interceptions_sum": 2304,
-      "interceptions_avg": 17.45,
-      "blocks_sum": 1042,
-      "blocks_avg": 7.89,
-      "clearances_sum": 7120,
-      "clearances_avg": 53.94,
-      "keeper_saves_sum": 734,
-      "keeper_saves_avg": 5.56,
-      "duels_won_sum": 12808,
-      "duels_won_avg": 97.03,
-      "ground_duels_won_sum": 8429,
-      "ground_duels_won_avg": 63.86,
-      "aerial_duels_won_sum": 4379,
-      "aerial_duels_won_avg": 33.17,
-      "dribbles_won_sum": 1592,
-      "dribbles_won_avg": 12.06,
-      "corners_sum": 1366,
-      "corners_avg": 10.35,
-      "corners_conceded_sum": 1366,
-      "corners_conceded_avg": 10.35,
-      "corners_total_avg": 20.7,
-      "yellow_cards_sum": 500,
-      "yellow_cards_avg": 3.79,
+      "tackles_sum": 4047,
+      "tackles_avg": 30.43,
+      "interceptions_sum": 2320,
+      "interceptions_avg": 17.44,
+      "blocks_sum": 1055,
+      "blocks_avg": 7.93,
+      "clearances_sum": 7156,
+      "clearances_avg": 53.8,
+      "keeper_saves_sum": 745,
+      "keeper_saves_avg": 5.6,
+      "duels_won_sum": 12879,
+      "duels_won_avg": 96.83,
+      "ground_duels_won_sum": 8480,
+      "ground_duels_won_avg": 63.76,
+      "aerial_duels_won_sum": 4399,
+      "aerial_duels_won_avg": 33.08,
+      "dribbles_won_sum": 1605,
+      "dribbles_won_avg": 12.07,
+      "corners_sum": 1380,
+      "corners_avg": 10.38,
+      "corners_conceded_sum": 1380,
+      "corners_conceded_avg": 10.38,
+      "corners_total_avg": 20.76,
+      "yellow_cards_sum": 501,
+      "yellow_cards_avg": 3.77,
       "red_cards_sum": 19,
       "red_cards_avg": 0.14,
-      "fouls_sum": 2940,
-      "fouls_avg": 22.27,
+      "fouls_sum": 2958,
+      "fouls_avg": 22.24,
       "points": 0,
       "points_per_game": 0
     }
@@ -909,258 +909,258 @@
       "team": "Bolton Wanderers",
       "id": 8559,
       "geral": {
-        "games": 11,
+        "games": 12,
         "wins": 4,
         "draws": 2,
-        "losses": 5,
-        "goals_for": 15,
-        "goals_against": 18,
-        "total_goals": 33,
-        "avg_goals_for": 1.36,
-        "avg_goals_against": 1.64,
-        "avg_total_goals": 3,
-        "over_05_count": 9,
-        "over_15_count": 7,
-        "over_25_count": 7,
-        "over_35_count": 5,
-        "over_05": 81.8,
-        "over_15": 63.6,
-        "over_25": 63.6,
-        "over_35": 45.5,
-        "under_05": 18.2,
-        "under_15": 36.4,
-        "under_25": 36.4,
-        "under_35": 54.5,
-        "btts_count": 6,
-        "btts": 54.5,
+        "losses": 6,
+        "goals_for": 16,
+        "goals_against": 23,
+        "total_goals": 39,
+        "avg_goals_for": 1.33,
+        "avg_goals_against": 1.92,
+        "avg_total_goals": 3.25,
+        "over_05_count": 10,
+        "over_15_count": 8,
+        "over_25_count": 8,
+        "over_35_count": 6,
+        "over_05": 83.3,
+        "over_15": 66.7,
+        "over_25": 66.7,
+        "over_35": 50,
+        "under_05": 16.7,
+        "under_15": 33.3,
+        "under_25": 33.3,
+        "under_35": 50,
+        "btts_count": 7,
+        "btts": 58.3,
         "zero_zero_count": 2,
-        "zero_zero": 18.2,
+        "zero_zero": 16.7,
         "clean_sheets_count": 3,
-        "clean_sheets": 27.3,
+        "clean_sheets": 25,
         "failed_to_score_count": 4,
-        "failed_to_score": 36.4,
-        "xg_total": 15.64,
-        "xga_total": 19.39,
-        "xgd_total": -3.75,
-        "xg": 1.42,
-        "xga": 1.76,
-        "xgd": -0.34,
-        "xg_open_play_total": 12.34,
-        "xg_open_play": 1.12,
-        "xg_set_play_total": 2.52,
-        "xg_set_play": 0.23,
-        "xg_non_penalty_total": 14.849999999999998,
-        "xg_non_penalty": 1.35,
-        "xgot_total": 14.479999999999999,
-        "xgot": 1.32,
-        "xgot_conceded_total": 20.16,
-        "xgot_conceded": 1.83,
-        "shots_total_sum": 152,
-        "shots_total_avg": 13.82,
-        "shots_on_target_sum": 52,
-        "shots_on_target_avg": 4.73,
-        "shots_off_target_sum": 62,
-        "shots_off_target_avg": 5.64,
-        "shots_blocked_sum": 38,
-        "shots_blocked_avg": 3.45,
+        "failed_to_score": 33.3,
+        "xg_total": 16.55,
+        "xga_total": 23.56,
+        "xgd_total": -7.01,
+        "xg": 1.38,
+        "xga": 1.96,
+        "xgd": -0.58,
+        "xg_open_play_total": 13.23,
+        "xg_open_play": 1.1,
+        "xg_set_play_total": 2.54,
+        "xg_set_play": 0.21,
+        "xg_non_penalty_total": 15.759999999999998,
+        "xg_non_penalty": 1.31,
+        "xgot_total": 14.929999999999998,
+        "xgot": 1.24,
+        "xgot_conceded_total": 25.09,
+        "xgot_conceded": 2.09,
+        "shots_total_sum": 164,
+        "shots_total_avg": 13.67,
+        "shots_on_target_sum": 56,
+        "shots_on_target_avg": 4.67,
+        "shots_off_target_sum": 67,
+        "shots_off_target_avg": 5.58,
+        "shots_blocked_sum": 41,
+        "shots_blocked_avg": 3.42,
         "shots_woodwork_sum": 3,
-        "shots_woodwork_avg": 0.27,
-        "shots_inside_box_sum": 106,
-        "shots_inside_box_avg": 9.64,
-        "shots_outside_box_sum": 46,
-        "shots_outside_box_avg": 4.18,
-        "shots_conceded_total_sum": 142,
-        "shots_conceded_avg": 12.91,
-        "shots_on_target_conceded_sum": 55,
-        "shots_on_target_conceded_avg": 5,
-        "shots_inside_box_conceded_sum": 111,
-        "shots_inside_box_conceded_avg": 10.09,
-        "possession_sum": 554,
-        "possession_avg": 50.36,
-        "passes_accurate_sum": 3605,
-        "passes_accurate_avg": 327.73,
-        "passes_accuracy_pct_sum": 873,
-        "passes_accuracy_pct_count": 11,
-        "passes_accuracy_pct_avg": 79.4,
-        "passes_own_half_sum": 1982,
-        "passes_own_half_avg": 180.18,
-        "passes_opp_half_sum": 1623,
-        "passes_opp_half_avg": 147.55,
-        "long_balls_accurate_sum": 287,
-        "long_balls_accurate_avg": 26.09,
-        "crosses_accurate_sum": 47,
-        "crosses_accurate_avg": 4.27,
-        "crosses_accuracy_pct_sum": 261,
-        "crosses_accuracy_pct_count": 11,
-        "crosses_accuracy_pct_avg": 23.7,
-        "touches_opp_box_sum": 273,
-        "touches_opp_box_avg": 24.82,
-        "touches_opp_box_conceded_sum": 288,
-        "touches_opp_box_conceded_avg": 26.18,
+        "shots_woodwork_avg": 0.25,
+        "shots_inside_box_sum": 113,
+        "shots_inside_box_avg": 9.42,
+        "shots_outside_box_sum": 51,
+        "shots_outside_box_avg": 4.25,
+        "shots_conceded_total_sum": 173,
+        "shots_conceded_avg": 14.42,
+        "shots_on_target_conceded_sum": 67,
+        "shots_on_target_conceded_avg": 5.58,
+        "shots_inside_box_conceded_sum": 131,
+        "shots_inside_box_conceded_avg": 10.92,
+        "possession_sum": 593,
+        "possession_avg": 49.42,
+        "passes_accurate_sum": 3913,
+        "passes_accurate_avg": 326.08,
+        "passes_accuracy_pct_sum": 957,
+        "passes_accuracy_pct_count": 12,
+        "passes_accuracy_pct_avg": 79.8,
+        "passes_own_half_sum": 2161,
+        "passes_own_half_avg": 180.08,
+        "passes_opp_half_sum": 1752,
+        "passes_opp_half_avg": 146,
+        "long_balls_accurate_sum": 317,
+        "long_balls_accurate_avg": 26.42,
+        "crosses_accurate_sum": 49,
+        "crosses_accurate_avg": 4.08,
+        "crosses_accuracy_pct_sum": 286,
+        "crosses_accuracy_pct_count": 12,
+        "crosses_accuracy_pct_avg": 23.8,
+        "touches_opp_box_sum": 294,
+        "touches_opp_box_avg": 24.5,
+        "touches_opp_box_conceded_sum": 335,
+        "touches_opp_box_conceded_avg": 27.92,
         "offsides_sum": 17,
-        "offsides_avg": 1.55,
+        "offsides_avg": 1.42,
         "big_chances_sum": 25,
-        "big_chances_avg": 2.27,
+        "big_chances_avg": 2.08,
         "big_chances_missed_sum": 19,
-        "big_chances_missed_avg": 1.73,
-        "tackles_sum": 172,
-        "tackles_avg": 15.64,
-        "interceptions_sum": 114,
-        "interceptions_avg": 10.36,
-        "blocks_sum": 31,
-        "blocks_avg": 2.82,
-        "clearances_sum": 307,
-        "clearances_avg": 27.91,
-        "keeper_saves_sum": 36,
-        "keeper_saves_avg": 3.27,
-        "duels_won_sum": 536,
-        "duels_won_avg": 48.73,
-        "ground_duels_won_sum": 345,
-        "ground_duels_won_avg": 31.36,
-        "aerial_duels_won_sum": 191,
-        "aerial_duels_won_avg": 17.36,
-        "dribbles_won_sum": 60,
-        "dribbles_won_avg": 5.45,
-        "corners_sum": 59,
-        "corners_avg": 5.36,
-        "corners_conceded_sum": 58,
-        "corners_conceded_avg": 5.27,
-        "corners_total_avg": 10.63,
-        "yellow_cards_sum": 19,
-        "yellow_cards_avg": 1.73,
+        "big_chances_missed_avg": 1.58,
+        "tackles_sum": 183,
+        "tackles_avg": 15.25,
+        "interceptions_sum": 126,
+        "interceptions_avg": 10.5,
+        "blocks_sum": 41,
+        "blocks_avg": 3.42,
+        "clearances_sum": 336,
+        "clearances_avg": 28,
+        "keeper_saves_sum": 44,
+        "keeper_saves_avg": 3.67,
+        "duels_won_sum": 571,
+        "duels_won_avg": 47.58,
+        "ground_duels_won_sum": 370,
+        "ground_duels_won_avg": 30.83,
+        "aerial_duels_won_sum": 201,
+        "aerial_duels_won_avg": 16.75,
+        "dribbles_won_sum": 65,
+        "dribbles_won_avg": 5.42,
+        "corners_sum": 61,
+        "corners_avg": 5.08,
+        "corners_conceded_sum": 70,
+        "corners_conceded_avg": 5.83,
+        "corners_total_avg": 10.91,
+        "yellow_cards_sum": 20,
+        "yellow_cards_avg": 1.67,
         "red_cards_sum": 1,
-        "red_cards_avg": 0.09,
-        "fouls_sum": 119,
-        "fouls_avg": 10.82,
+        "red_cards_avg": 0.08,
+        "fouls_sum": 128,
+        "fouls_avg": 10.67,
         "points": 14,
-        "points_per_game": 1.27
+        "points_per_game": 1.17
       },
       "mandante": {
-        "games": 5,
+        "games": 6,
         "wins": 2,
         "draws": 0,
-        "losses": 3,
-        "goals_for": 6,
-        "goals_against": 7,
-        "total_goals": 13,
-        "avg_goals_for": 1.2,
-        "avg_goals_against": 1.4,
-        "avg_total_goals": 2.6,
-        "over_05_count": 5,
-        "over_15_count": 3,
-        "over_25_count": 3,
-        "over_35_count": 1,
+        "losses": 4,
+        "goals_for": 7,
+        "goals_against": 12,
+        "total_goals": 19,
+        "avg_goals_for": 1.17,
+        "avg_goals_against": 2,
+        "avg_total_goals": 3.17,
+        "over_05_count": 6,
+        "over_15_count": 4,
+        "over_25_count": 4,
+        "over_35_count": 2,
         "over_05": 100,
-        "over_15": 60,
-        "over_25": 60,
-        "over_35": 20,
+        "over_15": 66.7,
+        "over_25": 66.7,
+        "over_35": 33.3,
         "under_05": 0,
-        "under_15": 40,
-        "under_25": 40,
-        "under_35": 80,
-        "btts_count": 3,
-        "btts": 60,
+        "under_15": 33.3,
+        "under_25": 33.3,
+        "under_35": 66.7,
+        "btts_count": 4,
+        "btts": 66.7,
         "zero_zero_count": 0,
         "zero_zero": 0,
         "clean_sheets_count": 1,
-        "clean_sheets": 20,
+        "clean_sheets": 16.7,
         "failed_to_score_count": 1,
-        "failed_to_score": 20,
-        "xg_total": 8.16,
-        "xga_total": 7.19,
-        "xgd_total": 0.97,
-        "xg": 1.63,
-        "xga": 1.44,
-        "xgd": 0.19,
-        "xg_open_play_total": 5.7,
-        "xg_open_play": 1.14,
-        "xg_set_play_total": 1.6800000000000002,
-        "xg_set_play": 0.34,
-        "xg_non_penalty_total": 7.37,
-        "xg_non_penalty": 1.47,
-        "xgot_total": 6.88,
-        "xgot": 1.38,
-        "xgot_conceded_total": 9.49,
-        "xgot_conceded": 1.9,
-        "shots_total_sum": 86,
-        "shots_total_avg": 17.2,
-        "shots_on_target_sum": 28,
-        "shots_on_target_avg": 5.6,
-        "shots_off_target_sum": 39,
-        "shots_off_target_avg": 7.8,
-        "shots_blocked_sum": 19,
-        "shots_blocked_avg": 3.8,
+        "failed_to_score": 16.7,
+        "xg_total": 9.07,
+        "xga_total": 11.36,
+        "xgd_total": -2.29,
+        "xg": 1.51,
+        "xga": 1.89,
+        "xgd": -0.38,
+        "xg_open_play_total": 6.59,
+        "xg_open_play": 1.1,
+        "xg_set_play_total": 1.7000000000000002,
+        "xg_set_play": 0.28,
+        "xg_non_penalty_total": 8.28,
+        "xg_non_penalty": 1.38,
+        "xgot_total": 7.33,
+        "xgot": 1.22,
+        "xgot_conceded_total": 14.42,
+        "xgot_conceded": 2.4,
+        "shots_total_sum": 98,
+        "shots_total_avg": 16.33,
+        "shots_on_target_sum": 32,
+        "shots_on_target_avg": 5.33,
+        "shots_off_target_sum": 44,
+        "shots_off_target_avg": 7.33,
+        "shots_blocked_sum": 22,
+        "shots_blocked_avg": 3.67,
         "shots_woodwork_sum": 1,
-        "shots_woodwork_avg": 0.2,
-        "shots_inside_box_sum": 56,
-        "shots_inside_box_avg": 11.2,
-        "shots_outside_box_sum": 30,
-        "shots_outside_box_avg": 6,
-        "shots_conceded_total_sum": 55,
-        "shots_conceded_avg": 11,
-        "shots_on_target_conceded_sum": 26,
-        "shots_on_target_conceded_avg": 5.2,
-        "shots_inside_box_conceded_sum": 44,
-        "shots_inside_box_conceded_avg": 8.8,
-        "possession_sum": 283,
-        "possession_avg": 56.6,
-        "passes_accurate_sum": 1866,
-        "passes_accurate_avg": 373.2,
-        "passes_accuracy_pct_sum": 410,
-        "passes_accuracy_pct_count": 5,
-        "passes_accuracy_pct_avg": 82,
-        "passes_own_half_sum": 884,
-        "passes_own_half_avg": 176.8,
-        "passes_opp_half_sum": 982,
-        "passes_opp_half_avg": 196.4,
-        "long_balls_accurate_sum": 135,
-        "long_balls_accurate_avg": 27,
-        "crosses_accurate_sum": 23,
-        "crosses_accurate_avg": 4.6,
-        "crosses_accuracy_pct_sum": 86,
-        "crosses_accuracy_pct_count": 5,
-        "crosses_accuracy_pct_avg": 17.2,
-        "touches_opp_box_sum": 146,
-        "touches_opp_box_avg": 29.2,
-        "touches_opp_box_conceded_sum": 120,
-        "touches_opp_box_conceded_avg": 24,
+        "shots_woodwork_avg": 0.17,
+        "shots_inside_box_sum": 63,
+        "shots_inside_box_avg": 10.5,
+        "shots_outside_box_sum": 35,
+        "shots_outside_box_avg": 5.83,
+        "shots_conceded_total_sum": 86,
+        "shots_conceded_avg": 14.33,
+        "shots_on_target_conceded_sum": 38,
+        "shots_on_target_conceded_avg": 6.33,
+        "shots_inside_box_conceded_sum": 64,
+        "shots_inside_box_conceded_avg": 10.67,
+        "possession_sum": 322,
+        "possession_avg": 53.67,
+        "passes_accurate_sum": 2174,
+        "passes_accurate_avg": 362.33,
+        "passes_accuracy_pct_sum": 494,
+        "passes_accuracy_pct_count": 6,
+        "passes_accuracy_pct_avg": 82.3,
+        "passes_own_half_sum": 1063,
+        "passes_own_half_avg": 177.17,
+        "passes_opp_half_sum": 1111,
+        "passes_opp_half_avg": 185.17,
+        "long_balls_accurate_sum": 165,
+        "long_balls_accurate_avg": 27.5,
+        "crosses_accurate_sum": 25,
+        "crosses_accurate_avg": 4.17,
+        "crosses_accuracy_pct_sum": 111,
+        "crosses_accuracy_pct_count": 6,
+        "crosses_accuracy_pct_avg": 18.5,
+        "touches_opp_box_sum": 167,
+        "touches_opp_box_avg": 27.83,
+        "touches_opp_box_conceded_sum": 167,
+        "touches_opp_box_conceded_avg": 27.83,
         "offsides_sum": 8,
-        "offsides_avg": 1.6,
+        "offsides_avg": 1.33,
         "big_chances_sum": 13,
-        "big_chances_avg": 2.6,
+        "big_chances_avg": 2.17,
         "big_chances_missed_sum": 10,
-        "big_chances_missed_avg": 2,
-        "tackles_sum": 86,
-        "tackles_avg": 17.2,
-        "interceptions_sum": 58,
-        "interceptions_avg": 11.6,
-        "blocks_sum": 12,
-        "blocks_avg": 2.4,
-        "clearances_sum": 115,
-        "clearances_avg": 23,
-        "keeper_saves_sum": 19,
-        "keeper_saves_avg": 3.8,
-        "duels_won_sum": 261,
-        "duels_won_avg": 52.2,
-        "ground_duels_won_sum": 180,
-        "ground_duels_won_avg": 36,
-        "aerial_duels_won_sum": 81,
-        "aerial_duels_won_avg": 16.2,
-        "dribbles_won_sum": 37,
-        "dribbles_won_avg": 7.4,
-        "corners_sum": 35,
-        "corners_avg": 7,
-        "corners_conceded_sum": 22,
-        "corners_conceded_avg": 4.4,
-        "corners_total_avg": 11.4,
-        "yellow_cards_sum": 8,
-        "yellow_cards_avg": 1.6,
+        "big_chances_missed_avg": 1.67,
+        "tackles_sum": 97,
+        "tackles_avg": 16.17,
+        "interceptions_sum": 70,
+        "interceptions_avg": 11.67,
+        "blocks_sum": 22,
+        "blocks_avg": 3.67,
+        "clearances_sum": 144,
+        "clearances_avg": 24,
+        "keeper_saves_sum": 27,
+        "keeper_saves_avg": 4.5,
+        "duels_won_sum": 296,
+        "duels_won_avg": 49.33,
+        "ground_duels_won_sum": 205,
+        "ground_duels_won_avg": 34.17,
+        "aerial_duels_won_sum": 91,
+        "aerial_duels_won_avg": 15.17,
+        "dribbles_won_sum": 42,
+        "dribbles_won_avg": 7,
+        "corners_sum": 37,
+        "corners_avg": 6.17,
+        "corners_conceded_sum": 34,
+        "corners_conceded_avg": 5.67,
+        "corners_total_avg": 11.84,
+        "yellow_cards_sum": 9,
+        "yellow_cards_avg": 1.5,
         "red_cards_sum": 0,
         "red_cards_avg": 0,
-        "fouls_sum": 49,
-        "fouls_avg": 9.8,
+        "fouls_sum": 58,
+        "fouls_avg": 9.67,
         "points": 6,
-        "points_per_game": 1.2
+        "points_per_game": 1
       },
       "visitante": {
         "games": 6,
@@ -3219,131 +3219,131 @@
       "team": "Middlesbrough",
       "id": 8549,
       "geral": {
-        "games": 11,
-        "wins": 6,
+        "games": 12,
+        "wins": 7,
         "draws": 4,
         "losses": 1,
-        "goals_for": 22,
-        "goals_against": 16,
-        "total_goals": 38,
-        "avg_goals_for": 2,
-        "avg_goals_against": 1.45,
-        "avg_total_goals": 3.45,
-        "over_05_count": 11,
-        "over_15_count": 9,
-        "over_25_count": 8,
-        "over_35_count": 6,
+        "goals_for": 27,
+        "goals_against": 17,
+        "total_goals": 44,
+        "avg_goals_for": 2.25,
+        "avg_goals_against": 1.42,
+        "avg_total_goals": 3.67,
+        "over_05_count": 12,
+        "over_15_count": 10,
+        "over_25_count": 9,
+        "over_35_count": 7,
         "over_05": 100,
-        "over_15": 81.8,
-        "over_25": 72.7,
-        "over_35": 54.5,
+        "over_15": 83.3,
+        "over_25": 75,
+        "over_35": 58.3,
         "under_05": 0,
-        "under_15": 18.2,
-        "under_25": 27.3,
-        "under_35": 45.5,
-        "btts_count": 9,
-        "btts": 81.8,
+        "under_15": 16.7,
+        "under_25": 25,
+        "under_35": 41.7,
+        "btts_count": 10,
+        "btts": 83.3,
         "zero_zero_count": 0,
         "zero_zero": 0,
         "clean_sheets_count": 2,
-        "clean_sheets": 18.2,
+        "clean_sheets": 16.7,
         "failed_to_score_count": 0,
         "failed_to_score": 0,
-        "xg_total": 21.9,
-        "xga_total": 11.34,
-        "xgd_total": 10.56,
-        "xg": 1.99,
-        "xga": 1.03,
-        "xgd": 0.96,
-        "xg_open_play_total": 15.809999999999999,
-        "xg_open_play": 1.44,
-        "xg_set_play_total": 6.1000000000000005,
-        "xg_set_play": 0.55,
-        "xg_non_penalty_total": 21.9,
-        "xg_non_penalty": 1.99,
-        "xgot_total": 21.96,
-        "xgot": 2,
-        "xgot_conceded_total": 12.059999999999999,
-        "xgot_conceded": 1.1,
-        "shots_total_sum": 210,
-        "shots_total_avg": 19.09,
-        "shots_on_target_sum": 68,
-        "shots_on_target_avg": 6.18,
-        "shots_off_target_sum": 70,
-        "shots_off_target_avg": 6.36,
-        "shots_blocked_sum": 72,
-        "shots_blocked_avg": 6.55,
+        "xg_total": 26.07,
+        "xga_total": 12.25,
+        "xgd_total": 13.82,
+        "xg": 2.17,
+        "xga": 1.02,
+        "xgd": 1.15,
+        "xg_open_play_total": 18.99,
+        "xg_open_play": 1.58,
+        "xg_set_play_total": 7.090000000000001,
+        "xg_set_play": 0.59,
+        "xg_non_penalty_total": 26.07,
+        "xg_non_penalty": 2.17,
+        "xgot_total": 26.89,
+        "xgot": 2.24,
+        "xgot_conceded_total": 12.509999999999998,
+        "xgot_conceded": 1.04,
+        "shots_total_sum": 241,
+        "shots_total_avg": 20.08,
+        "shots_on_target_sum": 80,
+        "shots_on_target_avg": 6.67,
+        "shots_off_target_sum": 78,
+        "shots_off_target_avg": 6.5,
+        "shots_blocked_sum": 83,
+        "shots_blocked_avg": 6.92,
         "shots_woodwork_sum": 6,
-        "shots_woodwork_avg": 0.55,
-        "shots_inside_box_sum": 136,
-        "shots_inside_box_avg": 12.36,
-        "shots_outside_box_sum": 74,
-        "shots_outside_box_avg": 6.73,
-        "shots_conceded_total_sum": 121,
-        "shots_conceded_avg": 11,
-        "shots_on_target_conceded_sum": 39,
-        "shots_on_target_conceded_avg": 3.55,
-        "shots_inside_box_conceded_sum": 80,
-        "shots_inside_box_conceded_avg": 7.27,
-        "possession_sum": 657,
-        "possession_avg": 59.73,
-        "passes_accurate_sum": 5084,
-        "passes_accurate_avg": 462.18,
-        "passes_accuracy_pct_sum": 951,
-        "passes_accuracy_pct_count": 11,
-        "passes_accuracy_pct_avg": 86.5,
-        "passes_own_half_sum": 2314,
-        "passes_own_half_avg": 210.36,
-        "passes_opp_half_sum": 2770,
-        "passes_opp_half_avg": 251.82,
-        "long_balls_accurate_sum": 216,
-        "long_balls_accurate_avg": 19.64,
-        "crosses_accurate_sum": 69,
-        "crosses_accurate_avg": 6.27,
-        "crosses_accuracy_pct_sum": 303,
-        "crosses_accuracy_pct_count": 11,
-        "crosses_accuracy_pct_avg": 27.5,
-        "touches_opp_box_sum": 362,
-        "touches_opp_box_avg": 32.91,
-        "touches_opp_box_conceded_sum": 223,
-        "touches_opp_box_conceded_avg": 20.27,
-        "offsides_sum": 27,
-        "offsides_avg": 2.45,
-        "big_chances_sum": 38,
-        "big_chances_avg": 3.45,
-        "big_chances_missed_sum": 23,
-        "big_chances_missed_avg": 2.09,
-        "tackles_sum": 190,
-        "tackles_avg": 17.27,
-        "interceptions_sum": 82,
-        "interceptions_avg": 7.45,
-        "blocks_sum": 30,
-        "blocks_avg": 2.73,
-        "clearances_sum": 249,
-        "clearances_avg": 22.64,
-        "keeper_saves_sum": 23,
-        "keeper_saves_avg": 2.09,
-        "duels_won_sum": 511,
-        "duels_won_avg": 46.45,
-        "ground_duels_won_sum": 366,
-        "ground_duels_won_avg": 33.27,
-        "aerial_duels_won_sum": 145,
-        "aerial_duels_won_avg": 13.18,
-        "dribbles_won_sum": 79,
-        "dribbles_won_avg": 7.18,
-        "corners_sum": 64,
-        "corners_avg": 5.82,
-        "corners_conceded_sum": 55,
-        "corners_conceded_avg": 5,
-        "corners_total_avg": 10.82,
+        "shots_woodwork_avg": 0.5,
+        "shots_inside_box_sum": 156,
+        "shots_inside_box_avg": 13,
+        "shots_outside_box_sum": 85,
+        "shots_outside_box_avg": 7.08,
+        "shots_conceded_total_sum": 133,
+        "shots_conceded_avg": 11.08,
+        "shots_on_target_conceded_sum": 43,
+        "shots_on_target_conceded_avg": 3.58,
+        "shots_inside_box_conceded_sum": 87,
+        "shots_inside_box_conceded_avg": 7.25,
+        "possession_sum": 718,
+        "possession_avg": 59.83,
+        "passes_accurate_sum": 5578,
+        "passes_accurate_avg": 464.83,
+        "passes_accuracy_pct_sum": 1040,
+        "passes_accuracy_pct_count": 12,
+        "passes_accuracy_pct_avg": 86.7,
+        "passes_own_half_sum": 2573,
+        "passes_own_half_avg": 214.42,
+        "passes_opp_half_sum": 3005,
+        "passes_opp_half_avg": 250.42,
+        "long_balls_accurate_sum": 240,
+        "long_balls_accurate_avg": 20,
+        "crosses_accurate_sum": 74,
+        "crosses_accurate_avg": 6.17,
+        "crosses_accuracy_pct_sum": 325,
+        "crosses_accuracy_pct_count": 12,
+        "crosses_accuracy_pct_avg": 27.1,
+        "touches_opp_box_sum": 409,
+        "touches_opp_box_avg": 34.08,
+        "touches_opp_box_conceded_sum": 244,
+        "touches_opp_box_conceded_avg": 20.33,
+        "offsides_sum": 31,
+        "offsides_avg": 2.58,
+        "big_chances_sum": 44,
+        "big_chances_avg": 3.67,
+        "big_chances_missed_sum": 26,
+        "big_chances_missed_avg": 2.17,
+        "tackles_sum": 200,
+        "tackles_avg": 16.67,
+        "interceptions_sum": 86,
+        "interceptions_avg": 7.17,
+        "blocks_sum": 33,
+        "blocks_avg": 2.75,
+        "clearances_sum": 256,
+        "clearances_avg": 21.33,
+        "keeper_saves_sum": 26,
+        "keeper_saves_avg": 2.17,
+        "duels_won_sum": 547,
+        "duels_won_avg": 45.58,
+        "ground_duels_won_sum": 392,
+        "ground_duels_won_avg": 32.67,
+        "aerial_duels_won_sum": 155,
+        "aerial_duels_won_avg": 12.92,
+        "dribbles_won_sum": 87,
+        "dribbles_won_avg": 7.25,
+        "corners_sum": 76,
+        "corners_avg": 6.33,
+        "corners_conceded_sum": 57,
+        "corners_conceded_avg": 4.75,
+        "corners_total_avg": 11.08,
         "yellow_cards_sum": 12,
-        "yellow_cards_avg": 1.09,
+        "yellow_cards_avg": 1,
         "red_cards_sum": 0,
         "red_cards_avg": 0,
-        "fouls_sum": 111,
-        "fouls_avg": 10.09,
-        "points": 22,
-        "points_per_game": 2
+        "fouls_sum": 120,
+        "fouls_avg": 10,
+        "points": 25,
+        "points_per_game": 2.08
       },
       "mandante": {
         "games": 6,
@@ -3473,131 +3473,131 @@
         "points_per_game": 2.33
       },
       "visitante": {
-        "games": 5,
-        "wins": 2,
+        "games": 6,
+        "wins": 3,
         "draws": 2,
         "losses": 1,
-        "goals_for": 8,
-        "goals_against": 7,
-        "total_goals": 15,
-        "avg_goals_for": 1.6,
-        "avg_goals_against": 1.4,
-        "avg_total_goals": 3,
-        "over_05_count": 5,
-        "over_15_count": 4,
-        "over_25_count": 3,
-        "over_35_count": 2,
+        "goals_for": 13,
+        "goals_against": 8,
+        "total_goals": 21,
+        "avg_goals_for": 2.17,
+        "avg_goals_against": 1.33,
+        "avg_total_goals": 3.5,
+        "over_05_count": 6,
+        "over_15_count": 5,
+        "over_25_count": 4,
+        "over_35_count": 3,
         "over_05": 100,
-        "over_15": 80,
-        "over_25": 60,
-        "over_35": 40,
+        "over_15": 83.3,
+        "over_25": 66.7,
+        "over_35": 50,
         "under_05": 0,
-        "under_15": 20,
-        "under_25": 40,
-        "under_35": 60,
-        "btts_count": 4,
-        "btts": 80,
+        "under_15": 16.7,
+        "under_25": 33.3,
+        "under_35": 50,
+        "btts_count": 5,
+        "btts": 83.3,
         "zero_zero_count": 0,
         "zero_zero": 0,
         "clean_sheets_count": 1,
-        "clean_sheets": 20,
+        "clean_sheets": 16.7,
         "failed_to_score_count": 0,
         "failed_to_score": 0,
-        "xg_total": 9.56,
-        "xga_total": 4.47,
-        "xgd_total": 5.09,
-        "xg": 1.91,
-        "xga": 0.89,
-        "xgd": 1.02,
-        "xg_open_play_total": 6.69,
-        "xg_open_play": 1.34,
-        "xg_set_play_total": 2.89,
-        "xg_set_play": 0.58,
-        "xg_non_penalty_total": 9.56,
-        "xg_non_penalty": 1.91,
-        "xgot_total": 11.1,
-        "xgot": 2.22,
-        "xgot_conceded_total": 4.85,
-        "xgot_conceded": 0.97,
-        "shots_total_sum": 83,
-        "shots_total_avg": 16.6,
-        "shots_on_target_sum": 24,
-        "shots_on_target_avg": 4.8,
-        "shots_off_target_sum": 26,
-        "shots_off_target_avg": 5.2,
-        "shots_blocked_sum": 33,
-        "shots_blocked_avg": 6.6,
+        "xg_total": 13.73,
+        "xga_total": 5.38,
+        "xgd_total": 8.35,
+        "xg": 2.29,
+        "xga": 0.9,
+        "xgd": 1.39,
+        "xg_open_play_total": 9.870000000000001,
+        "xg_open_play": 1.65,
+        "xg_set_play_total": 3.88,
+        "xg_set_play": 0.65,
+        "xg_non_penalty_total": 13.73,
+        "xg_non_penalty": 2.29,
+        "xgot_total": 16.03,
+        "xgot": 2.67,
+        "xgot_conceded_total": 5.3,
+        "xgot_conceded": 0.88,
+        "shots_total_sum": 114,
+        "shots_total_avg": 19,
+        "shots_on_target_sum": 36,
+        "shots_on_target_avg": 6,
+        "shots_off_target_sum": 34,
+        "shots_off_target_avg": 5.67,
+        "shots_blocked_sum": 44,
+        "shots_blocked_avg": 7.33,
         "shots_woodwork_sum": 3,
-        "shots_woodwork_avg": 0.6,
-        "shots_inside_box_sum": 55,
-        "shots_inside_box_avg": 11,
-        "shots_outside_box_sum": 28,
-        "shots_outside_box_avg": 5.6,
-        "shots_conceded_total_sum": 56,
-        "shots_conceded_avg": 11.2,
-        "shots_on_target_conceded_sum": 19,
-        "shots_on_target_conceded_avg": 3.8,
-        "shots_inside_box_conceded_sum": 32,
-        "shots_inside_box_conceded_avg": 6.4,
-        "possession_sum": 295,
-        "possession_avg": 59,
-        "passes_accurate_sum": 2276,
-        "passes_accurate_avg": 455.2,
-        "passes_accuracy_pct_sum": 430,
-        "passes_accuracy_pct_count": 5,
-        "passes_accuracy_pct_avg": 86,
-        "passes_own_half_sum": 1011,
-        "passes_own_half_avg": 202.2,
-        "passes_opp_half_sum": 1265,
-        "passes_opp_half_avg": 253,
-        "long_balls_accurate_sum": 100,
-        "long_balls_accurate_avg": 20,
-        "crosses_accurate_sum": 29,
-        "crosses_accurate_avg": 5.8,
-        "crosses_accuracy_pct_sum": 132,
-        "crosses_accuracy_pct_count": 5,
-        "crosses_accuracy_pct_avg": 26.4,
-        "touches_opp_box_sum": 149,
-        "touches_opp_box_avg": 29.8,
-        "touches_opp_box_conceded_sum": 102,
-        "touches_opp_box_conceded_avg": 20.4,
-        "offsides_sum": 11,
-        "offsides_avg": 2.2,
-        "big_chances_sum": 15,
-        "big_chances_avg": 3,
-        "big_chances_missed_sum": 10,
-        "big_chances_missed_avg": 2,
-        "tackles_sum": 100,
-        "tackles_avg": 20,
-        "interceptions_sum": 37,
-        "interceptions_avg": 7.4,
-        "blocks_sum": 13,
-        "blocks_avg": 2.6,
-        "clearances_sum": 128,
-        "clearances_avg": 25.6,
-        "keeper_saves_sum": 14,
-        "keeper_saves_avg": 2.8,
-        "duels_won_sum": 253,
-        "duels_won_avg": 50.6,
-        "ground_duels_won_sum": 178,
-        "ground_duels_won_avg": 35.6,
-        "aerial_duels_won_sum": 75,
-        "aerial_duels_won_avg": 15,
-        "dribbles_won_sum": 36,
-        "dribbles_won_avg": 7.2,
-        "corners_sum": 20,
-        "corners_avg": 4,
-        "corners_conceded_sum": 28,
-        "corners_conceded_avg": 5.6,
-        "corners_total_avg": 9.6,
+        "shots_woodwork_avg": 0.5,
+        "shots_inside_box_sum": 75,
+        "shots_inside_box_avg": 12.5,
+        "shots_outside_box_sum": 39,
+        "shots_outside_box_avg": 6.5,
+        "shots_conceded_total_sum": 68,
+        "shots_conceded_avg": 11.33,
+        "shots_on_target_conceded_sum": 23,
+        "shots_on_target_conceded_avg": 3.83,
+        "shots_inside_box_conceded_sum": 39,
+        "shots_inside_box_conceded_avg": 6.5,
+        "possession_sum": 356,
+        "possession_avg": 59.33,
+        "passes_accurate_sum": 2770,
+        "passes_accurate_avg": 461.67,
+        "passes_accuracy_pct_sum": 519,
+        "passes_accuracy_pct_count": 6,
+        "passes_accuracy_pct_avg": 86.5,
+        "passes_own_half_sum": 1270,
+        "passes_own_half_avg": 211.67,
+        "passes_opp_half_sum": 1500,
+        "passes_opp_half_avg": 250,
+        "long_balls_accurate_sum": 124,
+        "long_balls_accurate_avg": 20.67,
+        "crosses_accurate_sum": 34,
+        "crosses_accurate_avg": 5.67,
+        "crosses_accuracy_pct_sum": 154,
+        "crosses_accuracy_pct_count": 6,
+        "crosses_accuracy_pct_avg": 25.7,
+        "touches_opp_box_sum": 196,
+        "touches_opp_box_avg": 32.67,
+        "touches_opp_box_conceded_sum": 123,
+        "touches_opp_box_conceded_avg": 20.5,
+        "offsides_sum": 15,
+        "offsides_avg": 2.5,
+        "big_chances_sum": 21,
+        "big_chances_avg": 3.5,
+        "big_chances_missed_sum": 13,
+        "big_chances_missed_avg": 2.17,
+        "tackles_sum": 110,
+        "tackles_avg": 18.33,
+        "interceptions_sum": 41,
+        "interceptions_avg": 6.83,
+        "blocks_sum": 16,
+        "blocks_avg": 2.67,
+        "clearances_sum": 135,
+        "clearances_avg": 22.5,
+        "keeper_saves_sum": 17,
+        "keeper_saves_avg": 2.83,
+        "duels_won_sum": 289,
+        "duels_won_avg": 48.17,
+        "ground_duels_won_sum": 204,
+        "ground_duels_won_avg": 34,
+        "aerial_duels_won_sum": 85,
+        "aerial_duels_won_avg": 14.17,
+        "dribbles_won_sum": 44,
+        "dribbles_won_avg": 7.33,
+        "corners_sum": 32,
+        "corners_avg": 5.33,
+        "corners_conceded_sum": 30,
+        "corners_conceded_avg": 5,
+        "corners_total_avg": 10.33,
         "yellow_cards_sum": 6,
-        "yellow_cards_avg": 1.2,
+        "yellow_cards_avg": 1,
         "red_cards_sum": 0,
         "red_cards_avg": 0,
-        "fouls_sum": 48,
-        "fouls_avg": 9.6,
-        "points": 8,
-        "points_per_game": 1.6
+        "fouls_sum": 57,
+        "fouls_avg": 9.5,
+        "points": 11,
+        "points_per_game": 1.83
       }
     },
     "Lincoln City": {
@@ -9456,7 +9456,7 @@
       },
       {
         "team": "Bolton Wanderers",
-        "value": 81.8
+        "value": 83.3
       },
       {
         "team": "Charlton Athletic",
@@ -9493,6 +9493,10 @@
         "value": 90.9
       },
       {
+        "team": "Middlesbrough",
+        "value": 83.3
+      },
+      {
         "team": "Blackburn Rovers",
         "value": 81.8
       },
@@ -9502,10 +9506,6 @@
       },
       {
         "team": "Derby County",
-        "value": 81.8
-      },
-      {
-        "team": "Middlesbrough",
         "value": 81.8
       },
       {
@@ -9550,7 +9550,7 @@
       },
       {
         "team": "Bolton Wanderers",
-        "value": 63.6
+        "value": 66.7
       },
       {
         "team": "Bristol City",
@@ -9579,15 +9579,15 @@
         "value": 81.8
       },
       {
+        "team": "Middlesbrough",
+        "value": 75
+      },
+      {
         "team": "Preston North End",
         "value": 72.7
       },
       {
         "team": "Millwall",
-        "value": 72.7
-      },
-      {
-        "team": "Middlesbrough",
         "value": 72.7
       },
       {
@@ -9611,11 +9611,11 @@
         "value": 72.7
       },
       {
-        "team": "Wolverhampton Wanderers",
-        "value": 63.6
+        "team": "Bolton Wanderers",
+        "value": 66.7
       },
       {
-        "team": "Bolton Wanderers",
+        "team": "Wolverhampton Wanderers",
         "value": 63.6
       },
       {
@@ -9673,15 +9673,15 @@
     ],
     "over_35": [
       {
+        "team": "Middlesbrough",
+        "value": 58.3
+      },
+      {
         "team": "Wolverhampton Wanderers",
         "value": 54.5
       },
       {
         "team": "Millwall",
-        "value": 54.5
-      },
-      {
-        "team": "Middlesbrough",
         "value": 54.5
       },
       {
@@ -9694,7 +9694,7 @@
       },
       {
         "team": "Bolton Wanderers",
-        "value": 45.5
+        "value": 50
       },
       {
         "team": "Preston North End",
@@ -9775,11 +9775,11 @@
         "value": 90.9
       },
       {
-        "team": "Blackburn Rovers",
-        "value": 81.8
+        "team": "Middlesbrough",
+        "value": 83.3
       },
       {
-        "team": "Middlesbrough",
+        "team": "Blackburn Rovers",
         "value": 81.8
       },
       {
@@ -9828,7 +9828,7 @@
       },
       {
         "team": "Bolton Wanderers",
-        "value": 54.5
+        "value": 58.3
       },
       {
         "team": "Bristol City",
@@ -9869,10 +9869,6 @@
     ],
     "zero_zero": [
       {
-        "team": "Bolton Wanderers",
-        "value": 18.2
-      },
-      {
         "team": "Charlton Athletic",
         "value": 18.2
       },
@@ -9887,6 +9883,10 @@
       {
         "team": "Sheffield United",
         "value": 18.2
+      },
+      {
+        "team": "Bolton Wanderers",
+        "value": 16.7
       },
       {
         "team": "Blackburn Rovers",
@@ -9972,7 +9972,7 @@
       },
       {
         "team": "Middlesbrough",
-        "value": 3.45
+        "value": 3.67
       },
       {
         "team": "Norwich City",
@@ -9985,6 +9985,10 @@
       {
         "team": "Millwall",
         "value": 3.27
+      },
+      {
+        "team": "Bolton Wanderers",
+        "value": 3.25
       },
       {
         "team": "Wolverhampton Wanderers",
@@ -10000,10 +10004,6 @@
       },
       {
         "team": "Blackburn Rovers",
-        "value": 3
-      },
-      {
-        "team": "Bolton Wanderers",
         "value": 3
       },
       {
@@ -10070,7 +10070,7 @@
       },
       {
         "team": "Middlesbrough",
-        "value": 2
+        "value": 2.25
       },
       {
         "team": "Southampton",
@@ -10113,10 +10113,6 @@
         "value": 1.45
       },
       {
-        "team": "Bolton Wanderers",
-        "value": 1.36
-      },
-      {
         "team": "West Bromwich Albion",
         "value": 1.36
       },
@@ -10131,6 +10127,10 @@
       {
         "team": "Wrexham",
         "value": 1.36
+      },
+      {
+        "team": "Bolton Wanderers",
+        "value": 1.33
       },
       {
         "team": "Portsmouth",
@@ -10167,6 +10167,10 @@
         "value": 2.18
       },
       {
+        "team": "Bolton Wanderers",
+        "value": 1.92
+      },
+      {
         "team": "Norwich City",
         "value": 1.91
       },
@@ -10187,10 +10191,6 @@
         "value": 1.73
       },
       {
-        "team": "Bolton Wanderers",
-        "value": 1.64
-      },
-      {
         "team": "Millwall",
         "value": 1.64
       },
@@ -10207,16 +10207,16 @@
         "value": 1.45
       },
       {
-        "team": "Middlesbrough",
-        "value": 1.45
-      },
-      {
         "team": "Stoke City",
         "value": 1.45
       },
       {
         "team": "Wrexham",
         "value": 1.45
+      },
+      {
+        "team": "Middlesbrough",
+        "value": 1.42
       },
       {
         "team": "Bristol City",
@@ -10261,12 +10261,12 @@
     ],
     "xg": [
       {
-        "team": "West Ham United",
-        "value": 2.16
+        "team": "Middlesbrough",
+        "value": 2.17
       },
       {
-        "team": "Middlesbrough",
-        "value": 1.99
+        "team": "West Ham United",
+        "value": 2.16
       },
       {
         "team": "Cardiff City",
@@ -10302,7 +10302,7 @@
       },
       {
         "team": "Bolton Wanderers",
-        "value": 1.42
+        "value": 1.38
       },
       {
         "team": "Bristol City",
@@ -10359,16 +10359,16 @@
     ],
     "xga": [
       {
+        "team": "Bolton Wanderers",
+        "value": 1.96
+      },
+      {
         "team": "Watford",
         "value": 1.88
       },
       {
         "team": "Blackburn Rovers",
         "value": 1.78
-      },
-      {
-        "team": "Bolton Wanderers",
-        "value": 1.76
       },
       {
         "team": "Derby County",
@@ -10448,7 +10448,7 @@
       },
       {
         "team": "Middlesbrough",
-        "value": 1.03
+        "value": 1.02
       },
       {
         "team": "Wolverhampton Wanderers",
@@ -10457,12 +10457,12 @@
     ],
     "xgd": [
       {
-        "team": "West Ham United",
-        "value": 1
+        "team": "Middlesbrough",
+        "value": 1.15
       },
       {
-        "team": "Middlesbrough",
-        "value": 0.96
+        "team": "West Ham United",
+        "value": 1
       },
       {
         "team": "Wolverhampton Wanderers",
@@ -10521,10 +10521,6 @@
         "value": -0.2
       },
       {
-        "team": "Bolton Wanderers",
-        "value": -0.34
-      },
-      {
         "team": "Sheffield United",
         "value": -0.44
       },
@@ -10535,6 +10531,10 @@
       {
         "team": "Charlton Athletic",
         "value": -0.56
+      },
+      {
+        "team": "Bolton Wanderers",
+        "value": -0.58
       },
       {
         "team": "Derby County",
@@ -10560,7 +10560,7 @@
       },
       {
         "team": "Middlesbrough",
-        "value": 59.73
+        "value": 59.83
       },
       {
         "team": "Swansea City",
@@ -10595,16 +10595,16 @@
         "value": 50.91
       },
       {
-        "team": "Bolton Wanderers",
-        "value": 50.36
-      },
-      {
         "team": "Derby County",
         "value": 49.45
       },
       {
         "team": "Wrexham",
         "value": 49.45
+      },
+      {
+        "team": "Bolton Wanderers",
+        "value": 49.42
       },
       {
         "team": "Burnley",
@@ -10654,7 +10654,7 @@
     "shots_total_avg": [
       {
         "team": "Middlesbrough",
-        "value": 19.09
+        "value": 20.08
       },
       {
         "team": "Cardiff City",
@@ -10697,12 +10697,12 @@
         "value": 13.91
       },
       {
-        "team": "Bolton Wanderers",
-        "value": 13.82
-      },
-      {
         "team": "Birmingham City",
         "value": 13.73
+      },
+      {
+        "team": "Bolton Wanderers",
+        "value": 13.67
       },
       {
         "team": "Watford",
@@ -10752,7 +10752,7 @@
     "shots_on_target_avg": [
       {
         "team": "Middlesbrough",
-        "value": 6.18
+        "value": 6.67
       },
       {
         "team": "West Ham United",
@@ -10776,7 +10776,7 @@
       },
       {
         "team": "Bolton Wanderers",
-        "value": 4.73
+        "value": 4.67
       },
       {
         "team": "Swansea City",
@@ -10850,7 +10850,7 @@
     "shots_inside_box_avg": [
       {
         "team": "Middlesbrough",
-        "value": 12.36
+        "value": 13
       },
       {
         "team": "Cardiff City",
@@ -10886,7 +10886,7 @@
       },
       {
         "team": "Bolton Wanderers",
-        "value": 9.64
+        "value": 9.42
       },
       {
         "team": "Portsmouth",
@@ -10952,7 +10952,7 @@
       },
       {
         "team": "Middlesbrough",
-        "value": 2
+        "value": 2.24
       },
       {
         "team": "Cardiff City",
@@ -10991,12 +10991,12 @@
         "value": 1.44
       },
       {
-        "team": "Bolton Wanderers",
-        "value": 1.32
-      },
-      {
         "team": "Portsmouth",
         "value": 1.27
+      },
+      {
+        "team": "Bolton Wanderers",
+        "value": 1.24
       },
       {
         "team": "West Bromwich Albion",
@@ -11046,7 +11046,7 @@
     "touches_opp_box_avg": [
       {
         "team": "Middlesbrough",
-        "value": 32.91
+        "value": 34.08
       },
       {
         "team": "Cardiff City",
@@ -11077,12 +11077,12 @@
         "value": 25.18
       },
       {
-        "team": "Bolton Wanderers",
+        "team": "Portsmouth",
         "value": 24.82
       },
       {
-        "team": "Portsmouth",
-        "value": 24.82
+        "team": "Bolton Wanderers",
+        "value": 24.5
       },
       {
         "team": "Southampton",
@@ -11147,12 +11147,12 @@
         "value": 4.36
       },
       {
-        "team": "Millwall",
-        "value": 3.55
+        "team": "Middlesbrough",
+        "value": 3.67
       },
       {
-        "team": "Middlesbrough",
-        "value": 3.45
+        "team": "Millwall",
+        "value": 3.55
       },
       {
         "team": "Southampton",
@@ -11183,10 +11183,6 @@
         "value": 2.36
       },
       {
-        "team": "Bolton Wanderers",
-        "value": 2.27
-      },
-      {
         "team": "Bristol City",
         "value": 2.18
       },
@@ -11201,6 +11197,10 @@
       {
         "team": "Burnley",
         "value": 2.09
+      },
+      {
+        "team": "Bolton Wanderers",
+        "value": 2.08
       },
       {
         "team": "Portsmouth",
@@ -11242,7 +11242,7 @@
     "passes_accuracy_pct_avg": [
       {
         "team": "Middlesbrough",
-        "value": 86.5
+        "value": 86.7
       },
       {
         "team": "Southampton",
@@ -11281,12 +11281,12 @@
         "value": 80.4
       },
       {
-        "team": "Wrexham",
-        "value": 79.7
+        "team": "Bolton Wanderers",
+        "value": 79.8
       },
       {
-        "team": "Bolton Wanderers",
-        "value": 79.4
+        "team": "Wrexham",
+        "value": 79.7
       },
       {
         "team": "Blackburn Rovers",
@@ -11347,6 +11347,10 @@
         "value": 6.45
       },
       {
+        "team": "Middlesbrough",
+        "value": 6.33
+      },
+      {
         "team": "West Ham United",
         "value": 6.27
       },
@@ -11361,10 +11365,6 @@
       {
         "team": "Millwall",
         "value": 5.91
-      },
-      {
-        "team": "Middlesbrough",
-        "value": 5.82
       },
       {
         "team": "Birmingham City",
@@ -11387,12 +11387,12 @@
         "value": 5.45
       },
       {
-        "team": "Bolton Wanderers",
-        "value": 5.36
-      },
-      {
         "team": "Wrexham",
         "value": 5.18
+      },
+      {
+        "team": "Bolton Wanderers",
+        "value": 5.08
       },
       {
         "team": "Southampton",
@@ -11457,11 +11457,15 @@
         "value": 11.46
       },
       {
-        "team": "Derby County",
-        "value": 10.82
+        "team": "Middlesbrough",
+        "value": 11.08
       },
       {
-        "team": "Middlesbrough",
+        "team": "Bolton Wanderers",
+        "value": 10.91
+      },
+      {
+        "team": "Derby County",
         "value": 10.82
       },
       {
@@ -11475,10 +11479,6 @@
       {
         "team": "Charlton Athletic",
         "value": 10.64
-      },
-      {
-        "team": "Bolton Wanderers",
-        "value": 10.63
       },
       {
         "team": "West Ham United",
@@ -11543,12 +11543,12 @@
         "value": 18
       },
       {
-        "team": "Middlesbrough",
-        "value": 17.27
-      },
-      {
         "team": "Norwich City",
         "value": 16.82
+      },
+      {
+        "team": "Middlesbrough",
+        "value": 16.67
       },
       {
         "team": "Lincoln City",
@@ -11575,10 +11575,6 @@
         "value": 15.73
       },
       {
-        "team": "Bolton Wanderers",
-        "value": 15.64
-      },
-      {
         "team": "Watford",
         "value": 15.55
       },
@@ -11589,6 +11585,10 @@
       {
         "team": "Sheffield United",
         "value": 15.27
+      },
+      {
+        "team": "Bolton Wanderers",
+        "value": 15.25
       },
       {
         "team": "Charlton Athletic",
@@ -11646,7 +11646,7 @@
       },
       {
         "team": "Bolton Wanderers",
-        "value": 10.36
+        "value": 10.5
       },
       {
         "team": "Lincoln City",
@@ -11709,12 +11709,12 @@
         "value": 7.82
       },
       {
-        "team": "Middlesbrough",
-        "value": 7.45
-      },
-      {
         "team": "Portsmouth",
         "value": 7.27
+      },
+      {
+        "team": "Middlesbrough",
+        "value": 7.17
       },
       {
         "team": "Southampton",
@@ -11739,6 +11739,10 @@
         "value": 3.73
       },
       {
+        "team": "Bolton Wanderers",
+        "value": 3.67
+      },
+      {
         "team": "Charlton Athletic",
         "value": 3.64
       },
@@ -11753,10 +11757,6 @@
       {
         "team": "Derby County",
         "value": 3.36
-      },
-      {
-        "team": "Bolton Wanderers",
-        "value": 3.27
       },
       {
         "team": "West Bromwich Albion",
@@ -11812,7 +11812,7 @@
       },
       {
         "team": "Middlesbrough",
-        "value": 2.09
+        "value": 2.17
       },
       {
         "team": "Millwall",
@@ -11837,12 +11837,12 @@
         "value": 10.91
       },
       {
-        "team": "Middlesbrough",
+        "team": "Portsmouth",
         "value": 11
       },
       {
-        "team": "Portsmouth",
-        "value": 11
+        "team": "Middlesbrough",
+        "value": 11.08
       },
       {
         "team": "West Ham United",
@@ -11873,10 +11873,6 @@
         "value": 12.55
       },
       {
-        "team": "Bolton Wanderers",
-        "value": 12.91
-      },
-      {
         "team": "Millwall",
         "value": 13.55
       },
@@ -11887,6 +11883,10 @@
       {
         "team": "Burnley",
         "value": 14.18
+      },
+      {
+        "team": "Bolton Wanderers",
+        "value": 14.42
       },
       {
         "team": "Southampton",

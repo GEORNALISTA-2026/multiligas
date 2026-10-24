@@ -1,6 +1,6 @@
 {
   "season": "2026/2027",
-  "updated_at": "2026-10-23T07:08:49.405Z",
+  "updated_at": "2026-10-24T07:00:03.650Z",
   "teams": {
     "LR Vicenza": {
       "team": "LR Vicenza",
@@ -144,33 +144,53 @@
           "xg_movel_5": 0.95,
           "xga_movel_5": 1.73,
           "xgd_movel_5": -0.78
+        },
+        {
+          "rodada": 8,
+          "data": "2026-10-23T18:30:00Z",
+          "local": "Fora",
+          "adversario": "Empoli",
+          "gols_pro": 2,
+          "gols_contra": 0,
+          "placar": "2 x 0",
+          "xg": 1.99,
+          "xga": 0.53,
+          "xgd": 1.46,
+          "posse": 48,
+          "chutes": 19,
+          "chutes_no_gol": 3,
+          "escanteios": 4,
+          "desarmes": 17,
+          "xg_movel_5": 1.05,
+          "xga_movel_5": 1.57,
+          "xgd_movel_5": -0.52
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Piorando",
-          "variacao": -16.1,
-          "temporada": 1.13,
-          "ultimos_5": 0.95
+          "variacao": -15,
+          "temporada": 1.24,
+          "ultimos_5": 1.05
         },
         "defesa": {
           "status": "Estável",
-          "variacao": -1.2,
-          "temporada": 1.71,
-          "ultimos_5": 1.73
+          "variacao": -0.2,
+          "temporada": 1.57,
+          "ultimos_5": 1.57
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -34.8,
-          "temporada": -0.58,
-          "ultimos_5": -0.78
+          "variacao": -58.2,
+          "temporada": -0.33,
+          "ultimos_5": -0.52
         }
       },
       "resumo": {
-        "jogos": 7,
-        "xg_medio": 1.13,
-        "xga_medio": 1.71,
-        "xgd_medio": -0.58
+        "jogos": 8,
+        "xg_medio": 1.24,
+        "xga_medio": 1.57,
+        "xgd_medio": -0.33
       }
     },
     "Catanzaro": {
@@ -988,25 +1008,25 @@
           "gols_pro": 2,
           "gols_contra": 1,
           "placar": "2 x 1",
-          "xg": 1.68,
+          "xg": 1.58,
           "xga": 0.77,
-          "xgd": 0.91,
+          "xgd": 0.81,
           "posse": 55,
-          "chutes": 18,
+          "chutes": 17,
           "chutes_no_gol": 7,
           "escanteios": 6,
           "desarmes": 12,
-          "xg_movel_5": 1.44,
+          "xg_movel_5": 1.42,
           "xga_movel_5": 1.03,
-          "xgd_movel_5": 0.41
+          "xgd_movel_5": 0.39
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Melhorando",
-          "variacao": 17.9,
-          "temporada": 1.22,
-          "ultimos_5": 1.44
+          "variacao": 17.6,
+          "temporada": 1.21,
+          "ultimos_5": 1.42
         },
         "defesa": {
           "status": "Piorando",
@@ -1017,15 +1037,15 @@
         "equilibrio": {
           "status": "Melhorando",
           "variacao": 39.3,
-          "temporada": 0.3,
-          "ultimos_5": 0.41
+          "temporada": 0.28,
+          "ultimos_5": 0.39
         }
       },
       "resumo": {
         "jogos": 7,
-        "xg_medio": 1.22,
+        "xg_medio": 1.21,
         "xga_medio": 0.92,
-        "xgd_medio": 0.3
+        "xgd_medio": 0.28
       }
     },
     "Avellino": {
@@ -1854,33 +1874,53 @@
           "xg_movel_5": 1.01,
           "xga_movel_5": 2.04,
           "xgd_movel_5": -1.03
+        },
+        {
+          "rodada": 8,
+          "data": "2026-10-23T18:30:00Z",
+          "local": "Casa",
+          "adversario": "LR Vicenza",
+          "gols_pro": 0,
+          "gols_contra": 2,
+          "placar": "0 x 2",
+          "xg": 0.53,
+          "xga": 1.99,
+          "xgd": -1.46,
+          "posse": 52,
+          "chutes": 13,
+          "chutes_no_gol": 5,
+          "escanteios": 4,
+          "desarmes": 20,
+          "xg_movel_5": 0.98,
+          "xga_movel_5": 2.28,
+          "xgd_movel_5": -1.31
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Melhorando",
-          "variacao": 5.9,
-          "temporada": 0.95,
-          "ultimos_5": 1.01
+          "variacao": 8.6,
+          "temporada": 0.9,
+          "ultimos_5": 0.98
         },
         "defesa": {
           "status": "Piorando",
-          "variacao": -15.8,
-          "temporada": 1.76,
-          "ultimos_5": 2.04
+          "variacao": -27.5,
+          "temporada": 1.79,
+          "ultimos_5": 2.28
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -27.4,
-          "temporada": -0.81,
-          "ultimos_5": -1.03
+          "variacao": -46.5,
+          "temporada": -0.89,
+          "ultimos_5": -1.31
         }
       },
       "resumo": {
-        "jogos": 7,
-        "xg_medio": 0.95,
-        "xga_medio": 1.76,
-        "xgd_medio": -0.81
+        "jogos": 8,
+        "xg_medio": 0.9,
+        "xga_medio": 1.79,
+        "xgd_medio": -0.89
       }
     },
     "Cremonese": {
@@ -2699,16 +2739,16 @@
           "gols_contra": 2,
           "placar": "1 x 2",
           "xg": 0.77,
-          "xga": 1.68,
-          "xgd": -0.91,
+          "xga": 1.58,
+          "xgd": -0.81,
           "posse": 45,
           "chutes": 6,
           "chutes_no_gol": 1,
           "escanteios": 4,
           "desarmes": 11,
           "xg_movel_5": 0.96,
-          "xga_movel_5": 2.02,
-          "xgd_movel_5": -1.06
+          "xga_movel_5": 2,
+          "xgd_movel_5": -1.04
         }
       ],
       "tendencia": {
@@ -2720,22 +2760,22 @@
         },
         "defesa": {
           "status": "Piorando",
-          "variacao": -6,
-          "temporada": 1.91,
-          "ultimos_5": 2.02
+          "variacao": -5.7,
+          "temporada": 1.9,
+          "ultimos_5": 2
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -16.3,
-          "temporada": -0.91,
-          "ultimos_5": -1.06
+          "variacao": -15.9,
+          "temporada": -0.9,
+          "ultimos_5": -1.04
         }
       },
       "resumo": {
         "jogos": 7,
         "xg_medio": 1,
-        "xga_medio": 1.91,
-        "xgd_medio": -0.91
+        "xga_medio": 1.9,
+        "xgd_medio": -0.9
       }
     },
     "Cesena": {

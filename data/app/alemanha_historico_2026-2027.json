@@ -1,6 +1,6 @@
 {
   "season": "2026/2027",
-  "updated_at": "2026-10-23T07:02:57.324Z",
+  "updated_at": "2026-10-24T06:56:51.628Z",
   "teams": {
     "Bayern München": {
       "team": "Bayern München",
@@ -275,33 +275,53 @@
           "xg_movel_5": 2.31,
           "xga_movel_5": 2.07,
           "xgd_movel_5": 0.24
+        },
+        {
+          "rodada": 7,
+          "data": "2026-10-23T18:30:00Z",
+          "local": "Casa",
+          "adversario": "Borussia Mönchengladbach",
+          "gols_pro": 2,
+          "gols_contra": 3,
+          "placar": "2 x 3",
+          "xg": 1.53,
+          "xga": 2.6,
+          "xgd": -1.07,
+          "posse": 70,
+          "chutes": 15,
+          "chutes_no_gol": 5,
+          "escanteios": 6,
+          "desarmes": 4,
+          "xg_movel_5": 1.92,
+          "xga_movel_5": 2.03,
+          "xgd_movel_5": -0.11
         }
       ],
       "tendencia": {
         "ataque": {
-          "status": "Melhorando",
-          "variacao": 12.3,
-          "temporada": 2.05,
-          "ultimos_5": 2.31
+          "status": "Estável",
+          "variacao": -3.1,
+          "temporada": 1.98,
+          "ultimos_5": 1.92
         },
         "defesa": {
           "status": "Melhorando",
-          "variacao": 13.8,
-          "temporada": 2.4,
-          "ultimos_5": 2.07
+          "variacao": 16.4,
+          "temporada": 2.43,
+          "ultimos_5": 2.03
         },
         "equilibrio": {
           "status": "Melhorando",
-          "variacao": 168.7,
-          "temporada": -0.35,
-          "ultimos_5": 0.24
+          "variacao": 75.1,
+          "temporada": -0.45,
+          "ultimos_5": -0.11
         }
       },
       "resumo": {
-        "jogos": 6,
-        "xg_medio": 2.05,
-        "xga_medio": 2.4,
-        "xgd_medio": -0.35
+        "jogos": 7,
+        "xg_medio": 1.98,
+        "xga_medio": 2.43,
+        "xgd_medio": -0.45
       }
     },
     "Elversberg": {
@@ -1483,33 +1503,53 @@
           "xg_movel_5": 1.49,
           "xga_movel_5": 2.17,
           "xgd_movel_5": -0.68
+        },
+        {
+          "rodada": 7,
+          "data": "2026-10-23T18:30:00Z",
+          "local": "Fora",
+          "adversario": "VfB Stuttgart",
+          "gols_pro": 3,
+          "gols_contra": 2,
+          "placar": "3 x 2",
+          "xg": 2.6,
+          "xga": 1.53,
+          "xgd": 1.07,
+          "posse": 30,
+          "chutes": 16,
+          "chutes_no_gol": 6,
+          "escanteios": 5,
+          "desarmes": 11,
+          "xg_movel_5": 1.53,
+          "xga_movel_5": 2.01,
+          "xgd_movel_5": -0.48
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Estável",
-          "variacao": 4.6,
-          "temporada": 1.42,
-          "ultimos_5": 1.49
+          "variacao": -3.4,
+          "temporada": 1.59,
+          "ultimos_5": 1.53
         },
         "defesa": {
           "status": "Melhorando",
-          "variacao": 12.1,
-          "temporada": 2.47,
-          "ultimos_5": 2.17
+          "variacao": 13.7,
+          "temporada": 2.33,
+          "ultimos_5": 2.01
         },
         "equilibrio": {
           "status": "Melhorando",
-          "variacao": 34.8,
-          "temporada": -1.05,
-          "ultimos_5": -0.68
+          "variacao": 35.6,
+          "temporada": -0.75,
+          "ultimos_5": -0.48
         }
       },
       "resumo": {
-        "jogos": 6,
-        "xg_medio": 1.42,
-        "xga_medio": 2.47,
-        "xgd_medio": -1.05
+        "jogos": 7,
+        "xg_medio": 1.59,
+        "xga_medio": 2.33,
+        "xgd_medio": -0.75
       }
     },
     "Union Berlin": {
