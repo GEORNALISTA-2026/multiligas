@@ -1,6 +1,6 @@
 {
   "season": "2026/2027",
-  "updated_at": "2026-10-24T06:59:12.988Z",
+  "updated_at": "2026-10-25T07:03:35.692Z",
   "teams": {
     "Boulogne": {
       "team": "Boulogne",
@@ -2203,33 +2203,53 @@
           "xg_movel_5": 2.02,
           "xga_movel_5": 2.14,
           "xgd_movel_5": -0.12
+        },
+        {
+          "rodada": 10,
+          "data": "2026-10-24T12:00:00Z",
+          "local": "Casa",
+          "adversario": "Rodez",
+          "gols_pro": 1,
+          "gols_contra": 2,
+          "placar": "1 x 2",
+          "xg": 1.55,
+          "xga": 1.49,
+          "xgd": 0.06,
+          "posse": 73,
+          "chutes": 18,
+          "chutes_no_gol": 6,
+          "escanteios": 10,
+          "desarmes": 11,
+          "xg_movel_5": 1.98,
+          "xga_movel_5": 1.87,
+          "xgd_movel_5": 0.12
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Melhorando",
-          "variacao": 16.2,
-          "temporada": 1.74,
-          "ultimos_5": 2.02
+          "variacao": 15.2,
+          "temporada": 1.72,
+          "ultimos_5": 1.98
         },
         "defesa": {
-          "status": "Estável",
-          "variacao": -5,
-          "temporada": 2.04,
-          "ultimos_5": 2.14
+          "status": "Melhorando",
+          "variacao": 5.9,
+          "temporada": 1.99,
+          "ultimos_5": 1.87
         },
         "equilibrio": {
           "status": "Melhorando",
-          "variacao": 60,
-          "temporada": -0.3,
-          "ultimos_5": -0.12
+          "variacao": 143.9,
+          "temporada": -0.26,
+          "ultimos_5": 0.12
         }
       },
       "resumo": {
-        "jogos": 9,
-        "xg_medio": 1.74,
-        "xga_medio": 2.04,
-        "xgd_medio": -0.3
+        "jogos": 10,
+        "xg_medio": 1.72,
+        "xga_medio": 1.99,
+        "xgd_medio": -0.26
       }
     },
     "Nantes": {
@@ -2414,33 +2434,53 @@
           "xg_movel_5": 1.56,
           "xga_movel_5": 0.85,
           "xgd_movel_5": 0.71
+        },
+        {
+          "rodada": 10,
+          "data": "2026-10-24T18:45:00Z",
+          "local": "Fora",
+          "adversario": "Saint-Étienne",
+          "gols_pro": 0,
+          "gols_contra": 1,
+          "placar": "0 x 1",
+          "xg": 0.28,
+          "xga": 0.8,
+          "xgd": -0.52,
+          "posse": 35,
+          "chutes": 4,
+          "chutes_no_gol": 2,
+          "escanteios": 6,
+          "desarmes": 19,
+          "xg_movel_5": 1.4,
+          "xga_movel_5": 0.97,
+          "xgd_movel_5": 0.43
         }
       ],
       "tendencia": {
         "ataque": {
-          "status": "Melhorando",
-          "variacao": 6,
-          "temporada": 1.47,
-          "ultimos_5": 1.56
+          "status": "Estável",
+          "variacao": 3.5,
+          "temporada": 1.35,
+          "ultimos_5": 1.4
         },
         "defesa": {
           "status": "Melhorando",
-          "variacao": 20.2,
-          "temporada": 1.07,
-          "ultimos_5": 0.85
+          "variacao": 6.8,
+          "temporada": 1.04,
+          "ultimos_5": 0.97
         },
         "equilibrio": {
           "status": "Melhorando",
-          "variacao": 75.5,
-          "temporada": 0.4,
-          "ultimos_5": 0.71
+          "variacao": 38.1,
+          "temporada": 0.31,
+          "ultimos_5": 0.43
         }
       },
       "resumo": {
-        "jogos": 9,
-        "xg_medio": 1.47,
-        "xga_medio": 1.07,
-        "xgd_medio": 0.4
+        "jogos": 10,
+        "xg_medio": 1.35,
+        "xga_medio": 1.04,
+        "xgd_medio": 0.31
       }
     },
     "Red Star": {
@@ -3298,33 +3338,53 @@
           "xg_movel_5": 1.48,
           "xga_movel_5": 2.11,
           "xgd_movel_5": -0.63
+        },
+        {
+          "rodada": 10,
+          "data": "2026-10-24T12:00:00Z",
+          "local": "Fora",
+          "adversario": "Dijon",
+          "gols_pro": 2,
+          "gols_contra": 1,
+          "placar": "2 x 1",
+          "xg": 1.49,
+          "xga": 1.55,
+          "xgd": -0.06,
+          "posse": 27,
+          "chutes": 16,
+          "chutes_no_gol": 6,
+          "escanteios": 3,
+          "desarmes": 26,
+          "xg_movel_5": 1.44,
+          "xga_movel_5": 1.88,
+          "xgd_movel_5": -0.43
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Estável",
-          "variacao": 0.3,
+          "variacao": -2.5,
           "temporada": 1.48,
-          "ultimos_5": 1.48
+          "ultimos_5": 1.44
         },
         "defesa": {
-          "status": "Piorando",
-          "variacao": -5.1,
-          "temporada": 2.01,
-          "ultimos_5": 2.11
+          "status": "Estável",
+          "variacao": 4.3,
+          "temporada": 1.96,
+          "ultimos_5": 1.88
         },
         "equilibrio": {
-          "status": "Piorando",
-          "variacao": -18.7,
-          "temporada": -0.53,
-          "ultimos_5": -0.63
+          "status": "Melhorando",
+          "variacao": 10,
+          "temporada": -0.48,
+          "ultimos_5": -0.43
         }
       },
       "resumo": {
-        "jogos": 9,
+        "jogos": 10,
         "xg_medio": 1.48,
-        "xga_medio": 2.01,
-        "xgd_medio": -0.53
+        "xga_medio": 1.96,
+        "xgd_medio": -0.48
       }
     },
     "Laval": {
@@ -3971,33 +4031,53 @@
           "xg_movel_5": 1.51,
           "xga_movel_5": 0.62,
           "xgd_movel_5": 0.89
+        },
+        {
+          "rodada": 10,
+          "data": "2026-10-24T18:45:00Z",
+          "local": "Casa",
+          "adversario": "Nantes",
+          "gols_pro": 1,
+          "gols_contra": 0,
+          "placar": "1 x 0",
+          "xg": 0.8,
+          "xga": 0.28,
+          "xgd": 0.52,
+          "posse": 65,
+          "chutes": 11,
+          "chutes_no_gol": 3,
+          "escanteios": 7,
+          "desarmes": 14,
+          "xg_movel_5": 1.51,
+          "xga_movel_5": 0.58,
+          "xgd_movel_5": 0.93
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Piorando",
-          "variacao": -24.8,
-          "temporada": 2.01,
+          "variacao": -20.1,
+          "temporada": 1.89,
           "ultimos_5": 1.51
         },
         "defesa": {
           "status": "Melhorando",
-          "variacao": 17.3,
-          "temporada": 0.75,
-          "ultimos_5": 0.62
+          "variacao": 17.8,
+          "temporada": 0.7,
+          "ultimos_5": 0.58
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -29.2,
-          "temporada": 1.26,
-          "ultimos_5": 0.89
+          "variacao": -21.5,
+          "temporada": 1.19,
+          "ultimos_5": 0.93
         }
       },
       "resumo": {
-        "jogos": 9,
-        "xg_medio": 2.01,
-        "xga_medio": 0.75,
-        "xgd_medio": 1.26
+        "jogos": 10,
+        "xg_medio": 1.89,
+        "xga_medio": 0.7,
+        "xgd_medio": 1.19
       }
     }
   }
