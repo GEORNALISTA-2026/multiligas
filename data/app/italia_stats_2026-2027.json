@@ -1,6 +1,6 @@
 {
   "season": "2026/2027",
-  "updated_at": "2026-10-26T07:09:17.585Z",
+  "updated_at": "2026-10-27T07:05:58.465Z",
   "league": {
     "name": "Itália",
     "season": "2026/2027",
@@ -119,11 +119,11 @@
       "aerial_duels_won_avg": 23.94,
       "dribbles_won_sum": 1087,
       "dribbles_won_avg": 13.59,
-      "corners_sum": 763,
-      "corners_avg": 9.54,
-      "corners_conceded_sum": 763,
-      "corners_conceded_avg": 9.54,
-      "corners_total_avg": 19.08,
+      "corners_sum": 762,
+      "corners_avg": 9.53,
+      "corners_conceded_sum": 762,
+      "corners_conceded_avg": 9.53,
+      "corners_total_avg": 19.06,
       "yellow_cards_sum": 259,
       "yellow_cards_avg": 3.24,
       "red_cards_sum": 6,
@@ -1021,11 +1021,11 @@
         "aerial_duels_won_avg": 11.5,
         "dribbles_won_sum": 48,
         "dribbles_won_avg": 6,
-        "corners_sum": 33,
-        "corners_avg": 4.13,
+        "corners_sum": 32,
+        "corners_avg": 4,
         "corners_conceded_sum": 44,
         "corners_conceded_avg": 5.5,
-        "corners_total_avg": 9.63,
+        "corners_total_avg": 9.5,
         "yellow_cards_sum": 14,
         "yellow_cards_avg": 1.75,
         "red_cards_sum": 0,
@@ -1148,11 +1148,11 @@
         "aerial_duels_won_avg": 13,
         "dribbles_won_sum": 32,
         "dribbles_won_avg": 6.4,
-        "corners_sum": 26,
-        "corners_avg": 5.2,
+        "corners_sum": 25,
+        "corners_avg": 5,
         "corners_conceded_sum": 27,
         "corners_conceded_avg": 5.4,
-        "corners_total_avg": 10.6,
+        "corners_total_avg": 10.4,
         "yellow_cards_sum": 12,
         "yellow_cards_avg": 2.4,
         "red_cards_sum": 0,
@@ -6028,9 +6028,9 @@
         "dribbles_won_avg": 7,
         "corners_sum": 25,
         "corners_avg": 3.13,
-        "corners_conceded_sum": 28,
-        "corners_conceded_avg": 3.5,
-        "corners_total_avg": 6.63,
+        "corners_conceded_sum": 27,
+        "corners_conceded_avg": 3.38,
+        "corners_total_avg": 6.51,
         "yellow_cards_sum": 15,
         "yellow_cards_avg": 1.88,
         "red_cards_sum": 0,
@@ -6282,9 +6282,9 @@
         "dribbles_won_avg": 6.4,
         "corners_sum": 19,
         "corners_avg": 3.8,
-        "corners_conceded_sum": 20,
-        "corners_conceded_avg": 4,
-        "corners_total_avg": 7.8,
+        "corners_conceded_sum": 19,
+        "corners_conceded_avg": 3.8,
+        "corners_total_avg": 7.6,
         "yellow_cards_sum": 13,
         "yellow_cards_avg": 2.6,
         "red_cards_sum": 0,
@@ -9527,12 +9527,12 @@
         "value": 4.25
       },
       {
-        "team": "Udinese",
+        "team": "Genoa",
         "value": 4.13
       },
       {
-        "team": "Genoa",
-        "value": 4.13
+        "team": "Udinese",
+        "value": 4
       },
       {
         "team": "Atalanta",
@@ -9593,12 +9593,12 @@
         "value": 9.88
       },
       {
-        "team": "Udinese",
-        "value": 9.63
-      },
-      {
         "team": "Genoa",
         "value": 9.51
+      },
+      {
+        "team": "Udinese",
+        "value": 9.5
       },
       {
         "team": "Atalanta",
@@ -9638,7 +9638,7 @@
       },
       {
         "team": "Milan",
-        "value": 6.63
+        "value": 6.51
       }
     ],
     "tackles_avg": [

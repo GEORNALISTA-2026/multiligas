@@ -1,6 +1,6 @@
 {
   "season": "2026/2027",
-  "updated_at": "2026-10-26T07:09:17.587Z",
+  "updated_at": "2026-10-27T07:05:58.466Z",
   "teams": {
     "Inter": {
       "team": "Inter",
@@ -541,7 +541,7 @@
           "posse": 40,
           "chutes": 12,
           "chutes_no_gol": 5,
-          "escanteios": 6,
+          "escanteios": 5,
           "desarmes": 24,
           "xg_movel_5": 0.98,
           "xga_movel_5": 2.77,

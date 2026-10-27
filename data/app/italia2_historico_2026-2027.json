@@ -1,6 +1,6 @@
 {
   "season": "2026/2027",
-  "updated_at": "2026-10-26T07:09:51.631Z",
+  "updated_at": "2026-10-27T07:06:37.681Z",
   "teams": {
     "LR Vicenza": {
       "team": "LR Vicenza",
@@ -2446,16 +2446,16 @@
           "gols_contra": 1,
           "placar": "1 x 1",
           "xg": 0.61,
-          "xga": 1.49,
-          "xgd": -0.88,
+          "xga": 1.69,
+          "xgd": -1.08,
           "posse": 42,
           "chutes": 11,
           "chutes_no_gol": 3,
           "escanteios": 4,
           "desarmes": 22,
           "xg_movel_5": 1.4,
-          "xga_movel_5": 1.44,
-          "xgd_movel_5": -0.04
+          "xga_movel_5": 1.48,
+          "xgd_movel_5": -0.08
         }
       ],
       "tendencia": {
@@ -2467,22 +2467,22 @@
         },
         "defesa": {
           "status": "Piorando",
-          "variacao": -22,
-          "temporada": 1.18,
-          "ultimos_5": 1.44
+          "variacao": -22.8,
+          "temporada": 1.21,
+          "ultimos_5": 1.48
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -106.2,
-          "temporada": 0.64,
-          "ultimos_5": -0.04
+          "variacao": -113,
+          "temporada": 0.62,
+          "ultimos_5": -0.08
         }
       },
       "resumo": {
         "jogos": 8,
         "xg_medio": 1.82,
-        "xga_medio": 1.18,
-        "xgd_medio": 0.64
+        "xga_medio": 1.21,
+        "xgd_medio": 0.62
       }
     },
     "Ascoli": {
@@ -2827,25 +2827,25 @@
           "gols_pro": 1,
           "gols_contra": 1,
           "placar": "1 x 1",
-          "xg": 1.49,
+          "xg": 1.69,
           "xga": 0.61,
-          "xgd": 0.88,
+          "xgd": 1.08,
           "posse": 58,
           "chutes": 20,
           "chutes_no_gol": 4,
           "escanteios": 8,
-          "desarmes": 18,
-          "xg_movel_5": 1.85,
+          "desarmes": 19,
+          "xg_movel_5": 1.89,
           "xga_movel_5": 1.1,
-          "xgd_movel_5": 0.75
+          "xgd_movel_5": 0.79
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Estável",
-          "variacao": 0,
-          "temporada": 1.85,
-          "ultimos_5": 1.85
+          "variacao": 0.8,
+          "temporada": 1.87,
+          "ultimos_5": 1.89
         },
         "defesa": {
           "status": "Estável",
@@ -2855,16 +2855,16 @@
         },
         "equilibrio": {
           "status": "Estável",
-          "variacao": -2.2,
-          "temporada": 0.77,
-          "ultimos_5": 0.75
+          "variacao": -0.2,
+          "temporada": 0.79,
+          "ultimos_5": 0.79
         }
       },
       "resumo": {
         "jogos": 8,
-        "xg_medio": 1.85,
+        "xg_medio": 1.87,
         "xga_medio": 1.08,
-        "xgd_medio": 0.77
+        "xgd_medio": 0.79
       }
     },
     "Padova": {

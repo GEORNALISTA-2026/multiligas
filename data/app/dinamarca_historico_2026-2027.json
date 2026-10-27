@@ -1,6 +1,6 @@
 {
   "season": "2026/2027",
-  "updated_at": "2026-10-26T07:15:23.011Z",
+  "updated_at": "2026-10-27T07:12:23.366Z",
   "teams": {
     "Viborg": {
       "team": "Viborg",
@@ -495,33 +495,53 @@
           "xg_movel_5": 1.29,
           "xga_movel_5": 1.97,
           "xgd_movel_5": -0.68
+        },
+        {
+          "rodada": 12,
+          "data": "2026-10-26T18:00:00Z",
+          "local": "Fora",
+          "adversario": "FC København",
+          "gols_pro": 1,
+          "gols_contra": 1,
+          "placar": "1 x 1",
+          "xg": 0.45,
+          "xga": 2.42,
+          "xgd": -1.97,
+          "posse": 32,
+          "chutes": 7,
+          "chutes_no_gol": 2,
+          "escanteios": 2,
+          "desarmes": 16,
+          "xg_movel_5": 0.95,
+          "xga_movel_5": 1.88,
+          "xgd_movel_5": -0.94
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Piorando",
-          "variacao": -8.3,
-          "temporada": 1.41,
-          "ultimos_5": 1.29
+          "variacao": -28.8,
+          "temporada": 1.33,
+          "ultimos_5": 0.95
         },
         "defesa": {
-          "status": "Piorando",
-          "variacao": -9.1,
-          "temporada": 1.8,
-          "ultimos_5": 1.97
+          "status": "Estável",
+          "variacao": -1.5,
+          "temporada": 1.86,
+          "ultimos_5": 1.88
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -70.6,
-          "temporada": -0.4,
-          "ultimos_5": -0.68
+          "variacao": -77.8,
+          "temporada": -0.53,
+          "ultimos_5": -0.94
         }
       },
       "resumo": {
-        "jogos": 11,
-        "xg_medio": 1.41,
-        "xga_medio": 1.8,
-        "xgd_medio": -0.4
+        "jogos": 12,
+        "xg_medio": 1.33,
+        "xga_medio": 1.86,
+        "xgd_medio": -0.53
       }
     },
     "AGF": {
@@ -1830,33 +1850,53 @@
           "xg_movel_5": 1.94,
           "xga_movel_5": 1.2,
           "xgd_movel_5": 0.74
+        },
+        {
+          "rodada": 12,
+          "data": "2026-10-26T18:00:00Z",
+          "local": "Casa",
+          "adversario": "OB",
+          "gols_pro": 1,
+          "gols_contra": 1,
+          "placar": "1 x 1",
+          "xg": 2.42,
+          "xga": 0.45,
+          "xgd": 1.97,
+          "posse": 68,
+          "chutes": 22,
+          "chutes_no_gol": 10,
+          "escanteios": 4,
+          "desarmes": 16,
+          "xg_movel_5": 1.86,
+          "xga_movel_5": 0.85,
+          "xgd_movel_5": 1
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Melhorando",
-          "variacao": 17.6,
-          "temporada": 1.65,
-          "ultimos_5": 1.94
+          "variacao": 8.3,
+          "temporada": 1.71,
+          "ultimos_5": 1.86
         },
         "defesa": {
-          "status": "Estável",
-          "variacao": -2.2,
-          "temporada": 1.17,
-          "ultimos_5": 1.2
+          "status": "Melhorando",
+          "variacao": 23.4,
+          "temporada": 1.11,
+          "ultimos_5": 0.85
         },
         "equilibrio": {
           "status": "Melhorando",
-          "variacao": 55.6,
-          "temporada": 0.48,
-          "ultimos_5": 0.74
+          "variacao": 67,
+          "temporada": 0.6,
+          "ultimos_5": 1
         }
       },
       "resumo": {
-        "jogos": 11,
-        "xg_medio": 1.65,
-        "xga_medio": 1.17,
-        "xgd_medio": 0.48
+        "jogos": 12,
+        "xg_medio": 1.71,
+        "xga_medio": 1.11,
+        "xgd_medio": 0.6
       }
     },
     "Lyngby": {

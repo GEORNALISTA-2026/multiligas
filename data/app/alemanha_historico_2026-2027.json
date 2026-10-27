@@ -1,6 +1,6 @@
 {
   "season": "2026/2027",
-  "updated_at": "2026-10-26T07:05:23.350Z",
+  "updated_at": "2026-10-27T07:01:45.808Z",
   "teams": {
     "Bayern München": {
       "team": "Bayern München",
@@ -305,16 +305,16 @@
           "gols_contra": 3,
           "placar": "2 x 3",
           "xg": 1.53,
-          "xga": 2.6,
-          "xgd": -1.07,
+          "xga": 3.08,
+          "xgd": -1.55,
           "posse": 70,
           "chutes": 15,
           "chutes_no_gol": 5,
           "escanteios": 6,
           "desarmes": 4,
           "xg_movel_5": 1.92,
-          "xga_movel_5": 2.03,
-          "xgd_movel_5": -0.11
+          "xga_movel_5": 2.13,
+          "xgd_movel_5": -0.21
         }
       ],
       "tendencia": {
@@ -326,22 +326,22 @@
         },
         "defesa": {
           "status": "Melhorando",
-          "variacao": 16.4,
-          "temporada": 2.43,
-          "ultimos_5": 2.03
+          "variacao": 14.9,
+          "temporada": 2.5,
+          "ultimos_5": 2.13
         },
         "equilibrio": {
           "status": "Melhorando",
-          "variacao": 75.1,
-          "temporada": -0.45,
-          "ultimos_5": -0.11
+          "variacao": 59.9,
+          "temporada": -0.52,
+          "ultimos_5": -0.21
         }
       },
       "resumo": {
         "jogos": 7,
         "xg_medio": 1.98,
-        "xga_medio": 2.43,
-        "xgd_medio": -0.45
+        "xga_medio": 2.5,
+        "xgd_medio": -0.52
       }
     },
     "Elversberg": {
@@ -1672,25 +1672,25 @@
           "gols_pro": 3,
           "gols_contra": 2,
           "placar": "3 x 2",
-          "xg": 2.6,
+          "xg": 3.08,
           "xga": 1.53,
-          "xgd": 1.07,
+          "xgd": 1.55,
           "posse": 30,
           "chutes": 16,
           "chutes_no_gol": 6,
           "escanteios": 5,
           "desarmes": 11,
-          "xg_movel_5": 1.53,
+          "xg_movel_5": 1.63,
           "xga_movel_5": 2.01,
-          "xgd_movel_5": -0.48
+          "xgd_movel_5": -0.38
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Estável",
-          "variacao": -3.4,
-          "temporada": 1.59,
-          "ultimos_5": 1.53
+          "variacao": -1.6,
+          "temporada": 1.66,
+          "ultimos_5": 1.63
         },
         "defesa": {
           "status": "Melhorando",
@@ -1700,16 +1700,16 @@
         },
         "equilibrio": {
           "status": "Melhorando",
-          "variacao": 35.6,
-          "temporada": -0.75,
-          "ultimos_5": -0.48
+          "variacao": 43.3,
+          "temporada": -0.68,
+          "ultimos_5": -0.38
         }
       },
       "resumo": {
         "jogos": 7,
-        "xg_medio": 1.59,
+        "xg_medio": 1.66,
         "xga_medio": 2.33,
-        "xgd_medio": -0.75
+        "xgd_medio": -0.68
       }
     },
     "Union Berlin": {
@@ -1843,25 +1843,25 @@
           "gols_pro": 1,
           "gols_contra": 1,
           "placar": "1 x 1",
-          "xg": 1.25,
+          "xg": 1.16,
           "xga": 1.92,
-          "xgd": -0.67,
+          "xgd": -0.76,
           "posse": 34,
           "chutes": 6,
           "chutes_no_gol": 1,
           "escanteios": 1,
           "desarmes": 10,
-          "xg_movel_5": 1.09,
+          "xg_movel_5": 1.08,
           "xga_movel_5": 1.9,
-          "xgd_movel_5": -0.8
+          "xgd_movel_5": -0.82
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Estável",
-          "variacao": -0.5,
-          "temporada": 1.1,
-          "ultimos_5": 1.09
+          "variacao": -1,
+          "temporada": 1.09,
+          "ultimos_5": 1.08
         },
         "defesa": {
           "status": "Melhorando",
@@ -1871,16 +1871,16 @@
         },
         "equilibrio": {
           "status": "Melhorando",
-          "variacao": 11.7,
-          "temporada": -0.91,
-          "ultimos_5": -0.8
+          "variacao": 11,
+          "temporada": -0.92,
+          "ultimos_5": -0.82
         }
       },
       "resumo": {
         "jogos": 7,
-        "xg_medio": 1.1,
+        "xg_medio": 1.09,
         "xga_medio": 2.01,
-        "xgd_medio": -0.91
+        "xgd_medio": -0.92
       }
     },
     "Eintracht Frankfurt": {
@@ -2870,16 +2870,16 @@
           "gols_contra": 1,
           "placar": "1 x 1",
           "xg": 1.92,
-          "xga": 1.25,
-          "xgd": 0.67,
+          "xga": 1.16,
+          "xgd": 0.76,
           "posse": 66,
           "chutes": 27,
           "chutes_no_gol": 5,
           "escanteios": 5,
           "desarmes": 13,
           "xg_movel_5": 2.09,
-          "xga_movel_5": 3.08,
-          "xgd_movel_5": -0.99
+          "xga_movel_5": 3.06,
+          "xgd_movel_5": -0.98
         }
       ],
       "tendencia": {
@@ -2891,22 +2891,22 @@
         },
         "defesa": {
           "status": "Piorando",
-          "variacao": -9.3,
-          "temporada": 2.82,
-          "ultimos_5": 3.08
+          "variacao": -9.2,
+          "temporada": 2.81,
+          "ultimos_5": 3.06
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -56.7,
-          "temporada": -0.63,
-          "ultimos_5": -0.99
+          "variacao": -57.1,
+          "temporada": -0.62,
+          "ultimos_5": -0.98
         }
       },
       "resumo": {
         "jogos": 7,
         "xg_medio": 2.18,
-        "xga_medio": 2.82,
-        "xgd_medio": -0.63
+        "xga_medio": 2.81,
+        "xgd_medio": -0.62
       }
     },
     "Schalke 04": {
