@@ -1,6 +1,6 @@
 {
   "season": "2026/2027",
-  "updated_at": "2026-10-27T07:05:23.496Z",
+  "updated_at": "2026-10-28T07:15:15.791Z",
   "teams": {
     "Boulogne": {
       "team": "Boulogne",
@@ -193,44 +193,44 @@
           "gols_pro": 1,
           "gols_contra": 1,
           "placar": "1 x 1",
-          "xg": 1.1,
-          "xga": 0.38,
-          "xgd": 0.72,
+          "xg": 1.35,
+          "xga": 0.36,
+          "xgd": 0.99,
           "posse": 35,
           "chutes": 13,
           "chutes_no_gol": 3,
           "escanteios": 5,
-          "desarmes": 18,
-          "xg_movel_5": 1.09,
+          "desarmes": 17,
+          "xg_movel_5": 1.14,
           "xga_movel_5": 0.86,
-          "xgd_movel_5": 0.23
+          "xgd_movel_5": 0.28
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Piorando",
-          "variacao": -10.2,
-          "temporada": 1.21,
-          "ultimos_5": 1.09
+          "variacao": -7.9,
+          "temporada": 1.24,
+          "ultimos_5": 1.14
         },
         "defesa": {
           "status": "Melhorando",
-          "variacao": 25,
+          "variacao": 25.2,
           "temporada": 1.15,
           "ultimos_5": 0.86
         },
         "equilibrio": {
           "status": "Melhorando",
-          "variacao": 264.5,
-          "temporada": 0.06,
-          "ultimos_5": 0.23
+          "variacao": 214.6,
+          "temporada": 0.09,
+          "ultimos_5": 0.28
         }
       },
       "resumo": {
         "jogos": 10,
-        "xg_medio": 1.21,
+        "xg_medio": 1.24,
         "xga_medio": 1.15,
-        "xgd_medio": 0.06
+        "xgd_medio": 0.09
       }
     },
     "Nancy": {
@@ -886,44 +886,44 @@
           "gols_pro": 1,
           "gols_contra": 1,
           "placar": "1 x 1",
-          "xg": 0.38,
-          "xga": 1.1,
-          "xgd": -0.72,
+          "xg": 0.36,
+          "xga": 1.35,
+          "xgd": -0.99,
           "posse": 65,
-          "chutes": 7,
-          "chutes_no_gol": 2,
-          "escanteios": 5,
+          "chutes": 8,
+          "chutes_no_gol": 3,
+          "escanteios": 6,
           "desarmes": 10,
-          "xg_movel_5": 1.05,
-          "xga_movel_5": 1.44,
-          "xgd_movel_5": -0.39
+          "xg_movel_5": 1.04,
+          "xga_movel_5": 1.49,
+          "xgd_movel_5": -0.44
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Piorando",
-          "variacao": -24,
+          "variacao": -24.2,
           "temporada": 1.38,
-          "ultimos_5": 1.05
+          "ultimos_5": 1.04
         },
         "defesa": {
           "status": "Melhorando",
-          "variacao": 10.5,
-          "temporada": 1.6,
-          "ultimos_5": 1.44
+          "variacao": 8.8,
+          "temporada": 1.63,
+          "ultimos_5": 1.49
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -71.8,
-          "temporada": -0.23,
-          "ultimos_5": -0.39
+          "variacao": -74.8,
+          "temporada": -0.25,
+          "ultimos_5": -0.44
         }
       },
       "resumo": {
         "jogos": 10,
         "xg_medio": 1.38,
-        "xga_medio": 1.6,
-        "xgd_medio": -0.23
+        "xga_medio": 1.63,
+        "xgd_medio": -0.25
       }
     },
     "Dunkerque": {

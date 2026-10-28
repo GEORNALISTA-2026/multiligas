@@ -1,6 +1,6 @@
 {
   "season": "2026/2027",
-  "updated_at": "2026-10-27T07:08:20.490Z",
+  "updated_at": "2026-10-28T07:17:33.723Z",
   "teams": {
     "Wolverhampton Wanderers": {
       "team": "Wolverhampton Wanderers",
@@ -1047,16 +1047,16 @@
           "gols_contra": 1,
           "placar": "1 x 1",
           "xg": 2.16,
-          "xga": 2.21,
-          "xgd": -0.05,
+          "xga": 2.62,
+          "xgd": -0.46,
           "posse": 28,
           "chutes": 19,
           "chutes_no_gol": 4,
           "escanteios": 6,
           "desarmes": 22,
           "xg_movel_5": 1.15,
-          "xga_movel_5": 1.95,
-          "xgd_movel_5": -0.81
+          "xga_movel_5": 2.04,
+          "xgd_movel_5": -0.89
         }
       ],
       "tendencia": {
@@ -1068,22 +1068,22 @@
         },
         "defesa": {
           "status": "Piorando",
-          "variacao": -29.1,
-          "temporada": 1.51,
-          "ultimos_5": 1.95
+          "variacao": -31.6,
+          "temporada": 1.55,
+          "ultimos_5": 2.04
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -330.9,
-          "temporada": -0.19,
-          "ultimos_5": -0.81
+          "variacao": -301.5,
+          "temporada": -0.22,
+          "ultimos_5": -0.89
         }
       },
       "resumo": {
         "jogos": 12,
         "xg_medio": 1.33,
-        "xga_medio": 1.51,
-        "xgd_medio": -0.19
+        "xga_medio": 1.55,
+        "xgd_medio": -0.22
       }
     },
     "Bristol City": {
@@ -3214,25 +3214,25 @@
           "gols_pro": 1,
           "gols_contra": 1,
           "placar": "1 x 1",
-          "xg": 2.21,
+          "xg": 2.62,
           "xga": 2.16,
-          "xgd": 0.05,
+          "xgd": 0.46,
           "posse": 72,
-          "chutes": 20,
+          "chutes": 21,
           "chutes_no_gol": 5,
           "escanteios": 9,
           "desarmes": 11,
-          "xg_movel_5": 1.74,
+          "xg_movel_5": 1.82,
           "xga_movel_5": 1.56,
-          "xgd_movel_5": 0.18
+          "xgd_movel_5": 0.26
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Melhorando",
-          "variacao": 24,
-          "temporada": 1.4,
-          "ultimos_5": 1.74
+          "variacao": 26.7,
+          "temporada": 1.44,
+          "ultimos_5": 1.82
         },
         "defesa": {
           "status": "Estável",
@@ -3242,16 +3242,16 @@
         },
         "equilibrio": {
           "status": "Melhorando",
-          "variacao": 281.5,
-          "temporada": -0.1,
-          "ultimos_5": 0.18
+          "variacao": 503.1,
+          "temporada": -0.06,
+          "ultimos_5": 0.26
         }
       },
       "resumo": {
         "jogos": 12,
-        "xg_medio": 1.4,
+        "xg_medio": 1.44,
         "xga_medio": 1.5,
-        "xgd_medio": -0.1
+        "xgd_medio": -0.06
       }
     },
     "Portsmouth": {
