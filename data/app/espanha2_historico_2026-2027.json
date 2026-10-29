@@ -1,6 +1,6 @@
 {
   "season": "2026/2027",
-  "updated_at": "2026-10-28T07:14:16.024Z",
+  "updated_at": "2026-10-29T07:15:58.300Z",
   "teams": {
     "Real Sociedad B": {
       "team": "Real Sociedad B",
@@ -715,44 +715,44 @@
           "gols_pro": 2,
           "gols_contra": 3,
           "placar": "2 x 3",
-          "xg": 1.75,
-          "xga": 1.54,
-          "xgd": 0.21,
+          "xg": 1.55,
+          "xga": 1.55,
+          "xgd": 0,
           "posse": 74,
           "chutes": 20,
           "chutes_no_gol": 11,
           "escanteios": 7,
-          "desarmes": 15,
-          "xg_movel_5": 1.28,
+          "desarmes": 13,
+          "xg_movel_5": 1.24,
           "xga_movel_5": 1.4,
-          "xgd_movel_5": -0.12
+          "xgd_movel_5": -0.17
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Piorando",
-          "variacao": -22.5,
-          "temporada": 1.65,
-          "ultimos_5": 1.28
+          "variacao": -24.1,
+          "temporada": 1.63,
+          "ultimos_5": 1.24
         },
         "defesa": {
           "status": "Piorando",
-          "variacao": -5.2,
+          "variacao": -5.3,
           "temporada": 1.33,
           "ultimos_5": 1.4
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -139.2,
-          "temporada": 0.32,
-          "ultimos_5": -0.12
+          "variacao": -155.8,
+          "temporada": 0.3,
+          "ultimos_5": -0.17
         }
       },
       "resumo": {
         "jogos": 11,
-        "xg_medio": 1.65,
+        "xg_medio": 1.63,
         "xga_medio": 1.33,
-        "xgd_medio": 0.32
+        "xgd_medio": 0.3
       }
     },
     "AD Ceuta FC": {
@@ -3225,44 +3225,44 @@
           "gols_pro": 3,
           "gols_contra": 2,
           "placar": "3 x 2",
-          "xg": 1.54,
-          "xga": 1.75,
-          "xgd": -0.21,
+          "xg": 1.55,
+          "xga": 1.55,
+          "xgd": 0,
           "posse": 26,
-          "chutes": 13,
+          "chutes": 14,
           "chutes_no_gol": 7,
           "escanteios": 3,
-          "desarmes": 28,
+          "desarmes": 23,
           "xg_movel_5": 1.37,
-          "xga_movel_5": 1.48,
-          "xgd_movel_5": -0.12
+          "xga_movel_5": 1.44,
+          "xgd_movel_5": -0.07
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Piorando",
-          "variacao": -6.9,
+          "variacao": -6.8,
           "temporada": 1.47,
           "ultimos_5": 1.37
         },
         "defesa": {
           "status": "Piorando",
-          "variacao": -7.9,
-          "temporada": 1.38,
-          "ultimos_5": 1.48
+          "variacao": -6.4,
+          "temporada": 1.36,
+          "ultimos_5": 1.44
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -223.9,
-          "temporada": 0.09,
-          "ultimos_5": -0.12
+          "variacao": -165.6,
+          "temporada": 0.11,
+          "ultimos_5": -0.07
         }
       },
       "resumo": {
         "jogos": 11,
         "xg_medio": 1.47,
-        "xga_medio": 1.38,
-        "xgd_medio": 0.09
+        "xga_medio": 1.36,
+        "xgd_medio": 0.11
       }
     },
     "Córdoba": {

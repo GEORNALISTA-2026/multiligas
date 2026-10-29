@@ -1,6 +1,6 @@
 {
   "season": "2026/2027",
-  "updated_at": "2026-10-28T07:13:29.133Z",
+  "updated_at": "2026-10-29T07:15:07.089Z",
   "teams": {
     "Deportivo Alavés": {
       "team": "Deportivo Alavés",
@@ -424,35 +424,35 @@
           "gols_pro": 0,
           "gols_contra": 4,
           "placar": "0 x 4",
-          "xg": 0.41,
-          "xga": 0.74,
-          "xgd": -0.33,
+          "xg": 0.43,
+          "xga": 0.72,
+          "xgd": -0.29,
           "posse": 38,
           "chutes": 7,
           "chutes_no_gol": 1,
           "escanteios": 4,
           "desarmes": 13,
-          "xg_movel_5": 0.47,
-          "xga_movel_5": 1.47,
+          "xg_movel_5": 0.48,
+          "xga_movel_5": 1.46,
           "xgd_movel_5": -0.99
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Piorando",
-          "variacao": -20.7,
+          "variacao": -20.3,
           "temporada": 0.6,
-          "ultimos_5": 0.47
+          "ultimos_5": 0.48
         },
         "defesa": {
           "status": "Estável",
-          "variacao": -3.6,
-          "temporada": 1.42,
-          "ultimos_5": 1.47
+          "variacao": -3.5,
+          "temporada": 1.41,
+          "ultimos_5": 1.46
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -21.2,
+          "variacao": -20.8,
           "temporada": -0.82,
           "ultimos_5": -0.99
         }
@@ -460,7 +460,7 @@
       "resumo": {
         "jogos": 10,
         "xg_medio": 0.6,
-        "xga_medio": 1.42,
+        "xga_medio": 1.41,
         "xgd_medio": -0.82
       }
     },
@@ -3387,9 +3387,9 @@
           "gols_pro": 4,
           "gols_contra": 0,
           "placar": "4 x 0",
-          "xg": 0.74,
-          "xga": 0.41,
-          "xgd": 0.33,
+          "xg": 0.72,
+          "xga": 0.43,
+          "xgd": 0.29,
           "posse": 62,
           "chutes": 11,
           "chutes_no_gol": 4,
@@ -3403,20 +3403,20 @@
       "tendencia": {
         "ataque": {
           "status": "Estável",
-          "variacao": -4.3,
+          "variacao": -4.4,
           "temporada": 1.38,
           "ultimos_5": 1.32
         },
         "defesa": {
           "status": "Melhorando",
-          "variacao": 30.8,
+          "variacao": 30.7,
           "temporada": 1.31,
           "ultimos_5": 0.91
         },
         "equilibrio": {
           "status": "Melhorando",
-          "variacao": 501,
-          "temporada": 0.07,
+          "variacao": 530,
+          "temporada": 0.06,
           "ultimos_5": 0.41
         }
       },
@@ -3424,7 +3424,7 @@
         "jogos": 9,
         "xg_medio": 1.38,
         "xga_medio": 1.31,
-        "xgd_medio": 0.07
+        "xgd_medio": 0.06
       }
     },
     "Valencia": {

@@ -1,6 +1,6 @@
 {
   "season": "2026/2027",
-  "updated_at": "2026-10-28T07:19:12.923Z",
+  "updated_at": "2026-10-29T07:21:59.192Z",
   "teams": {
     "Estoril": {
       "team": "Estoril",
@@ -2283,44 +2283,44 @@
           "gols_pro": 2,
           "gols_contra": 1,
           "placar": "2 x 1",
-          "xg": 1.81,
-          "xga": 1.56,
-          "xgd": 0.25,
+          "xg": 1.42,
+          "xga": 1.57,
+          "xgd": -0.15,
           "posse": 61,
           "chutes": 16,
           "chutes_no_gol": 3,
           "escanteios": 3,
           "desarmes": 14,
-          "xg_movel_5": 1.92,
-          "xga_movel_5": 1.06,
-          "xgd_movel_5": 0.85
+          "xg_movel_5": 1.84,
+          "xga_movel_5": 1.07,
+          "xgd_movel_5": 0.77
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Piorando",
-          "variacao": -18.5,
-          "temporada": 2.35,
-          "ultimos_5": 1.92
+          "variacao": -20.4,
+          "temporada": 2.31,
+          "ultimos_5": 1.84
         },
         "defesa": {
           "status": "Piorando",
           "variacao": -33.6,
           "temporada": 0.8,
-          "ultimos_5": 1.06
+          "ultimos_5": 1.07
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -45.2,
-          "temporada": 1.56,
-          "ultimos_5": 0.85
+          "variacao": -48.9,
+          "temporada": 1.51,
+          "ultimos_5": 0.77
         }
       },
       "resumo": {
         "jogos": 9,
-        "xg_medio": 2.35,
+        "xg_medio": 2.31,
         "xga_medio": 0.8,
-        "xgd_medio": 1.56
+        "xgd_medio": 1.51
       }
     },
     "Académico Viseu": {
@@ -3549,44 +3549,44 @@
           "gols_pro": 1,
           "gols_contra": 2,
           "placar": "1 x 2",
-          "xg": 1.56,
-          "xga": 1.81,
-          "xgd": -0.25,
+          "xg": 1.57,
+          "xga": 1.42,
+          "xgd": 0.15,
           "posse": 39,
           "chutes": 13,
           "chutes_no_gol": 6,
           "escanteios": 2,
-          "desarmes": 19,
+          "desarmes": 18,
           "xg_movel_5": 1.47,
-          "xga_movel_5": 0.84,
-          "xgd_movel_5": 0.64
+          "xga_movel_5": 0.76,
+          "xgd_movel_5": 0.72
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Estável",
-          "variacao": -0.5,
+          "variacao": -0.4,
           "temporada": 1.48,
           "ultimos_5": 1.47
         },
         "defesa": {
-          "status": "Estável",
-          "variacao": 2.9,
-          "temporada": 0.86,
-          "ultimos_5": 0.84
+          "status": "Melhorando",
+          "variacao": 7.3,
+          "temporada": 0.82,
+          "ultimos_5": 0.76
         },
         "equilibrio": {
-          "status": "Estável",
-          "variacao": 2.9,
-          "temporada": 0.62,
-          "ultimos_5": 0.64
+          "status": "Melhorando",
+          "variacao": 8.1,
+          "temporada": 0.66,
+          "ultimos_5": 0.72
         }
       },
       "resumo": {
         "jogos": 9,
         "xg_medio": 1.48,
-        "xga_medio": 0.86,
-        "xgd_medio": 0.62
+        "xga_medio": 0.82,
+        "xgd_medio": 0.66
       }
     },
     "Nacional": {

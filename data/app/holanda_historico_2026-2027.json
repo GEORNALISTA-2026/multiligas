@@ -1,6 +1,6 @@
 {
   "season": "2026/2027",
-  "updated_at": "2026-10-28T07:18:42.105Z",
+  "updated_at": "2026-10-29T07:21:23.489Z",
   "teams": {
     "Cambuur": {
       "team": "Cambuur",
@@ -198,7 +198,7 @@
           "xgd": 0.91,
           "posse": 48,
           "chutes": 19,
-          "chutes_no_gol": 11,
+          "chutes_no_gol": 10,
           "escanteios": 4,
           "desarmes": 11,
           "xg_movel_5": 1.78,
