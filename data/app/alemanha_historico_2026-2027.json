@@ -1,6 +1,6 @@
 {
   "season": "2026/2027",
-  "updated_at": "2026-10-29T07:13:46.837Z",
+  "updated_at": "2026-10-31T07:07:28.417Z",
   "teams": {
     "Bayern München": {
       "team": "Bayern München",
@@ -486,33 +486,53 @@
           "xg_movel_5": 1.35,
           "xga_movel_5": 2.35,
           "xgd_movel_5": -1
+        },
+        {
+          "rodada": 8,
+          "data": "2026-10-30T19:30:00Z",
+          "local": "Casa",
+          "adversario": "Mainz 05",
+          "gols_pro": 4,
+          "gols_contra": 1,
+          "placar": "4 x 1",
+          "xg": 0.94,
+          "xga": 1.17,
+          "xgd": -0.23,
+          "posse": 54,
+          "chutes": 13,
+          "chutes_no_gol": 6,
+          "escanteios": 5,
+          "desarmes": 7,
+          "xg_movel_5": 1.35,
+          "xga_movel_5": 2.02,
+          "xgd_movel_5": -0.67
         }
       ],
       "tendencia": {
         "ataque": {
-          "status": "Piorando",
-          "variacao": -8.4,
-          "temporada": 1.48,
+          "status": "Estável",
+          "variacao": -4.1,
+          "temporada": 1.41,
           "ultimos_5": 1.35
         },
         "defesa": {
-          "status": "Estável",
-          "variacao": -2.9,
-          "temporada": 2.29,
-          "ultimos_5": 2.35
+          "status": "Melhorando",
+          "variacao": 5.9,
+          "temporada": 2.15,
+          "ultimos_5": 2.02
         },
         "equilibrio": {
-          "status": "Piorando",
-          "variacao": -23.6,
-          "temporada": -0.81,
-          "ultimos_5": -1
+          "status": "Melhorando",
+          "variacao": 9.4,
+          "temporada": -0.73,
+          "ultimos_5": -0.67
         }
       },
       "resumo": {
-        "jogos": 7,
-        "xg_medio": 1.48,
-        "xga_medio": 2.29,
-        "xgd_medio": -0.81
+        "jogos": 8,
+        "xg_medio": 1.41,
+        "xga_medio": 2.15,
+        "xgd_medio": -0.73
       }
     },
     "Bayer Leverkusen": {
@@ -1170,33 +1190,53 @@
           "xg_movel_5": 2.34,
           "xga_movel_5": 2.1,
           "xgd_movel_5": 0.24
+        },
+        {
+          "rodada": 8,
+          "data": "2026-10-30T19:30:00Z",
+          "local": "Fora",
+          "adversario": "Elversberg",
+          "gols_pro": 1,
+          "gols_contra": 4,
+          "placar": "1 x 4",
+          "xg": 1.17,
+          "xga": 0.94,
+          "xgd": 0.23,
+          "posse": 46,
+          "chutes": 10,
+          "chutes_no_gol": 2,
+          "escanteios": 11,
+          "desarmes": 10,
+          "xg_movel_5": 2.15,
+          "xga_movel_5": 1.88,
+          "xgd_movel_5": 0.27
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Estável",
-          "variacao": 4.4,
-          "temporada": 2.24,
-          "ultimos_5": 2.34
+          "variacao": 2,
+          "temporada": 2.11,
+          "ultimos_5": 2.15
         },
         "defesa": {
           "status": "Piorando",
-          "variacao": -28.7,
-          "temporada": 1.63,
-          "ultimos_5": 2.1
+          "variacao": -21.7,
+          "temporada": 1.54,
+          "ultimos_5": 1.88
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -60.3,
-          "temporada": 0.61,
-          "ultimos_5": 0.24
+          "variacao": -51.6,
+          "temporada": 0.57,
+          "ultimos_5": 0.27
         }
       },
       "resumo": {
-        "jogos": 7,
-        "xg_medio": 2.24,
-        "xga_medio": 1.63,
-        "xgd_medio": 0.61
+        "jogos": 8,
+        "xg_medio": 2.11,
+        "xga_medio": 1.54,
+        "xgd_medio": 0.57
       }
     },
     "Paderborn": {

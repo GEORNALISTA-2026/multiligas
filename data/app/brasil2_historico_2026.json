@@ -1,6 +1,6 @@
 {
   "season": "2026",
-  "updated_at": "2026-10-29T07:13:18.134Z",
+  "updated_at": "2026-10-31T07:07:00.391Z",
   "teams": {
     "Vila Nova": {
       "team": "Vila Nova",
@@ -10207,33 +10207,53 @@
           "xg_movel_5": 1.29,
           "xga_movel_5": 0.8,
           "xgd_movel_5": 0.49
+        },
+        {
+          "rodada": 36,
+          "data": "2026-10-30T22:30:00Z",
+          "local": "Casa",
+          "adversario": "Ponte Preta",
+          "gols_pro": 2,
+          "gols_contra": 0,
+          "placar": "2 x 0",
+          "xg": 2.01,
+          "xga": 0.1,
+          "xgd": 1.91,
+          "posse": 73,
+          "chutes": 31,
+          "chutes_no_gol": 7,
+          "escanteios": 11,
+          "desarmes": 18,
+          "xg_movel_5": 1.45,
+          "xga_movel_5": 0.63,
+          "xgd_movel_5": 0.83
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Melhorando",
-          "variacao": 6.3,
-          "temporada": 1.21,
-          "ultimos_5": 1.29
+          "variacao": 17.9,
+          "temporada": 1.23,
+          "ultimos_5": 1.45
         },
         "defesa": {
           "status": "Melhorando",
-          "variacao": 10.5,
-          "temporada": 0.89,
-          "ultimos_5": 0.8
+          "variacao": 27.8,
+          "temporada": 0.87,
+          "ultimos_5": 0.63
         },
         "equilibrio": {
           "status": "Melhorando",
-          "variacao": 52.9,
-          "temporada": 0.32,
-          "ultimos_5": 0.49
+          "variacao": 126.3,
+          "temporada": 0.37,
+          "ultimos_5": 0.83
         }
       },
       "resumo": {
-        "jogos": 35,
-        "xg_medio": 1.21,
-        "xga_medio": 0.89,
-        "xgd_medio": 0.32
+        "jogos": 36,
+        "xg_medio": 1.23,
+        "xga_medio": 0.87,
+        "xgd_medio": 0.37
       }
     },
     "Athletic Club MG": {
@@ -11669,33 +11689,53 @@
           "xg_movel_5": 0.84,
           "xga_movel_5": 1.8,
           "xgd_movel_5": -0.97
+        },
+        {
+          "rodada": 36,
+          "data": "2026-10-30T22:30:00Z",
+          "local": "Fora",
+          "adversario": "Criciúma",
+          "gols_pro": 0,
+          "gols_contra": 2,
+          "placar": "0 x 2",
+          "xg": 0.1,
+          "xga": 2.01,
+          "xgd": -1.91,
+          "posse": 27,
+          "chutes": 5,
+          "chutes_no_gol": 2,
+          "escanteios": 3,
+          "desarmes": 20,
+          "xg_movel_5": 0.84,
+          "xga_movel_5": 1.67,
+          "xgd_movel_5": -0.83
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Piorando",
-          "variacao": -10.8,
-          "temporada": 0.94,
+          "variacao": -7.6,
+          "temporada": 0.91,
           "ultimos_5": 0.84
         },
         "defesa": {
           "status": "Melhorando",
-          "variacao": 6.2,
+          "variacao": 13,
           "temporada": 1.92,
-          "ultimos_5": 1.8
+          "ultimos_5": 1.67
         },
         "equilibrio": {
-          "status": "Estável",
-          "variacao": 1.9,
-          "temporada": -0.98,
-          "ultimos_5": -0.97
+          "status": "Melhorando",
+          "variacao": 17.8,
+          "temporada": -1.01,
+          "ultimos_5": -0.83
         }
       },
       "resumo": {
-        "jogos": 35,
-        "xg_medio": 0.94,
+        "jogos": 36,
+        "xg_medio": 0.91,
         "xga_medio": 1.92,
-        "xgd_medio": -0.98
+        "xgd_medio": -1.01
       }
     },
     "Goiás": {

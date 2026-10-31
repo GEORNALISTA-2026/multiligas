@@ -1,6 +1,6 @@
 {
   "season": "2026/2027",
-  "updated_at": "2026-10-29T07:21:59.192Z",
+  "updated_at": "2026-10-31T07:15:46.001Z",
   "teams": {
     "Estoril": {
       "team": "Estoril",
@@ -817,33 +817,53 @@
           "xg_movel_5": 1.18,
           "xga_movel_5": 1.69,
           "xgd_movel_5": -0.51
+        },
+        {
+          "rodada": 10,
+          "data": "2026-10-30T20:15:00Z",
+          "local": "Casa",
+          "adversario": "Sporting CP",
+          "gols_pro": 0,
+          "gols_contra": 2,
+          "placar": "0 x 2",
+          "xg": 0.31,
+          "xga": 2.65,
+          "xgd": -2.34,
+          "posse": 45,
+          "chutes": 12,
+          "chutes_no_gol": 2,
+          "escanteios": 3,
+          "desarmes": 14,
+          "xg_movel_5": 1.2,
+          "xga_movel_5": 1.73,
+          "xgd_movel_5": -0.53
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Melhorando",
-          "variacao": 25.7,
-          "temporada": 0.94,
-          "ultimos_5": 1.18
+          "variacao": 37.4,
+          "temporada": 0.88,
+          "ultimos_5": 1.2
         },
         "defesa": {
           "status": "Estável",
-          "variacao": -2.3,
-          "temporada": 1.65,
-          "ultimos_5": 1.69
+          "variacao": 1,
+          "temporada": 1.75,
+          "ultimos_5": 1.73
         },
         "equilibrio": {
           "status": "Melhorando",
-          "variacao": 28.6,
-          "temporada": -0.71,
-          "ultimos_5": -0.51
+          "variacao": 39.7,
+          "temporada": -0.87,
+          "ultimos_5": -0.53
         }
       },
       "resumo": {
-        "jogos": 9,
-        "xg_medio": 0.94,
-        "xga_medio": 1.65,
-        "xgd_medio": -0.71
+        "jogos": 10,
+        "xg_medio": 0.88,
+        "xga_medio": 1.75,
+        "xgd_medio": -0.87
       }
     },
     "Vitória de Guimarães": {
@@ -1661,33 +1681,53 @@
           "xg_movel_5": 1.96,
           "xga_movel_5": 1.01,
           "xgd_movel_5": 0.95
+        },
+        {
+          "rodada": 10,
+          "data": "2026-10-30T20:15:00Z",
+          "local": "Fora",
+          "adversario": "Casa Pia AC",
+          "gols_pro": 2,
+          "gols_contra": 0,
+          "placar": "2 x 0",
+          "xg": 2.65,
+          "xga": 0.31,
+          "xgd": 2.34,
+          "posse": 55,
+          "chutes": 23,
+          "chutes_no_gol": 11,
+          "escanteios": 4,
+          "desarmes": 19,
+          "xg_movel_5": 1.86,
+          "xga_movel_5": 1.06,
+          "xgd_movel_5": 0.8
         }
       ],
       "tendencia": {
         "ataque": {
-          "status": "Estável",
-          "variacao": 0.5,
-          "temporada": 1.95,
-          "ultimos_5": 1.96
+          "status": "Piorando",
+          "variacao": -7.9,
+          "temporada": 2.02,
+          "ultimos_5": 1.86
         },
         "defesa": {
           "status": "Piorando",
-          "variacao": -11,
-          "temporada": 0.91,
-          "ultimos_5": 1.01
+          "variacao": -24.3,
+          "temporada": 0.85,
+          "ultimos_5": 1.06
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -8.8,
-          "temporada": 1.04,
-          "ultimos_5": 0.95
+          "variacao": -31.3,
+          "temporada": 1.17,
+          "ultimos_5": 0.8
         }
       },
       "resumo": {
-        "jogos": 9,
-        "xg_medio": 1.95,
-        "xga_medio": 0.91,
-        "xgd_medio": 1.04
+        "jogos": 10,
+        "xg_medio": 2.02,
+        "xga_medio": 0.85,
+        "xgd_medio": 1.17
       }
     },
     "FC Porto": {

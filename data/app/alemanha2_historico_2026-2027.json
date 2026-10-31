@@ -1,6 +1,6 @@
 {
   "season": "2026/2027",
-  "updated_at": "2026-10-29T07:14:22.268Z",
+  "updated_at": "2026-10-31T07:08:06.178Z",
   "teams": {
     "Bochum": {
       "team": "Bochum",
@@ -184,33 +184,53 @@
           "xg_movel_5": 1.29,
           "xga_movel_5": 1.59,
           "xgd_movel_5": -0.3
+        },
+        {
+          "rodada": 10,
+          "data": "2026-10-30T17:30:00Z",
+          "local": "Fora",
+          "adversario": "Energie Cottbus",
+          "gols_pro": 2,
+          "gols_contra": 1,
+          "placar": "2 x 1",
+          "xg": 1.26,
+          "xga": 1.34,
+          "xgd": -0.08,
+          "posse": 45,
+          "chutes": 12,
+          "chutes_no_gol": 4,
+          "escanteios": 4,
+          "desarmes": 20,
+          "xg_movel_5": 1.26,
+          "xga_movel_5": 1.56,
+          "xgd_movel_5": -0.3
         }
       ],
       "tendencia": {
         "ataque": {
-          "status": "Estável",
-          "variacao": -3.6,
-          "temporada": 1.34,
-          "ultimos_5": 1.29
+          "status": "Piorando",
+          "variacao": -5.4,
+          "temporada": 1.33,
+          "ultimos_5": 1.26
         },
         "defesa": {
           "status": "Piorando",
-          "variacao": -17.4,
+          "variacao": -15.3,
           "temporada": 1.35,
-          "ultimos_5": 1.59
+          "ultimos_5": 1.56
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -2321.8,
-          "temporada": -0.01,
+          "variacao": -1468.4,
+          "temporada": -0.02,
           "ultimos_5": -0.3
         }
       },
       "resumo": {
-        "jogos": 9,
-        "xg_medio": 1.34,
+        "jogos": 10,
+        "xg_medio": 1.33,
         "xga_medio": 1.35,
-        "xgd_medio": -0.01
+        "xgd_medio": -0.02
       }
     },
     "Hertha BSC": {
@@ -1661,33 +1681,53 @@
           "xg_movel_5": 0.93,
           "xga_movel_5": 1.72,
           "xgd_movel_5": -0.79
+        },
+        {
+          "rodada": 10,
+          "data": "2026-10-30T17:30:00Z",
+          "local": "Casa",
+          "adversario": "Eintracht Braunschweig",
+          "gols_pro": 3,
+          "gols_contra": 1,
+          "placar": "3 x 1",
+          "xg": 1.23,
+          "xga": 0.35,
+          "xgd": 0.88,
+          "posse": 48,
+          "chutes": 15,
+          "chutes_no_gol": 6,
+          "escanteios": 3,
+          "desarmes": 14,
+          "xg_movel_5": 0.93,
+          "xga_movel_5": 1.41,
+          "xgd_movel_5": -0.49
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Piorando",
-          "variacao": -33.4,
-          "temporada": 1.39,
+          "variacao": -32.8,
+          "temporada": 1.38,
           "ultimos_5": 0.93
         },
         "defesa": {
           "status": "Piorando",
-          "variacao": -18.8,
-          "temporada": 1.44,
-          "ultimos_5": 1.72
+          "variacao": -5.9,
+          "temporada": 1.34,
+          "ultimos_5": 1.41
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -1441.7,
-          "temporada": -0.05,
-          "ultimos_5": -0.79
+          "variacao": -1261.9,
+          "temporada": 0.04,
+          "ultimos_5": -0.49
         }
       },
       "resumo": {
-        "jogos": 9,
-        "xg_medio": 1.39,
-        "xga_medio": 1.44,
-        "xgd_medio": -0.05
+        "jogos": 10,
+        "xg_medio": 1.38,
+        "xga_medio": 1.34,
+        "xgd_medio": 0.04
       }
     },
     "Magdeburg": {
@@ -2083,33 +2123,53 @@
           "xg_movel_5": 1.44,
           "xga_movel_5": 1.25,
           "xgd_movel_5": 0.19
+        },
+        {
+          "rodada": 10,
+          "data": "2026-10-30T17:30:00Z",
+          "local": "Fora",
+          "adversario": "Arminia Bielefeld",
+          "gols_pro": 1,
+          "gols_contra": 3,
+          "placar": "1 x 3",
+          "xg": 0.35,
+          "xga": 1.23,
+          "xgd": -0.88,
+          "posse": 52,
+          "chutes": 9,
+          "chutes_no_gol": 2,
+          "escanteios": 4,
+          "desarmes": 19,
+          "xg_movel_5": 1.25,
+          "xga_movel_5": 1.32,
+          "xgd_movel_5": -0.08
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Piorando",
-          "variacao": -20,
-          "temporada": 1.8,
-          "ultimos_5": 1.44
+          "variacao": -24.5,
+          "temporada": 1.65,
+          "ultimos_5": 1.25
         },
         "defesa": {
           "status": "Melhorando",
-          "variacao": 26.3,
-          "temporada": 1.7,
-          "ultimos_5": 1.25
+          "variacao": 19.7,
+          "temporada": 1.65,
+          "ultimos_5": 1.32
         },
         "equilibrio": {
-          "status": "Melhorando",
-          "variacao": 86,
-          "temporada": 0.1,
-          "ultimos_5": 0.19
+          "status": "Piorando",
+          "variacao": -4000,
+          "temporada": 0,
+          "ultimos_5": -0.08
         }
       },
       "resumo": {
-        "jogos": 9,
-        "xg_medio": 1.8,
-        "xga_medio": 1.7,
-        "xgd_medio": 0.1
+        "jogos": 10,
+        "xg_medio": 1.65,
+        "xga_medio": 1.65,
+        "xgd_medio": 0
       }
     },
     "Wolfsburg": {
@@ -2716,33 +2776,53 @@
           "xg_movel_5": 1.4,
           "xga_movel_5": 1.75,
           "xgd_movel_5": -0.36
+        },
+        {
+          "rodada": 10,
+          "data": "2026-10-30T17:30:00Z",
+          "local": "Casa",
+          "adversario": "Bochum",
+          "gols_pro": 1,
+          "gols_contra": 2,
+          "placar": "1 x 2",
+          "xg": 1.34,
+          "xga": 1.26,
+          "xgd": 0.08,
+          "posse": 55,
+          "chutes": 14,
+          "chutes_no_gol": 5,
+          "escanteios": 5,
+          "desarmes": 16,
+          "xg_movel_5": 1.28,
+          "xga_movel_5": 1.69,
+          "xgd_movel_5": -0.41
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Piorando",
-          "variacao": -12.5,
-          "temporada": 1.6,
-          "ultimos_5": 1.4
+          "variacao": -18.8,
+          "temporada": 1.57,
+          "ultimos_5": 1.28
         },
         "defesa": {
           "status": "Melhorando",
-          "variacao": 27.6,
-          "temporada": 2.42,
-          "ultimos_5": 1.75
+          "variacao": 26.7,
+          "temporada": 2.31,
+          "ultimos_5": 1.69
         },
         "equilibrio": {
           "status": "Melhorando",
-          "variacao": 56.9,
-          "temporada": -0.83,
-          "ultimos_5": -0.36
+          "variacao": 43.7,
+          "temporada": -0.73,
+          "ultimos_5": -0.41
         }
       },
       "resumo": {
-        "jogos": 9,
-        "xg_medio": 1.6,
-        "xga_medio": 2.42,
-        "xgd_medio": -0.83
+        "jogos": 10,
+        "xg_medio": 1.57,
+        "xga_medio": 2.31,
+        "xgd_medio": -0.73
       }
     },
     "Hannover 96": {
