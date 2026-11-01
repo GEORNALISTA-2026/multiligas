@@ -1,6 +1,6 @@
 {
   "season": "2026",
-  "updated_at": "2026-10-31T07:04:22.947Z",
+  "updated_at": "2026-11-01T07:12:31.365Z",
   "teams": {
     "Atlético-MG": {
       "team": "Atlético-MG",
@@ -2026,33 +2026,53 @@
           "xg_movel_5": 0.99,
           "xga_movel_5": 2.09,
           "xgd_movel_5": -1.1
+        },
+        {
+          "rodada": 33,
+          "data": "2026-10-31T19:00:00Z",
+          "local": "Casa",
+          "adversario": "Vitória",
+          "gols_pro": 2,
+          "gols_contra": 0,
+          "placar": "2 x 0",
+          "xg": 2.3,
+          "xga": 0.53,
+          "xgd": 1.77,
+          "posse": 49,
+          "chutes": 20,
+          "chutes_no_gol": 7,
+          "escanteios": 7,
+          "desarmes": 13,
+          "xg_movel_5": 1.43,
+          "xga_movel_5": 1.46,
+          "xgd_movel_5": -0.04
         }
       ],
       "tendencia": {
         "ataque": {
-          "status": "Piorando",
-          "variacao": -8.2,
-          "temporada": 1.07,
-          "ultimos_5": 0.99
+          "status": "Melhorando",
+          "variacao": 28.3,
+          "temporada": 1.11,
+          "ultimos_5": 1.43
         },
         "defesa": {
-          "status": "Piorando",
-          "variacao": -27.6,
-          "temporada": 1.64,
-          "ultimos_5": 2.09
+          "status": "Melhorando",
+          "variacao": 8.7,
+          "temporada": 1.6,
+          "ultimos_5": 1.46
         },
         "equilibrio": {
-          "status": "Piorando",
-          "variacao": -95.9,
-          "temporada": -0.56,
-          "ultimos_5": -1.1
+          "status": "Melhorando",
+          "variacao": 92.3,
+          "temporada": -0.49,
+          "ultimos_5": -0.04
         }
       },
       "resumo": {
-        "jogos": 32,
-        "xg_medio": 1.07,
-        "xga_medio": 1.64,
-        "xgd_medio": -0.56
+        "jogos": 33,
+        "xg_medio": 1.11,
+        "xga_medio": 1.6,
+        "xgd_medio": -0.49
       }
     },
     "RB Bragantino": {
@@ -4770,33 +4790,53 @@
           "xg_movel_5": 1.34,
           "xga_movel_5": 1.2,
           "xgd_movel_5": 0.13
+        },
+        {
+          "rodada": 33,
+          "data": "2026-10-31T19:00:00Z",
+          "local": "Fora",
+          "adversario": "Coritiba",
+          "gols_pro": 0,
+          "gols_contra": 2,
+          "placar": "0 x 2",
+          "xg": 0.53,
+          "xga": 2.3,
+          "xgd": -1.77,
+          "posse": 51,
+          "chutes": 7,
+          "chutes_no_gol": 1,
+          "escanteios": 5,
+          "desarmes": 12,
+          "xg_movel_5": 1.3,
+          "xga_movel_5": 1.41,
+          "xgd_movel_5": -0.11
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Melhorando",
-          "variacao": 25.9,
-          "temporada": 1.06,
-          "ultimos_5": 1.34
+          "variacao": 24.2,
+          "temporada": 1.05,
+          "ultimos_5": 1.3
         },
         "defesa": {
-          "status": "Melhorando",
-          "variacao": 15.3,
-          "temporada": 1.42,
-          "ultimos_5": 1.2
+          "status": "Estável",
+          "variacao": 2.6,
+          "temporada": 1.45,
+          "ultimos_5": 1.41
         },
         "equilibrio": {
           "status": "Melhorando",
-          "variacao": 137.4,
-          "temporada": -0.36,
-          "ultimos_5": 0.13
+          "variacao": 72.6,
+          "temporada": -0.4,
+          "ultimos_5": -0.11
         }
       },
       "resumo": {
-        "jogos": 32,
-        "xg_medio": 1.06,
-        "xga_medio": 1.42,
-        "xgd_medio": -0.36
+        "jogos": 33,
+        "xg_medio": 1.05,
+        "xga_medio": 1.45,
+        "xgd_medio": -0.4
       }
     },
     "Remo": {

@@ -1,6 +1,6 @@
 {
   "season": "2026/2027",
-  "updated_at": "2026-10-31T07:16:50.219Z",
+  "updated_at": "2026-11-01T07:23:10.968Z",
   "teams": {
     "AEK Athens": {
       "team": "AEK Athens",
@@ -908,33 +908,53 @@
           "xg_movel_5": 1.66,
           "xga_movel_5": 0.67,
           "xgd_movel_5": 0.99
+        },
+        {
+          "rodada": 9,
+          "data": "2026-10-31T17:00:00Z",
+          "local": "Fora",
+          "adversario": "Kifisia FC",
+          "gols_pro": 3,
+          "gols_contra": 2,
+          "placar": "3 x 2",
+          "xg": 1,
+          "xga": 1.57,
+          "xgd": -0.57,
+          "posse": 51,
+          "chutes": 14,
+          "chutes_no_gol": 5,
+          "escanteios": 6,
+          "desarmes": 13,
+          "xg_movel_5": 1.58,
+          "xga_movel_5": 0.81,
+          "xgd_movel_5": 0.77
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Piorando",
-          "variacao": -10.6,
-          "temporada": 1.86,
-          "ultimos_5": 1.66
+          "variacao": -10.1,
+          "temporada": 1.76,
+          "ultimos_5": 1.58
         },
         "defesa": {
           "status": "Piorando",
-          "variacao": -7.2,
-          "temporada": 0.63,
-          "ultimos_5": 0.67
+          "variacao": -10.5,
+          "temporada": 0.73,
+          "ultimos_5": 0.81
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -19.8,
-          "temporada": 1.23,
-          "ultimos_5": 0.99
+          "variacao": -24.8,
+          "temporada": 1.03,
+          "ultimos_5": 0.77
         }
       },
       "resumo": {
-        "jogos": 8,
-        "xg_medio": 1.86,
-        "xga_medio": 0.63,
-        "xgd_medio": 1.23
+        "jogos": 9,
+        "xg_medio": 1.76,
+        "xga_medio": 0.73,
+        "xgd_medio": 1.03
       }
     },
     "Atromitos": {
@@ -2416,33 +2436,53 @@
           "xg_movel_5": 1.34,
           "xga_movel_5": 0.92,
           "xgd_movel_5": 0.43
+        },
+        {
+          "rodada": 9,
+          "data": "2026-10-31T17:00:00Z",
+          "local": "Casa",
+          "adversario": "Olympiacos",
+          "gols_pro": 2,
+          "gols_contra": 3,
+          "placar": "2 x 3",
+          "xg": 1.57,
+          "xga": 1,
+          "xgd": 0.57,
+          "posse": 49,
+          "chutes": 16,
+          "chutes_no_gol": 8,
+          "escanteios": 10,
+          "desarmes": 6,
+          "xg_movel_5": 1.46,
+          "xga_movel_5": 1.01,
+          "xgd_movel_5": 0.45
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Melhorando",
-          "variacao": 13.4,
-          "temporada": 1.19,
-          "ultimos_5": 1.34
+          "variacao": 18.8,
+          "temporada": 1.23,
+          "ultimos_5": 1.46
         },
         "defesa": {
-          "status": "Melhorando",
-          "variacao": 13.8,
+          "status": "Estável",
+          "variacao": 4.7,
           "temporada": 1.06,
-          "ultimos_5": 0.92
+          "ultimos_5": 1.01
         },
         "equilibrio": {
           "status": "Melhorando",
-          "variacao": 249.4,
-          "temporada": 0.12,
-          "ultimos_5": 0.43
+          "variacao": 162.5,
+          "temporada": 0.17,
+          "ultimos_5": 0.45
         }
       },
       "resumo": {
-        "jogos": 8,
-        "xg_medio": 1.19,
+        "jogos": 9,
+        "xg_medio": 1.23,
         "xga_medio": 1.06,
-        "xgd_medio": 0.12
+        "xgd_medio": 0.17
       }
     },
     "Panathinaikos": {
