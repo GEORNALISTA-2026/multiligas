@@ -1,6 +1,6 @@
 {
   "season": "2026/2027",
-  "updated_at": "2026-11-01T07:18:01.641Z",
+  "updated_at": "2026-11-02T07:45:39.418Z",
   "teams": {
     "Boulogne": {
       "team": "Boulogne",
@@ -1428,44 +1428,44 @@
           "gols_pro": 1,
           "gols_contra": 3,
           "placar": "1 x 3",
-          "xg": 1.75,
-          "xga": 2.48,
-          "xgd": -0.73,
+          "xg": 1.79,
+          "xga": 2.75,
+          "xgd": -0.96,
           "posse": 50,
-          "chutes": 21,
+          "chutes": 19,
           "chutes_no_gol": 8,
           "escanteios": 7,
           "desarmes": 13,
-          "xg_movel_5": 1.26,
-          "xga_movel_5": 1.65,
-          "xgd_movel_5": -0.38
+          "xg_movel_5": 1.27,
+          "xga_movel_5": 1.7,
+          "xgd_movel_5": -0.43
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Melhorando",
-          "variacao": 43.5,
+          "variacao": 43.8,
           "temporada": 0.88,
-          "ultimos_5": 1.26
+          "ultimos_5": 1.27
         },
         "defesa": {
           "status": "Piorando",
-          "variacao": -5.9,
-          "temporada": 1.55,
-          "ultimos_5": 1.65
+          "variacao": -7.7,
+          "temporada": 1.58,
+          "ultimos_5": 1.7
         },
         "equilibrio": {
           "status": "Melhorando",
-          "variacao": 43.3,
-          "temporada": -0.67,
-          "ultimos_5": -0.38
+          "variacao": 38.4,
+          "temporada": -0.69,
+          "ultimos_5": -0.43
         }
       },
       "resumo": {
         "jogos": 11,
         "xg_medio": 0.88,
-        "xga_medio": 1.55,
-        "xgd_medio": -0.67
+        "xga_medio": 1.58,
+        "xgd_medio": -0.69
       }
     },
     "Metz": {
@@ -1679,44 +1679,44 @@
           "gols_pro": 1,
           "gols_contra": 3,
           "placar": "1 x 3",
-          "xg": 1.91,
-          "xga": 2.05,
-          "xgd": -0.14,
-          "posse": 68,
+          "xg": 1.71,
+          "xga": 2.39,
+          "xgd": -0.68,
+          "posse": 69,
           "chutes": 18,
           "chutes_no_gol": 5,
           "escanteios": 8,
-          "desarmes": 11,
-          "xg_movel_5": 1.47,
-          "xga_movel_5": 1.91,
-          "xgd_movel_5": -0.44
+          "desarmes": 12,
+          "xg_movel_5": 1.43,
+          "xga_movel_5": 1.98,
+          "xgd_movel_5": -0.55
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Estável",
-          "variacao": 3,
-          "temporada": 1.42,
-          "ultimos_5": 1.47
+          "variacao": 1.5,
+          "temporada": 1.41,
+          "ultimos_5": 1.43
         },
         "defesa": {
           "status": "Piorando",
-          "variacao": -14.6,
-          "temporada": 1.66,
-          "ultimos_5": 1.91
+          "variacao": -16.5,
+          "temporada": 1.7,
+          "ultimos_5": 1.98
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -83.5,
-          "temporada": -0.24,
-          "ultimos_5": -0.44
+          "variacao": -89.7,
+          "temporada": -0.29,
+          "ultimos_5": -0.55
         }
       },
       "resumo": {
         "jogos": 11,
-        "xg_medio": 1.42,
-        "xga_medio": 1.66,
-        "xgd_medio": -0.24
+        "xg_medio": 1.41,
+        "xga_medio": 1.7,
+        "xgd_medio": -0.29
       }
     },
     "Guingamp": {
@@ -2432,44 +2432,44 @@
           "gols_pro": 3,
           "gols_contra": 1,
           "placar": "3 x 1",
-          "xg": 2.48,
-          "xga": 1.75,
-          "xgd": 0.73,
+          "xg": 2.75,
+          "xga": 1.79,
+          "xgd": 0.96,
           "posse": 50,
           "chutes": 13,
           "chutes_no_gol": 4,
           "escanteios": 2,
-          "desarmes": 21,
-          "xg_movel_5": 2.3,
-          "xga_movel_5": 1.53,
-          "xgd_movel_5": 0.76
+          "desarmes": 20,
+          "xg_movel_5": 2.35,
+          "xga_movel_5": 1.54,
+          "xgd_movel_5": 0.81
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Melhorando",
-          "variacao": 25.1,
-          "temporada": 1.84,
-          "ultimos_5": 2.3
+          "variacao": 26.3,
+          "temporada": 1.86,
+          "ultimos_5": 2.35
         },
         "defesa": {
           "status": "Melhorando",
-          "variacao": 22.4,
+          "variacao": 22.1,
           "temporada": 1.98,
-          "ultimos_5": 1.53
+          "ultimos_5": 1.54
         },
         "equilibrio": {
           "status": "Melhorando",
-          "variacao": 649.3,
-          "temporada": -0.14,
-          "ultimos_5": 0.76
+          "variacao": 785.4,
+          "temporada": -0.12,
+          "ultimos_5": 0.81
         }
       },
       "resumo": {
         "jogos": 11,
-        "xg_medio": 1.84,
+        "xg_medio": 1.86,
         "xga_medio": 1.98,
-        "xgd_medio": -0.14
+        "xgd_medio": -0.12
       }
     },
     "Nantes": {
@@ -3165,44 +3165,44 @@
           "gols_pro": 3,
           "gols_contra": 1,
           "placar": "3 x 1",
-          "xg": 2.05,
-          "xga": 1.91,
-          "xgd": 0.14,
-          "posse": 32,
+          "xg": 2.39,
+          "xga": 1.71,
+          "xgd": 0.68,
+          "posse": 31,
           "chutes": 9,
           "chutes_no_gol": 5,
           "escanteios": 4,
-          "desarmes": 23,
-          "xg_movel_5": 1.78,
-          "xga_movel_5": 1.35,
-          "xgd_movel_5": 0.43
+          "desarmes": 21,
+          "xg_movel_5": 1.84,
+          "xga_movel_5": 1.31,
+          "xgd_movel_5": 0.54
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Melhorando",
-          "variacao": 8.1,
-          "temporada": 1.64,
-          "ultimos_5": 1.78
+          "variacao": 10.2,
+          "temporada": 1.67,
+          "ultimos_5": 1.84
         },
         "defesa": {
           "status": "Piorando",
-          "variacao": -10.9,
-          "temporada": 1.22,
-          "ultimos_5": 1.35
+          "variacao": -9.2,
+          "temporada": 1.2,
+          "ultimos_5": 1.31
         },
         "equilibrio": {
-          "status": "Estável",
-          "variacao": 0.2,
-          "temporada": 0.43,
-          "ultimos_5": 0.43
+          "status": "Melhorando",
+          "variacao": 12.5,
+          "temporada": 0.48,
+          "ultimos_5": 0.54
         }
       },
       "resumo": {
         "jogos": 11,
-        "xg_medio": 1.64,
-        "xga_medio": 1.22,
-        "xgd_medio": 0.43
+        "xg_medio": 1.67,
+        "xga_medio": 1.2,
+        "xgd_medio": 0.48
       }
     },
     "Annecy FC": {

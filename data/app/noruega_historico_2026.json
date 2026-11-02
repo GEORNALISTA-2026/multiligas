@@ -1,6 +1,6 @@
 {
   "season": "2026",
-  "updated_at": "2026-11-01T07:25:17.494Z",
+  "updated_at": "2026-11-02T07:53:46.405Z",
   "teams": {
     "Hamarkameratene": {
       "team": "Hamarkameratene",
@@ -484,33 +484,53 @@
           "xg_movel_5": 1.37,
           "xga_movel_5": 3.43,
           "xgd_movel_5": -2.06
+        },
+        {
+          "rodada": 25,
+          "data": "2026-11-01T16:00:00Z",
+          "local": "Fora",
+          "adversario": "KFUM",
+          "gols_pro": 2,
+          "gols_contra": 2,
+          "placar": "2 x 2",
+          "xg": 0.9,
+          "xga": 1.12,
+          "xgd": -0.22,
+          "posse": 52,
+          "chutes": 13,
+          "chutes_no_gol": 2,
+          "escanteios": 6,
+          "desarmes": 14,
+          "xg_movel_5": 1.51,
+          "xga_movel_5": 2.98,
+          "xgd_movel_5": -1.47
         }
       ],
       "tendencia": {
         "ataque": {
-          "status": "Estável",
-          "variacao": -1.9,
-          "temporada": 1.4,
-          "ultimos_5": 1.37
+          "status": "Melhorando",
+          "variacao": 9.7,
+          "temporada": 1.38,
+          "ultimos_5": 1.51
         },
         "defesa": {
           "status": "Piorando",
-          "variacao": -66.8,
-          "temporada": 2.05,
-          "ultimos_5": 3.43
+          "variacao": -47.6,
+          "temporada": 2.02,
+          "ultimos_5": 2.98
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -212.7,
-          "temporada": -0.66,
-          "ultimos_5": -2.06
+          "variacao": -129.1,
+          "temporada": -0.64,
+          "ultimos_5": -1.47
         }
       },
       "resumo": {
-        "jogos": 24,
-        "xg_medio": 1.4,
-        "xga_medio": 2.05,
-        "xgd_medio": -0.66
+        "jogos": 25,
+        "xg_medio": 1.38,
+        "xga_medio": 2.02,
+        "xgd_medio": -0.64
       }
     },
     "Viking": {
@@ -1526,33 +1546,53 @@
           "xg_movel_5": 3.28,
           "xga_movel_5": 1.51,
           "xgd_movel_5": 1.77
+        },
+        {
+          "rodada": 25,
+          "data": "2026-11-01T13:30:00Z",
+          "local": "Fora",
+          "adversario": "Brann",
+          "gols_pro": 2,
+          "gols_contra": 3,
+          "placar": "2 x 3",
+          "xg": 3.37,
+          "xga": 1.6,
+          "xgd": 1.77,
+          "posse": 67,
+          "chutes": 17,
+          "chutes_no_gol": 4,
+          "escanteios": 7,
+          "desarmes": 15,
+          "xg_movel_5": 3.59,
+          "xga_movel_5": 1.78,
+          "xgd_movel_5": 1.81
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Melhorando",
-          "variacao": 43,
-          "temporada": 2.3,
-          "ultimos_5": 3.28
+          "variacao": 53.5,
+          "temporada": 2.34,
+          "ultimos_5": 3.59
         },
         "defesa": {
           "status": "Piorando",
-          "variacao": -5.4,
-          "temporada": 1.43,
-          "ultimos_5": 1.51
+          "variacao": -23.5,
+          "temporada": 1.44,
+          "ultimos_5": 1.78
         },
         "equilibrio": {
           "status": "Melhorando",
-          "variacao": 105.5,
-          "temporada": 0.86,
-          "ultimos_5": 1.77
+          "variacao": 101.6,
+          "temporada": 0.9,
+          "ultimos_5": 1.81
         }
       },
       "resumo": {
-        "jogos": 24,
-        "xg_medio": 2.3,
-        "xga_medio": 1.43,
-        "xgd_medio": 0.86
+        "jogos": 25,
+        "xg_medio": 2.34,
+        "xga_medio": 1.44,
+        "xgd_medio": 0.9
       }
     },
     "Rosenborg": {
@@ -2568,33 +2608,53 @@
           "xg_movel_5": 0.96,
           "xga_movel_5": 3.14,
           "xgd_movel_5": -2.17
+        },
+        {
+          "rodada": 25,
+          "data": "2026-11-01T16:00:00Z",
+          "local": "Fora",
+          "adversario": "Sarpsborg 08",
+          "gols_pro": 4,
+          "gols_contra": 2,
+          "placar": "4 x 2",
+          "xg": 2.19,
+          "xga": 3.53,
+          "xgd": -1.34,
+          "posse": 29,
+          "chutes": 10,
+          "chutes_no_gol": 6,
+          "escanteios": 2,
+          "desarmes": 11,
+          "xg_movel_5": 1.23,
+          "xga_movel_5": 3.76,
+          "xgd_movel_5": -2.53
         }
       ],
       "tendencia": {
         "ataque": {
-          "status": "Piorando",
-          "variacao": -22.9,
-          "temporada": 1.25,
-          "ultimos_5": 0.96
+          "status": "Estável",
+          "variacao": -4.3,
+          "temporada": 1.29,
+          "ultimos_5": 1.23
         },
         "defesa": {
           "status": "Piorando",
-          "variacao": -48.2,
-          "temporada": 2.12,
-          "ultimos_5": 3.14
+          "variacao": -73,
+          "temporada": 2.17,
+          "ultimos_5": 3.76
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -150.7,
-          "temporada": -0.87,
-          "ultimos_5": -2.17
+          "variacao": -185.6,
+          "temporada": -0.89,
+          "ultimos_5": -2.53
         }
       },
       "resumo": {
-        "jogos": 24,
-        "xg_medio": 1.25,
-        "xga_medio": 2.12,
-        "xgd_medio": -0.87
+        "jogos": 25,
+        "xg_medio": 1.29,
+        "xga_medio": 2.17,
+        "xgd_medio": -0.89
       }
     },
     "Brann": {
@@ -3079,33 +3139,53 @@
           "xg_movel_5": 1.95,
           "xga_movel_5": 2.17,
           "xgd_movel_5": -0.22
+        },
+        {
+          "rodada": 25,
+          "data": "2026-11-01T13:30:00Z",
+          "local": "Casa",
+          "adversario": "Molde",
+          "gols_pro": 3,
+          "gols_contra": 2,
+          "placar": "3 x 2",
+          "xg": 1.6,
+          "xga": 3.37,
+          "xgd": -1.77,
+          "posse": 33,
+          "chutes": 13,
+          "chutes_no_gol": 5,
+          "escanteios": 4,
+          "desarmes": 20,
+          "xg_movel_5": 1.88,
+          "xga_movel_5": 2.52,
+          "xgd_movel_5": -0.64
         }
       ],
       "tendencia": {
         "ataque": {
-          "status": "Melhorando",
-          "variacao": 5.1,
-          "temporada": 1.86,
-          "ultimos_5": 1.95
+          "status": "Estável",
+          "variacao": 1.7,
+          "temporada": 1.85,
+          "ultimos_5": 1.88
         },
         "defesa": {
           "status": "Piorando",
-          "variacao": -14,
-          "temporada": 1.91,
-          "ultimos_5": 2.17
+          "variacao": -28.3,
+          "temporada": 1.97,
+          "ultimos_5": 2.52
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -363.2,
-          "temporada": -0.05,
-          "ultimos_5": -0.22
+          "variacao": -451.5,
+          "temporada": -0.12,
+          "ultimos_5": -0.64
         }
       },
       "resumo": {
-        "jogos": 24,
-        "xg_medio": 1.86,
-        "xga_medio": 1.91,
-        "xgd_medio": -0.05
+        "jogos": 25,
+        "xg_medio": 1.85,
+        "xga_medio": 1.97,
+        "xgd_medio": -0.12
       }
     },
     "Aalesund": {
@@ -4121,33 +4201,53 @@
           "xg_movel_5": 1.17,
           "xga_movel_5": 2.35,
           "xgd_movel_5": -1.18
+        },
+        {
+          "rodada": 25,
+          "data": "2026-11-01T16:00:00Z",
+          "local": "Fora",
+          "adversario": "Start",
+          "gols_pro": 1,
+          "gols_contra": 0,
+          "placar": "1 x 0",
+          "xg": 2.08,
+          "xga": 1.32,
+          "xgd": 0.76,
+          "posse": 51,
+          "chutes": 22,
+          "chutes_no_gol": 4,
+          "escanteios": 5,
+          "desarmes": 15,
+          "xg_movel_5": 1.26,
+          "xga_movel_5": 2.22,
+          "xgd_movel_5": -0.96
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Piorando",
-          "variacao": -28.7,
-          "temporada": 1.64,
-          "ultimos_5": 1.17
+          "variacao": -24.1,
+          "temporada": 1.66,
+          "ultimos_5": 1.26
         },
         "defesa": {
           "status": "Piorando",
-          "variacao": -36.4,
-          "temporada": 1.73,
-          "ultimos_5": 2.35
+          "variacao": -30.1,
+          "temporada": 1.71,
+          "ultimos_5": 2.22
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -1313.7,
-          "temporada": -0.08,
-          "ultimos_5": -1.18
+          "variacao": -1828,
+          "temporada": -0.05,
+          "ultimos_5": -0.96
         }
       },
       "resumo": {
-        "jogos": 24,
-        "xg_medio": 1.64,
-        "xga_medio": 1.73,
-        "xgd_medio": -0.08
+        "jogos": 25,
+        "xg_medio": 1.66,
+        "xga_medio": 1.71,
+        "xgd_medio": -0.05
       }
     },
     "KFUM": {
@@ -4632,33 +4732,53 @@
           "xg_movel_5": 1.38,
           "xga_movel_5": 1.74,
           "xgd_movel_5": -0.36
+        },
+        {
+          "rodada": 25,
+          "data": "2026-11-01T16:00:00Z",
+          "local": "Casa",
+          "adversario": "Hamarkameratene",
+          "gols_pro": 2,
+          "gols_contra": 2,
+          "placar": "2 x 2",
+          "xg": 1.12,
+          "xga": 0.9,
+          "xgd": 0.22,
+          "posse": 48,
+          "chutes": 13,
+          "chutes_no_gol": 5,
+          "escanteios": 3,
+          "desarmes": 20,
+          "xg_movel_5": 1.55,
+          "xga_movel_5": 1.55,
+          "xgd_movel_5": 0
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Melhorando",
-          "variacao": 5.8,
-          "temporada": 1.3,
-          "ultimos_5": 1.38
+          "variacao": 19.7,
+          "temporada": 1.29,
+          "ultimos_5": 1.55
         },
         "defesa": {
           "status": "Melhorando",
-          "variacao": 8.1,
-          "temporada": 1.89,
-          "ultimos_5": 1.74
+          "variacao": 16.2,
+          "temporada": 1.85,
+          "ultimos_5": 1.55
         },
         "equilibrio": {
           "status": "Melhorando",
-          "variacao": 38.8,
-          "temporada": -0.59,
-          "ultimos_5": -0.36
+          "variacao": 99.6,
+          "temporada": -0.56,
+          "ultimos_5": 0
         }
       },
       "resumo": {
-        "jogos": 24,
-        "xg_medio": 1.3,
-        "xga_medio": 1.89,
-        "xgd_medio": -0.59
+        "jogos": 25,
+        "xg_medio": 1.29,
+        "xga_medio": 1.85,
+        "xgd_medio": -0.56
       }
     },
     "Start": {
@@ -5143,33 +5263,53 @@
           "xg_movel_5": 1.76,
           "xga_movel_5": 2.89,
           "xgd_movel_5": -1.13
+        },
+        {
+          "rodada": 25,
+          "data": "2026-11-01T16:00:00Z",
+          "local": "Casa",
+          "adversario": "Lillestrøm",
+          "gols_pro": 0,
+          "gols_contra": 1,
+          "placar": "0 x 1",
+          "xg": 1.32,
+          "xga": 2.08,
+          "xgd": -0.76,
+          "posse": 49,
+          "chutes": 12,
+          "chutes_no_gol": 1,
+          "escanteios": 5,
+          "desarmes": 19,
+          "xg_movel_5": 1.77,
+          "xga_movel_5": 2.67,
+          "xgd_movel_5": -0.91
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Melhorando",
-          "variacao": 19.7,
+          "variacao": 20.3,
           "temporada": 1.47,
-          "ultimos_5": 1.76
+          "ultimos_5": 1.77
         },
         "defesa": {
           "status": "Piorando",
-          "variacao": -50.8,
+          "variacao": -39.1,
           "temporada": 1.92,
-          "ultimos_5": 2.89
+          "ultimos_5": 2.67
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -154.5,
-          "temporada": -0.44,
-          "ultimos_5": -1.13
+          "variacao": -99.5,
+          "temporada": -0.46,
+          "ultimos_5": -0.91
         }
       },
       "resumo": {
-        "jogos": 24,
+        "jogos": 25,
         "xg_medio": 1.47,
         "xga_medio": 1.92,
-        "xgd_medio": -0.44
+        "xgd_medio": -0.46
       }
     },
     "Vålerenga": {
@@ -5654,33 +5794,53 @@
           "xg_movel_5": 2.04,
           "xga_movel_5": 2.04,
           "xgd_movel_5": 0
+        },
+        {
+          "rodada": 25,
+          "data": "2026-11-01T18:15:00Z",
+          "local": "Casa",
+          "adversario": "Tromsø",
+          "gols_pro": 4,
+          "gols_contra": 0,
+          "placar": "4 x 0",
+          "xg": 2.28,
+          "xga": 0.27,
+          "xgd": 2.01,
+          "posse": 70,
+          "chutes": 18,
+          "chutes_no_gol": 9,
+          "escanteios": 3,
+          "desarmes": 13,
+          "xg_movel_5": 2.24,
+          "xga_movel_5": 1.67,
+          "xgd_movel_5": 0.57
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Melhorando",
-          "variacao": 11,
-          "temporada": 1.84,
-          "ultimos_5": 2.04
+          "variacao": 20.6,
+          "temporada": 1.86,
+          "ultimos_5": 2.24
         },
         "defesa": {
-          "status": "Estável",
-          "variacao": -2,
-          "temporada": 2,
-          "ultimos_5": 2.04
+          "status": "Melhorando",
+          "variacao": 13.3,
+          "temporada": 1.93,
+          "ultimos_5": 1.67
         },
         "equilibrio": {
           "status": "Melhorando",
-          "variacao": 102.5,
-          "temporada": -0.16,
-          "ultimos_5": 0
+          "variacao": 893.3,
+          "temporada": -0.07,
+          "ultimos_5": 0.57
         }
       },
       "resumo": {
-        "jogos": 24,
-        "xg_medio": 1.84,
-        "xga_medio": 2,
-        "xgd_medio": -0.16
+        "jogos": 25,
+        "xg_medio": 1.86,
+        "xga_medio": 1.93,
+        "xgd_medio": -0.07
       }
     },
     "Sandefjord": {
@@ -6696,33 +6856,53 @@
           "xg_movel_5": 1.54,
           "xga_movel_5": 1.21,
           "xgd_movel_5": 0.33
+        },
+        {
+          "rodada": 25,
+          "data": "2026-11-01T18:15:00Z",
+          "local": "Fora",
+          "adversario": "Vålerenga",
+          "gols_pro": 0,
+          "gols_contra": 4,
+          "placar": "0 x 4",
+          "xg": 0.27,
+          "xga": 2.28,
+          "xgd": -2.01,
+          "posse": 30,
+          "chutes": 3,
+          "chutes_no_gol": 0,
+          "escanteios": 2,
+          "desarmes": 18,
+          "xg_movel_5": 1.51,
+          "xga_movel_5": 1.5,
+          "xgd_movel_5": 0.02
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Piorando",
-          "variacao": -11.7,
-          "temporada": 1.75,
-          "ultimos_5": 1.54
+          "variacao": -10.3,
+          "temporada": 1.69,
+          "ultimos_5": 1.51
         },
         "defesa": {
-          "status": "Melhorando",
-          "variacao": 11.9,
-          "temporada": 1.38,
-          "ultimos_5": 1.21
+          "status": "Piorando",
+          "variacao": -6.1,
+          "temporada": 1.41,
+          "ultimos_5": 1.5
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -11,
-          "temporada": 0.37,
-          "ultimos_5": 0.33
+          "variacao": -94.2,
+          "temporada": 0.28,
+          "ultimos_5": 0.02
         }
       },
       "resumo": {
-        "jogos": 24,
-        "xg_medio": 1.75,
-        "xga_medio": 1.38,
-        "xgd_medio": 0.37
+        "jogos": 25,
+        "xg_medio": 1.69,
+        "xga_medio": 1.41,
+        "xgd_medio": 0.28
       }
     },
     "Fredrikstad": {
@@ -7738,33 +7918,53 @@
           "xg_movel_5": 1.8,
           "xga_movel_5": 1.88,
           "xgd_movel_5": -0.08
+        },
+        {
+          "rodada": 25,
+          "data": "2026-11-01T16:00:00Z",
+          "local": "Casa",
+          "adversario": "Kristiansund",
+          "gols_pro": 2,
+          "gols_contra": 4,
+          "placar": "2 x 4",
+          "xg": 3.53,
+          "xga": 2.19,
+          "xgd": 1.34,
+          "posse": 71,
+          "chutes": 23,
+          "chutes_no_gol": 7,
+          "escanteios": 9,
+          "desarmes": 7,
+          "xg_movel_5": 2.08,
+          "xga_movel_5": 2.06,
+          "xgd_movel_5": 0.02
         }
       ],
       "tendencia": {
         "ataque": {
-          "status": "Estável",
-          "variacao": 4.6,
-          "temporada": 1.72,
-          "ultimos_5": 1.8
+          "status": "Melhorando",
+          "variacao": 16.4,
+          "temporada": 1.79,
+          "ultimos_5": 2.08
         },
         "defesa": {
           "status": "Piorando",
-          "variacao": -20,
-          "temporada": 1.57,
-          "ultimos_5": 1.88
+          "variacao": -29.4,
+          "temporada": 1.59,
+          "ultimos_5": 2.06
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -156.3,
-          "temporada": 0.15,
-          "ultimos_5": -0.08
+          "variacao": -88.8,
+          "temporada": 0.2,
+          "ultimos_5": 0.02
         }
       },
       "resumo": {
-        "jogos": 24,
-        "xg_medio": 1.72,
-        "xga_medio": 1.57,
-        "xgd_medio": 0.15
+        "jogos": 25,
+        "xg_medio": 1.79,
+        "xga_medio": 1.59,
+        "xgd_medio": 0.2
       }
     },
     "Bodø/Glimt": {
