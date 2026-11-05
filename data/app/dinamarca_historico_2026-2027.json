@@ -1,6 +1,6 @@
 {
   "season": "2026/2027",
-  "updated_at": "2026-11-04T07:51:23.450Z",
+  "updated_at": "2026-11-05T07:47:11.591Z",
   "teams": {
     "Viborg": {
       "team": "Viborg",
@@ -1417,44 +1417,44 @@
           "gols_pro": 0,
           "gols_contra": 2,
           "placar": "0 x 2",
-          "xg": 0.23,
-          "xga": 1.32,
-          "xgd": -1.09,
+          "xg": 0.25,
+          "xga": 1.5,
+          "xgd": -1.25,
           "posse": 34,
           "chutes": 4,
           "chutes_no_gol": 1,
           "escanteios": 1,
-          "desarmes": 9,
+          "desarmes": 8,
           "xg_movel_5": 1.27,
-          "xga_movel_5": 1.7,
-          "xgd_movel_5": -0.43
+          "xga_movel_5": 1.74,
+          "xgd_movel_5": -0.47
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Melhorando",
-          "variacao": 17.3,
+          "variacao": 17.5,
           "temporada": 1.08,
           "ultimos_5": 1.27
         },
         "defesa": {
           "status": "Estável",
-          "variacao": 4.8,
-          "temporada": 1.79,
-          "ultimos_5": 1.7
+          "variacao": 3.6,
+          "temporada": 1.8,
+          "ultimos_5": 1.74
         },
         "equilibrio": {
           "status": "Melhorando",
-          "variacao": 38.6,
-          "temporada": -0.71,
-          "ultimos_5": -0.43
+          "variacao": 35.2,
+          "temporada": -0.72,
+          "ultimos_5": -0.47
         }
       },
       "resumo": {
         "jogos": 13,
         "xg_medio": 1.08,
-        "xga_medio": 1.79,
-        "xgd_medio": -0.71
+        "xga_medio": 1.8,
+        "xgd_medio": -0.72
       }
     },
     "FC Midtjylland": {
@@ -1999,44 +1999,44 @@
           "gols_pro": 2,
           "gols_contra": 0,
           "placar": "2 x 0",
-          "xg": 1.32,
-          "xga": 0.23,
-          "xgd": 1.09,
+          "xg": 1.5,
+          "xga": 0.25,
+          "xgd": 1.25,
           "posse": 66,
           "chutes": 13,
           "chutes_no_gol": 4,
           "escanteios": 5,
-          "desarmes": 15,
-          "xg_movel_5": 1.91,
-          "xga_movel_5": 0.77,
-          "xgd_movel_5": 1.14
+          "desarmes": 14,
+          "xg_movel_5": 1.95,
+          "xga_movel_5": 0.78,
+          "xgd_movel_5": 1.17
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Melhorando",
-          "variacao": 13.4,
-          "temporada": 1.68,
-          "ultimos_5": 1.91
+          "variacao": 14.6,
+          "temporada": 1.7,
+          "ultimos_5": 1.95
         },
         "defesa": {
           "status": "Melhorando",
-          "variacao": 26,
+          "variacao": 25.7,
           "temporada": 1.05,
-          "ultimos_5": 0.77
+          "ultimos_5": 0.78
         },
         "equilibrio": {
           "status": "Melhorando",
-          "variacao": 78.1,
-          "temporada": 0.64,
-          "ultimos_5": 1.14
+          "variacao": 79.7,
+          "temporada": 0.65,
+          "ultimos_5": 1.17
         }
       },
       "resumo": {
         "jogos": 13,
-        "xg_medio": 1.68,
+        "xg_medio": 1.7,
         "xga_medio": 1.05,
-        "xgd_medio": 0.64
+        "xgd_medio": 0.65
       }
     },
     "Lyngby": {

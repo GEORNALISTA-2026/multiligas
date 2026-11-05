@@ -1,6 +1,6 @@
 {
   "season": "2026/2027",
-  "updated_at": "2026-11-04T07:40:03.399Z",
+  "updated_at": "2026-11-05T07:38:02.285Z",
   "teams": {
     "Real Sociedad B": {
       "team": "Real Sociedad B",
@@ -766,33 +766,53 @@
           "xg_movel_5": 1.24,
           "xga_movel_5": 1.4,
           "xgd_movel_5": -0.17
+        },
+        {
+          "rodada": 12,
+          "data": "2026-11-02T13:00:00Z",
+          "local": "Fora",
+          "adversario": "Tenerife",
+          "gols_pro": 2,
+          "gols_contra": 2,
+          "placar": "2 x 2",
+          "xg": 1.86,
+          "xga": 1.27,
+          "xgd": 0.59,
+          "posse": 74,
+          "chutes": 11,
+          "chutes_no_gol": 4,
+          "escanteios": 3,
+          "desarmes": 12,
+          "xg_movel_5": 1.38,
+          "xga_movel_5": 1.19,
+          "xgd_movel_5": 0.19
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Piorando",
-          "variacao": -24.1,
-          "temporada": 1.63,
-          "ultimos_5": 1.24
+          "variacao": -16.3,
+          "temporada": 1.65,
+          "ultimos_5": 1.38
         },
         "defesa": {
-          "status": "Piorando",
-          "variacao": -5.3,
+          "status": "Melhorando",
+          "variacao": 10.3,
           "temporada": 1.33,
-          "ultimos_5": 1.4
+          "ultimos_5": 1.19
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -155.8,
-          "temporada": 0.3,
-          "ultimos_5": -0.17
+          "variacao": -40.9,
+          "temporada": 0.32,
+          "ultimos_5": 0.19
         }
       },
       "resumo": {
-        "jogos": 11,
-        "xg_medio": 1.63,
+        "jogos": 12,
+        "xg_medio": 1.65,
         "xga_medio": 1.33,
-        "xgd_medio": 0.3
+        "xgd_medio": 0.32
       }
     },
     "AD Ceuta FC": {
@@ -3185,33 +3205,53 @@
           "xg_movel_5": 0.96,
           "xga_movel_5": 1.36,
           "xgd_movel_5": -0.4
+        },
+        {
+          "rodada": 12,
+          "data": "2026-11-02T13:00:00Z",
+          "local": "Casa",
+          "adversario": "FC Andorra",
+          "gols_pro": 2,
+          "gols_contra": 2,
+          "placar": "2 x 2",
+          "xg": 1.27,
+          "xga": 1.86,
+          "xgd": -0.59,
+          "posse": 26,
+          "chutes": 5,
+          "chutes_no_gol": 2,
+          "escanteios": 0,
+          "desarmes": 12,
+          "xg_movel_5": 1.01,
+          "xga_movel_5": 1.42,
+          "xgd_movel_5": -0.41
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Melhorando",
-          "variacao": 6,
-          "temporada": 0.9,
-          "ultimos_5": 0.96
+          "variacao": 7.9,
+          "temporada": 0.93,
+          "ultimos_5": 1.01
         },
         "defesa": {
           "status": "Piorando",
-          "variacao": -10.9,
-          "temporada": 1.22,
-          "ultimos_5": 1.36
+          "variacao": -11.5,
+          "temporada": 1.28,
+          "ultimos_5": 1.42
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -24.7,
-          "temporada": -0.32,
-          "ultimos_5": -0.4
+          "variacao": -21.2,
+          "temporada": -0.34,
+          "ultimos_5": -0.41
         }
       },
       "resumo": {
-        "jogos": 11,
-        "xg_medio": 0.9,
-        "xga_medio": 1.22,
-        "xgd_medio": -0.32
+        "jogos": 12,
+        "xg_medio": 0.93,
+        "xga_medio": 1.28,
+        "xgd_medio": -0.34
       }
     },
     "Burgos CF": {
