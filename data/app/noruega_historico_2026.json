@@ -1,6 +1,6 @@
 {
   "season": "2026",
-  "updated_at": "2026-11-05T07:48:45.050Z",
+  "updated_at": "2026-11-06T07:52:08.188Z",
   "teams": {
     "Hamarkameratene": {
       "team": "Hamarkameratene",
@@ -1555,44 +1555,44 @@
           "gols_pro": 2,
           "gols_contra": 3,
           "placar": "2 x 3",
-          "xg": 3.37,
-          "xga": 1.6,
-          "xgd": 1.77,
+          "xg": 3.52,
+          "xga": 1.9,
+          "xgd": 1.62,
           "posse": 67,
-          "chutes": 17,
+          "chutes": 18,
           "chutes_no_gol": 4,
           "escanteios": 7,
-          "desarmes": 15,
-          "xg_movel_5": 3.59,
-          "xga_movel_5": 1.78,
-          "xgd_movel_5": 1.81
+          "desarmes": 14,
+          "xg_movel_5": 3.62,
+          "xga_movel_5": 1.84,
+          "xgd_movel_5": 1.78
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Melhorando",
-          "variacao": 53.5,
+          "variacao": 54.4,
           "temporada": 2.34,
-          "ultimos_5": 3.59
+          "ultimos_5": 3.62
         },
         "defesa": {
           "status": "Piorando",
-          "variacao": -23.5,
-          "temporada": 1.44,
-          "ultimos_5": 1.78
+          "variacao": -26.7,
+          "temporada": 1.45,
+          "ultimos_5": 1.84
         },
         "equilibrio": {
           "status": "Melhorando",
-          "variacao": 101.6,
-          "temporada": 0.9,
-          "ultimos_5": 1.81
+          "variacao": 99.6,
+          "temporada": 0.89,
+          "ultimos_5": 1.78
         }
       },
       "resumo": {
         "jogos": 25,
         "xg_medio": 2.34,
-        "xga_medio": 1.44,
-        "xgd_medio": 0.9
+        "xga_medio": 1.45,
+        "xgd_medio": 0.89
       }
     },
     "Rosenborg": {
@@ -2617,44 +2617,44 @@
           "gols_pro": 4,
           "gols_contra": 2,
           "placar": "4 x 2",
-          "xg": 2.19,
-          "xga": 3.53,
-          "xgd": -1.34,
+          "xg": 2.56,
+          "xga": 2.95,
+          "xgd": -0.39,
           "posse": 29,
           "chutes": 10,
           "chutes_no_gol": 6,
           "escanteios": 2,
           "desarmes": 11,
-          "xg_movel_5": 1.23,
-          "xga_movel_5": 3.76,
-          "xgd_movel_5": -2.53
+          "xg_movel_5": 1.31,
+          "xga_movel_5": 3.64,
+          "xgd_movel_5": -2.34
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Estável",
-          "variacao": -4.3,
-          "temporada": 1.29,
-          "ultimos_5": 1.23
+          "variacao": 0.3,
+          "temporada": 1.3,
+          "ultimos_5": 1.31
         },
         "defesa": {
           "status": "Piorando",
-          "variacao": -73,
-          "temporada": 2.17,
-          "ultimos_5": 3.76
+          "variacao": -69.5,
+          "temporada": 2.15,
+          "ultimos_5": 3.64
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -185.6,
-          "temporada": -0.89,
-          "ultimos_5": -2.53
+          "variacao": -176,
+          "temporada": -0.85,
+          "ultimos_5": -2.34
         }
       },
       "resumo": {
         "jogos": 25,
-        "xg_medio": 1.29,
-        "xga_medio": 2.17,
-        "xgd_medio": -0.89
+        "xg_medio": 1.3,
+        "xga_medio": 2.15,
+        "xgd_medio": -0.85
       }
     },
     "Brann": {
@@ -3148,44 +3148,44 @@
           "gols_pro": 3,
           "gols_contra": 2,
           "placar": "3 x 2",
-          "xg": 1.6,
-          "xga": 3.37,
-          "xgd": -1.77,
+          "xg": 1.9,
+          "xga": 3.52,
+          "xgd": -1.62,
           "posse": 33,
           "chutes": 13,
           "chutes_no_gol": 5,
           "escanteios": 4,
-          "desarmes": 20,
-          "xg_movel_5": 1.88,
-          "xga_movel_5": 2.52,
-          "xgd_movel_5": -0.64
+          "desarmes": 19,
+          "xg_movel_5": 1.94,
+          "xga_movel_5": 2.55,
+          "xgd_movel_5": -0.61
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Estável",
-          "variacao": 1.7,
-          "temporada": 1.85,
-          "ultimos_5": 1.88
+          "variacao": 4.2,
+          "temporada": 1.86,
+          "ultimos_5": 1.94
         },
         "defesa": {
           "status": "Piorando",
-          "variacao": -28.3,
+          "variacao": -29.4,
           "temporada": 1.97,
-          "ultimos_5": 2.52
+          "ultimos_5": 2.55
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -451.5,
-          "temporada": -0.12,
-          "ultimos_5": -0.64
+          "variacao": -454.3,
+          "temporada": -0.11,
+          "ultimos_5": -0.61
         }
       },
       "resumo": {
         "jogos": 25,
-        "xg_medio": 1.85,
+        "xg_medio": 1.86,
         "xga_medio": 1.97,
-        "xgd_medio": -0.12
+        "xgd_medio": -0.11
       }
     },
     "Aalesund": {
@@ -5803,44 +5803,44 @@
           "gols_pro": 4,
           "gols_contra": 0,
           "placar": "4 x 0",
-          "xg": 2.28,
-          "xga": 0.27,
-          "xgd": 2.01,
+          "xg": 2.13,
+          "xga": 0.31,
+          "xgd": 1.82,
           "posse": 70,
           "chutes": 18,
           "chutes_no_gol": 9,
           "escanteios": 3,
           "desarmes": 13,
-          "xg_movel_5": 2.24,
-          "xga_movel_5": 1.67,
-          "xgd_movel_5": 0.57
+          "xg_movel_5": 2.21,
+          "xga_movel_5": 1.68,
+          "xgd_movel_5": 0.53
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Melhorando",
-          "variacao": 20.6,
-          "temporada": 1.86,
-          "ultimos_5": 2.24
+          "variacao": 19.4,
+          "temporada": 1.85,
+          "ultimos_5": 2.21
         },
         "defesa": {
           "status": "Melhorando",
-          "variacao": 13.3,
+          "variacao": 13,
           "temporada": 1.93,
-          "ultimos_5": 1.67
+          "ultimos_5": 1.68
         },
         "equilibrio": {
           "status": "Melhorando",
-          "variacao": 893.3,
-          "temporada": -0.07,
-          "ultimos_5": 0.57
+          "variacao": 769.2,
+          "temporada": -0.08,
+          "ultimos_5": 0.53
         }
       },
       "resumo": {
         "jogos": 25,
-        "xg_medio": 1.86,
+        "xg_medio": 1.85,
         "xga_medio": 1.93,
-        "xgd_medio": -0.07
+        "xgd_medio": -0.08
       }
     },
     "Sandefjord": {
@@ -6865,37 +6865,37 @@
           "gols_pro": 0,
           "gols_contra": 4,
           "placar": "0 x 4",
-          "xg": 0.27,
-          "xga": 2.28,
-          "xgd": -2.01,
+          "xg": 0.31,
+          "xga": 2.13,
+          "xgd": -1.82,
           "posse": 30,
           "chutes": 3,
           "chutes_no_gol": 0,
           "escanteios": 2,
           "desarmes": 18,
-          "xg_movel_5": 1.51,
-          "xga_movel_5": 1.5,
-          "xgd_movel_5": 0.02
+          "xg_movel_5": 1.52,
+          "xga_movel_5": 1.47,
+          "xgd_movel_5": 0.05
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Piorando",
-          "variacao": -10.3,
+          "variacao": -9.9,
           "temporada": 1.69,
-          "ultimos_5": 1.51
+          "ultimos_5": 1.52
         },
         "defesa": {
-          "status": "Piorando",
-          "variacao": -6.1,
+          "status": "Estável",
+          "variacao": -4.4,
           "temporada": 1.41,
-          "ultimos_5": 1.5
+          "ultimos_5": 1.47
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -94.2,
+          "variacao": -80.9,
           "temporada": 0.28,
-          "ultimos_5": 0.02
+          "ultimos_5": 0.05
         }
       },
       "resumo": {
@@ -7927,44 +7927,44 @@
           "gols_pro": 2,
           "gols_contra": 4,
           "placar": "2 x 4",
-          "xg": 3.53,
-          "xga": 2.19,
-          "xgd": 1.34,
+          "xg": 2.95,
+          "xga": 2.56,
+          "xgd": 0.39,
           "posse": 71,
           "chutes": 23,
-          "chutes_no_gol": 7,
+          "chutes_no_gol": 6,
           "escanteios": 9,
-          "desarmes": 7,
-          "xg_movel_5": 2.08,
-          "xga_movel_5": 2.06,
-          "xgd_movel_5": 0.02
+          "desarmes": 8,
+          "xg_movel_5": 1.97,
+          "xga_movel_5": 2.13,
+          "xgd_movel_5": -0.17
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Melhorando",
-          "variacao": 16.4,
-          "temporada": 1.79,
-          "ultimos_5": 2.08
+          "variacao": 11.4,
+          "temporada": 1.77,
+          "ultimos_5": 1.97
         },
         "defesa": {
           "status": "Piorando",
-          "variacao": -29.4,
-          "temporada": 1.59,
-          "ultimos_5": 2.06
+          "variacao": -32.8,
+          "temporada": 1.61,
+          "ultimos_5": 2.13
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -88.8,
-          "temporada": 0.2,
-          "ultimos_5": 0.02
+          "variacao": -205.8,
+          "temporada": 0.16,
+          "ultimos_5": -0.17
         }
       },
       "resumo": {
         "jogos": 25,
-        "xg_medio": 1.79,
-        "xga_medio": 1.59,
-        "xgd_medio": 0.2
+        "xg_medio": 1.77,
+        "xga_medio": 1.61,
+        "xgd_medio": 0.16
       }
     },
     "Bodø/Glimt": {

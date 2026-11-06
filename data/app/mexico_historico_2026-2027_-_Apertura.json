@@ -1,6 +1,6 @@
 {
   "season": "2026/2027 - Apertura",
-  "updated_at": "2026-11-05T07:52:06.639Z",
+  "updated_at": "2026-11-06T07:56:21.260Z",
   "teams": {
     "Necaxa": {
       "team": "Necaxa",
@@ -1617,44 +1617,44 @@
           "gols_pro": 0,
           "gols_contra": 1,
           "placar": "0 x 1",
-          "xg": 0.97,
-          "xga": 0.72,
-          "xgd": 0.25,
+          "xg": 1,
+          "xga": 0.87,
+          "xgd": 0.13,
           "posse": 56,
           "chutes": 22,
           "chutes_no_gol": 4,
           "escanteios": 7,
-          "desarmes": 10,
+          "desarmes": 8,
           "xg_movel_5": 1.03,
-          "xga_movel_5": 1.96,
-          "xgd_movel_5": -0.93
+          "xga_movel_5": 1.99,
+          "xgd_movel_5": -0.96
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Piorando",
-          "variacao": -15.6,
+          "variacao": -15.2,
           "temporada": 1.22,
           "ultimos_5": 1.03
         },
         "defesa": {
           "status": "Piorando",
-          "variacao": -23.1,
-          "temporada": 1.59,
-          "ultimos_5": 1.96
+          "variacao": -24.2,
+          "temporada": 1.6,
+          "ultimos_5": 1.99
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -148.8,
-          "temporada": -0.37,
-          "ultimos_5": -0.93
+          "variacao": -149.8,
+          "temporada": -0.38,
+          "ultimos_5": -0.96
         }
       },
       "resumo": {
         "jogos": 15,
         "xg_medio": 1.22,
-        "xga_medio": 1.59,
-        "xgd_medio": -0.37
+        "xga_medio": 1.6,
+        "xgd_medio": -0.38
       }
     },
     "Cruz Azul": {
@@ -2610,42 +2610,42 @@
           "gols_pro": 1,
           "gols_contra": 0,
           "placar": "1 x 0",
-          "xg": 0.72,
-          "xga": 0.97,
-          "xgd": -0.25,
+          "xg": 0.87,
+          "xga": 1,
+          "xgd": -0.13,
           "posse": 44,
           "chutes": 8,
           "chutes_no_gol": 1,
           "escanteios": 4,
-          "desarmes": 10,
-          "xg_movel_5": 1.53,
-          "xga_movel_5": 1.58,
-          "xgd_movel_5": -0.05
+          "desarmes": 9,
+          "xg_movel_5": 1.56,
+          "xga_movel_5": 1.59,
+          "xgd_movel_5": -0.03
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Melhorando",
-          "variacao": 9.4,
-          "temporada": 1.4,
-          "ultimos_5": 1.53
+          "variacao": 10.8,
+          "temporada": 1.41,
+          "ultimos_5": 1.56
         },
         "defesa": {
           "status": "Melhorando",
-          "variacao": 6.4,
+          "variacao": 6.2,
           "temporada": 1.69,
-          "ultimos_5": 1.58
+          "ultimos_5": 1.59
         },
         "equilibrio": {
           "status": "Melhorando",
-          "variacao": 81.7,
+          "variacao": 89.5,
           "temporada": -0.29,
-          "ultimos_5": -0.05
+          "ultimos_5": -0.03
         }
       },
       "resumo": {
         "jogos": 15,
-        "xg_medio": 1.4,
+        "xg_medio": 1.41,
         "xga_medio": 1.69,
         "xgd_medio": -0.29
       }
@@ -5242,10 +5242,10 @@
           "xga": 1.98,
           "xgd": -0.11,
           "posse": 46,
-          "chutes": 17,
+          "chutes": 18,
           "chutes_no_gol": 7,
           "escanteios": 5,
-          "desarmes": 21,
+          "desarmes": 22,
           "xg_movel_5": 1.94,
           "xga_movel_5": 1.78,
           "xgd_movel_5": 0.16

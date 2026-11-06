@@ -1,6 +1,6 @@
 {
   "season": "2026",
-  "updated_at": "2026-11-05T07:35:01.263Z",
+  "updated_at": "2026-11-06T07:35:19.409Z",
   "teams": {
     "Vila Nova": {
       "team": "Vila Nova",
@@ -5230,33 +5230,53 @@
           "xg_movel_5": 1.36,
           "xga_movel_5": 1.12,
           "xgd_movel_5": 0.24
+        },
+        {
+          "rodada": 37,
+          "data": "2026-11-05T22:30:00Z",
+          "local": "Casa",
+          "adversario": "Londrina",
+          "gols_pro": 4,
+          "gols_contra": 0,
+          "placar": "4 x 0",
+          "xg": 3.04,
+          "xga": 0.24,
+          "xgd": 2.8,
+          "posse": 51,
+          "chutes": 16,
+          "chutes_no_gol": 7,
+          "escanteios": 3,
+          "desarmes": 11,
+          "xg_movel_5": 1.62,
+          "xga_movel_5": 0.98,
+          "xgd_movel_5": 0.64
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Melhorando",
-          "variacao": 12.9,
-          "temporada": 1.2,
-          "ultimos_5": 1.36
+          "variacao": 29.4,
+          "temporada": 1.25,
+          "ultimos_5": 1.62
         },
         "defesa": {
-          "status": "Piorando",
-          "variacao": -5.3,
-          "temporada": 1.06,
-          "ultimos_5": 1.12
+          "status": "Melhorando",
+          "variacao": 5.7,
+          "temporada": 1.04,
+          "ultimos_5": 0.98
         },
         "equilibrio": {
           "status": "Melhorando",
-          "variacao": 71,
-          "temporada": 0.14,
-          "ultimos_5": 0.24
+          "variacao": 202.3,
+          "temporada": 0.21,
+          "ultimos_5": 0.64
         }
       },
       "resumo": {
-        "jogos": 36,
-        "xg_medio": 1.2,
-        "xga_medio": 1.06,
-        "xgd_medio": 0.14
+        "jogos": 37,
+        "xg_medio": 1.25,
+        "xga_medio": 1.04,
+        "xgd_medio": 0.21
       }
     },
     "Fortaleza": {
@@ -14993,33 +15013,53 @@
           "xg_movel_5": 1.82,
           "xga_movel_5": 1.64,
           "xgd_movel_5": 0.18
+        },
+        {
+          "rodada": 37,
+          "data": "2026-11-05T22:30:00Z",
+          "local": "Fora",
+          "adversario": "Botafogo SP",
+          "gols_pro": 0,
+          "gols_contra": 4,
+          "placar": "0 x 4",
+          "xg": 0.24,
+          "xga": 3.04,
+          "xgd": -2.8,
+          "posse": 49,
+          "chutes": 8,
+          "chutes_no_gol": 0,
+          "escanteios": 2,
+          "desarmes": 11,
+          "xg_movel_5": 1.75,
+          "xga_movel_5": 2.1,
+          "xgd_movel_5": -0.35
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Melhorando",
-          "variacao": 35.3,
-          "temporada": 1.35,
-          "ultimos_5": 1.82
+          "variacao": 33,
+          "temporada": 1.32,
+          "ultimos_5": 1.75
         },
         "defesa": {
           "status": "Piorando",
-          "variacao": -10.7,
-          "temporada": 1.48,
-          "ultimos_5": 1.64
+          "variacao": -37.7,
+          "temporada": 1.52,
+          "ultimos_5": 2.1
         },
         "equilibrio": {
-          "status": "Melhorando",
-          "variacao": 232,
-          "temporada": -0.14,
-          "ultimos_5": 0.18
+          "status": "Piorando",
+          "variacao": -67,
+          "temporada": -0.21,
+          "ultimos_5": -0.35
         }
       },
       "resumo": {
-        "jogos": 36,
-        "xg_medio": 1.35,
-        "xga_medio": 1.48,
-        "xgd_medio": -0.14
+        "jogos": 37,
+        "xg_medio": 1.32,
+        "xga_medio": 1.52,
+        "xgd_medio": -0.21
       }
     }
   }
