@@ -1,6 +1,6 @@
 {
   "season": "2026/2027",
-  "updated_at": "2026-11-06T07:39:38.404Z",
+  "updated_at": "2026-11-07T07:23:35.386Z",
   "teams": {
     "Marseille": {
       "team": "Marseille",
@@ -395,33 +395,53 @@
           "xg_movel_5": 1.21,
           "xga_movel_5": 1.48,
           "xgd_movel_5": -0.27
+        },
+        {
+          "rodada": 10,
+          "data": "2026-11-06T19:45:00Z",
+          "local": "Fora",
+          "adversario": "Toulouse",
+          "gols_pro": 1,
+          "gols_contra": 3,
+          "placar": "1 x 3",
+          "xg": 0.75,
+          "xga": 1.18,
+          "xgd": -0.43,
+          "posse": 52,
+          "chutes": 9,
+          "chutes_no_gol": 4,
+          "escanteios": 1,
+          "desarmes": 14,
+          "xg_movel_5": 1.31,
+          "xga_movel_5": 1.5,
+          "xgd_movel_5": -0.19
         }
       ],
       "tendencia": {
         "ataque": {
-          "status": "Piorando",
-          "variacao": -9.5,
-          "temporada": 1.34,
-          "ultimos_5": 1.21
+          "status": "Estável",
+          "variacao": 2.7,
+          "temporada": 1.28,
+          "ultimos_5": 1.31
         },
         "defesa": {
           "status": "Melhorando",
-          "variacao": 17.7,
-          "temporada": 1.79,
-          "ultimos_5": 1.48
+          "variacao": 13.3,
+          "temporada": 1.73,
+          "ultimos_5": 1.5
         },
         "equilibrio": {
           "status": "Melhorando",
-          "variacao": 41.8,
-          "temporada": -0.46,
-          "ultimos_5": -0.27
+          "variacao": 58.1,
+          "temporada": -0.45,
+          "ultimos_5": -0.19
         }
       },
       "resumo": {
-        "jogos": 9,
-        "xg_medio": 1.34,
-        "xga_medio": 1.79,
-        "xgd_medio": -0.46
+        "jogos": 10,
+        "xg_medio": 1.28,
+        "xga_medio": 1.73,
+        "xgd_medio": -0.45
       }
     },
     "Lens": {
@@ -1872,33 +1892,53 @@
           "xg_movel_5": 1.59,
           "xga_movel_5": 1.23,
           "xgd_movel_5": 0.36
+        },
+        {
+          "rodada": 10,
+          "data": "2026-11-06T19:45:00Z",
+          "local": "Casa",
+          "adversario": "Strasbourg",
+          "gols_pro": 3,
+          "gols_contra": 1,
+          "placar": "3 x 1",
+          "xg": 1.18,
+          "xga": 0.75,
+          "xgd": 0.43,
+          "posse": 48,
+          "chutes": 10,
+          "chutes_no_gol": 5,
+          "escanteios": 7,
+          "desarmes": 18,
+          "xg_movel_5": 1.43,
+          "xga_movel_5": 0.91,
+          "xgd_movel_5": 0.52
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Piorando",
-          "variacao": -15.7,
-          "temporada": 1.88,
-          "ultimos_5": 1.59
+          "variacao": -20.9,
+          "temporada": 1.81,
+          "ultimos_5": 1.43
         },
         "defesa": {
           "status": "Melhorando",
-          "variacao": 8.1,
-          "temporada": 1.34,
-          "ultimos_5": 1.23
+          "variacao": 28.7,
+          "temporada": 1.28,
+          "ultimos_5": 0.91
         },
         "equilibrio": {
-          "status": "Piorando",
-          "variacao": -34.4,
-          "temporada": 0.55,
-          "ultimos_5": 0.36
+          "status": "Estável",
+          "variacao": -2.2,
+          "temporada": 0.53,
+          "ultimos_5": 0.52
         }
       },
       "resumo": {
-        "jogos": 9,
-        "xg_medio": 1.88,
-        "xga_medio": 1.34,
-        "xgd_medio": 0.55
+        "jogos": 10,
+        "xg_medio": 1.81,
+        "xga_medio": 1.28,
+        "xgd_medio": 0.53
       }
     },
     "Lyon": {

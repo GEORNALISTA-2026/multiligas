@@ -1,6 +1,6 @@
 {
   "season": "2026/2027",
-  "updated_at": "2026-11-06T07:35:57.540Z",
+  "updated_at": "2026-11-07T07:19:35.379Z",
   "teams": {
     "Bayern München": {
       "team": "Bayern München",
@@ -1883,33 +1883,53 @@
           "xg_movel_5": 1.86,
           "xga_movel_5": 1.69,
           "xgd_movel_5": 0.16
+        },
+        {
+          "rodada": 9,
+          "data": "2026-11-06T19:30:00Z",
+          "local": "Fora",
+          "adversario": "Hamburger SV",
+          "gols_pro": 1,
+          "gols_contra": 3,
+          "placar": "1 x 3",
+          "xg": 2.22,
+          "xga": 2.27,
+          "xgd": -0.05,
+          "posse": 38,
+          "chutes": 19,
+          "chutes_no_gol": 6,
+          "escanteios": 3,
+          "desarmes": 15,
+          "xg_movel_5": 1.65,
+          "xga_movel_5": 1.58,
+          "xgd_movel_5": 0.07
         }
       ],
       "tendencia": {
         "ataque": {
-          "status": "Melhorando",
-          "variacao": 14.9,
-          "temporada": 1.62,
-          "ultimos_5": 1.86
+          "status": "Estável",
+          "variacao": -1.8,
+          "temporada": 1.68,
+          "ultimos_5": 1.65
         },
         "defesa": {
           "status": "Melhorando",
-          "variacao": 21.9,
-          "temporada": 2.17,
-          "ultimos_5": 1.69
+          "variacao": 27.4,
+          "temporada": 2.18,
+          "ultimos_5": 1.58
         },
         "equilibrio": {
           "status": "Melhorando",
-          "variacao": 129.8,
-          "temporada": -0.55,
-          "ultimos_5": 0.16
+          "variacao": 114.1,
+          "temporada": -0.5,
+          "ultimos_5": 0.07
         }
       },
       "resumo": {
-        "jogos": 8,
-        "xg_medio": 1.62,
-        "xga_medio": 2.17,
-        "xgd_medio": -0.55
+        "jogos": 9,
+        "xg_medio": 1.68,
+        "xga_medio": 2.18,
+        "xgd_medio": -0.5
       }
     },
     "Union Berlin": {
@@ -2647,33 +2667,53 @@
           "xg_movel_5": 1.17,
           "xga_movel_5": 1.59,
           "xgd_movel_5": -0.42
+        },
+        {
+          "rodada": 9,
+          "data": "2026-11-06T19:30:00Z",
+          "local": "Casa",
+          "adversario": "Borussia Mönchengladbach",
+          "gols_pro": 3,
+          "gols_contra": 1,
+          "placar": "3 x 1",
+          "xg": 2.27,
+          "xga": 2.22,
+          "xgd": 0.05,
+          "posse": 62,
+          "chutes": 18,
+          "chutes_no_gol": 9,
+          "escanteios": 5,
+          "desarmes": 17,
+          "xg_movel_5": 1.33,
+          "xga_movel_5": 1.75,
+          "xgd_movel_5": -0.42
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Melhorando",
           "variacao": 16.3,
-          "temporada": 1.01,
-          "ultimos_5": 1.17
+          "temporada": 1.15,
+          "ultimos_5": 1.33
         },
         "defesa": {
           "status": "Melhorando",
-          "variacao": 13.3,
-          "temporada": 1.83,
-          "ultimos_5": 1.59
+          "variacao": 6.6,
+          "temporada": 1.87,
+          "ultimos_5": 1.75
         },
         "equilibrio": {
           "status": "Melhorando",
-          "variacao": 49.3,
-          "temporada": -0.82,
+          "variacao": 42.8,
+          "temporada": -0.73,
           "ultimos_5": -0.42
         }
       },
       "resumo": {
-        "jogos": 8,
-        "xg_medio": 1.01,
-        "xga_medio": 1.83,
-        "xgd_medio": -0.82
+        "jogos": 9,
+        "xg_medio": 1.15,
+        "xga_medio": 1.87,
+        "xgd_medio": -0.73
       }
     },
     "Freiburg": {

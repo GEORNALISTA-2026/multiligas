@@ -1,6 +1,6 @@
 {
   "season": "2026/2027",
-  "updated_at": "2026-11-06T07:46:16.109Z",
+  "updated_at": "2026-11-07T07:30:40.613Z",
   "teams": {
     "Cambuur": {
       "team": "Cambuur",
@@ -1479,33 +1479,53 @@
           "xg_movel_5": 1.17,
           "xga_movel_5": 2.16,
           "xgd_movel_5": -0.99
+        },
+        {
+          "rodada": 12,
+          "data": "2026-11-06T19:00:00Z",
+          "local": "Casa",
+          "adversario": "PEC Zwolle",
+          "gols_pro": 1,
+          "gols_contra": 1,
+          "placar": "1 x 1",
+          "xg": 0.73,
+          "xga": 0.79,
+          "xgd": -0.06,
+          "posse": 42,
+          "chutes": 13,
+          "chutes_no_gol": 5,
+          "escanteios": 2,
+          "desarmes": 10,
+          "xg_movel_5": 1.08,
+          "xga_movel_5": 2.05,
+          "xgd_movel_5": -0.97
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Piorando",
-          "variacao": -10.1,
-          "temporada": 1.31,
-          "ultimos_5": 1.17
+          "variacao": -14.4,
+          "temporada": 1.26,
+          "ultimos_5": 1.08
         },
         "defesa": {
           "status": "Melhorando",
-          "variacao": 9.9,
-          "temporada": 2.4,
-          "ultimos_5": 2.16
+          "variacao": 9.5,
+          "temporada": 2.26,
+          "ultimos_5": 2.05
         },
         "equilibrio": {
-          "status": "Melhorando",
-          "variacao": 9.7,
-          "temporada": -1.09,
-          "ultimos_5": -0.99
+          "status": "Estável",
+          "variacao": 3.4,
+          "temporada": -1.01,
+          "ultimos_5": -0.97
         }
       },
       "resumo": {
-        "jogos": 11,
-        "xg_medio": 1.31,
-        "xga_medio": 2.4,
-        "xgd_medio": -1.09
+        "jogos": 12,
+        "xg_medio": 1.26,
+        "xga_medio": 2.26,
+        "xgd_medio": -1.01
       }
     },
     "PSV Eindhoven": {
@@ -3738,33 +3758,53 @@
           "xg_movel_5": 1.31,
           "xga_movel_5": 1.47,
           "xgd_movel_5": -0.16
+        },
+        {
+          "rodada": 12,
+          "data": "2026-11-06T19:00:00Z",
+          "local": "Fora",
+          "adversario": "Willem II",
+          "gols_pro": 1,
+          "gols_contra": 1,
+          "placar": "1 x 1",
+          "xg": 0.79,
+          "xga": 0.73,
+          "xgd": 0.06,
+          "posse": 58,
+          "chutes": 14,
+          "chutes_no_gol": 2,
+          "escanteios": 7,
+          "desarmes": 12,
+          "xg_movel_5": 1.37,
+          "xga_movel_5": 1.35,
+          "xgd_movel_5": 0.02
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Melhorando",
-          "variacao": 12,
-          "temporada": 1.17,
-          "ultimos_5": 1.31
+          "variacao": 19.6,
+          "temporada": 1.14,
+          "ultimos_5": 1.37
         },
         "defesa": {
           "status": "Melhorando",
-          "variacao": 22.2,
-          "temporada": 1.89,
-          "ultimos_5": 1.47
+          "variacao": 24.9,
+          "temporada": 1.8,
+          "ultimos_5": 1.35
         },
         "equilibrio": {
           "status": "Melhorando",
-          "variacao": 78,
-          "temporada": -0.72,
-          "ultimos_5": -0.16
+          "variacao": 102.8,
+          "temporada": -0.65,
+          "ultimos_5": 0.02
         }
       },
       "resumo": {
-        "jogos": 11,
-        "xg_medio": 1.17,
-        "xga_medio": 1.89,
-        "xgd_medio": -0.72
+        "jogos": 12,
+        "xg_medio": 1.14,
+        "xga_medio": 1.8,
+        "xgd_medio": -0.65
       }
     },
     "Ajax": {

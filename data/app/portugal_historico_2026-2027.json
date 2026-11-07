@@ -1,6 +1,6 @@
 {
   "season": "2026/2027",
-  "updated_at": "2026-11-06T07:47:09.309Z",
+  "updated_at": "2026-11-07T07:31:28.605Z",
   "teams": {
     "Estoril": {
       "team": "Estoril",
@@ -435,33 +435,53 @@
           "xg_movel_5": 0.76,
           "xga_movel_5": 1.81,
           "xgd_movel_5": -1.05
+        },
+        {
+          "rodada": 11,
+          "data": "2026-11-06T20:45:00Z",
+          "local": "Casa",
+          "adversario": "Arouca",
+          "gols_pro": 1,
+          "gols_contra": 0,
+          "placar": "1 x 0",
+          "xg": 0.74,
+          "xga": 0.35,
+          "xgd": 0.39,
+          "posse": 53,
+          "chutes": 14,
+          "chutes_no_gol": 5,
+          "escanteios": 9,
+          "desarmes": 18,
+          "xg_movel_5": 0.84,
+          "xga_movel_5": 1.42,
+          "xgd_movel_5": -0.58
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Piorando",
-          "variacao": -18,
-          "temporada": 0.93,
-          "ultimos_5": 0.76
+          "variacao": -7.4,
+          "temporada": 0.91,
+          "ultimos_5": 0.84
         },
         "defesa": {
           "status": "Piorando",
-          "variacao": -26.7,
-          "temporada": 1.43,
-          "ultimos_5": 1.81
+          "variacao": -6.8,
+          "temporada": 1.33,
+          "ultimos_5": 1.42
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -110,
-          "temporada": -0.5,
-          "ultimos_5": -1.05
+          "variacao": -38,
+          "temporada": -0.42,
+          "ultimos_5": -0.58
         }
       },
       "resumo": {
-        "jogos": 10,
-        "xg_medio": 0.93,
-        "xga_medio": 1.43,
-        "xgd_medio": -0.5
+        "jogos": 11,
+        "xg_medio": 0.91,
+        "xga_medio": 1.33,
+        "xgd_medio": -0.42
       }
     },
     "Marítimo": {
@@ -1359,33 +1379,53 @@
           "xg_movel_5": 1.32,
           "xga_movel_5": 1.05,
           "xgd_movel_5": 0.26
+        },
+        {
+          "rodada": 11,
+          "data": "2026-11-06T20:45:00Z",
+          "local": "Fora",
+          "adversario": "Famalicão",
+          "gols_pro": 0,
+          "gols_contra": 1,
+          "placar": "0 x 1",
+          "xg": 0.35,
+          "xga": 0.74,
+          "xgd": -0.39,
+          "posse": 47,
+          "chutes": 7,
+          "chutes_no_gol": 3,
+          "escanteios": 2,
+          "desarmes": 14,
+          "xg_movel_5": 1.21,
+          "xga_movel_5": 0.87,
+          "xgd_movel_5": 0.35
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Estável",
-          "variacao": 5,
-          "temporada": 1.25,
-          "ultimos_5": 1.32
+          "variacao": 3.7,
+          "temporada": 1.17,
+          "ultimos_5": 1.21
         },
         "defesa": {
           "status": "Melhorando",
-          "variacao": 17.3,
-          "temporada": 1.28,
-          "ultimos_5": 1.05
+          "variacao": 29.2,
+          "temporada": 1.23,
+          "ultimos_5": 0.87
         },
         "equilibrio": {
           "status": "Melhorando",
-          "variacao": 1290.9,
-          "temporada": -0.02,
-          "ultimos_5": 0.26
+          "variacao": 723.9,
+          "temporada": -0.06,
+          "ultimos_5": 0.35
         }
       },
       "resumo": {
-        "jogos": 10,
-        "xg_medio": 1.25,
-        "xga_medio": 1.28,
-        "xgd_medio": -0.02
+        "jogos": 11,
+        "xg_medio": 1.17,
+        "xga_medio": 1.23,
+        "xgd_medio": -0.06
       }
     },
     "Estrela da Amadora": {

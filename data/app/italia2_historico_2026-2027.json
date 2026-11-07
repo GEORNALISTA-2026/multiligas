@@ -1,6 +1,6 @@
 {
   "season": "2026/2027",
-  "updated_at": "2026-11-06T07:42:08.266Z",
+  "updated_at": "2026-11-07T07:26:34.020Z",
   "teams": {
     "LR Vicenza": {
       "team": "LR Vicenza",
@@ -3207,33 +3207,53 @@
           "xg_movel_5": 1.51,
           "xga_movel_5": 0.96,
           "xgd_movel_5": 0.55
+        },
+        {
+          "rodada": 11,
+          "data": "2026-11-06T19:30:00Z",
+          "local": "Casa",
+          "adversario": "Palermo",
+          "gols_pro": 1,
+          "gols_contra": 1,
+          "placar": "1 x 1",
+          "xg": 1.28,
+          "xga": 1.61,
+          "xgd": -0.33,
+          "posse": 57,
+          "chutes": 10,
+          "chutes_no_gol": 3,
+          "escanteios": 5,
+          "desarmes": 19,
+          "xg_movel_5": 1.65,
+          "xga_movel_5": 1.08,
+          "xgd_movel_5": 0.57
         }
       ],
       "tendencia": {
         "ataque": {
-          "status": "Estável",
-          "variacao": -3.9,
-          "temporada": 1.57,
-          "ultimos_5": 1.51
+          "status": "Melhorando",
+          "variacao": 6.8,
+          "temporada": 1.55,
+          "ultimos_5": 1.65
         },
         "defesa": {
           "status": "Melhorando",
-          "variacao": 16.9,
-          "temporada": 1.16,
-          "ultimos_5": 0.96
+          "variacao": 9.9,
+          "temporada": 1.2,
+          "ultimos_5": 1.08
         },
         "equilibrio": {
           "status": "Melhorando",
-          "variacao": 32.5,
-          "temporada": 0.42,
-          "ultimos_5": 0.55
+          "variacao": 64.7,
+          "temporada": 0.35,
+          "ultimos_5": 0.57
         }
       },
       "resumo": {
-        "jogos": 10,
-        "xg_medio": 1.57,
-        "xga_medio": 1.16,
-        "xgd_medio": 0.42
+        "jogos": 11,
+        "xg_medio": 1.55,
+        "xga_medio": 1.2,
+        "xgd_medio": 0.35
       }
     },
     "Pisa": {
@@ -4362,33 +4382,53 @@
           "xg_movel_5": 2.56,
           "xga_movel_5": 1.85,
           "xgd_movel_5": 0.71
+        },
+        {
+          "rodada": 11,
+          "data": "2026-11-06T19:30:00Z",
+          "local": "Fora",
+          "adversario": "Ascoli",
+          "gols_pro": 1,
+          "gols_contra": 1,
+          "placar": "1 x 1",
+          "xg": 1.61,
+          "xga": 1.28,
+          "xgd": 0.33,
+          "posse": 43,
+          "chutes": 18,
+          "chutes_no_gol": 5,
+          "escanteios": 2,
+          "desarmes": 22,
+          "xg_movel_5": 1.9,
+          "xga_movel_5": 1.72,
+          "xgd_movel_5": 0.18
         }
       ],
       "tendencia": {
         "ataque": {
-          "status": "Melhorando",
-          "variacao": 22.7,
-          "temporada": 2.09,
-          "ultimos_5": 2.56
+          "status": "Piorando",
+          "variacao": -7,
+          "temporada": 2.04,
+          "ultimos_5": 1.9
         },
         "defesa": {
           "status": "Piorando",
-          "variacao": -13.1,
-          "temporada": 1.63,
-          "ultimos_5": 1.85
+          "variacao": -7.5,
+          "temporada": 1.6,
+          "ultimos_5": 1.72
         },
         "equilibrio": {
-          "status": "Melhorando",
-          "variacao": 57.3,
-          "temporada": 0.45,
-          "ultimos_5": 0.71
+          "status": "Piorando",
+          "variacao": -59.3,
+          "temporada": 0.44,
+          "ultimos_5": 0.18
         }
       },
       "resumo": {
-        "jogos": 10,
-        "xg_medio": 2.09,
-        "xga_medio": 1.63,
-        "xgd_medio": 0.45
+        "jogos": 11,
+        "xg_medio": 2.04,
+        "xga_medio": 1.6,
+        "xgd_medio": 0.44
       }
     },
     "Juve Stabia": {

@@ -1,6 +1,6 @@
 {
   "season": "2026",
-  "updated_at": "2026-11-06T07:35:19.409Z",
+  "updated_at": "2026-11-07T07:18:51.532Z",
   "teams": {
     "Vila Nova": {
       "team": "Vila Nova",
@@ -3728,33 +3728,53 @@
           "xg_movel_5": 0.82,
           "xga_movel_5": 1.35,
           "xgd_movel_5": -0.53
+        },
+        {
+          "rodada": 37,
+          "data": "2026-11-06T22:30:00Z",
+          "local": "Casa",
+          "adversario": "Sport Recife",
+          "gols_pro": 3,
+          "gols_contra": 2,
+          "placar": "3 x 2",
+          "xg": 1.42,
+          "xga": 0.52,
+          "xgd": 0.9,
+          "posse": 45,
+          "chutes": 23,
+          "chutes_no_gol": 6,
+          "escanteios": 9,
+          "desarmes": 17,
+          "xg_movel_5": 0.92,
+          "xga_movel_5": 1.1,
+          "xgd_movel_5": -0.19
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Piorando",
-          "variacao": -36.3,
-          "temporada": 1.28,
-          "ultimos_5": 0.82
+          "variacao": -28.9,
+          "temporada": 1.29,
+          "ultimos_5": 0.92
         },
         "defesa": {
-          "status": "Estável",
-          "variacao": 4.2,
-          "temporada": 1.4,
-          "ultimos_5": 1.35
+          "status": "Melhorando",
+          "variacao": 20.1,
+          "temporada": 1.38,
+          "ultimos_5": 1.1
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -339,
-          "temporada": -0.12,
-          "ultimos_5": -0.53
+          "variacao": -102.8,
+          "temporada": -0.09,
+          "ultimos_5": -0.19
         }
       },
       "resumo": {
-        "jogos": 36,
-        "xg_medio": 1.28,
-        "xga_medio": 1.4,
-        "xgd_medio": -0.12
+        "jogos": 37,
+        "xg_medio": 1.29,
+        "xga_medio": 1.38,
+        "xgd_medio": -0.09
       }
     },
     "Atlético-GO": {
@@ -7503,33 +7523,53 @@
           "xg_movel_5": 1.55,
           "xga_movel_5": 1.49,
           "xgd_movel_5": 0.06
+        },
+        {
+          "rodada": 37,
+          "data": "2026-11-06T22:30:00Z",
+          "local": "Fora",
+          "adversario": "Operário-PR",
+          "gols_pro": 2,
+          "gols_contra": 3,
+          "placar": "2 x 3",
+          "xg": 0.52,
+          "xga": 1.42,
+          "xgd": -0.9,
+          "posse": 55,
+          "chutes": 12,
+          "chutes_no_gol": 4,
+          "escanteios": 6,
+          "desarmes": 20,
+          "xg_movel_5": 1.33,
+          "xga_movel_5": 1.37,
+          "xgd_movel_5": -0.05
         }
       ],
       "tendencia": {
         "ataque": {
-          "status": "Melhorando",
-          "variacao": 6.1,
-          "temporada": 1.46,
-          "ultimos_5": 1.55
+          "status": "Piorando",
+          "variacao": -7.5,
+          "temporada": 1.44,
+          "ultimos_5": 1.33
         },
         "defesa": {
           "status": "Piorando",
-          "variacao": -15.4,
+          "variacao": -6.3,
           "temporada": 1.29,
-          "ultimos_5": 1.49
+          "ultimos_5": 1.37
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -64.1,
-          "temporada": 0.17,
-          "ultimos_5": 0.06
+          "variacao": -132.1,
+          "temporada": 0.14,
+          "ultimos_5": -0.05
         }
       },
       "resumo": {
-        "jogos": 36,
-        "xg_medio": 1.46,
+        "jogos": 37,
+        "xg_medio": 1.44,
         "xga_medio": 1.29,
-        "xgd_medio": 0.17
+        "xgd_medio": 0.14
       }
     },
     "Avaí": {
