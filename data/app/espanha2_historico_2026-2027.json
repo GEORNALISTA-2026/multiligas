@@ -1,6 +1,6 @@
 {
   "season": "2026/2027",
-  "updated_at": "2026-11-07T07:22:48.455Z",
+  "updated_at": "2026-11-08T07:20:59.571Z",
   "teams": {
     "Real Sociedad B": {
       "team": "Real Sociedad B",
@@ -1057,33 +1057,53 @@
           "xg_movel_5": 2.04,
           "xga_movel_5": 1.89,
           "xgd_movel_5": 0.15
+        },
+        {
+          "rodada": 13,
+          "data": "2026-11-07T17:30:00Z",
+          "local": "Fora",
+          "adversario": "Córdoba",
+          "gols_pro": 0,
+          "gols_contra": 3,
+          "placar": "0 x 3",
+          "xg": 1.81,
+          "xga": 1.26,
+          "xgd": 0.55,
+          "posse": 47,
+          "chutes": 12,
+          "chutes_no_gol": 5,
+          "escanteios": 5,
+          "desarmes": 18,
+          "xg_movel_5": 1.98,
+          "xga_movel_5": 1.91,
+          "xgd_movel_5": 0.07
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Melhorando",
-          "variacao": 37.9,
-          "temporada": 1.48,
-          "ultimos_5": 2.04
+          "variacao": 31.2,
+          "temporada": 1.51,
+          "ultimos_5": 1.98
         },
         "defesa": {
           "status": "Estável",
-          "variacao": 0.8,
-          "temporada": 1.91,
-          "ultimos_5": 1.89
+          "variacao": -2.7,
+          "temporada": 1.86,
+          "ultimos_5": 1.91
         },
         "equilibrio": {
           "status": "Melhorando",
-          "variacao": 135.8,
-          "temporada": -0.42,
-          "ultimos_5": 0.15
+          "variacao": 120,
+          "temporada": -0.35,
+          "ultimos_5": 0.07
         }
       },
       "resumo": {
-        "jogos": 12,
-        "xg_medio": 1.48,
-        "xga_medio": 1.91,
-        "xgd_medio": -0.42
+        "jogos": 13,
+        "xg_medio": 1.51,
+        "xga_medio": 1.86,
+        "xgd_medio": -0.35
       }
     },
     "Cádiz": {
@@ -1328,33 +1348,53 @@
           "xg_movel_5": 1.13,
           "xga_movel_5": 1.59,
           "xgd_movel_5": -0.46
+        },
+        {
+          "rodada": 13,
+          "data": "2026-11-07T15:15:00Z",
+          "local": "Casa",
+          "adversario": "Real Oviedo",
+          "gols_pro": 1,
+          "gols_contra": 2,
+          "placar": "1 x 2",
+          "xg": 2.07,
+          "xga": 0.61,
+          "xgd": 1.46,
+          "posse": 47,
+          "chutes": 15,
+          "chutes_no_gol": 4,
+          "escanteios": 7,
+          "desarmes": 18,
+          "xg_movel_5": 1.13,
+          "xga_movel_5": 1.53,
+          "xgd_movel_5": -0.4
         }
       ],
       "tendencia": {
         "ataque": {
-          "status": "Estável",
-          "variacao": -4,
-          "temporada": 1.18,
+          "status": "Piorando",
+          "variacao": -9.6,
+          "temporada": 1.25,
           "ultimos_5": 1.13
         },
         "defesa": {
           "status": "Piorando",
-          "variacao": -18.1,
-          "temporada": 1.35,
-          "ultimos_5": 1.59
+          "variacao": -18.5,
+          "temporada": 1.29,
+          "ultimos_5": 1.53
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -174.6,
-          "temporada": -0.17,
-          "ultimos_5": -0.46
+          "variacao": -850.2,
+          "temporada": -0.04,
+          "ultimos_5": -0.4
         }
       },
       "resumo": {
-        "jogos": 12,
-        "xg_medio": 1.18,
-        "xga_medio": 1.35,
-        "xgd_medio": -0.17
+        "jogos": 13,
+        "xg_medio": 1.25,
+        "xga_medio": 1.29,
+        "xgd_medio": -0.04
       }
     },
     "Celta Fortuna": {
@@ -1599,33 +1639,53 @@
           "xg_movel_5": 1.45,
           "xga_movel_5": 2.01,
           "xgd_movel_5": -0.56
+        },
+        {
+          "rodada": 13,
+          "data": "2026-11-07T13:00:00Z",
+          "local": "Fora",
+          "adversario": "Burgos CF",
+          "gols_pro": 1,
+          "gols_contra": 2,
+          "placar": "1 x 2",
+          "xg": 0.5,
+          "xga": 2.65,
+          "xgd": -2.15,
+          "posse": 40,
+          "chutes": 8,
+          "chutes_no_gol": 1,
+          "escanteios": 1,
+          "desarmes": 25,
+          "xg_movel_5": 1.24,
+          "xga_movel_5": 2.17,
+          "xgd_movel_5": -0.93
         }
       ],
       "tendencia": {
         "ataque": {
-          "status": "Estável",
-          "variacao": 4.2,
-          "temporada": 1.39,
-          "ultimos_5": 1.45
+          "status": "Piorando",
+          "variacao": -6.1,
+          "temporada": 1.32,
+          "ultimos_5": 1.24
         },
         "defesa": {
           "status": "Piorando",
-          "variacao": -13.1,
-          "temporada": 1.77,
-          "ultimos_5": 2.01
+          "variacao": -17.6,
+          "temporada": 1.84,
+          "ultimos_5": 2.17
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -45.1,
-          "temporada": -0.39,
-          "ultimos_5": -0.56
+          "variacao": -77.6,
+          "temporada": -0.52,
+          "ultimos_5": -0.93
         }
       },
       "resumo": {
-        "jogos": 12,
-        "xg_medio": 1.39,
-        "xga_medio": 1.77,
-        "xgd_medio": -0.39
+        "jogos": 13,
+        "xg_medio": 1.32,
+        "xga_medio": 1.84,
+        "xgd_medio": -0.52
       }
     },
     "Real Oviedo": {
@@ -1870,33 +1930,53 @@
           "xg_movel_5": 1.67,
           "xga_movel_5": 2.09,
           "xgd_movel_5": -0.42
+        },
+        {
+          "rodada": 13,
+          "data": "2026-11-07T15:15:00Z",
+          "local": "Fora",
+          "adversario": "Cádiz",
+          "gols_pro": 2,
+          "gols_contra": 1,
+          "placar": "2 x 1",
+          "xg": 0.61,
+          "xga": 2.07,
+          "xgd": -1.46,
+          "posse": 53,
+          "chutes": 11,
+          "chutes_no_gol": 4,
+          "escanteios": 4,
+          "desarmes": 11,
+          "xg_movel_5": 1.52,
+          "xga_movel_5": 1.9,
+          "xgd_movel_5": -0.38
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Melhorando",
-          "variacao": 18.9,
-          "temporada": 1.41,
-          "ultimos_5": 1.67
+          "variacao": 12.7,
+          "temporada": 1.35,
+          "ultimos_5": 1.52
         },
         "defesa": {
           "status": "Piorando",
-          "variacao": -38.3,
-          "temporada": 1.51,
-          "ultimos_5": 2.09
+          "variacao": -21.9,
+          "temporada": 1.56,
+          "ultimos_5": 1.9
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -296.9,
-          "temporada": -0.11,
-          "ultimos_5": -0.42
+          "variacao": -81,
+          "temporada": -0.21,
+          "ultimos_5": -0.38
         }
       },
       "resumo": {
-        "jogos": 12,
-        "xg_medio": 1.41,
-        "xga_medio": 1.51,
-        "xgd_medio": -0.11
+        "jogos": 13,
+        "xg_medio": 1.35,
+        "xga_medio": 1.56,
+        "xgd_medio": -0.21
       }
     },
     "Granada": {
@@ -3496,33 +3576,53 @@
           "xg_movel_5": 1.35,
           "xga_movel_5": 1.37,
           "xgd_movel_5": -0.03
+        },
+        {
+          "rodada": 13,
+          "data": "2026-11-07T13:00:00Z",
+          "local": "Casa",
+          "adversario": "Celta Fortuna",
+          "gols_pro": 2,
+          "gols_contra": 1,
+          "placar": "2 x 1",
+          "xg": 2.65,
+          "xga": 0.5,
+          "xgd": 2.15,
+          "posse": 60,
+          "chutes": 19,
+          "chutes_no_gol": 6,
+          "escanteios": 10,
+          "desarmes": 23,
+          "xg_movel_5": 1.66,
+          "xga_movel_5": 1.02,
+          "xgd_movel_5": 0.64
         }
       ],
       "tendencia": {
         "ataque": {
-          "status": "Estável",
-          "variacao": -2.2,
-          "temporada": 1.38,
-          "ultimos_5": 1.35
+          "status": "Melhorando",
+          "variacao": 12.6,
+          "temporada": 1.47,
+          "ultimos_5": 1.66
         },
         "defesa": {
-          "status": "Piorando",
-          "variacao": -8.1,
-          "temporada": 1.27,
-          "ultimos_5": 1.37
+          "status": "Melhorando",
+          "variacao": 15.9,
+          "temporada": 1.21,
+          "ultimos_5": 1.02
         },
         "equilibrio": {
-          "status": "Piorando",
-          "variacao": -124.2,
-          "temporada": 0.11,
-          "ultimos_5": -0.03
+          "status": "Melhorando",
+          "variacao": 142.6,
+          "temporada": 0.26,
+          "ultimos_5": 0.64
         }
       },
       "resumo": {
-        "jogos": 12,
-        "xg_medio": 1.38,
-        "xga_medio": 1.27,
-        "xgd_medio": 0.11
+        "jogos": 13,
+        "xg_medio": 1.47,
+        "xga_medio": 1.21,
+        "xgd_medio": 0.26
       }
     },
     "Córdoba": {
@@ -3767,33 +3867,53 @@
           "xg_movel_5": 2.17,
           "xga_movel_5": 1.62,
           "xgd_movel_5": 0.56
+        },
+        {
+          "rodada": 13,
+          "data": "2026-11-07T17:30:00Z",
+          "local": "Casa",
+          "adversario": "AD Ceuta FC",
+          "gols_pro": 3,
+          "gols_contra": 0,
+          "placar": "3 x 0",
+          "xg": 1.26,
+          "xga": 1.81,
+          "xgd": -0.55,
+          "posse": 53,
+          "chutes": 14,
+          "chutes_no_gol": 7,
+          "escanteios": 11,
+          "desarmes": 18,
+          "xg_movel_5": 1.93,
+          "xga_movel_5": 1.8,
+          "xgd_movel_5": 0.13
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Melhorando",
-          "variacao": 19.5,
-          "temporada": 1.82,
-          "ultimos_5": 2.17
+          "variacao": 8.7,
+          "temporada": 1.78,
+          "ultimos_5": 1.93
         },
         "defesa": {
-          "status": "Melhorando",
-          "variacao": 11.9,
-          "temporada": 1.84,
-          "ultimos_5": 1.62
+          "status": "Estável",
+          "variacao": 1.8,
+          "temporada": 1.83,
+          "ultimos_5": 1.8
         },
         "equilibrio": {
           "status": "Melhorando",
-          "variacao": 3611.6,
-          "temporada": -0.02,
-          "ultimos_5": 0.56
+          "variacao": 331.9,
+          "temporada": -0.06,
+          "ultimos_5": 0.13
         }
       },
       "resumo": {
-        "jogos": 12,
-        "xg_medio": 1.82,
-        "xga_medio": 1.84,
-        "xgd_medio": -0.02
+        "jogos": 13,
+        "xg_medio": 1.78,
+        "xga_medio": 1.83,
+        "xgd_medio": -0.06
       }
     },
     "Girona": {
@@ -4309,33 +4429,53 @@
           "xg_movel_5": 1.42,
           "xga_movel_5": 1.76,
           "xgd_movel_5": -0.34
+        },
+        {
+          "rodada": 13,
+          "data": "2026-11-07T17:30:00Z",
+          "local": "Casa",
+          "adversario": "Albacete",
+          "gols_pro": 1,
+          "gols_contra": 3,
+          "placar": "1 x 3",
+          "xg": 2.38,
+          "xga": 2.15,
+          "xgd": 0.23,
+          "posse": 63,
+          "chutes": 17,
+          "chutes_no_gol": 7,
+          "escanteios": 9,
+          "desarmes": 12,
+          "xg_movel_5": 1.71,
+          "xga_movel_5": 1.77,
+          "xgd_movel_5": -0.06
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Melhorando",
-          "variacao": 5.1,
-          "temporada": 1.35,
-          "ultimos_5": 1.42
+          "variacao": 19.8,
+          "temporada": 1.43,
+          "ultimos_5": 1.71
         },
         "defesa": {
-          "status": "Piorando",
-          "variacao": -5.3,
-          "temporada": 1.67,
-          "ultimos_5": 1.76
+          "status": "Estável",
+          "variacao": -3.7,
+          "temporada": 1.71,
+          "ultimos_5": 1.77
         },
         "equilibrio": {
-          "status": "Piorando",
-          "variacao": -5.8,
-          "temporada": -0.32,
-          "ultimos_5": -0.34
+          "status": "Melhorando",
+          "variacao": 77.9,
+          "temporada": -0.28,
+          "ultimos_5": -0.06
         }
       },
       "resumo": {
-        "jogos": 12,
-        "xg_medio": 1.35,
-        "xga_medio": 1.67,
-        "xgd_medio": -0.32
+        "jogos": 13,
+        "xg_medio": 1.43,
+        "xga_medio": 1.71,
+        "xgd_medio": -0.28
       }
     },
     "Las Palmas": {
@@ -4851,33 +4991,53 @@
           "xg_movel_5": 0.91,
           "xga_movel_5": 1.67,
           "xgd_movel_5": -0.76
+        },
+        {
+          "rodada": 13,
+          "data": "2026-11-07T17:30:00Z",
+          "local": "Fora",
+          "adversario": "Leganés",
+          "gols_pro": 3,
+          "gols_contra": 1,
+          "placar": "3 x 1",
+          "xg": 2.15,
+          "xga": 2.38,
+          "xgd": -0.23,
+          "posse": 37,
+          "chutes": 13,
+          "chutes_no_gol": 4,
+          "escanteios": 5,
+          "desarmes": 14,
+          "xg_movel_5": 1.03,
+          "xga_movel_5": 1.8,
+          "xgd_movel_5": -0.77
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Piorando",
-          "variacao": -17.9,
-          "temporada": 1.11,
-          "ultimos_5": 0.91
+          "variacao": -13.3,
+          "temporada": 1.19,
+          "ultimos_5": 1.03
         },
         "defesa": {
           "status": "Estável",
-          "variacao": 0,
-          "temporada": 1.67,
-          "ultimos_5": 1.67
+          "variacao": -4.6,
+          "temporada": 1.72,
+          "ultimos_5": 1.8
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -36,
-          "temporada": -0.56,
-          "ultimos_5": -0.76
+          "variacao": -45.1,
+          "temporada": -0.53,
+          "ultimos_5": -0.77
         }
       },
       "resumo": {
-        "jogos": 12,
-        "xg_medio": 1.11,
-        "xga_medio": 1.67,
-        "xgd_medio": -0.56
+        "jogos": 13,
+        "xg_medio": 1.19,
+        "xga_medio": 1.72,
+        "xgd_medio": -0.53
       }
     },
     "Sporting Gijón": {

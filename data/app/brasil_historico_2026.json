@@ -1,6 +1,6 @@
 {
   "season": "2026",
-  "updated_at": "2026-11-07T07:15:07.917Z",
+  "updated_at": "2026-11-08T07:15:22.867Z",
   "teams": {
     "Atlético-MG": {
       "team": "Atlético-MG",
@@ -4939,35 +4939,35 @@
           "gols_pro": 0,
           "gols_contra": 3,
           "placar": "0 x 3",
-          "xg": 0.82,
-          "xga": 1.9,
-          "xgd": -1.08,
+          "xg": 0.75,
+          "xga": 1.84,
+          "xgd": -1.09,
           "posse": 44,
           "chutes": 11,
           "chutes_no_gol": 5,
           "escanteios": 9,
-          "desarmes": 6,
-          "xg_movel_5": 0.97,
-          "xga_movel_5": 1.73,
+          "desarmes": 5,
+          "xg_movel_5": 0.95,
+          "xga_movel_5": 1.72,
           "xgd_movel_5": -0.77
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Piorando",
-          "variacao": -7.1,
+          "variacao": -8.3,
           "temporada": 1.04,
-          "ultimos_5": 0.97
+          "ultimos_5": 0.95
         },
         "defesa": {
           "status": "Piorando",
-          "variacao": -18.5,
+          "variacao": -17.9,
           "temporada": 1.46,
-          "ultimos_5": 1.73
+          "ultimos_5": 1.72
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -82.1,
+          "variacao": -82.5,
           "temporada": -0.42,
           "ultimos_5": -0.77
         }
@@ -6361,35 +6361,35 @@
           "gols_pro": 3,
           "gols_contra": 0,
           "placar": "3 x 0",
-          "xg": 1.9,
-          "xga": 0.82,
-          "xgd": 1.08,
+          "xg": 1.84,
+          "xga": 0.75,
+          "xgd": 1.09,
           "posse": 56,
           "chutes": 14,
           "chutes_no_gol": 7,
           "escanteios": 6,
           "desarmes": 9,
-          "xg_movel_5": 1.46,
-          "xga_movel_5": 1.28,
+          "xg_movel_5": 1.44,
+          "xga_movel_5": 1.26,
           "xgd_movel_5": 0.18
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Estável",
-          "variacao": -2.7,
+          "variacao": -3.4,
           "temporada": 1.5,
-          "ultimos_5": 1.46
+          "ultimos_5": 1.44
         },
         "defesa": {
           "status": "Estável",
-          "variacao": -4.2,
+          "variacao": -3.2,
           "temporada": 1.22,
-          "ultimos_5": 1.28
+          "ultimos_5": 1.26
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -33.9,
+          "variacao": -33.2,
           "temporada": 0.27,
           "ultimos_5": 0.18
         }

@@ -1,6 +1,6 @@
 {
   "season": "2026",
-  "updated_at": "2026-11-07T07:36:48.185Z",
+  "updated_at": "2026-11-08T07:31:35.180Z",
   "teams": {
     "Hamarkameratene": {
       "team": "Hamarkameratene",
@@ -2097,33 +2097,53 @@
           "xg_movel_5": 2.71,
           "xga_movel_5": 1.21,
           "xgd_movel_5": 1.49
+        },
+        {
+          "rodada": 26,
+          "data": "2026-11-07T17:00:00Z",
+          "local": "Casa",
+          "adversario": "Start",
+          "gols_pro": 4,
+          "gols_contra": 1,
+          "placar": "4 x 1",
+          "xg": 1.97,
+          "xga": 0.6,
+          "xgd": 1.37,
+          "posse": 71,
+          "chutes": 17,
+          "chutes_no_gol": 5,
+          "escanteios": 6,
+          "desarmes": 19,
+          "xg_movel_5": 2.7,
+          "xga_movel_5": 0.9,
+          "xgd_movel_5": 1.8
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Melhorando",
-          "variacao": 39.9,
+          "variacao": 39.2,
           "temporada": 1.94,
-          "ultimos_5": 2.71
+          "ultimos_5": 2.7
         },
         "defesa": {
           "status": "Melhorando",
-          "variacao": 18.3,
-          "temporada": 1.49,
-          "ultimos_5": 1.21
+          "variacao": 38,
+          "temporada": 1.45,
+          "ultimos_5": 0.9
         },
         "equilibrio": {
           "status": "Melhorando",
-          "variacao": 232,
-          "temporada": 0.45,
-          "ultimos_5": 1.49
+          "variacao": 270,
+          "temporada": 0.49,
+          "ultimos_5": 1.8
         }
       },
       "resumo": {
-        "jogos": 25,
+        "jogos": 26,
         "xg_medio": 1.94,
-        "xga_medio": 1.49,
-        "xgd_medio": 0.45
+        "xga_medio": 1.45,
+        "xgd_medio": 0.49
       }
     },
     "Kristiansund": {
@@ -5283,33 +5303,53 @@
           "xg_movel_5": 1.75,
           "xga_movel_5": 2.87,
           "xgd_movel_5": -1.11
+        },
+        {
+          "rodada": 26,
+          "data": "2026-11-07T17:00:00Z",
+          "local": "Fora",
+          "adversario": "Rosenborg",
+          "gols_pro": 1,
+          "gols_contra": 4,
+          "placar": "1 x 4",
+          "xg": 0.6,
+          "xga": 1.97,
+          "xgd": -1.37,
+          "posse": 29,
+          "chutes": 9,
+          "chutes_no_gol": 2,
+          "escanteios": 3,
+          "desarmes": 20,
+          "xg_movel_5": 1.42,
+          "xga_movel_5": 3.09,
+          "xgd_movel_5": -1.67
         }
       ],
       "tendencia": {
         "ataque": {
-          "status": "Melhorando",
-          "variacao": 19.7,
-          "temporada": 1.47,
-          "ultimos_5": 1.75
+          "status": "Estável",
+          "variacao": -0.7,
+          "temporada": 1.43,
+          "ultimos_5": 1.42
         },
         "defesa": {
           "status": "Piorando",
-          "variacao": -46.1,
+          "variacao": -57.4,
           "temporada": 1.96,
-          "ultimos_5": 2.87
+          "ultimos_5": 3.09
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -124.2,
-          "temporada": -0.5,
-          "ultimos_5": -1.11
+          "variacao": -214.6,
+          "temporada": -0.53,
+          "ultimos_5": -1.67
         }
       },
       "resumo": {
-        "jogos": 25,
-        "xg_medio": 1.47,
+        "jogos": 26,
+        "xg_medio": 1.43,
         "xga_medio": 1.96,
-        "xgd_medio": -0.5
+        "xgd_medio": -0.53
       }
     },
     "Vålerenga": {
