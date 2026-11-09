@@ -1,6 +1,6 @@
 {
   "season": "2026/2027",
-  "updated_at": "2026-11-08T07:29:31.836Z",
+  "updated_at": "2026-11-09T08:00:42.728Z",
   "teams": {
     "Dundee United": {
       "team": "Dundee United",
@@ -786,33 +786,53 @@
           "xg_movel_5": 1.27,
           "xga_movel_5": 1.68,
           "xgd_movel_5": -0.41
+        },
+        {
+          "rodada": 13,
+          "data": "2026-11-08T15:00:00Z",
+          "local": "Fora",
+          "adversario": "Heart of Midlothian",
+          "gols_pro": 5,
+          "gols_contra": 2,
+          "placar": "5 x 2",
+          "xg": 2.5,
+          "xga": 1.84,
+          "xgd": 0.66,
+          "posse": 41,
+          "chutes": 14,
+          "chutes_no_gol": 7,
+          "escanteios": 5,
+          "desarmes": 23,
+          "xg_movel_5": 1.31,
+          "xga_movel_5": 1.66,
+          "xgd_movel_5": -0.36
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Melhorando",
-          "variacao": 11.9,
-          "temporada": 1.14,
-          "ultimos_5": 1.27
+          "variacao": 5.5,
+          "temporada": 1.24,
+          "ultimos_5": 1.31
         },
         "defesa": {
           "status": "Melhorando",
-          "variacao": 6.9,
+          "variacao": 7.8,
           "temporada": 1.8,
-          "ultimos_5": 1.68
+          "ultimos_5": 1.66
         },
         "equilibrio": {
           "status": "Melhorando",
-          "variacao": 39,
-          "temporada": -0.67,
-          "ultimos_5": -0.41
+          "variacao": 36.9,
+          "temporada": -0.56,
+          "ultimos_5": -0.36
         }
       },
       "resumo": {
-        "jogos": 12,
-        "xg_medio": 1.14,
+        "jogos": 13,
+        "xg_medio": 1.24,
         "xga_medio": 1.8,
-        "xgd_medio": -0.67
+        "xgd_medio": -0.56
       }
     },
     "St. Mirren": {
@@ -1599,33 +1619,53 @@
           "xg_movel_5": 2.04,
           "xga_movel_5": 1.79,
           "xgd_movel_5": 0.24
+        },
+        {
+          "rodada": 13,
+          "data": "2026-11-08T15:00:00Z",
+          "local": "Casa",
+          "adversario": "Falkirk",
+          "gols_pro": 2,
+          "gols_contra": 5,
+          "placar": "2 x 5",
+          "xg": 1.84,
+          "xga": 2.5,
+          "xgd": -0.66,
+          "posse": 59,
+          "chutes": 16,
+          "chutes_no_gol": 6,
+          "escanteios": 4,
+          "desarmes": 10,
+          "xg_movel_5": 2.02,
+          "xga_movel_5": 2.22,
+          "xgd_movel_5": -0.19
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Melhorando",
-          "variacao": 7.1,
+          "variacao": 6.5,
           "temporada": 1.9,
-          "ultimos_5": 2.04
+          "ultimos_5": 2.02
         },
         "defesa": {
           "status": "Piorando",
-          "variacao": -13,
-          "temporada": 1.59,
-          "ultimos_5": 1.79
+          "variacao": -33.2,
+          "temporada": 1.66,
+          "ultimos_5": 2.22
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -22.7,
-          "temporada": 0.32,
-          "ultimos_5": 0.24
+          "variacao": -182.8,
+          "temporada": 0.23,
+          "ultimos_5": -0.19
         }
       },
       "resumo": {
-        "jogos": 11,
+        "jogos": 12,
         "xg_medio": 1.9,
-        "xga_medio": 1.59,
-        "xgd_medio": 0.32
+        "xga_medio": 1.66,
+        "xgd_medio": 0.23
       }
     },
     "St. Johnstone": {
@@ -2161,32 +2201,52 @@
           "xg_movel_5": 1.84,
           "xga_movel_5": 1.83,
           "xgd_movel_5": 0.01
+        },
+        {
+          "rodada": 13,
+          "data": "2026-11-08T16:00:00Z",
+          "local": "Fora",
+          "adversario": "Celtic",
+          "gols_pro": 0,
+          "gols_contra": 1,
+          "placar": "0 x 1",
+          "xg": 1.47,
+          "xga": 2.21,
+          "xgd": -0.74,
+          "posse": 41,
+          "chutes": 7,
+          "chutes_no_gol": 3,
+          "escanteios": 3,
+          "desarmes": 17,
+          "xg_movel_5": 1.88,
+          "xga_movel_5": 1.88,
+          "xgd_movel_5": 0
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Melhorando",
-          "variacao": 34.9,
-          "temporada": 1.36,
-          "ultimos_5": 1.84
+          "variacao": 37.3,
+          "temporada": 1.37,
+          "ultimos_5": 1.88
         },
         "defesa": {
           "status": "Melhorando",
-          "variacao": 13.4,
-          "temporada": 2.11,
-          "ultimos_5": 1.83
+          "variacao": 11.1,
+          "temporada": 2.12,
+          "ultimos_5": 1.88
         },
         "equilibrio": {
           "status": "Melhorando",
-          "variacao": 101.1,
+          "variacao": 99.5,
           "temporada": -0.75,
-          "ultimos_5": 0.01
+          "ultimos_5": 0
         }
       },
       "resumo": {
-        "jogos": 12,
-        "xg_medio": 1.36,
-        "xga_medio": 2.11,
+        "jogos": 13,
+        "xg_medio": 1.37,
+        "xga_medio": 2.12,
         "xgd_medio": -0.75
       }
     },
@@ -2994,33 +3054,53 @@
           "xg_movel_5": 2.62,
           "xga_movel_5": 1.1,
           "xgd_movel_5": 1.52
+        },
+        {
+          "rodada": 13,
+          "data": "2026-11-08T16:00:00Z",
+          "local": "Casa",
+          "adversario": "Kilmarnock",
+          "gols_pro": 1,
+          "gols_contra": 0,
+          "placar": "1 x 0",
+          "xg": 2.21,
+          "xga": 1.47,
+          "xgd": 0.74,
+          "posse": 59,
+          "chutes": 20,
+          "chutes_no_gol": 5,
+          "escanteios": 8,
+          "desarmes": 10,
+          "xg_movel_5": 2.49,
+          "xga_movel_5": 1.2,
+          "xgd_movel_5": 1.29
         }
       ],
       "tendencia": {
         "ataque": {
-          "status": "Estável",
-          "variacao": -2.6,
-          "temporada": 2.69,
-          "ultimos_5": 2.62
+          "status": "Piorando",
+          "variacao": -6.2,
+          "temporada": 2.65,
+          "ultimos_5": 2.49
         },
         "defesa": {
-          "status": "Estável",
-          "variacao": -4.7,
-          "temporada": 1.05,
-          "ultimos_5": 1.1
+          "status": "Piorando",
+          "variacao": -10.8,
+          "temporada": 1.08,
+          "ultimos_5": 1.2
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -7.2,
-          "temporada": 1.64,
-          "ultimos_5": 1.52
+          "variacao": -17.9,
+          "temporada": 1.57,
+          "ultimos_5": 1.29
         }
       },
       "resumo": {
-        "jogos": 12,
-        "xg_medio": 2.69,
-        "xga_medio": 1.05,
-        "xgd_medio": 1.64
+        "jogos": 13,
+        "xg_medio": 2.65,
+        "xga_medio": 1.08,
+        "xgd_medio": 1.57
       }
     },
     "Dundee FC": {
