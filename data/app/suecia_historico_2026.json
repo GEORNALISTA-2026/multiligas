@@ -1,6 +1,6 @@
 {
   "season": "2026",
-  "updated_at": "2026-11-09T08:06:34.604Z",
+  "updated_at": "2026-11-10T07:44:24.557Z",
   "teams": {
     "Degerfors": {
       "team": "Degerfors",
@@ -2917,25 +2917,25 @@
           "gols_pro": 3,
           "gols_contra": 2,
           "placar": "3 x 2",
-          "xg": 2.59,
+          "xg": 2.53,
           "xga": 2.07,
-          "xgd": 0.52,
+          "xgd": 0.46,
           "posse": 46,
           "chutes": 16,
           "chutes_no_gol": 7,
           "escanteios": 5,
           "desarmes": 19,
-          "xg_movel_5": 1.53,
+          "xg_movel_5": 1.52,
           "xga_movel_5": 1.89,
-          "xgd_movel_5": -0.36
+          "xgd_movel_5": -0.38
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Estável",
-          "variacao": 1,
+          "variacao": 0.4,
           "temporada": 1.51,
-          "ultimos_5": 1.53
+          "ultimos_5": 1.52
         },
         "defesa": {
           "status": "Estável",
@@ -2945,9 +2945,9 @@
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -18.8,
+          "variacao": -21.9,
           "temporada": -0.31,
-          "ultimos_5": -0.36
+          "ultimos_5": -0.38
         }
       },
       "resumo": {
@@ -7646,16 +7646,16 @@
           "gols_contra": 3,
           "placar": "2 x 3",
           "xg": 2.07,
-          "xga": 2.59,
-          "xgd": -0.52,
+          "xga": 2.53,
+          "xgd": -0.46,
           "posse": 54,
           "chutes": 16,
           "chutes_no_gol": 9,
           "escanteios": 4,
           "desarmes": 11,
           "xg_movel_5": 1.85,
-          "xga_movel_5": 1.43,
-          "xgd_movel_5": 0.41
+          "xga_movel_5": 1.42,
+          "xgd_movel_5": 0.42
         }
       ],
       "tendencia": {
@@ -7667,21 +7667,21 @@
         },
         "defesa": {
           "status": "Piorando",
-          "variacao": -19,
-          "temporada": 1.21,
-          "ultimos_5": 1.43
+          "variacao": -18.2,
+          "temporada": 1.2,
+          "ultimos_5": 1.42
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -38.1,
+          "variacao": -36.5,
           "temporada": 0.67,
-          "ultimos_5": 0.41
+          "ultimos_5": 0.42
         }
       },
       "resumo": {
         "jogos": 28,
         "xg_medio": 1.87,
-        "xga_medio": 1.21,
+        "xga_medio": 1.2,
         "xgd_medio": 0.67
       }
     },

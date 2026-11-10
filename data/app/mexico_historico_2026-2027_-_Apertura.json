@@ -1,6 +1,6 @@
 {
   "season": "2026/2027 - Apertura",
-  "updated_at": "2026-11-09T08:07:48.751Z",
+  "updated_at": "2026-11-10T07:45:23.783Z",
   "teams": {
     "Necaxa": {
       "team": "Necaxa",
@@ -2413,7 +2413,7 @@
         },
         {
           "rodada": 16,
-          "data": "2026-11-09T02:10:00.000Z",
+          "data": "2026-11-09T02:10:00Z",
           "local": "Casa",
           "adversario": "Chivas",
           "gols_pro": 1,
@@ -3466,7 +3466,7 @@
         },
         {
           "rodada": 16,
-          "data": "2026-11-09T00:00:00.000Z",
+          "data": "2026-11-09T00:00:00Z",
           "local": "Fora",
           "adversario": "Querétaro FC",
           "gols_pro": 2,
@@ -5201,7 +5201,7 @@
         },
         {
           "rodada": 16,
-          "data": "2026-11-09T02:10:00.000Z",
+          "data": "2026-11-09T02:10:00Z",
           "local": "Fora",
           "adversario": "León",
           "gols_pro": 1,
@@ -5883,7 +5883,7 @@
         },
         {
           "rodada": 16,
-          "data": "2026-11-09T00:00:00.000Z",
+          "data": "2026-11-09T00:00:00Z",
           "local": "Casa",
           "adversario": "Puebla",
           "gols_pro": 0,

@@ -1,6 +1,6 @@
 {
   "season": "2026/2027",
-  "updated_at": "2026-11-09T07:59:24.457Z",
+  "updated_at": "2026-11-10T07:38:57.486Z",
   "teams": {
     "Galatasaray": {
       "team": "Galatasaray",
@@ -1469,15 +1469,15 @@
           "gols_contra": 1,
           "placar": "2 x 1",
           "xg": 3.59,
-          "xga": 0.68,
-          "xgd": 2.91,
+          "xga": 0.7,
+          "xgd": 2.89,
           "posse": 62,
           "chutes": 24,
           "chutes_no_gol": 6,
           "escanteios": 8,
           "desarmes": 14,
           "xg_movel_5": 1.8,
-          "xga_movel_5": 1.13,
+          "xga_movel_5": 1.14,
           "xgd_movel_5": 0.67
         }
       ],
@@ -1490,13 +1490,13 @@
         },
         "defesa": {
           "status": "Melhorando",
-          "variacao": 8.9,
+          "variacao": 8.7,
           "temporada": 1.24,
-          "ultimos_5": 1.13
+          "ultimos_5": 1.14
         },
         "equilibrio": {
           "status": "Melhorando",
-          "variacao": 84.8,
+          "variacao": 84.6,
           "temporada": 0.36,
           "ultimos_5": 0.67
         }
@@ -3476,9 +3476,9 @@
           "gols_pro": 1,
           "gols_contra": 2,
           "placar": "1 x 2",
-          "xg": 0.68,
+          "xg": 0.7,
           "xga": 3.59,
-          "xgd": -2.91,
+          "xgd": -2.89,
           "posse": 38,
           "chutes": 9,
           "chutes_no_gol": 4,
@@ -3492,7 +3492,7 @@
       "tendencia": {
         "ataque": {
           "status": "Melhorando",
-          "variacao": 30,
+          "variacao": 30.2,
           "temporada": 0.84,
           "ultimos_5": 1.09
         },
@@ -3504,7 +3504,7 @@
         },
         "equilibrio": {
           "status": "Melhorando",
-          "variacao": 35,
+          "variacao": 35.4,
           "temporada": -0.73,
           "ultimos_5": -0.47
         }
