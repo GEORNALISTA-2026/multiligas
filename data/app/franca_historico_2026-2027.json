@@ -1,6 +1,6 @@
 {
   "season": "2026/2027",
-  "updated_at": "2026-11-10T07:31:40.885Z",
+  "updated_at": "2026-11-11T14:33:01.623Z",
   "teams": {
     "Marseille": {
       "team": "Marseille",
@@ -2970,7 +2970,7 @@
           "xgd": -1.21,
           "posse": 52,
           "chutes": 13,
-          "chutes_no_gol": 4,
+          "chutes_no_gol": 5,
           "escanteios": 6,
           "desarmes": 15,
           "xg_movel_5": 1.1,

@@ -1,6 +1,6 @@
 {
   "season": "2026/2027",
-  "updated_at": "2026-11-10T07:37:28.190Z",
+  "updated_at": "2026-11-11T14:39:02.807Z",
   "teams": {
     "Cambuur": {
       "team": "Cambuur",
@@ -504,37 +504,37 @@
           "gols_pro": 0,
           "gols_contra": 1,
           "placar": "0 x 1",
-          "xg": 0.8,
-          "xga": 0.59,
-          "xgd": 0.21,
+          "xg": 0.85,
+          "xga": 0.58,
+          "xgd": 0.27,
           "posse": 49,
           "chutes": 14,
           "chutes_no_gol": 2,
           "escanteios": 7,
           "desarmes": 20,
-          "xg_movel_5": 0.81,
+          "xg_movel_5": 0.82,
           "xga_movel_5": 2.67,
-          "xgd_movel_5": -1.86
+          "xgd_movel_5": -1.85
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Piorando",
-          "variacao": -28.9,
+          "variacao": -28.3,
           "temporada": 1.15,
-          "ultimos_5": 0.81
+          "ultimos_5": 0.82
         },
         "defesa": {
           "status": "Piorando",
-          "variacao": -34.3,
+          "variacao": -34.2,
           "temporada": 1.99,
           "ultimos_5": 2.67
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -119.9,
+          "variacao": -119.8,
           "temporada": -0.84,
-          "ultimos_5": -1.86
+          "ultimos_5": -1.85
         }
       },
       "resumo": {
@@ -1317,43 +1317,43 @@
           "gols_pro": 1,
           "gols_contra": 0,
           "placar": "1 x 0",
-          "xg": 0.59,
-          "xga": 0.8,
-          "xgd": -0.21,
+          "xg": 0.58,
+          "xga": 0.85,
+          "xgd": -0.27,
           "posse": 51,
           "chutes": 6,
           "chutes_no_gol": 2,
           "escanteios": 0,
-          "desarmes": 11,
+          "desarmes": 10,
           "xg_movel_5": 1.26,
-          "xga_movel_5": 1.54,
-          "xgd_movel_5": -0.28
+          "xga_movel_5": 1.55,
+          "xgd_movel_5": -0.29
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Piorando",
-          "variacao": -28.8,
+          "variacao": -28.9,
           "temporada": 1.77,
           "ultimos_5": 1.26
         },
         "defesa": {
           "status": "Estável",
-          "variacao": 2.8,
-          "temporada": 1.58,
-          "ultimos_5": 1.54
+          "variacao": 2.4,
+          "temporada": 1.59,
+          "ultimos_5": 1.55
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -244.6,
+          "variacao": -255,
           "temporada": 0.19,
-          "ultimos_5": -0.28
+          "ultimos_5": -0.29
         }
       },
       "resumo": {
         "jogos": 12,
         "xg_medio": 1.77,
-        "xga_medio": 1.58,
+        "xga_medio": 1.59,
         "xgd_medio": 0.19
       }
     },
