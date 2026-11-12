@@ -1,6 +1,6 @@
 {
   "season": "2026/2027",
-  "updated_at": "2026-11-11T14:38:15.182Z",
+  "updated_at": "2026-11-12T15:28:35.522Z",
   "teams": {
     "Club Brugge": {
       "team": "Club Brugge",
@@ -716,16 +716,16 @@
           "gols_contra": 0,
           "placar": "3 x 0",
           "xg": 2.71,
-          "xga": 0.75,
-          "xgd": 1.96,
+          "xga": 0.83,
+          "xgd": 1.88,
           "posse": 62,
           "chutes": 16,
           "chutes_no_gol": 5,
           "escanteios": 3,
           "desarmes": 14,
           "xg_movel_5": 1.7,
-          "xga_movel_5": 1.67,
-          "xgd_movel_5": 0.04
+          "xga_movel_5": 1.68,
+          "xgd_movel_5": 0.02
         }
       ],
       "tendencia": {
@@ -737,22 +737,22 @@
         },
         "defesa": {
           "status": "Estável",
-          "variacao": -1.5,
-          "temporada": 1.64,
-          "ultimos_5": 1.67
+          "variacao": -2.1,
+          "temporada": 1.65,
+          "ultimos_5": 1.68
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -89.1,
-          "temporada": 0.33,
-          "ultimos_5": 0.04
+          "variacao": -93.8,
+          "temporada": 0.32,
+          "ultimos_5": 0.02
         }
       },
       "resumo": {
         "jogos": 11,
         "xg_medio": 1.97,
-        "xga_medio": 1.64,
-        "xgd_medio": 0.33
+        "xga_medio": 1.65,
+        "xgd_medio": 0.32
       }
     },
     "Cercle Brugge": {
@@ -4480,25 +4480,25 @@
           "gols_pro": 0,
           "gols_contra": 3,
           "placar": "0 x 3",
-          "xg": 0.75,
+          "xg": 0.83,
           "xga": 2.71,
-          "xgd": -1.96,
+          "xgd": -1.88,
           "posse": 38,
-          "chutes": 9,
+          "chutes": 10,
           "chutes_no_gol": 3,
           "escanteios": 5,
           "desarmes": 18,
-          "xg_movel_5": 0.89,
+          "xg_movel_5": 0.91,
           "xga_movel_5": 1.88,
-          "xgd_movel_5": -0.99
+          "xgd_movel_5": -0.98
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Piorando",
-          "variacao": -14.8,
+          "variacao": -13.8,
           "temporada": 1.05,
-          "ultimos_5": 0.89
+          "ultimos_5": 0.91
         },
         "defesa": {
           "status": "Estável",
@@ -4508,16 +4508,16 @@
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -12,
-          "temporada": -0.89,
-          "ultimos_5": -0.99
+          "variacao": -11.1,
+          "temporada": -0.88,
+          "ultimos_5": -0.98
         }
       },
       "resumo": {
         "jogos": 11,
         "xg_medio": 1.05,
         "xga_medio": 1.93,
-        "xgd_medio": -0.89
+        "xgd_medio": -0.88
       }
     }
   }

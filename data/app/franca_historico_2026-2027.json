@@ -1,6 +1,6 @@
 {
   "season": "2026/2027",
-  "updated_at": "2026-11-11T14:33:01.623Z",
+  "updated_at": "2026-11-12T15:23:56.960Z",
   "teams": {
     "Marseille": {
       "team": "Marseille",
@@ -3030,7 +3030,7 @@
         },
         {
           "rodada": 2,
-          "data": "2026-08-28T19:00:00Z",
+          "data": "2026-08-28T18:45:00Z",
           "local": "Casa",
           "adversario": "Paris Saint-Germain",
           "gols_pro": 2,
@@ -3954,7 +3954,7 @@
         },
         {
           "rodada": 2,
-          "data": "2026-08-28T19:00:00Z",
+          "data": "2026-08-28T18:45:00Z",
           "local": "Fora",
           "adversario": "Lille",
           "gols_pro": 2,

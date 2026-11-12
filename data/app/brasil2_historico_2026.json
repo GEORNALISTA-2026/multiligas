@@ -1,6 +1,6 @@
 {
   "season": "2026",
-  "updated_at": "2026-11-11T14:29:10.062Z",
+  "updated_at": "2026-11-12T15:20:30.650Z",
   "teams": {
     "Vila Nova": {
       "team": "Vila Nova",
@@ -9996,33 +9996,53 @@
           "xg_movel_5": 1.19,
           "xga_movel_5": 1.73,
           "xgd_movel_5": -0.54
+        },
+        {
+          "rodada": 38,
+          "data": "2026-11-11T22:00:00Z",
+          "local": "Fora",
+          "adversario": "Londrina",
+          "gols_pro": 1,
+          "gols_contra": 2,
+          "placar": "1 x 2",
+          "xg": 0.71,
+          "xga": 1.48,
+          "xgd": -0.77,
+          "posse": 46,
+          "chutes": 10,
+          "chutes_no_gol": 1,
+          "escanteios": 3,
+          "desarmes": 13,
+          "xg_movel_5": 1.21,
+          "xga_movel_5": 1.88,
+          "xgd_movel_5": -0.67
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Piorando",
-          "variacao": -10.7,
-          "temporada": 1.33,
-          "ultimos_5": 1.19
+          "variacao": -7.9,
+          "temporada": 1.31,
+          "ultimos_5": 1.21
         },
         "defesa": {
           "status": "Piorando",
-          "variacao": -13.3,
+          "variacao": -23.7,
           "temporada": 1.52,
-          "ultimos_5": 1.73
+          "ultimos_5": 1.88
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -178.3,
-          "temporada": -0.19,
-          "ultimos_5": -0.54
+          "variacao": -222.2,
+          "temporada": -0.21,
+          "ultimos_5": -0.67
         }
       },
       "resumo": {
-        "jogos": 37,
-        "xg_medio": 1.33,
+        "jogos": 38,
+        "xg_medio": 1.31,
         "xga_medio": 1.52,
-        "xgd_medio": -0.19
+        "xgd_medio": -0.21
       }
     },
     "Criciúma": {
@@ -15393,33 +15413,53 @@
           "xg_movel_5": 1.76,
           "xga_movel_5": 2.08,
           "xgd_movel_5": -0.32
+        },
+        {
+          "rodada": 38,
+          "data": "2026-11-11T22:00:00Z",
+          "local": "Casa",
+          "adversario": "Náutico",
+          "gols_pro": 2,
+          "gols_contra": 1,
+          "placar": "2 x 1",
+          "xg": 1.48,
+          "xga": 0.71,
+          "xgd": 0.77,
+          "posse": 54,
+          "chutes": 12,
+          "chutes_no_gol": 3,
+          "escanteios": 3,
+          "desarmes": 17,
+          "xg_movel_5": 1.61,
+          "xga_movel_5": 1.97,
+          "xgd_movel_5": -0.37
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Melhorando",
-          "variacao": 33.5,
+          "variacao": 21.6,
           "temporada": 1.32,
-          "ultimos_5": 1.76
+          "ultimos_5": 1.61
         },
         "defesa": {
           "status": "Piorando",
-          "variacao": -36.8,
-          "temporada": 1.52,
-          "ultimos_5": 2.08
+          "variacao": -31.6,
+          "temporada": 1.5,
+          "ultimos_5": 1.97
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -57.9,
-          "temporada": -0.21,
-          "ultimos_5": -0.32
+          "variacao": -105,
+          "temporada": -0.18,
+          "ultimos_5": -0.37
         }
       },
       "resumo": {
-        "jogos": 37,
+        "jogos": 38,
         "xg_medio": 1.32,
-        "xga_medio": 1.52,
-        "xgd_medio": -0.21
+        "xga_medio": 1.5,
+        "xgd_medio": -0.18
       }
     }
   }
