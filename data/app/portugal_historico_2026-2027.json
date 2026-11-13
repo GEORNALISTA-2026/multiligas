@@ -1,6 +1,6 @@
 {
   "season": "2026/2027",
-  "updated_at": "2026-11-12T15:30:04.034Z",
+  "updated_at": "2026-11-13T14:49:23.469Z",
   "teams": {
     "Estoril": {
       "team": "Estoril",
@@ -1935,7 +1935,7 @@
           "xgd": 1.4,
           "posse": 71,
           "chutes": 19,
-          "chutes_no_gol": 6,
+          "chutes_no_gol": 5,
           "escanteios": 8,
           "desarmes": 18,
           "xg_movel_5": 1.85,

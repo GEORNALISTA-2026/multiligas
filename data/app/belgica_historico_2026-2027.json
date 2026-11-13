@@ -1,6 +1,6 @@
 {
   "season": "2026/2027",
-  "updated_at": "2026-11-12T15:28:35.522Z",
+  "updated_at": "2026-11-13T14:48:04.259Z",
   "teams": {
     "Club Brugge": {
       "team": "Club Brugge",
@@ -1468,11 +1468,11 @@
           "gols_pro": 2,
           "gols_contra": 2,
           "placar": "2 x 2",
-          "xg": 2.15,
+          "xg": 2.16,
           "xga": 3.25,
-          "xgd": -1.1,
+          "xgd": -1.09,
           "posse": 44,
-          "chutes": 12,
+          "chutes": 13,
           "chutes_no_gol": 4,
           "escanteios": 8,
           "desarmes": 18,
@@ -1484,7 +1484,7 @@
       "tendencia": {
         "ataque": {
           "status": "Melhorando",
-          "variacao": 11.1,
+          "variacao": 11.2,
           "temporada": 1.14,
           "ultimos_5": 1.27
         },
@@ -1496,7 +1496,7 @@
         },
         "equilibrio": {
           "status": "Estável",
-          "variacao": 4.1,
+          "variacao": 4.2,
           "temporada": -0.8,
           "ultimos_5": -0.77
         }
@@ -4230,8 +4230,8 @@
           "gols_contra": 2,
           "placar": "2 x 2",
           "xg": 3.25,
-          "xga": 2.15,
-          "xgd": 1.1,
+          "xga": 2.16,
+          "xgd": 1.09,
           "posse": 56,
           "chutes": 25,
           "chutes_no_gol": 4,
@@ -4257,7 +4257,7 @@
         },
         "equilibrio": {
           "status": "Melhorando",
-          "variacao": 25.8,
+          "variacao": 25.5,
           "temporada": -0.6,
           "ultimos_5": -0.44
         }

@@ -1,6 +1,6 @@
 {
   "season": "2026",
-  "updated_at": "2026-11-12T15:18:08.550Z",
+  "updated_at": "2026-11-13T14:38:07.456Z",
   "teams": {
     "Atlético-MG": {
       "team": "Atlético-MG",
@@ -2406,9 +2406,9 @@
           "gols_pro": 2,
           "gols_contra": 1,
           "placar": "2 x 1",
-          "xg": 0.72,
+          "xg": 0.74,
           "xga": 1.68,
-          "xgd": -0.96,
+          "xgd": -0.94,
           "posse": 45,
           "chutes": 7,
           "chutes_no_gol": 2,
@@ -2436,7 +2436,7 @@
           "desarmes": 17,
           "xg_movel_5": 0.9,
           "xga_movel_5": 1.16,
-          "xgd_movel_5": -0.26
+          "xgd_movel_5": -0.25
         },
         {
           "rodada": 16,
@@ -2454,9 +2454,9 @@
           "chutes_no_gol": 5,
           "escanteios": 7,
           "desarmes": 19,
-          "xg_movel_5": 1.38,
+          "xg_movel_5": 1.39,
           "xga_movel_5": 0.81,
-          "xgd_movel_5": 0.57
+          "xgd_movel_5": 0.58
         },
         {
           "rodada": 17,
@@ -2476,7 +2476,7 @@
           "desarmes": 21,
           "xg_movel_5": 1.83,
           "xga_movel_5": 0.95,
-          "xgd_movel_5": 0.87
+          "xgd_movel_5": 0.88
         },
         {
           "rodada": 18,
@@ -2834,7 +2834,7 @@
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -238.6,
+          "variacao": -238.3,
           "temporada": 0.23,
           "ultimos_5": -0.31
         }
@@ -7384,16 +7384,16 @@
           "gols_contra": 2,
           "placar": "1 x 2",
           "xg": 1.68,
-          "xga": 0.72,
-          "xgd": 0.96,
+          "xga": 0.74,
+          "xgd": 0.94,
           "posse": 55,
           "chutes": 19,
           "chutes_no_gol": 3,
           "escanteios": 5,
           "desarmes": 11,
           "xg_movel_5": 0.93,
-          "xga_movel_5": 1.48,
-          "xgd_movel_5": -0.55
+          "xga_movel_5": 1.49,
+          "xgd_movel_5": -0.56
         },
         {
           "rodada": 15,
@@ -7432,7 +7432,7 @@
           "escanteios": 3,
           "desarmes": 6,
           "xg_movel_5": 1.03,
-          "xga_movel_5": 1.45,
+          "xga_movel_5": 1.46,
           "xgd_movel_5": -0.42
         },
         {
@@ -7453,7 +7453,7 @@
           "desarmes": 18,
           "xg_movel_5": 1.09,
           "xga_movel_5": 1.84,
-          "xgd_movel_5": -0.74
+          "xgd_movel_5": -0.75
         },
         {
           "rodada": 18,
@@ -7472,8 +7472,8 @@
           "escanteios": 2,
           "desarmes": 13,
           "xg_movel_5": 1.26,
-          "xga_movel_5": 1.41,
-          "xgd_movel_5": -0.15
+          "xga_movel_5": 1.42,
+          "xgd_movel_5": -0.16
         },
         {
           "rodada": 19,
@@ -7785,13 +7785,13 @@
         },
         "defesa": {
           "status": "Piorando",
-          "variacao": -6.3,
+          "variacao": -6.2,
           "temporada": 1.78,
           "ultimos_5": 1.89
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -48.4,
+          "variacao": -48.3,
           "temporada": -0.77,
           "ultimos_5": -1.14
         }

@@ -1,6 +1,6 @@
 {
   "season": "2026/2027",
-  "updated_at": "2026-11-12T15:29:19.880Z",
+  "updated_at": "2026-11-13T14:48:46.138Z",
   "teams": {
     "Cambuur": {
       "team": "Cambuur",
@@ -4299,8 +4299,8 @@
           "gols_contra": 2,
           "placar": "2 x 2",
           "xg": 0.69,
-          "xga": 3.08,
-          "xgd": -2.39,
+          "xga": 3.06,
+          "xgd": -2.37,
           "posse": 44,
           "chutes": 6,
           "chutes_no_gol": 2,
@@ -4320,13 +4320,13 @@
         },
         "defesa": {
           "status": "Piorando",
-          "variacao": -27.6,
+          "variacao": -27.5,
           "temporada": 1.58,
           "ultimos_5": 2.02
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -169.2,
+          "variacao": -168.4,
           "temporada": 0.64,
           "ultimos_5": -0.44
         }
@@ -4840,11 +4840,11 @@
           "gols_pro": 2,
           "gols_contra": 2,
           "placar": "2 x 2",
-          "xg": 3.08,
+          "xg": 3.06,
           "xga": 0.69,
-          "xgd": 2.39,
+          "xgd": 2.37,
           "posse": 56,
-          "chutes": 23,
+          "chutes": 22,
           "chutes_no_gol": 5,
           "escanteios": 9,
           "desarmes": 22,
@@ -4868,7 +4868,7 @@
         },
         "equilibrio": {
           "status": "Melhorando",
-          "variacao": 17,
+          "variacao": 16.9,
           "temporada": 1.69,
           "ultimos_5": 1.98
         }
