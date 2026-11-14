@@ -1,6 +1,6 @@
 {
   "season": "2026/2027 - Apertura",
-  "updated_at": "2026-11-13T14:55:51.706Z",
+  "updated_at": "2026-11-14T14:01:28.004Z",
   "teams": {
     "Necaxa": {
       "team": "Necaxa",
@@ -2426,7 +2426,7 @@
           "chutes": 8,
           "chutes_no_gol": 5,
           "escanteios": 2,
-          "desarmes": 16,
+          "desarmes": 15,
           "xg_movel_5": 1.62,
           "xga_movel_5": 1.62,
           "xgd_movel_5": 0
@@ -5214,7 +5214,7 @@
           "chutes": 18,
           "chutes_no_gol": 6,
           "escanteios": 6,
-          "desarmes": 12,
+          "desarmes": 13,
           "xg_movel_5": 1.4,
           "xga_movel_5": 0.99,
           "xgd_movel_5": 0.41
@@ -5896,7 +5896,7 @@
           "chutes": 21,
           "chutes_no_gol": 5,
           "escanteios": 9,
-          "desarmes": 15,
+          "desarmes": 18,
           "xg_movel_5": 1.55,
           "xga_movel_5": 2.06,
           "xgd_movel_5": -0.51
