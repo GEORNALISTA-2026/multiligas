@@ -1,6 +1,6 @@
 {
   "season": "2026/2027",
-  "updated_at": "2026-11-15T14:07:51.163Z",
+  "updated_at": "2026-11-16T16:00:33.546Z",
   "league": {
     "name": "Itália 2a Div",
     "season": "2026/2027",
@@ -49,9 +49,9 @@
       "xg_set_play": 0.62,
       "xg_non_penalty_total": 285.55000000000007,
       "xg_non_penalty": 2.6,
-      "xgot_total": 277.13000000000017,
+      "xgot_total": 277.1200000000001,
       "xgot": 2.52,
-      "xgot_conceded_total": 277.1300000000001,
+      "xgot_conceded_total": 277.1200000000001,
       "xgot_conceded": 2.52,
       "shots_total_sum": 3041,
       "shots_total_avg": 27.65,
@@ -135,9 +135,9 @@
     }
   },
   "teams": {
-    "LR Vicenza": {
-      "team": "LR Vicenza",
-      "id": 145007,
+    "Vicenza": {
+      "team": "Vicenza",
+      "id": 9877,
       "geral": {
         "games": 11,
         "wins": 2,
@@ -3646,7 +3646,7 @@
         "xg_set_play": 0.32,
         "xg_non_penalty_total": 16.56,
         "xg_non_penalty": 1.51,
-        "xgot_total": 17.06,
+        "xgot_total": 17.049999999999997,
         "xgot": 1.55,
         "xgot_conceded_total": 10.59,
         "xgot_conceded": 0.96,
@@ -3773,7 +3773,7 @@
         "xg_set_play": 0.41,
         "xg_non_penalty_total": 9.28,
         "xg_non_penalty": 1.86,
-        "xgot_total": 6.92,
+        "xgot_total": 6.91,
         "xgot": 1.38,
         "xgot_conceded_total": 5.2,
         "xgot_conceded": 1.04,
@@ -4803,7 +4803,7 @@
         "xg_non_penalty": 1.66,
         "xgot_total": 17.41,
         "xgot": 1.58,
-        "xgot_conceded_total": 9.620000000000001,
+        "xgot_conceded_total": 9.61,
         "xgot_conceded": 0.87,
         "shots_total_sum": 170,
         "shots_total_avg": 15.45,
@@ -5057,7 +5057,7 @@
         "xg_non_penalty": 1.52,
         "xgot_total": 6.010000000000001,
         "xgot": 1.2,
-        "xgot_conceded_total": 4.7700000000000005,
+        "xgot_conceded_total": 4.76,
         "xgot_conceded": 0.95,
         "shots_total_sum": 66,
         "shots_total_avg": 13.2,
@@ -7839,7 +7839,7 @@
   "rankings": {
     "over_05": [
       {
-        "team": "LR Vicenza",
+        "team": "Vicenza",
         "value": 100
       },
       {
@@ -7921,7 +7921,7 @@
     ],
     "over_15": [
       {
-        "team": "LR Vicenza",
+        "team": "Vicenza",
         "value": 100
       },
       {
@@ -8003,7 +8003,7 @@
     ],
     "over_25": [
       {
-        "team": "LR Vicenza",
+        "team": "Vicenza",
         "value": 81.8
       },
       {
@@ -8085,7 +8085,7 @@
     ],
     "over_35": [
       {
-        "team": "LR Vicenza",
+        "team": "Vicenza",
         "value": 45.5
       },
       {
@@ -8171,7 +8171,7 @@
         "value": 81.8
       },
       {
-        "team": "LR Vicenza",
+        "team": "Vicenza",
         "value": 72.7
       },
       {
@@ -8277,7 +8277,7 @@
         "value": 9.1
       },
       {
-        "team": "LR Vicenza",
+        "team": "Vicenza",
         "value": 0
       },
       {
@@ -8331,7 +8331,7 @@
     ],
     "avg_total_goals": [
       {
-        "team": "LR Vicenza",
+        "team": "Vicenza",
         "value": 3.45
       },
       {
@@ -8445,7 +8445,7 @@
         "value": 1.36
       },
       {
-        "team": "LR Vicenza",
+        "team": "Vicenza",
         "value": 1.27
       },
       {
@@ -8495,7 +8495,7 @@
     ],
     "avg_goals_against": [
       {
-        "team": "LR Vicenza",
+        "team": "Vicenza",
         "value": 2.18
       },
       {
@@ -8633,7 +8633,7 @@
         "value": 1.24
       },
       {
-        "team": "LR Vicenza",
+        "team": "Vicenza",
         "value": 1.14
       },
       {
@@ -8667,7 +8667,7 @@
         "value": 1.86
       },
       {
-        "team": "LR Vicenza",
+        "team": "Vicenza",
         "value": 1.7
       },
       {
@@ -8801,7 +8801,7 @@
         "value": -0.34
       },
       {
-        "team": "LR Vicenza",
+        "team": "Vicenza",
         "value": -0.56
       },
       {
@@ -8879,7 +8879,7 @@
         "value": 48.55
       },
       {
-        "team": "LR Vicenza",
+        "team": "Vicenza",
         "value": 48.18
       },
       {
@@ -8961,7 +8961,7 @@
         "value": 13
       },
       {
-        "team": "LR Vicenza",
+        "team": "Vicenza",
         "value": 12.27
       },
       {
@@ -9055,7 +9055,7 @@
         "value": 3.36
       },
       {
-        "team": "LR Vicenza",
+        "team": "Vicenza",
         "value": 3.18
       },
       {
@@ -9109,7 +9109,7 @@
         "value": 8.55
       },
       {
-        "team": "LR Vicenza",
+        "team": "Vicenza",
         "value": 7.91
       },
       {
@@ -9219,7 +9219,7 @@
         "value": 1
       },
       {
-        "team": "LR Vicenza",
+        "team": "Vicenza",
         "value": 0.93
       },
       {
@@ -9257,7 +9257,7 @@
         "value": 26.09
       },
       {
-        "team": "LR Vicenza",
+        "team": "Vicenza",
         "value": 22.55
       },
       {
@@ -9379,7 +9379,7 @@
         "value": 1.64
       },
       {
-        "team": "LR Vicenza",
+        "team": "Vicenza",
         "value": 1.55
       },
       {
@@ -9441,7 +9441,7 @@
         "value": 81.7
       },
       {
-        "team": "LR Vicenza",
+        "team": "Vicenza",
         "value": 81.3
       },
       {
@@ -9495,7 +9495,7 @@
         "value": 5.91
       },
       {
-        "team": "LR Vicenza",
+        "team": "Vicenza",
         "value": 5.55
       },
       {
@@ -9585,7 +9585,7 @@
         "value": 10.09
       },
       {
-        "team": "LR Vicenza",
+        "team": "Vicenza",
         "value": 9.91
       },
       {
@@ -9667,7 +9667,7 @@
         "value": 15.45
       },
       {
-        "team": "LR Vicenza",
+        "team": "Vicenza",
         "value": 15.27
       },
       {
@@ -9733,7 +9733,7 @@
         "value": 9.27
       },
       {
-        "team": "LR Vicenza",
+        "team": "Vicenza",
         "value": 9.18
       },
       {
@@ -9811,7 +9811,7 @@
         "value": 4.18
       },
       {
-        "team": "LR Vicenza",
+        "team": "Vicenza",
         "value": 4
       },
       {
@@ -9941,7 +9941,7 @@
         "value": 14
       },
       {
-        "team": "LR Vicenza",
+        "team": "Vicenza",
         "value": 15.36
       },
       {
