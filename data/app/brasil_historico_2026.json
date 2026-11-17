@@ -1,6 +1,6 @@
 {
   "season": "2026",
-  "updated_at": "2026-11-16T15:50:27.959Z",
+  "updated_at": "2026-11-17T16:02:25.266Z",
   "teams": {
     "Atlético-MG": {
       "team": "Atlético-MG",
@@ -693,44 +693,44 @@
           "gols_pro": 0,
           "gols_contra": 0,
           "placar": "0 x 0",
-          "xg": 1.13,
-          "xga": 0.62,
-          "xgd": 0.51,
-          "posse": 58,
+          "xg": 1.07,
+          "xga": 0.92,
+          "xgd": 0.15,
+          "posse": 57,
           "chutes": 16,
           "chutes_no_gol": 1,
           "escanteios": 3,
           "desarmes": 13,
-          "xg_movel_5": 1.22,
-          "xga_movel_5": 1.71,
-          "xgd_movel_5": -0.48
+          "xg_movel_5": 1.21,
+          "xga_movel_5": 1.77,
+          "xgd_movel_5": -0.55
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Piorando",
-          "variacao": -10.4,
-          "temporada": 1.37,
-          "ultimos_5": 1.22
+          "variacao": -11.2,
+          "temporada": 1.36,
+          "ultimos_5": 1.21
         },
         "defesa": {
           "status": "Piorando",
-          "variacao": -28.5,
-          "temporada": 1.33,
-          "ultimos_5": 1.71
+          "variacao": -32.2,
+          "temporada": 1.34,
+          "ultimos_5": 1.77
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -1340.4,
-          "temporada": 0.04,
-          "ultimos_5": -0.48
+          "variacao": -2039,
+          "temporada": 0.03,
+          "ultimos_5": -0.55
         }
       },
       "resumo": {
         "jogos": 35,
-        "xg_medio": 1.37,
-        "xga_medio": 1.33,
-        "xgd_medio": 0.04
+        "xg_medio": 1.36,
+        "xga_medio": 1.34,
+        "xgd_medio": 0.03
       }
     },
     "Palmeiras": {
@@ -12089,44 +12089,44 @@
           "gols_pro": 0,
           "gols_contra": 0,
           "placar": "0 x 0",
-          "xg": 0.62,
-          "xga": 1.13,
-          "xgd": -0.51,
-          "posse": 42,
+          "xg": 0.92,
+          "xga": 1.07,
+          "xgd": -0.15,
+          "posse": 43,
           "chutes": 11,
           "chutes_no_gol": 2,
           "escanteios": 4,
           "desarmes": 14,
-          "xg_movel_5": 1.51,
-          "xga_movel_5": 1.41,
-          "xgd_movel_5": 0.11
+          "xg_movel_5": 1.57,
+          "xga_movel_5": 1.4,
+          "xgd_movel_5": 0.18
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Melhorando",
-          "variacao": 17.4,
-          "temporada": 1.29,
-          "ultimos_5": 1.51
+          "variacao": 21.3,
+          "temporada": 1.3,
+          "ultimos_5": 1.57
         },
         "defesa": {
           "status": "Estável",
-          "variacao": 1,
+          "variacao": 1.8,
           "temporada": 1.42,
-          "ultimos_5": 1.41
+          "ultimos_5": 1.4
         },
         "equilibrio": {
           "status": "Melhorando",
-          "variacao": 179.4,
-          "temporada": -0.13,
-          "ultimos_5": 0.11
+          "variacao": 244.5,
+          "temporada": -0.12,
+          "ultimos_5": 0.18
         }
       },
       "resumo": {
         "jogos": 35,
-        "xg_medio": 1.29,
+        "xg_medio": 1.3,
         "xga_medio": 1.42,
-        "xgd_medio": -0.13
+        "xgd_medio": -0.12
       }
     },
     "Vasco da Gama": {
