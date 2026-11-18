@@ -1,6 +1,6 @@
 {
   "season": "2026/2027",
-  "updated_at": "2026-11-17T16:07:28.206Z",
+  "updated_at": "2026-11-18T15:48:29.682Z",
   "teams": {
     "Real Sociedad B": {
       "team": "Real Sociedad B",
@@ -1788,44 +1788,44 @@
           "gols_pro": 0,
           "gols_contra": 1,
           "placar": "0 x 1",
-          "xg": 1.33,
-          "xga": 2.04,
-          "xgd": -0.71,
+          "xg": 1.36,
+          "xga": 2.09,
+          "xgd": -0.73,
           "posse": 49,
           "chutes": 11,
           "chutes_no_gol": 3,
           "escanteios": 5,
-          "desarmes": 14,
+          "desarmes": 15,
           "xg_movel_5": 1.08,
-          "xga_movel_5": 2.11,
-          "xgd_movel_5": -1.03
+          "xga_movel_5": 2.12,
+          "xgd_movel_5": -1.04
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Piorando",
-          "variacao": -18.5,
+          "variacao": -18.2,
           "temporada": 1.32,
           "ultimos_5": 1.08
         },
         "defesa": {
           "status": "Piorando",
-          "variacao": -13.6,
+          "variacao": -13.9,
           "temporada": 1.86,
-          "ultimos_5": 2.11
+          "ultimos_5": 2.12
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -92.9,
-          "temporada": -0.53,
-          "ultimos_5": -1.03
+          "variacao": -93.1,
+          "temporada": -0.54,
+          "ultimos_5": -1.04
         }
       },
       "resumo": {
         "jogos": 14,
         "xg_medio": 1.32,
         "xga_medio": 1.86,
-        "xgd_medio": -0.53
+        "xgd_medio": -0.54
       }
     },
     "Real Oviedo": {
@@ -5440,15 +5440,15 @@
           "gols_pro": 1,
           "gols_contra": 0,
           "placar": "1 x 0",
-          "xg": 2.04,
-          "xga": 1.33,
-          "xgd": 0.71,
+          "xg": 2.09,
+          "xga": 1.36,
+          "xgd": 0.73,
           "posse": 51,
           "chutes": 16,
           "chutes_no_gol": 6,
           "escanteios": 9,
           "desarmes": 27,
-          "xg_movel_5": 1.26,
+          "xg_movel_5": 1.27,
           "xga_movel_5": 1.47,
           "xgd_movel_5": -0.21
         }
@@ -5456,20 +5456,20 @@
       "tendencia": {
         "ataque": {
           "status": "Estável",
-          "variacao": 0.5,
+          "variacao": 1,
           "temporada": 1.25,
-          "ultimos_5": 1.26
+          "ultimos_5": 1.27
         },
         "defesa": {
           "status": "Melhorando",
-          "variacao": 14,
+          "variacao": 13.7,
           "temporada": 1.71,
           "ultimos_5": 1.47
         },
         "equilibrio": {
           "status": "Melhorando",
-          "variacao": 53.6,
-          "temporada": -0.46,
+          "variacao": 54.3,
+          "temporada": -0.45,
           "ultimos_5": -0.21
         }
       },
@@ -5477,7 +5477,7 @@
         "jogos": 14,
         "xg_medio": 1.25,
         "xga_medio": 1.71,
-        "xgd_medio": -0.46
+        "xgd_medio": -0.45
       }
     },
     "Sporting Gijón": {
