@@ -1,6 +1,6 @@
 {
   "season": "2026/2027",
-  "updated_at": "2026-11-18T15:48:29.682Z",
+  "updated_at": "2026-11-19T15:53:11.917Z",
   "teams": {
     "Real Sociedad B": {
       "team": "Real Sociedad B",
@@ -2170,9 +2170,9 @@
           "gols_pro": 2,
           "gols_contra": 0,
           "placar": "2 x 0",
-          "xg": 0.61,
+          "xg": 0.6,
           "xga": 1.05,
-          "xgd": -0.44,
+          "xgd": -0.45,
           "posse": 39,
           "chutes": 13,
           "chutes_no_gol": 6,
@@ -2180,7 +2180,7 @@
           "desarmes": 14,
           "xg_movel_5": 0.71,
           "xga_movel_5": 0.77,
-          "xgd_movel_5": -0.05
+          "xgd_movel_5": -0.06
         },
         {
           "rodada": 3,
@@ -2220,7 +2220,7 @@
           "desarmes": 10,
           "xg_movel_5": 1.05,
           "xga_movel_5": 0.99,
-          "xgd_movel_5": 0.07
+          "xgd_movel_5": 0.06
         },
         {
           "rodada": 5,
@@ -2240,7 +2240,7 @@
           "desarmes": 18,
           "xg_movel_5": 0.98,
           "xga_movel_5": 1.02,
-          "xgd_movel_5": -0.04
+          "xgd_movel_5": -0.05
         },
         {
           "rodada": 6,
@@ -2258,7 +2258,7 @@
           "chutes_no_gol": 7,
           "escanteios": 4,
           "desarmes": 19,
-          "xg_movel_5": 1.33,
+          "xg_movel_5": 1.32,
           "xga_movel_5": 1.41,
           "xgd_movel_5": -0.09
         },
@@ -2406,7 +2406,7 @@
       "tendencia": {
         "ataque": {
           "status": "Piorando",
-          "variacao": -10.6,
+          "variacao": -10.5,
           "temporada": 1.57,
           "ultimos_5": 1.4
         },
@@ -2418,7 +2418,7 @@
         },
         "equilibrio": {
           "status": "Melhorando",
-          "variacao": 31.6,
+          "variacao": 31.9,
           "temporada": 0.37,
           "ultimos_5": 0.49
         }
@@ -2462,15 +2462,15 @@
           "gols_contra": 2,
           "placar": "0 x 2",
           "xg": 1.05,
-          "xga": 0.61,
-          "xgd": 0.44,
+          "xga": 0.6,
+          "xgd": 0.45,
           "posse": 61,
           "chutes": 18,
           "chutes_no_gol": 4,
           "escanteios": 1,
           "desarmes": 17,
           "xg_movel_5": 0.81,
-          "xga_movel_5": 0.79,
+          "xga_movel_5": 0.78,
           "xgd_movel_5": 0.03
         },
         {
@@ -2531,7 +2531,7 @@
           "desarmes": 17,
           "xg_movel_5": 1.52,
           "xga_movel_5": 0.66,
-          "xgd_movel_5": 0.85
+          "xgd_movel_5": 0.86
         },
         {
           "rodada": 6,
@@ -2703,14 +2703,14 @@
         },
         "defesa": {
           "status": "Piorando",
-          "variacao": -35.7,
+          "variacao": -35.8,
           "temporada": 1.23,
           "ultimos_5": 1.67
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -39.5,
-          "temporada": 0.24,
+          "variacao": -39.7,
+          "temporada": 0.25,
           "ultimos_5": 0.15
         }
       },
@@ -2718,7 +2718,7 @@
         "jogos": 13,
         "xg_medio": 1.48,
         "xga_medio": 1.23,
-        "xgd_medio": 0.24
+        "xgd_medio": 0.25
       }
     },
     "Real Valladolid": {
