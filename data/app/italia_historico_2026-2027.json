@@ -1,6 +1,6 @@
 {
   "season": "2026/2027",
-  "updated_at": "2026-11-19T15:55:11.385Z",
+  "updated_at": "2026-11-20T15:38:51.106Z",
   "teams": {
     "Inter": {
       "team": "Inter",
@@ -1217,42 +1217,42 @@
           "gols_pro": 1,
           "gols_contra": 2,
           "placar": "1 x 2",
-          "xg": 1.15,
-          "xga": 0.63,
-          "xgd": 0.52,
+          "xg": 1.08,
+          "xga": 0.6,
+          "xgd": 0.48,
           "posse": 38,
           "chutes": 17,
           "chutes_no_gol": 5,
           "escanteios": 3,
           "desarmes": 17,
-          "xg_movel_5": 0.86,
-          "xga_movel_5": 1.28,
+          "xg_movel_5": 0.85,
+          "xga_movel_5": 1.27,
           "xgd_movel_5": -0.42
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Piorando",
-          "variacao": -7.2,
-          "temporada": 0.93,
-          "ultimos_5": 0.86
+          "variacao": -8.1,
+          "temporada": 0.92,
+          "ultimos_5": 0.85
         },
         "defesa": {
           "status": "Estável",
-          "variacao": -1.6,
+          "variacao": -1.3,
           "temporada": 1.26,
-          "ultimos_5": 1.28
+          "ultimos_5": 1.27
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -26.4,
+          "variacao": -27.4,
           "temporada": -0.33,
           "ultimos_5": -0.42
         }
       },
       "resumo": {
         "jogos": 11,
-        "xg_medio": 0.93,
+        "xg_medio": 0.92,
         "xga_medio": 1.26,
         "xgd_medio": -0.33
       }
@@ -3978,44 +3978,44 @@
           "gols_pro": 2,
           "gols_contra": 1,
           "placar": "2 x 1",
-          "xg": 0.63,
-          "xga": 1.15,
-          "xgd": -0.52,
+          "xg": 0.6,
+          "xga": 1.08,
+          "xgd": -0.48,
           "posse": 62,
           "chutes": 6,
           "chutes_no_gol": 2,
           "escanteios": 0,
           "desarmes": 18,
           "xg_movel_5": 1.84,
-          "xga_movel_5": 1.44,
-          "xgd_movel_5": 0.4
+          "xga_movel_5": 1.43,
+          "xgd_movel_5": 0.41
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Melhorando",
-          "variacao": 10.8,
+          "variacao": 10.6,
           "temporada": 1.66,
           "ultimos_5": 1.84
         },
         "defesa": {
           "status": "Piorando",
-          "variacao": -10.9,
-          "temporada": 1.3,
-          "ultimos_5": 1.44
+          "variacao": -10.4,
+          "temporada": 1.29,
+          "ultimos_5": 1.43
         },
         "equilibrio": {
           "status": "Melhorando",
-          "variacao": 10.3,
-          "temporada": 0.36,
-          "ultimos_5": 0.4
+          "variacao": 11.4,
+          "temporada": 0.37,
+          "ultimos_5": 0.41
         }
       },
       "resumo": {
         "jogos": 11,
         "xg_medio": 1.66,
-        "xga_medio": 1.3,
-        "xgd_medio": 0.36
+        "xga_medio": 1.29,
+        "xgd_medio": 0.37
       }
     },
     "Bologna": {
