@@ -1,6 +1,6 @@
 {
   "season": "2026/2027",
-  "updated_at": "2026-11-20T15:42:47.319Z",
+  "updated_at": "2026-11-21T14:54:26.822Z",
   "teams": {
     "Club Brugge": {
       "team": "Club Brugge",
@@ -977,33 +977,53 @@
           "xg_movel_5": 1.35,
           "xga_movel_5": 2.12,
           "xgd_movel_5": -0.77
+        },
+        {
+          "rodada": 12,
+          "data": "2026-11-20T19:45:00Z",
+          "local": "Casa",
+          "adversario": "Westerlo",
+          "gols_pro": 1,
+          "gols_contra": 0,
+          "placar": "1 x 0",
+          "xg": 2.39,
+          "xga": 0.98,
+          "xgd": 1.41,
+          "posse": 42,
+          "chutes": 18,
+          "chutes_no_gol": 6,
+          "escanteios": 2,
+          "desarmes": 17,
+          "xg_movel_5": 1.44,
+          "xga_movel_5": 1.93,
+          "xgd_movel_5": -0.49
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Piorando",
-          "variacao": -13.2,
-          "temporada": 1.55,
-          "ultimos_5": 1.35
+          "variacao": -11.1,
+          "temporada": 1.62,
+          "ultimos_5": 1.44
         },
         "defesa": {
-          "status": "Piorando",
-          "variacao": -7.1,
-          "temporada": 1.98,
-          "ultimos_5": 2.12
+          "status": "Estável",
+          "variacao": -1.9,
+          "temporada": 1.9,
+          "ultimos_5": 1.93
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -80.4,
-          "temporada": -0.43,
-          "ultimos_5": -0.77
+          "variacao": -78.4,
+          "temporada": -0.28,
+          "ultimos_5": -0.49
         }
       },
       "resumo": {
-        "jogos": 11,
-        "xg_medio": 1.55,
-        "xga_medio": 1.98,
-        "xgd_medio": -0.43
+        "jogos": 12,
+        "xg_medio": 1.62,
+        "xga_medio": 1.9,
+        "xgd_medio": -0.28
       }
     },
     "St.Truiden": {
@@ -1730,33 +1750,53 @@
           "xg_movel_5": 1.7,
           "xga_movel_5": 2.2,
           "xgd_movel_5": -0.5
+        },
+        {
+          "rodada": 12,
+          "data": "2026-11-20T19:45:00Z",
+          "local": "Fora",
+          "adversario": "Cercle Brugge",
+          "gols_pro": 0,
+          "gols_contra": 1,
+          "placar": "0 x 1",
+          "xg": 0.98,
+          "xga": 2.39,
+          "xgd": -1.41,
+          "posse": 58,
+          "chutes": 16,
+          "chutes_no_gol": 6,
+          "escanteios": 4,
+          "desarmes": 17,
+          "xg_movel_5": 1.55,
+          "xga_movel_5": 2.26,
+          "xgd_movel_5": -0.71
         }
       ],
       "tendencia": {
         "ataque": {
-          "status": "Melhorando",
-          "variacao": 9.9,
-          "temporada": 1.55,
-          "ultimos_5": 1.7
+          "status": "Estável",
+          "variacao": 3.3,
+          "temporada": 1.5,
+          "ultimos_5": 1.55
         },
         "defesa": {
           "status": "Piorando",
-          "variacao": -9,
-          "temporada": 2.02,
-          "ultimos_5": 2.2
+          "variacao": -10.2,
+          "temporada": 2.05,
+          "ultimos_5": 2.26
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -6.2,
-          "temporada": -0.47,
-          "ultimos_5": -0.5
+          "variacao": -28.9,
+          "temporada": -0.55,
+          "ultimos_5": -0.71
         }
       },
       "resumo": {
-        "jogos": 11,
-        "xg_medio": 1.55,
-        "xga_medio": 2.02,
-        "xgd_medio": -0.47
+        "jogos": 12,
+        "xg_medio": 1.5,
+        "xga_medio": 2.05,
+        "xgd_medio": -0.55
       }
     },
     "Union St.Gilloise": {

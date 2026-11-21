@@ -1,6 +1,6 @@
 {
   "season": "2026/2027",
-  "updated_at": "2026-11-20T15:37:13.365Z",
+  "updated_at": "2026-11-21T14:49:33.650Z",
   "teams": {
     "Marseille": {
       "team": "Marseille",
@@ -2514,33 +2514,53 @@
           "xg_movel_5": 1.07,
           "xga_movel_5": 1.17,
           "xgd_movel_5": -0.09
+        },
+        {
+          "rodada": 11,
+          "data": "2026-11-20T19:45:00Z",
+          "local": "Casa",
+          "adversario": "Le Havre",
+          "gols_pro": 3,
+          "gols_contra": 1,
+          "placar": "3 x 1",
+          "xg": 2.64,
+          "xga": 0.63,
+          "xgd": 2.01,
+          "posse": 46,
+          "chutes": 19,
+          "chutes_no_gol": 7,
+          "escanteios": 7,
+          "desarmes": 16,
+          "xg_movel_5": 1.39,
+          "xga_movel_5": 1.03,
+          "xgd_movel_5": 0.36
         }
       ],
       "tendencia": {
         "ataque": {
-          "status": "Piorando",
-          "variacao": -13.8,
-          "temporada": 1.24,
-          "ultimos_5": 1.07
+          "status": "Estável",
+          "variacao": 1.2,
+          "temporada": 1.37,
+          "ultimos_5": 1.39
         },
         "defesa": {
           "status": "Melhorando",
-          "variacao": 25,
-          "temporada": 1.56,
-          "ultimos_5": 1.17
+          "variacao": 29.8,
+          "temporada": 1.47,
+          "ultimos_5": 1.03
         },
         "equilibrio": {
           "status": "Melhorando",
-          "variacao": 69.8,
-          "temporada": -0.31,
-          "ultimos_5": -0.09
+          "variacao": 456,
+          "temporada": -0.1,
+          "ultimos_5": 0.36
         }
       },
       "resumo": {
-        "jogos": 10,
-        "xg_medio": 1.24,
-        "xga_medio": 1.56,
-        "xgd_medio": -0.31
+        "jogos": 11,
+        "xg_medio": 1.37,
+        "xga_medio": 1.47,
+        "xgd_medio": -0.1
       }
     },
     "Paris FC": {
@@ -3438,33 +3458,53 @@
           "xg_movel_5": 1.74,
           "xga_movel_5": 2.18,
           "xgd_movel_5": -0.44
+        },
+        {
+          "rodada": 11,
+          "data": "2026-11-20T19:45:00Z",
+          "local": "Fora",
+          "adversario": "Troyes",
+          "gols_pro": 1,
+          "gols_contra": 3,
+          "placar": "1 x 3",
+          "xg": 0.63,
+          "xga": 2.64,
+          "xgd": -2.01,
+          "posse": 54,
+          "chutes": 7,
+          "chutes_no_gol": 2,
+          "escanteios": 0,
+          "desarmes": 15,
+          "xg_movel_5": 1.61,
+          "xga_movel_5": 2.46,
+          "xgd_movel_5": -0.85
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Melhorando",
-          "variacao": 10.9,
-          "temporada": 1.57,
-          "ultimos_5": 1.74
+          "variacao": 8.5,
+          "temporada": 1.49,
+          "ultimos_5": 1.61
         },
         "defesa": {
           "status": "Piorando",
-          "variacao": -13.9,
-          "temporada": 1.92,
-          "ultimos_5": 2.18
+          "variacao": -24.1,
+          "temporada": 1.98,
+          "ultimos_5": 2.46
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -27.7,
-          "temporada": -0.35,
-          "ultimos_5": -0.44
+          "variacao": -70.5,
+          "temporada": -0.5,
+          "ultimos_5": -0.85
         }
       },
       "resumo": {
-        "jogos": 10,
-        "xg_medio": 1.57,
-        "xga_medio": 1.92,
-        "xgd_medio": -0.35
+        "jogos": 11,
+        "xg_medio": 1.49,
+        "xga_medio": 1.98,
+        "xgd_medio": -0.5
       }
     },
     "Monaco": {
