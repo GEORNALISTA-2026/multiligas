@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T15:03:09.553Z",
+  "generated_at": "2026-11-22T14:54:06.155Z",
   "leagues": {
     "brasil": {
       "key": "brasil",
@@ -8,7 +8,7 @@
       "season": "2026",
       "stats_file": "brasil_stats_2026.json",
       "history_file": "brasil_historico_2026.json",
-      "updated_at": "2026-11-21T14:42:41.856Z",
+      "updated_at": "2026-11-22T14:37:30.831Z",
       "status": "ok"
     },
     "brasil2": {
@@ -18,7 +18,7 @@
       "season": "2026",
       "stats_file": "brasil2_stats_2026.json",
       "history_file": "brasil2_historico_2026.json",
-      "updated_at": "2026-11-21T14:45:36.739Z",
+      "updated_at": "2026-11-22T14:39:37.921Z",
       "status": "ok"
     },
     "alemanha": {
@@ -28,7 +28,7 @@
       "season": "2026/2027",
       "stats_file": "alemanha_stats_2026-2027.json",
       "history_file": "alemanha_historico_2026-2027.json",
-      "updated_at": "2026-11-21T14:46:12.021Z",
+      "updated_at": "2026-11-22T14:40:04.015Z",
       "status": "ok"
     },
     "alemanha2": {
@@ -38,7 +38,7 @@
       "season": "2026/2027",
       "stats_file": "alemanha2_stats_2026-2027.json",
       "history_file": "alemanha2_historico_2026-2027.json",
-      "updated_at": "2026-11-21T14:46:57.454Z",
+      "updated_at": "2026-11-22T14:40:41.325Z",
       "status": "ok"
     },
     "espanha": {
@@ -48,7 +48,7 @@
       "season": "2026/2027",
       "stats_file": "espanha_stats_2026-2027.json",
       "history_file": "espanha_historico_2026-2027.json",
-      "updated_at": "2026-11-21T14:47:47.058Z",
+      "updated_at": "2026-11-22T14:41:17.966Z",
       "status": "ok"
     },
     "espanha2": {
@@ -58,7 +58,7 @@
       "season": "2026/2027",
       "stats_file": "espanha2_stats_2026-2027.json",
       "history_file": "espanha2_historico_2026-2027.json",
-      "updated_at": "2026-11-21T14:48:52.322Z",
+      "updated_at": "2026-11-22T14:42:04.475Z",
       "status": "ok"
     },
     "franca": {
@@ -68,7 +68,7 @@
       "season": "2026/2027",
       "stats_file": "franca_stats_2026-2027.json",
       "history_file": "franca_historico_2026-2027.json",
-      "updated_at": "2026-11-21T14:49:33.656Z",
+      "updated_at": "2026-11-22T14:42:31.921Z",
       "status": "ok"
     },
     "franca2": {
@@ -78,7 +78,7 @@
       "season": "2026/2027",
       "stats_file": "franca2_stats_2026-2027.json",
       "history_file": "franca2_historico_2026-2027.json",
-      "updated_at": "2026-11-21T14:50:16.555Z",
+      "updated_at": "2026-11-22T14:43:09.035Z",
       "status": "ok"
     },
     "italia": {
@@ -88,7 +88,7 @@
       "season": "2026/2027",
       "stats_file": "italia_stats_2026-2027.json",
       "history_file": "italia_historico_2026-2027.json",
-      "updated_at": "2026-11-21T14:51:05.889Z",
+      "updated_at": "2026-11-22T14:43:51.623Z",
       "status": "ok"
     },
     "italia2": {
@@ -98,7 +98,7 @@
       "season": "2026/2027",
       "stats_file": "italia2_stats_2026-2027.json",
       "history_file": "italia2_historico_2026-2027.json",
-      "updated_at": "2026-11-21T14:51:51.384Z",
+      "updated_at": "2026-11-22T14:44:29.429Z",
       "status": "ok"
     },
     "inglaterra": {
@@ -108,7 +108,7 @@
       "season": "2026/2027",
       "stats_file": "inglaterra_stats_2026-2027.json",
       "history_file": "inglaterra_historico_2026-2027.json",
-      "updated_at": "2026-11-21T14:52:34.434Z",
+      "updated_at": "2026-11-22T14:45:05.580Z",
       "status": "ok"
     },
     "inglaterra2": {
@@ -118,7 +118,7 @@
       "season": "2026/2027",
       "stats_file": "inglaterra2_stats_2026-2027.json",
       "history_file": "inglaterra2_historico_2026-2027.json",
-      "updated_at": "2026-11-21T14:53:44.145Z",
+      "updated_at": "2026-11-22T14:46:10.308Z",
       "status": "ok"
     },
     "belgica": {
@@ -128,7 +128,7 @@
       "season": "2026/2027",
       "stats_file": "belgica_stats_2026-2027.json",
       "history_file": "belgica_historico_2026-2027.json",
-      "updated_at": "2026-11-21T14:54:26.827Z",
+      "updated_at": "2026-11-22T14:46:46.120Z",
       "status": "ok"
     },
     "holanda": {
@@ -138,7 +138,7 @@
       "season": "2026/2027",
       "stats_file": "holanda_stats_2026-2027.json",
       "history_file": "holanda_historico_2026-2027.json",
-      "updated_at": "2026-11-21T14:55:12.802Z",
+      "updated_at": "2026-11-22T14:47:26.564Z",
       "status": "ok"
     },
     "portugal": {
@@ -148,7 +148,7 @@
       "season": "2026/2027",
       "stats_file": "portugal_stats_2026-2027.json",
       "history_file": "portugal_historico_2026-2027.json",
-      "updated_at": "2026-11-21T14:55:55.262Z",
+      "updated_at": "2026-11-22T14:48:01.653Z",
       "status": "ok"
     },
     "turquia": {
@@ -158,7 +158,7 @@
       "season": "2026/2027",
       "stats_file": "turquia_stats_2026-2027.json",
       "history_file": "turquia_historico_2026-2027.json",
-      "updated_at": "2026-11-21T14:56:36.176Z",
+      "updated_at": "2026-11-22T14:48:39.525Z",
       "status": "ok"
     },
     "grecia": {
@@ -168,7 +168,7 @@
       "season": "2026/2027",
       "stats_file": "grecia_stats_2026-2027.json",
       "history_file": "grecia_historico_2026-2027.json",
-      "updated_at": "2026-11-21T14:57:06.230Z",
+      "updated_at": "2026-11-22T14:49:04.764Z",
       "status": "ok"
     },
     "escocia": {
@@ -178,7 +178,7 @@
       "season": "2026/2027",
       "stats_file": "escocia_stats_2026-2027.json",
       "history_file": "escocia_historico_2026-2027.json",
-      "updated_at": "2026-11-21T14:57:40.584Z",
+      "updated_at": "2026-11-22T14:49:35.422Z",
       "status": "ok"
     },
     "dinamarca": {
@@ -188,7 +188,7 @@
       "season": "2026/2027",
       "stats_file": "dinamarca_stats_2026-2027.json",
       "history_file": "dinamarca_historico_2026-2027.json",
-      "updated_at": "2026-11-21T14:58:20.746Z",
+      "updated_at": "2026-11-22T14:50:05.310Z",
       "status": "ok"
     },
     "noruega": {
@@ -198,7 +198,7 @@
       "season": "2026",
       "stats_file": "noruega_stats_2026.json",
       "history_file": "noruega_historico_2026.json",
-      "updated_at": "2026-11-21T14:59:49.625Z",
+      "updated_at": "2026-11-22T14:51:24.196Z",
       "status": "ok"
     },
     "suica": {
@@ -208,7 +208,7 @@
       "season": "2026/2027",
       "stats_file": "suica_stats_2026-2027.json",
       "history_file": "suica_historico_2026-2027.json",
-      "updated_at": "2026-11-21T15:00:25.277Z",
+      "updated_at": "2026-11-22T14:51:55.815Z",
       "status": "ok"
     },
     "suecia": {
@@ -218,7 +218,7 @@
       "season": "2026",
       "stats_file": "suecia_stats_2026.json",
       "history_file": "suecia_historico_2026.json",
-      "updated_at": "2026-11-21T15:02:04.884Z",
+      "updated_at": "2026-11-22T14:53:11.702Z",
       "status": "ok"
     },
     "mexico": {
@@ -228,7 +228,7 @@
       "season": "2026/2027 - Apertura",
       "stats_file": "mexico_stats_2026-2027_-_Apertura.json",
       "history_file": "mexico_historico_2026-2027_-_Apertura.json",
-      "updated_at": "2026-11-21T15:03:09.553Z",
+      "updated_at": "2026-11-22T14:54:06.155Z",
       "status": "ok"
     }
   },
