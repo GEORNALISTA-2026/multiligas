@@ -1,6 +1,6 @@
 {
   "season": "2026/2027",
-  "updated_at": "2026-11-22T14:40:41.319Z",
+  "updated_at": "2026-11-23T18:15:55.007Z",
   "teams": {
     "Bochum": {
       "team": "Bochum",
@@ -234,8 +234,8 @@
           "gols_contra": 2,
           "placar": "0 x 2",
           "xg": 1.15,
-          "xga": 2.45,
-          "xgd": -1.3,
+          "xga": 2.48,
+          "xgd": -1.33,
           "posse": 54,
           "chutes": 14,
           "chutes_no_gol": 4,
@@ -255,13 +255,13 @@
         },
         "defesa": {
           "status": "Piorando",
-          "variacao": -13.3,
+          "variacao": -13.5,
           "temporada": 1.45,
           "ultimos_5": 1.64
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -729.1,
+          "variacao": -602.9,
           "temporada": -0.01,
           "ultimos_5": -0.08
         }
@@ -498,7 +498,7 @@
         },
         {
           "rodada": 12,
-          "data": "2026-11-22T12:30:00.000Z",
+          "data": "2026-11-22T12:30:00Z",
           "local": "Fora",
           "adversario": "Energie Cottbus",
           "gols_pro": 4,
@@ -1582,7 +1582,7 @@
         },
         {
           "rodada": 12,
-          "data": "2026-11-22T12:30:00.000Z",
+          "data": "2026-11-22T12:30:00Z",
           "local": "Fora",
           "adversario": "Karlsruher SC",
           "gols_pro": 0,
@@ -1853,7 +1853,7 @@
         },
         {
           "rodada": 12,
-          "data": "2026-11-22T12:30:00.000Z",
+          "data": "2026-11-22T12:30:00Z",
           "local": "Casa",
           "adversario": "VfL Osnabrück",
           "gols_pro": 0,
@@ -3208,7 +3208,7 @@
         },
         {
           "rodada": 12,
-          "data": "2026-11-22T12:30:00.000Z",
+          "data": "2026-11-22T12:30:00Z",
           "local": "Casa",
           "adversario": "Dynamo Dresden",
           "gols_pro": 2,
@@ -3479,7 +3479,7 @@
         },
         {
           "rodada": 12,
-          "data": "2026-11-22T12:30:00.000Z",
+          "data": "2026-11-22T12:30:00Z",
           "local": "Casa",
           "adversario": "Hertha BSC",
           "gols_pro": 0,
@@ -4292,7 +4292,7 @@
         },
         {
           "rodada": 12,
-          "data": "2026-11-22T12:30:00.000Z",
+          "data": "2026-11-22T12:30:00Z",
           "local": "Fora",
           "adversario": "Kaiserslautern",
           "gols_pro": 2,
@@ -4569,15 +4569,15 @@
           "gols_pro": 2,
           "gols_contra": 0,
           "placar": "2 x 0",
-          "xg": 2.45,
+          "xg": 2.48,
           "xga": 1.15,
-          "xgd": 1.3,
+          "xgd": 1.33,
           "posse": 46,
           "chutes": 18,
           "chutes_no_gol": 8,
           "escanteios": 10,
           "desarmes": 23,
-          "xg_movel_5": 1.99,
+          "xg_movel_5": 2,
           "xga_movel_5": 1.38,
           "xgd_movel_5": 0.61
         }
@@ -4585,9 +4585,9 @@
       "tendencia": {
         "ataque": {
           "status": "Melhorando",
-          "variacao": 21.7,
+          "variacao": 21.9,
           "temporada": 1.64,
-          "ultimos_5": 1.99
+          "ultimos_5": 2
         },
         "defesa": {
           "status": "Piorando",
@@ -4597,8 +4597,8 @@
         },
         "equilibrio": {
           "status": "Melhorando",
-          "variacao": 88,
-          "temporada": 0.32,
+          "variacao": 88.4,
+          "temporada": 0.33,
           "ultimos_5": 0.61
         }
       },
@@ -4606,7 +4606,7 @@
         "jogos": 12,
         "xg_medio": 1.64,
         "xga_medio": 1.31,
-        "xgd_medio": 0.32
+        "xgd_medio": 0.33
       }
     },
     "Greuther Fürth": {
