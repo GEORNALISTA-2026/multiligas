@@ -1,6 +1,6 @@
 {
   "season": "2026/2027",
-  "updated_at": "2026-11-23T18:24:19.763Z",
+  "updated_at": "2026-11-24T18:04:52.526Z",
   "teams": {
     "Cambuur": {
       "team": "Cambuur",
@@ -1417,44 +1417,44 @@
           "gols_pro": 0,
           "gols_contra": 1,
           "placar": "0 x 1",
-          "xg": 1.09,
-          "xga": 1.35,
-          "xgd": -0.26,
+          "xg": 1.3,
+          "xga": 1.46,
+          "xgd": -0.16,
           "posse": 66,
           "chutes": 21,
           "chutes_no_gol": 10,
           "escanteios": 13,
           "desarmes": 11,
-          "xg_movel_5": 1.22,
-          "xga_movel_5": 1.35,
-          "xgd_movel_5": -0.13
+          "xg_movel_5": 1.26,
+          "xga_movel_5": 1.37,
+          "xgd_movel_5": -0.11
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Piorando",
-          "variacao": -29,
-          "temporada": 1.72,
-          "ultimos_5": 1.22
+          "variacao": -27.3,
+          "temporada": 1.74,
+          "ultimos_5": 1.26
         },
         "defesa": {
           "status": "Melhorando",
-          "variacao": 14.1,
-          "temporada": 1.57,
-          "ultimos_5": 1.35
+          "variacao": 13.2,
+          "temporada": 1.58,
+          "ultimos_5": 1.37
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -183.1,
-          "temporada": 0.15,
-          "ultimos_5": -0.13
+          "variacao": -166.6,
+          "temporada": 0.16,
+          "ultimos_5": -0.11
         }
       },
       "resumo": {
         "jogos": 13,
-        "xg_medio": 1.72,
-        "xga_medio": 1.57,
-        "xgd_medio": 0.15
+        "xg_medio": 1.74,
+        "xga_medio": 1.58,
+        "xgd_medio": 0.16
       }
     },
     "Willem II": {
@@ -2290,43 +2290,43 @@
           "gols_pro": 1,
           "gols_contra": 0,
           "placar": "1 x 0",
-          "xg": 1.35,
-          "xga": 1.09,
-          "xgd": 0.26,
+          "xg": 1.46,
+          "xga": 1.3,
+          "xgd": 0.16,
           "posse": 34,
           "chutes": 12,
           "chutes_no_gol": 2,
           "escanteios": 1,
-          "desarmes": 12,
-          "xg_movel_5": 0.99,
-          "xga_movel_5": 1.77,
-          "xgd_movel_5": -0.78
+          "desarmes": 13,
+          "xg_movel_5": 1.01,
+          "xga_movel_5": 1.81,
+          "xgd_movel_5": -0.8
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Estável",
-          "variacao": 0.8,
-          "temporada": 0.98,
-          "ultimos_5": 0.99
+          "variacao": 2.1,
+          "temporada": 0.99,
+          "ultimos_5": 1.01
         },
         "defesa": {
           "status": "Melhorando",
-          "variacao": 17.1,
-          "temporada": 2.13,
-          "ultimos_5": 1.77
+          "variacao": 15.7,
+          "temporada": 2.15,
+          "ultimos_5": 1.81
         },
         "equilibrio": {
           "status": "Melhorando",
-          "variacao": 32.3,
+          "variacao": 31.1,
           "temporada": -1.15,
-          "ultimos_5": -0.78
+          "ultimos_5": -0.8
         }
       },
       "resumo": {
         "jogos": 13,
-        "xg_medio": 0.98,
-        "xga_medio": 2.13,
+        "xg_medio": 0.99,
+        "xga_medio": 2.15,
         "xgd_medio": -1.15
       }
     },

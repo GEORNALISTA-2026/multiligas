@@ -1,6 +1,6 @@
 {
   "season": "2026/2027",
-  "updated_at": "2026-11-23T18:29:35.082Z",
+  "updated_at": "2026-11-24T18:11:19.036Z",
   "teams": {
     "Lausanne": {
       "team": "Lausanne",
@@ -548,7 +548,7 @@
           "xga": 1.85,
           "xgd": 0.87,
           "posse": 41,
-          "chutes": 19,
+          "chutes": 20,
           "chutes_no_gol": 8,
           "escanteios": 8,
           "desarmes": 28,

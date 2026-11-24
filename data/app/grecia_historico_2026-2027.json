@@ -1,6 +1,6 @@
 {
   "season": "2026/2027",
-  "updated_at": "2026-11-23T18:26:20.831Z",
+  "updated_at": "2026-11-24T18:07:20.465Z",
   "teams": {
     "AEK Athens": {
       "team": "AEK Athens",
@@ -940,7 +940,7 @@
         },
         {
           "rodada": 11,
-          "data": "2026-11-23T15:00:00.000Z",
+          "data": "2026-11-23T15:00:00Z",
           "local": "Fora",
           "adversario": "Asteras Tripolis",
           "gols_pro": 1,
@@ -1428,44 +1428,44 @@
           "gols_pro": 1,
           "gols_contra": 1,
           "placar": "1 x 1",
-          "xg": 0.74,
-          "xga": 1.82,
-          "xgd": -1.08,
+          "xg": 0.82,
+          "xga": 1.68,
+          "xgd": -0.86,
           "posse": 58,
           "chutes": 11,
           "chutes_no_gol": 4,
           "escanteios": 1,
-          "desarmes": 18,
-          "xg_movel_5": 0.98,
-          "xga_movel_5": 1.13,
-          "xgd_movel_5": -0.15
+          "desarmes": 17,
+          "xg_movel_5": 1,
+          "xga_movel_5": 1.1,
+          "xgd_movel_5": -0.11
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Estável",
-          "variacao": 3.7,
-          "temporada": 0.95,
-          "ultimos_5": 0.98
+          "variacao": 4.5,
+          "temporada": 0.96,
+          "ultimos_5": 1
         },
         "defesa": {
           "status": "Melhorando",
-          "variacao": 15.3,
-          "temporada": 1.34,
-          "ultimos_5": 1.13
+          "variacao": 16.6,
+          "temporada": 1.32,
+          "ultimos_5": 1.1
         },
         "equilibrio": {
           "status": "Melhorando",
-          "variacao": 61.5,
-          "temporada": -0.39,
-          "ultimos_5": -0.15
+          "variacao": 71.2,
+          "temporada": -0.37,
+          "ultimos_5": -0.11
         }
       },
       "resumo": {
         "jogos": 10,
-        "xg_medio": 0.95,
-        "xga_medio": 1.34,
-        "xgd_medio": -0.39
+        "xg_medio": 0.96,
+        "xga_medio": 1.32,
+        "xgd_medio": -0.37
       }
     },
     "OFI Crete": {
@@ -1680,16 +1680,16 @@
           "gols_contra": 2,
           "placar": "0 x 2",
           "xg": 0.83,
-          "xga": 1.83,
-          "xgd": -1,
+          "xga": 1.96,
+          "xgd": -1.13,
           "posse": 44,
           "chutes": 3,
           "chutes_no_gol": 2,
           "escanteios": 3,
           "desarmes": 8,
           "xg_movel_5": 1.47,
-          "xga_movel_5": 1.44,
-          "xgd_movel_5": 0.02
+          "xga_movel_5": 1.47,
+          "xgd_movel_5": 0
         }
       ],
       "tendencia": {
@@ -1701,22 +1701,22 @@
         },
         "defesa": {
           "status": "Piorando",
-          "variacao": -6.5,
-          "temporada": 1.36,
-          "ultimos_5": 1.44
+          "variacao": -7.4,
+          "temporada": 1.37,
+          "ultimos_5": 1.47
         },
         "equilibrio": {
           "status": "Melhorando",
-          "variacao": 112.3,
-          "temporada": -0.18,
-          "ultimos_5": 0.02
+          "variacao": 97.9,
+          "temporada": -0.19,
+          "ultimos_5": 0
         }
       },
       "resumo": {
         "jogos": 11,
         "xg_medio": 1.18,
-        "xga_medio": 1.36,
-        "xgd_medio": -0.18
+        "xga_medio": 1.37,
+        "xgd_medio": -0.19
       }
     },
     "NFC Volos": {
@@ -1930,44 +1930,44 @@
           "gols_pro": 0,
           "gols_contra": 1,
           "placar": "0 x 1",
-          "xg": 1.02,
-          "xga": 1.03,
-          "xgd": -0.01,
-          "posse": 49,
+          "xg": 1.15,
+          "xga": 1.37,
+          "xgd": -0.22,
+          "posse": 50,
           "chutes": 16,
           "chutes_no_gol": 3,
           "escanteios": 2,
-          "desarmes": 21,
-          "xg_movel_5": 0.49,
-          "xga_movel_5": 1.64,
-          "xgd_movel_5": -1.15
+          "desarmes": 24,
+          "xg_movel_5": 0.51,
+          "xga_movel_5": 1.71,
+          "xgd_movel_5": -1.19
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Piorando",
-          "variacao": -39.7,
-          "temporada": 0.81,
-          "ultimos_5": 0.49
+          "variacao": -37.4,
+          "temporada": 0.82,
+          "ultimos_5": 0.51
         },
         "defesa": {
-          "status": "Melhorando",
-          "variacao": 6.3,
-          "temporada": 1.75,
-          "ultimos_5": 1.64
+          "status": "Estável",
+          "variacao": 4.1,
+          "temporada": 1.78,
+          "ultimos_5": 1.71
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -22.3,
-          "temporada": -0.94,
-          "ultimos_5": -1.15
+          "variacao": -24.3,
+          "temporada": -0.96,
+          "ultimos_5": -1.19
         }
       },
       "resumo": {
         "jogos": 11,
-        "xg_medio": 0.81,
-        "xga_medio": 1.75,
-        "xgd_medio": -0.94
+        "xg_medio": 0.82,
+        "xga_medio": 1.78,
+        "xgd_medio": -0.96
       }
     },
     "PAOK Thessaloniki": {
@@ -2181,44 +2181,44 @@
           "gols_pro": 4,
           "gols_contra": 0,
           "placar": "4 x 0",
-          "xg": 3.34,
-          "xga": 0.3,
-          "xgd": 3.04,
-          "posse": 62,
-          "chutes": 21,
+          "xg": 3.37,
+          "xga": 0.47,
+          "xgd": 2.9,
+          "posse": 61,
+          "chutes": 23,
           "chutes_no_gol": 9,
-          "escanteios": 8,
-          "desarmes": 8,
-          "xg_movel_5": 2.28,
-          "xga_movel_5": 1.18,
-          "xgd_movel_5": 1.1
+          "escanteios": 9,
+          "desarmes": 9,
+          "xg_movel_5": 2.29,
+          "xga_movel_5": 1.21,
+          "xgd_movel_5": 1.07
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Melhorando",
-          "variacao": 11,
-          "temporada": 2.05,
-          "ultimos_5": 2.28
+          "variacao": 11.1,
+          "temporada": 2.06,
+          "ultimos_5": 2.29
         },
         "defesa": {
           "status": "Melhorando",
-          "variacao": 8.8,
-          "temporada": 1.29,
-          "ultimos_5": 1.18
+          "variacao": 7.3,
+          "temporada": 1.31,
+          "ultimos_5": 1.21
         },
         "equilibrio": {
           "status": "Melhorando",
-          "variacao": 44.5,
-          "temporada": 0.76,
-          "ultimos_5": 1.1
+          "variacao": 43.2,
+          "temporada": 0.75,
+          "ultimos_5": 1.07
         }
       },
       "resumo": {
         "jogos": 11,
-        "xg_medio": 2.05,
-        "xga_medio": 1.29,
-        "xgd_medio": 0.76
+        "xg_medio": 2.06,
+        "xga_medio": 1.31,
+        "xgd_medio": 0.75
       }
     },
     "Levadiakos": {
@@ -2432,44 +2432,44 @@
           "gols_pro": 1,
           "gols_contra": 1,
           "placar": "1 x 1",
-          "xg": 1.82,
-          "xga": 0.74,
-          "xgd": 1.08,
+          "xg": 1.68,
+          "xga": 0.82,
+          "xgd": 0.86,
           "posse": 42,
           "chutes": 15,
           "chutes_no_gol": 2,
           "escanteios": 3,
           "desarmes": 28,
-          "xg_movel_5": 1.28,
-          "xga_movel_5": 0.85,
-          "xgd_movel_5": 0.43
+          "xg_movel_5": 1.25,
+          "xga_movel_5": 0.86,
+          "xgd_movel_5": 0.39
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Melhorando",
-          "variacao": 38.2,
-          "temporada": 0.92,
-          "ultimos_5": 1.28
+          "variacao": 37.1,
+          "temporada": 0.91,
+          "ultimos_5": 1.25
         },
         "defesa": {
           "status": "Melhorando",
-          "variacao": 19.4,
-          "temporada": 1.05,
-          "ultimos_5": 0.85
+          "variacao": 18.4,
+          "temporada": 1.06,
+          "ultimos_5": 0.86
         },
         "equilibrio": {
           "status": "Melhorando",
-          "variacao": 446.9,
-          "temporada": -0.12,
-          "ultimos_5": 0.43
+          "variacao": 368.4,
+          "temporada": -0.14,
+          "ultimos_5": 0.39
         }
       },
       "resumo": {
         "jogos": 11,
-        "xg_medio": 0.92,
-        "xga_medio": 1.05,
-        "xgd_medio": -0.12
+        "xg_medio": 0.91,
+        "xga_medio": 1.06,
+        "xgd_medio": -0.14
       }
     },
     "Panetolikos": {
@@ -2683,44 +2683,44 @@
           "gols_pro": 1,
           "gols_contra": 0,
           "placar": "1 x 0",
-          "xg": 1.03,
-          "xga": 1.02,
-          "xgd": 0.01,
-          "posse": 51,
+          "xg": 1.37,
+          "xga": 1.15,
+          "xgd": 0.22,
+          "posse": 50,
           "chutes": 10,
           "chutes_no_gol": 3,
           "escanteios": 4,
           "desarmes": 7,
-          "xg_movel_5": 0.89,
-          "xga_movel_5": 2.17,
-          "xgd_movel_5": -1.28
+          "xg_movel_5": 0.96,
+          "xga_movel_5": 2.19,
+          "xgd_movel_5": -1.23
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Estável",
-          "variacao": -4.3,
-          "temporada": 0.93,
-          "ultimos_5": 0.89
+          "variacao": -0.3,
+          "temporada": 0.96,
+          "ultimos_5": 0.96
         },
         "defesa": {
           "status": "Piorando",
-          "variacao": -12.6,
-          "temporada": 1.93,
-          "ultimos_5": 2.17
+          "variacao": -13.3,
+          "temporada": 1.94,
+          "ultimos_5": 2.19
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -28.4,
-          "temporada": -0.99,
-          "ultimos_5": -1.28
+          "variacao": -26.6,
+          "temporada": -0.97,
+          "ultimos_5": -1.23
         }
       },
       "resumo": {
         "jogos": 11,
-        "xg_medio": 0.93,
-        "xga_medio": 1.93,
-        "xgd_medio": -0.99
+        "xg_medio": 0.96,
+        "xga_medio": 1.94,
+        "xgd_medio": -0.97
       }
     },
     "Asteras Tripolis": {
@@ -2928,7 +2928,7 @@
         },
         {
           "rodada": 11,
-          "data": "2026-11-23T15:00:00.000Z",
+          "data": "2026-11-23T15:00:00Z",
           "local": "Casa",
           "adversario": "Aris Thessaloniki",
           "gols_pro": 0,
@@ -3185,44 +3185,44 @@
           "gols_pro": 0,
           "gols_contra": 4,
           "placar": "0 x 4",
-          "xg": 0.3,
-          "xga": 3.34,
-          "xgd": -3.04,
-          "posse": 38,
-          "chutes": 4,
-          "chutes_no_gol": 2,
+          "xg": 0.47,
+          "xga": 3.37,
+          "xgd": -2.9,
+          "posse": 39,
+          "chutes": 5,
+          "chutes_no_gol": 3,
           "escanteios": 2,
-          "desarmes": 17,
-          "xg_movel_5": 1.17,
+          "desarmes": 19,
+          "xg_movel_5": 1.2,
           "xga_movel_5": 1.45,
-          "xgd_movel_5": -0.28
+          "xgd_movel_5": -0.25
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Estável",
-          "variacao": 1.2,
-          "temporada": 1.15,
-          "ultimos_5": 1.17
+          "variacao": 2.7,
+          "temporada": 1.17,
+          "ultimos_5": 1.2
         },
         "defesa": {
           "status": "Piorando",
-          "variacao": -18,
+          "variacao": -18.2,
           "temporada": 1.23,
           "ultimos_5": 1.45
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -278.3,
-          "temporada": -0.07,
-          "ultimos_5": -0.28
+          "variacao": -310.9,
+          "temporada": -0.06,
+          "ultimos_5": -0.25
         }
       },
       "resumo": {
         "jogos": 11,
-        "xg_medio": 1.15,
+        "xg_medio": 1.17,
         "xga_medio": 1.23,
-        "xgd_medio": -0.07
+        "xgd_medio": -0.06
       }
     },
     "Panathinaikos": {
@@ -3436,25 +3436,25 @@
           "gols_pro": 2,
           "gols_contra": 0,
           "placar": "2 x 0",
-          "xg": 1.83,
+          "xg": 1.96,
           "xga": 0.83,
-          "xgd": 1,
+          "xgd": 1.13,
           "posse": 56,
           "chutes": 20,
           "chutes_no_gol": 7,
           "escanteios": 4,
-          "desarmes": 19,
-          "xg_movel_5": 2.38,
+          "desarmes": 21,
+          "xg_movel_5": 2.4,
           "xga_movel_5": 0.74,
-          "xgd_movel_5": 1.64
+          "xgd_movel_5": 1.66
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Melhorando",
-          "variacao": 9.8,
-          "temporada": 2.16,
-          "ultimos_5": 2.38
+          "variacao": 10.4,
+          "temporada": 2.18,
+          "ultimos_5": 2.4
         },
         "defesa": {
           "status": "Estável",
@@ -3464,16 +3464,16 @@
         },
         "equilibrio": {
           "status": "Melhorando",
-          "variacao": 15.5,
-          "temporada": 1.42,
-          "ultimos_5": 1.64
+          "variacao": 16.4,
+          "temporada": 1.43,
+          "ultimos_5": 1.66
         }
       },
       "resumo": {
         "jogos": 11,
-        "xg_medio": 2.16,
+        "xg_medio": 2.18,
         "xga_medio": 0.75,
-        "xgd_medio": 1.42
+        "xgd_medio": 1.43
       }
     }
   }

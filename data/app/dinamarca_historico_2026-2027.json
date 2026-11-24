@@ -1,6 +1,6 @@
 {
   "season": "2026/2027",
-  "updated_at": "2026-11-23T18:27:33.452Z",
+  "updated_at": "2026-11-24T18:08:53.411Z",
   "teams": {
     "Viborg": {
       "team": "Viborg",
@@ -1280,50 +1280,50 @@
         },
         {
           "rodada": 15,
-          "data": "2026-11-23T18:00:00.000Z",
+          "data": "2026-11-23T18:00:00Z",
           "local": "Casa",
           "adversario": "FC Midtjylland",
           "gols_pro": 0,
-          "gols_contra": 0,
-          "placar": "0 x 0",
-          "xg": 0,
-          "xga": 0,
-          "xgd": 0,
-          "posse": null,
-          "chutes": null,
-          "chutes_no_gol": null,
-          "escanteios": null,
-          "desarmes": null,
-          "xg_movel_5": 1.75,
-          "xga_movel_5": 1.04,
-          "xgd_movel_5": 0.71
+          "gols_contra": 2,
+          "placar": "0 x 2",
+          "xg": 0.65,
+          "xga": 1.09,
+          "xgd": -0.44,
+          "posse": 54,
+          "chutes": 11,
+          "chutes_no_gol": 2,
+          "escanteios": 7,
+          "desarmes": 21,
+          "xg_movel_5": 1.88,
+          "xga_movel_5": 1.26,
+          "xgd_movel_5": 0.62
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Melhorando",
-          "variacao": 18.8,
-          "temporada": 1.47,
-          "ultimos_5": 1.75
+          "variacao": 24,
+          "temporada": 1.52,
+          "ultimos_5": 1.88
         },
         "defesa": {
           "status": "Melhorando",
-          "variacao": 21.5,
-          "temporada": 1.32,
-          "ultimos_5": 1.04
+          "variacao": 9.9,
+          "temporada": 1.4,
+          "ultimos_5": 1.26
         },
         "equilibrio": {
           "status": "Melhorando",
-          "variacao": 377.6,
-          "temporada": 0.15,
-          "ultimos_5": 0.71
+          "variacao": 421.2,
+          "temporada": 0.12,
+          "ultimos_5": 0.62
         }
       },
       "resumo": {
         "jogos": 15,
-        "xg_medio": 1.47,
-        "xga_medio": 1.32,
-        "xgd_medio": 0.15
+        "xg_medio": 1.52,
+        "xga_medio": 1.4,
+        "xgd_medio": 0.12
       }
     },
     "Sønderjyske": {
@@ -1942,50 +1942,50 @@
         },
         {
           "rodada": 15,
-          "data": "2026-11-23T18:00:00.000Z",
+          "data": "2026-11-23T18:00:00Z",
           "local": "Fora",
           "adversario": "Brøndby IF",
-          "gols_pro": 0,
+          "gols_pro": 2,
           "gols_contra": 0,
-          "placar": "0 x 0",
-          "xg": 0,
-          "xga": 0,
-          "xgd": 0,
-          "posse": null,
-          "chutes": null,
-          "chutes_no_gol": null,
-          "escanteios": null,
-          "desarmes": null,
-          "xg_movel_5": 1.63,
-          "xga_movel_5": 1.4,
-          "xgd_movel_5": 0.23
+          "placar": "2 x 0",
+          "xg": 1.09,
+          "xga": 0.65,
+          "xgd": 0.44,
+          "posse": 46,
+          "chutes": 10,
+          "chutes_no_gol": 4,
+          "escanteios": 1,
+          "desarmes": 14,
+          "xg_movel_5": 1.85,
+          "xga_movel_5": 1.53,
+          "xgd_movel_5": 0.31
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Melhorando",
-          "variacao": 7.6,
-          "temporada": 1.51,
-          "ultimos_5": 1.63
+          "variacao": 16.4,
+          "temporada": 1.59,
+          "ultimos_5": 1.85
         },
         "defesa": {
           "status": "Piorando",
-          "variacao": -11.7,
-          "temporada": 1.26,
-          "ultimos_5": 1.4
+          "variacao": -17.9,
+          "temporada": 1.3,
+          "ultimos_5": 1.53
         },
         "equilibrio": {
-          "status": "Piorando",
-          "variacao": -12.2,
-          "temporada": 0.26,
-          "ultimos_5": 0.23
+          "status": "Melhorando",
+          "variacao": 9.5,
+          "temporada": 0.29,
+          "ultimos_5": 0.31
         }
       },
       "resumo": {
         "jogos": 15,
-        "xg_medio": 1.51,
-        "xga_medio": 1.26,
-        "xgd_medio": 0.26
+        "xg_medio": 1.59,
+        "xga_medio": 1.3,
+        "xgd_medio": 0.29
       }
     },
     "FC København": {
