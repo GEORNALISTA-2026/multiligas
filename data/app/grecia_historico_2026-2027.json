@@ -1,6 +1,6 @@
 {
   "season": "2026/2027",
-  "updated_at": "2026-11-24T18:07:20.465Z",
+  "updated_at": "2026-11-25T17:26:01.536Z",
   "teams": {
     "AEK Athens": {
       "team": "AEK Athens",
@@ -445,16 +445,16 @@
           "gols_contra": 6,
           "placar": "2 x 6",
           "xg": 0.96,
-          "xga": 2.57,
-          "xgd": -1.61,
+          "xga": 2.62,
+          "xgd": -1.66,
           "posse": 26,
           "chutes": 3,
           "chutes_no_gol": 3,
           "escanteios": 0,
           "desarmes": 9,
           "xg_movel_5": 0.88,
-          "xga_movel_5": 2.2,
-          "xgd_movel_5": -1.32
+          "xga_movel_5": 2.21,
+          "xgd_movel_5": -1.33
         }
       ],
       "tendencia": {
@@ -466,22 +466,22 @@
         },
         "defesa": {
           "status": "Piorando",
-          "variacao": -26.2,
-          "temporada": 1.74,
-          "ultimos_5": 2.2
+          "variacao": -26.4,
+          "temporada": 1.75,
+          "ultimos_5": 2.21
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -34.1,
-          "temporada": -0.98,
-          "ultimos_5": -1.32
+          "variacao": -34.5,
+          "temporada": -0.99,
+          "ultimos_5": -1.33
         }
       },
       "resumo": {
         "jogos": 11,
         "xg_medio": 0.76,
-        "xga_medio": 1.74,
-        "xgd_medio": -0.98
+        "xga_medio": 1.75,
+        "xgd_medio": -0.99
       }
     },
     "Kalamata": {
@@ -1197,25 +1197,25 @@
           "gols_pro": 6,
           "gols_contra": 2,
           "placar": "6 x 2",
-          "xg": 2.57,
+          "xg": 2.62,
           "xga": 0.96,
-          "xgd": 1.61,
+          "xgd": 1.66,
           "posse": 74,
           "chutes": 22,
           "chutes_no_gol": 8,
           "escanteios": 9,
           "desarmes": 9,
-          "xg_movel_5": 2.1,
+          "xg_movel_5": 2.11,
           "xga_movel_5": 1.13,
-          "xgd_movel_5": 0.97
+          "xgd_movel_5": 0.98
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Melhorando",
-          "variacao": 14.8,
+          "variacao": 15.1,
           "temporada": 1.83,
-          "ultimos_5": 2.1
+          "ultimos_5": 2.11
         },
         "defesa": {
           "status": "Piorando",
@@ -1225,9 +1225,9 @@
         },
         "equilibrio": {
           "status": "Estável",
-          "variacao": -3.9,
+          "variacao": -3.3,
           "temporada": 1.01,
-          "ultimos_5": 0.97
+          "ultimos_5": 0.98
         }
       },
       "resumo": {

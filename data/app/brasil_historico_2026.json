@@ -1,6 +1,6 @@
 {
   "season": "2026",
-  "updated_at": "2026-11-24T17:49:05.984Z",
+  "updated_at": "2026-11-25T17:15:26.702Z",
   "teams": {
     "Atlético-MG": {
       "team": "Atlético-MG",
@@ -1455,33 +1455,53 @@
           "xg_movel_5": 2.45,
           "xga_movel_5": 0.95,
           "xgd_movel_5": 1.5
+        },
+        {
+          "rodada": 37,
+          "data": "2026-11-24T21:00:00Z",
+          "local": "Fora",
+          "adversario": "Chapecoense",
+          "gols_pro": 0,
+          "gols_contra": 3,
+          "placar": "0 x 3",
+          "xg": 1.36,
+          "xga": 1.52,
+          "xgd": -0.16,
+          "posse": 56,
+          "chutes": 26,
+          "chutes_no_gol": 6,
+          "escanteios": 10,
+          "desarmes": 18,
+          "xg_movel_5": 1.96,
+          "xga_movel_5": 1.15,
+          "xgd_movel_5": 0.81
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Melhorando",
-          "variacao": 73.8,
+          "variacao": 39,
           "temporada": 1.41,
-          "ultimos_5": 2.45
+          "ultimos_5": 1.96
         },
         "defesa": {
-          "status": "Estável",
-          "variacao": 2.9,
-          "temporada": 0.98,
-          "ultimos_5": 0.95
+          "status": "Piorando",
+          "variacao": -15.4,
+          "temporada": 0.99,
+          "ultimos_5": 1.15
         },
         "equilibrio": {
           "status": "Melhorando",
-          "variacao": 249.5,
-          "temporada": 0.43,
-          "ultimos_5": 1.5
+          "variacao": 96,
+          "temporada": 0.41,
+          "ultimos_5": 0.81
         }
       },
       "resumo": {
-        "jogos": 36,
+        "jogos": 37,
         "xg_medio": 1.41,
-        "xga_medio": 0.98,
-        "xgd_medio": 0.43
+        "xga_medio": 0.99,
+        "xgd_medio": 0.41
       }
     },
     "Coritiba": {
@@ -7446,41 +7466,41 @@
         },
         {
           "rodada": 36,
-          "data": "2026-11-24T00:00:00.000Z",
+          "data": "2026-11-24T00:00:00Z",
           "local": "Fora",
           "adversario": "Santos",
           "gols_pro": 2,
           "gols_contra": 0,
           "placar": "2 x 0",
-          "xg": 1.61,
-          "xga": 1.11,
-          "xgd": 0.5,
-          "posse": 29,
+          "xg": 1.93,
+          "xga": 1.4,
+          "xgd": 0.53,
+          "posse": 30,
           "chutes": 8,
           "chutes_no_gol": 5,
           "escanteios": 2,
-          "desarmes": 22,
-          "xg_movel_5": 1.44,
-          "xga_movel_5": 1.58,
+          "desarmes": 21,
+          "xg_movel_5": 1.5,
+          "xga_movel_5": 1.64,
           "xgd_movel_5": -0.14
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Melhorando",
-          "variacao": 29.1,
+          "variacao": 33.7,
           "temporada": 1.12,
-          "ultimos_5": 1.44
+          "ultimos_5": 1.5
         },
         "defesa": {
           "status": "Estável",
-          "variacao": 3.7,
+          "variacao": 0.7,
           "temporada": 1.65,
-          "ultimos_5": 1.58
+          "ultimos_5": 1.64
         },
         "equilibrio": {
           "status": "Melhorando",
-          "variacao": 72.8,
+          "variacao": 73.9,
           "temporada": -0.53,
           "ultimos_5": -0.14
         }
@@ -8214,33 +8234,53 @@
           "xg_movel_5": 0.65,
           "xga_movel_5": 1.99,
           "xgd_movel_5": -1.34
+        },
+        {
+          "rodada": 37,
+          "data": "2026-11-24T21:00:00Z",
+          "local": "Casa",
+          "adversario": "Palmeiras",
+          "gols_pro": 3,
+          "gols_contra": 0,
+          "placar": "3 x 0",
+          "xg": 1.52,
+          "xga": 1.36,
+          "xgd": 0.16,
+          "posse": 44,
+          "chutes": 10,
+          "chutes_no_gol": 8,
+          "escanteios": 5,
+          "desarmes": 20,
+          "xg_movel_5": 0.85,
+          "xga_movel_5": 2,
+          "xgd_movel_5": -1.14
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Piorando",
-          "variacao": -33.7,
-          "temporada": 0.98,
-          "ultimos_5": 0.65
+          "variacao": -14.2,
+          "temporada": 1,
+          "ultimos_5": 0.85
         },
         "defesa": {
           "status": "Piorando",
-          "variacao": -9.8,
-          "temporada": 1.81,
-          "ultimos_5": 1.99
+          "variacao": -11,
+          "temporada": 1.8,
+          "ultimos_5": 2
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -61.1,
-          "temporada": -0.83,
-          "ultimos_5": -1.34
+          "variacao": -42.1,
+          "temporada": -0.8,
+          "ultimos_5": -1.14
         }
       },
       "resumo": {
-        "jogos": 36,
-        "xg_medio": 0.98,
-        "xga_medio": 1.81,
-        "xgd_medio": -0.83
+        "jogos": 37,
+        "xg_medio": 1,
+        "xga_medio": 1.8,
+        "xgd_medio": -0.8
       }
     },
     "Santos": {
@@ -8948,49 +8988,49 @@
         },
         {
           "rodada": 36,
-          "data": "2026-11-24T00:00:00.000Z",
+          "data": "2026-11-24T00:00:00Z",
           "local": "Casa",
           "adversario": "Grêmio",
           "gols_pro": 0,
           "gols_contra": 2,
           "placar": "0 x 2",
-          "xg": 1.11,
-          "xga": 1.61,
-          "xgd": -0.5,
-          "posse": 71,
+          "xg": 1.4,
+          "xga": 1.93,
+          "xgd": -0.53,
+          "posse": 70,
           "chutes": 22,
           "chutes_no_gol": 7,
           "escanteios": 9,
-          "desarmes": 15,
-          "xg_movel_5": 1.71,
-          "xga_movel_5": 1.49,
-          "xgd_movel_5": 0.22
+          "desarmes": 13,
+          "xg_movel_5": 1.76,
+          "xga_movel_5": 1.55,
+          "xgd_movel_5": 0.21
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Melhorando",
-          "variacao": 16.9,
-          "temporada": 1.46,
-          "ultimos_5": 1.71
+          "variacao": 20.2,
+          "temporada": 1.47,
+          "ultimos_5": 1.76
         },
         "defesa": {
           "status": "Piorando",
-          "variacao": -11.3,
-          "temporada": 1.34,
-          "ultimos_5": 1.49
+          "variacao": -15.3,
+          "temporada": 1.35,
+          "ultimos_5": 1.55
         },
         "equilibrio": {
           "status": "Melhorando",
-          "variacao": 78.8,
+          "variacao": 75,
           "temporada": 0.12,
-          "ultimos_5": 0.22
+          "ultimos_5": 0.21
         }
       },
       "resumo": {
         "jogos": 36,
-        "xg_medio": 1.46,
-        "xga_medio": 1.34,
+        "xg_medio": 1.47,
+        "xga_medio": 1.35,
         "xgd_medio": 0.12
       }
     },
@@ -11187,37 +11227,37 @@
           "gols_pro": 1,
           "gols_contra": 1,
           "placar": "1 x 1",
-          "xg": 1.25,
-          "xga": 1.62,
-          "xgd": -0.37,
-          "posse": 43,
+          "xg": 1.27,
+          "xga": 1.81,
+          "xgd": -0.54,
+          "posse": 44,
           "chutes": 13,
           "chutes_no_gol": 7,
           "escanteios": 3,
-          "desarmes": 18,
+          "desarmes": 16,
           "xg_movel_5": 1.48,
-          "xga_movel_5": 1.27,
-          "xgd_movel_5": 0.21
+          "xga_movel_5": 1.3,
+          "xgd_movel_5": 0.18
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Melhorando",
-          "variacao": 5.8,
+          "variacao": 6,
           "temporada": 1.4,
           "ultimos_5": 1.48
         },
         "defesa": {
-          "status": "Estável",
-          "variacao": -3.3,
+          "status": "Piorando",
+          "variacao": -5.9,
           "temporada": 1.23,
-          "ultimos_5": 1.27
+          "ultimos_5": 1.3
         },
         "equilibrio": {
           "status": "Melhorando",
-          "variacao": 23.5,
+          "variacao": 6.8,
           "temporada": 0.17,
-          "ultimos_5": 0.21
+          "ultimos_5": 0.18
         }
       },
       "resumo": {
@@ -14191,42 +14231,42 @@
           "gols_pro": 1,
           "gols_contra": 1,
           "placar": "1 x 1",
-          "xg": 1.62,
-          "xga": 1.25,
-          "xgd": 0.37,
-          "posse": 57,
+          "xg": 1.81,
+          "xga": 1.27,
+          "xgd": 0.54,
+          "posse": 56,
           "chutes": 23,
           "chutes_no_gol": 7,
           "escanteios": 6,
-          "desarmes": 14,
-          "xg_movel_5": 1.02,
+          "desarmes": 17,
+          "xg_movel_5": 1.05,
           "xga_movel_5": 1.3,
-          "xgd_movel_5": -0.28
+          "xgd_movel_5": -0.25
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Piorando",
-          "variacao": -18.2,
-          "temporada": 1.24,
-          "ultimos_5": 1.02
+          "variacao": -15.5,
+          "temporada": 1.25,
+          "ultimos_5": 1.05
         },
         "defesa": {
           "status": "Melhorando",
-          "variacao": 8.6,
+          "variacao": 8.4,
           "temporada": 1.42,
           "ultimos_5": 1.3
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -57.8,
+          "variacao": -42.6,
           "temporada": -0.18,
-          "ultimos_5": -0.28
+          "ultimos_5": -0.25
         }
       },
       "resumo": {
         "jogos": 36,
-        "xg_medio": 1.24,
+        "xg_medio": 1.25,
         "xga_medio": 1.42,
         "xgd_medio": -0.18
       }
