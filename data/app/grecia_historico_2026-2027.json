@@ -1,6 +1,6 @@
 {
   "season": "2026/2027",
-  "updated_at": "2026-11-25T17:26:01.536Z",
+  "updated_at": "2026-11-26T17:11:11.043Z",
   "teams": {
     "AEK Athens": {
       "team": "AEK Athens",
@@ -946,37 +946,37 @@
           "gols_pro": 1,
           "gols_contra": 0,
           "placar": "1 x 0",
-          "xg": 0.63,
-          "xga": 0.59,
-          "xgd": 0.04,
+          "xg": 0.55,
+          "xga": 0.58,
+          "xgd": -0.03,
           "posse": 50,
           "chutes": 5,
           "chutes_no_gol": 2,
           "escanteios": 1,
-          "desarmes": 9,
-          "xg_movel_5": 1.03,
+          "desarmes": 10,
+          "xg_movel_5": 1.02,
           "xga_movel_5": 1.16,
-          "xgd_movel_5": -0.13
+          "xgd_movel_5": -0.14
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Piorando",
-          "variacao": -28.4,
+          "variacao": -29.2,
           "temporada": 1.44,
-          "ultimos_5": 1.03
+          "ultimos_5": 1.02
         },
         "defesa": {
           "status": "Melhorando",
-          "variacao": 19.9,
+          "variacao": 20,
           "temporada": 1.45,
           "ultimos_5": 1.16
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -1911.4,
+          "variacao": -1015.7,
           "temporada": -0.01,
-          "ultimos_5": -0.13
+          "ultimos_5": -0.14
         }
       },
       "resumo": {
@@ -2934,44 +2934,44 @@
           "gols_pro": 0,
           "gols_contra": 1,
           "placar": "0 x 1",
-          "xg": 0.59,
-          "xga": 0.63,
-          "xgd": -0.04,
+          "xg": 0.58,
+          "xga": 0.55,
+          "xgd": 0.03,
           "posse": 50,
           "chutes": 7,
           "chutes_no_gol": 2,
           "escanteios": 2,
           "desarmes": 15,
           "xg_movel_5": 0.71,
-          "xga_movel_5": 1.72,
-          "xgd_movel_5": -1.01
+          "xga_movel_5": 1.7,
+          "xgd_movel_5": -1
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Piorando",
-          "variacao": -21.9,
+          "variacao": -22,
           "temporada": 0.91,
           "ultimos_5": 0.71
         },
         "defesa": {
           "status": "Piorando",
-          "variacao": -18,
-          "temporada": 1.46,
-          "ultimos_5": 1.72
+          "variacao": -17.5,
+          "temporada": 1.45,
+          "ultimos_5": 1.7
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -84.2,
-          "temporada": -0.55,
-          "ultimos_5": -1.01
+          "variacao": -83.8,
+          "temporada": -0.54,
+          "ultimos_5": -1
         }
       },
       "resumo": {
         "jogos": 11,
         "xg_medio": 0.91,
-        "xga_medio": 1.46,
-        "xgd_medio": -0.55
+        "xga_medio": 1.45,
+        "xgd_medio": -0.54
       }
     },
     "Kifisia FC": {
