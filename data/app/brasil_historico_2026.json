@@ -1,6 +1,6 @@
 {
   "season": "2026",
-  "updated_at": "2026-11-26T16:56:44.514Z",
+  "updated_at": "2026-11-27T16:42:32.772Z",
   "teams": {
     "Atlético-MG": {
       "team": "Atlético-MG",
@@ -6001,32 +6001,52 @@
           "xg_movel_5": 1,
           "xga_movel_5": 1.86,
           "xgd_movel_5": -0.86
+        },
+        {
+          "rodada": 37,
+          "data": "2026-11-26T23:00:00Z",
+          "local": "Fora",
+          "adversario": "São Paulo",
+          "gols_pro": 1,
+          "gols_contra": 3,
+          "placar": "1 x 3",
+          "xg": 0.95,
+          "xga": 1.35,
+          "xgd": -0.4,
+          "posse": 38,
+          "chutes": 6,
+          "chutes_no_gol": 1,
+          "escanteios": 3,
+          "desarmes": 18,
+          "xg_movel_5": 1.13,
+          "xga_movel_5": 1.93,
+          "xgd_movel_5": -0.81
         }
       ],
       "tendencia": {
         "ataque": {
-          "status": "Piorando",
-          "variacao": -5.1,
+          "status": "Melhorando",
+          "variacao": 7.6,
           "temporada": 1.05,
-          "ultimos_5": 1
+          "ultimos_5": 1.13
         },
         "defesa": {
           "status": "Piorando",
-          "variacao": -11,
-          "temporada": 1.67,
-          "ultimos_5": 1.86
+          "variacao": -16.1,
+          "temporada": 1.66,
+          "ultimos_5": 1.93
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -38,
+          "variacao": -30.6,
           "temporada": -0.62,
-          "ultimos_5": -0.86
+          "ultimos_5": -0.81
         }
       },
       "resumo": {
-        "jogos": 36,
+        "jogos": 37,
         "xg_medio": 1.05,
-        "xga_medio": 1.67,
+        "xga_medio": 1.66,
         "xgd_medio": -0.62
       }
     },
@@ -11278,32 +11298,52 @@
           "xg_movel_5": 1.48,
           "xga_movel_5": 1.3,
           "xgd_movel_5": 0.18
+        },
+        {
+          "rodada": 37,
+          "data": "2026-11-26T23:00:00Z",
+          "local": "Casa",
+          "adversario": "Remo",
+          "gols_pro": 3,
+          "gols_contra": 1,
+          "placar": "3 x 1",
+          "xg": 1.35,
+          "xga": 0.95,
+          "xgd": 0.4,
+          "posse": 62,
+          "chutes": 9,
+          "chutes_no_gol": 4,
+          "escanteios": 4,
+          "desarmes": 13,
+          "xg_movel_5": 1.39,
+          "xga_movel_5": 1.19,
+          "xgd_movel_5": 0.2
         }
       ],
       "tendencia": {
         "ataque": {
-          "status": "Melhorando",
-          "variacao": 6,
+          "status": "Estável",
+          "variacao": -0.6,
           "temporada": 1.4,
-          "ultimos_5": 1.48
+          "ultimos_5": 1.39
         },
         "defesa": {
-          "status": "Piorando",
-          "variacao": -5.9,
-          "temporada": 1.23,
-          "ultimos_5": 1.3
+          "status": "Estável",
+          "variacao": 2.4,
+          "temporada": 1.22,
+          "ultimos_5": 1.19
         },
         "equilibrio": {
           "status": "Melhorando",
-          "variacao": 6.8,
+          "variacao": 12.1,
           "temporada": 0.17,
-          "ultimos_5": 0.18
+          "ultimos_5": 0.2
         }
       },
       "resumo": {
-        "jogos": 36,
+        "jogos": 37,
         "xg_medio": 1.4,
-        "xga_medio": 1.23,
+        "xga_medio": 1.22,
         "xgd_medio": 0.17
       }
     },

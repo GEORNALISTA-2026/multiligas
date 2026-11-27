@@ -1,6 +1,6 @@
 {
   "season": "2026/2027",
-  "updated_at": "2026-11-26T17:00:31.527Z",
+  "updated_at": "2026-11-27T16:46:04.875Z",
   "teams": {
     "Bochum": {
       "team": "Bochum",
@@ -1047,16 +1047,16 @@
           "gols_contra": 3,
           "placar": "0 x 3",
           "xg": 1.27,
-          "xga": 2.6,
-          "xgd": -1.33,
+          "xga": 2.49,
+          "xgd": -1.22,
           "posse": 42,
           "chutes": 11,
           "chutes_no_gol": 1,
           "escanteios": 4,
           "desarmes": 23,
           "xg_movel_5": 1.17,
-          "xga_movel_5": 1.81,
-          "xgd_movel_5": -0.64
+          "xga_movel_5": 1.79,
+          "xgd_movel_5": -0.62
         }
       ],
       "tendencia": {
@@ -1068,22 +1068,22 @@
         },
         "defesa": {
           "status": "Estável",
-          "variacao": -1.1,
-          "temporada": 1.79,
-          "ultimos_5": 1.81
+          "variacao": -0.4,
+          "temporada": 1.78,
+          "ultimos_5": 1.79
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -65.4,
-          "temporada": -0.39,
-          "ultimos_5": -0.64
+          "variacao": -63.5,
+          "temporada": -0.38,
+          "ultimos_5": -0.62
         }
       },
       "resumo": {
         "jogos": 12,
         "xg_medio": 1.4,
-        "xga_medio": 1.79,
-        "xgd_medio": -0.39
+        "xga_medio": 1.78,
+        "xgd_medio": -0.38
       }
     },
     "FC Heidenheim": {
@@ -2943,25 +2943,25 @@
           "gols_pro": 3,
           "gols_contra": 0,
           "placar": "3 x 0",
-          "xg": 2.6,
+          "xg": 2.49,
           "xga": 1.27,
-          "xgd": 1.33,
+          "xgd": 1.22,
           "posse": 58,
           "chutes": 13,
           "chutes_no_gol": 5,
           "escanteios": 10,
           "desarmes": 13,
-          "xg_movel_5": 1.61,
+          "xg_movel_5": 1.59,
           "xga_movel_5": 1.47,
-          "xgd_movel_5": 0.15
+          "xgd_movel_5": 0.13
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Piorando",
-          "variacao": -24.7,
-          "temporada": 2.14,
-          "ultimos_5": 1.61
+          "variacao": -25.4,
+          "temporada": 2.13,
+          "ultimos_5": 1.59
         },
         "defesa": {
           "status": "Melhorando",
@@ -2971,16 +2971,16 @@
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -71.6,
-          "temporada": 0.52,
-          "ultimos_5": 0.15
+          "variacao": -75.4,
+          "temporada": 0.51,
+          "ultimos_5": 0.13
         }
       },
       "resumo": {
         "jogos": 12,
-        "xg_medio": 2.14,
+        "xg_medio": 2.13,
         "xga_medio": 1.62,
-        "xgd_medio": 0.52
+        "xgd_medio": 0.51
       }
     },
     "Kaiserslautern": {

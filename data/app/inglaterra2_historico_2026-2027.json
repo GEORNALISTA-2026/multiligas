@@ -1,6 +1,6 @@
 {
   "season": "2026/2027",
-  "updated_at": "2026-11-26T17:07:44.153Z",
+  "updated_at": "2026-11-27T16:52:35.156Z",
   "teams": {
     "Wolverhampton Wanderers": {
       "team": "Wolverhampton Wanderers",
@@ -2560,16 +2560,16 @@
           "gols_contra": 0,
           "placar": "4 x 0",
           "xg": 4.52,
-          "xga": 0.25,
-          "xgd": 4.27,
+          "xga": 0.38,
+          "xgd": 4.14,
           "posse": 66,
           "chutes": 33,
           "chutes_no_gol": 13,
           "escanteios": 10,
           "desarmes": 16,
           "xg_movel_5": 1.45,
-          "xga_movel_5": 1.22,
-          "xgd_movel_5": 0.23
+          "xga_movel_5": 1.25,
+          "xgd_movel_5": 0.2
         }
       ],
       "tendencia": {
@@ -2581,22 +2581,22 @@
         },
         "defesa": {
           "status": "Melhorando",
-          "variacao": 17.5,
-          "temporada": 1.48,
-          "ultimos_5": 1.22
+          "variacao": 16.2,
+          "temporada": 1.49,
+          "ultimos_5": 1.25
         },
         "equilibrio": {
           "status": "Melhorando",
-          "variacao": 164.2,
-          "temporada": -0.36,
-          "ultimos_5": 0.23
+          "variacao": 155.8,
+          "temporada": -0.37,
+          "ultimos_5": 0.2
         }
       },
       "resumo": {
         "jogos": 17,
         "xg_medio": 1.13,
-        "xga_medio": 1.48,
-        "xgd_medio": -0.36
+        "xga_medio": 1.49,
+        "xgd_medio": -0.37
       }
     },
     "Derby County": {
@@ -3672,25 +3672,25 @@
           "gols_pro": 0,
           "gols_contra": 4,
           "placar": "0 x 4",
-          "xg": 0.25,
+          "xg": 0.38,
           "xga": 4.52,
-          "xgd": -4.27,
+          "xgd": -4.14,
           "posse": 34,
           "chutes": 3,
           "chutes_no_gol": 0,
           "escanteios": 3,
           "desarmes": 14,
-          "xg_movel_5": 0.96,
+          "xg_movel_5": 0.98,
           "xga_movel_5": 2.04,
-          "xgd_movel_5": -1.08
+          "xgd_movel_5": -1.05
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Piorando",
-          "variacao": -22,
-          "temporada": 1.23,
-          "ultimos_5": 0.96
+          "variacao": -20.4,
+          "temporada": 1.24,
+          "ultimos_5": 0.98
         },
         "defesa": {
           "status": "Piorando",
@@ -3700,14 +3700,14 @@
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -160.3,
+          "variacao": -158.8,
           "temporada": -0.41,
-          "ultimos_5": -1.08
+          "ultimos_5": -1.05
         }
       },
       "resumo": {
         "jogos": 17,
-        "xg_medio": 1.23,
+        "xg_medio": 1.24,
         "xga_medio": 1.64,
         "xgd_medio": -0.41
       }

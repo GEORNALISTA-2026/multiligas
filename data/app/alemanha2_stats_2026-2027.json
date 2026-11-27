@@ -1,6 +1,6 @@
 {
   "season": "2026/2027",
-  "updated_at": "2026-11-26T17:00:31.524Z",
+  "updated_at": "2026-11-27T16:46:04.873Z",
   "league": {
     "name": "Alemanha 2a Div",
     "season": "2026/2027",
@@ -37,17 +37,17 @@
       "clean_sheets": 0,
       "failed_to_score_count": 0,
       "failed_to_score": 0,
-      "xg_total": 347.13,
-      "xga_total": 347.13,
+      "xg_total": 347.02,
+      "xga_total": 347.02,
       "xgd_total": 0,
       "xg": 3.21,
       "xga": 3.21,
       "xgd": 0,
-      "xg_open_play_total": 240.21999999999994,
+      "xg_open_play_total": 240.10999999999996,
       "xg_open_play": 2.22,
       "xg_set_play_total": 84.10000000000007,
       "xg_set_play": 0.78,
-      "xg_non_penalty_total": 324.26,
+      "xg_non_penalty_total": 324.15,
       "xg_non_penalty": 3,
       "xgot_total": 314.0299999999999,
       "xgot": 2.91,
@@ -1325,11 +1325,11 @@
         "failed_to_score_count": 6,
         "failed_to_score": 50,
         "xg_total": 16.82,
-        "xga_total": 21.45,
-        "xgd_total": -4.63,
+        "xga_total": 21.34,
+        "xgd_total": -4.52,
         "xg": 1.4,
-        "xga": 1.79,
-        "xgd": -0.39,
+        "xga": 1.78,
+        "xgd": -0.38,
         "xg_open_play_total": 10.28,
         "xg_open_play": 0.86,
         "xg_set_play_total": 5.76,
@@ -1579,11 +1579,11 @@
         "failed_to_score_count": 5,
         "failed_to_score": 83.3,
         "xg_total": 8.7,
-        "xga_total": 9.46,
-        "xgd_total": -0.76,
+        "xga_total": 9.35,
+        "xgd_total": -0.65,
         "xg": 1.45,
-        "xga": 1.58,
-        "xgd": -0.13,
+        "xga": 1.56,
+        "xgd": -0.11,
         "xg_open_play_total": 5.82,
         "xg_open_play": 0.97,
         "xg_set_play_total": 2.9000000000000004,
@@ -4019,18 +4019,18 @@
         "clean_sheets": 33.3,
         "failed_to_score_count": 2,
         "failed_to_score": 16.7,
-        "xg_total": 25.71,
+        "xg_total": 25.6,
         "xga_total": 19.45,
-        "xgd_total": 6.26,
-        "xg": 2.14,
+        "xgd_total": 6.15,
+        "xg": 2.13,
         "xga": 1.62,
-        "xgd": 0.52,
-        "xg_open_play_total": 19.700000000000003,
-        "xg_open_play": 1.64,
+        "xgd": 0.51,
+        "xg_open_play_total": 19.590000000000003,
+        "xg_open_play": 1.63,
         "xg_set_play_total": 4.43,
         "xg_set_play": 0.37,
-        "xg_non_penalty_total": 24.130000000000003,
-        "xg_non_penalty": 2.01,
+        "xg_non_penalty_total": 24.020000000000003,
+        "xg_non_penalty": 2,
         "xgot_total": 23.7,
         "xgot": 1.98,
         "xgot_conceded_total": 17.270000000000003,
@@ -4146,18 +4146,18 @@
         "clean_sheets": 50,
         "failed_to_score_count": 1,
         "failed_to_score": 16.7,
-        "xg_total": 13.71,
+        "xg_total": 13.6,
         "xga_total": 9.22,
-        "xgd_total": 4.49,
-        "xg": 2.29,
+        "xgd_total": 4.38,
+        "xg": 2.27,
         "xga": 1.54,
-        "xgd": 0.75,
-        "xg_open_play_total": 11.53,
-        "xg_open_play": 1.92,
+        "xgd": 0.73,
+        "xg_open_play_total": 11.42,
+        "xg_open_play": 1.9,
         "xg_set_play_total": 1.4,
         "xg_set_play": 0.23,
-        "xg_non_penalty_total": 12.919999999999998,
-        "xg_non_penalty": 2.15,
+        "xg_non_penalty_total": 12.809999999999999,
+        "xg_non_penalty": 2.13,
         "xgot_total": 13.149999999999999,
         "xgot": 2.19,
         "xgot_conceded_total": 8.48,
@@ -7744,7 +7744,7 @@
       },
       {
         "team": "Wolfsburg",
-        "value": 2.14
+        "value": 2.13
       },
       {
         "team": "1. FC Nürnberg",
@@ -7821,12 +7821,12 @@
         "value": 1.94
       },
       {
-        "team": "Holstein Kiel",
+        "team": "VfL Osnabrück",
         "value": 1.79
       },
       {
-        "team": "VfL Osnabrück",
-        "value": 1.79
+        "team": "Holstein Kiel",
+        "value": 1.78
       },
       {
         "team": "Karlsruher SC",
@@ -7892,7 +7892,7 @@
       },
       {
         "team": "Wolfsburg",
-        "value": 0.52
+        "value": 0.51
       },
       {
         "team": "St. Pauli",
@@ -7935,12 +7935,12 @@
         "value": -0.24
       },
       {
-        "team": "Karlsruher SC",
+        "team": "Holstein Kiel",
         "value": -0.38
       },
       {
-        "team": "Holstein Kiel",
-        "value": -0.39
+        "team": "Karlsruher SC",
+        "value": -0.38
       },
       {
         "team": "Darmstadt",
