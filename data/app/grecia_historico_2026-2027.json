@@ -1,6 +1,6 @@
 {
   "season": "2026/2027",
-  "updated_at": "2026-11-27T16:55:46.438Z",
+  "updated_at": "2026-11-28T15:48:52.218Z",
   "teams": {
     "AEK Athens": {
       "team": "AEK Athens",
@@ -455,33 +455,53 @@
           "xg_movel_5": 0.88,
           "xga_movel_5": 2.21,
           "xgd_movel_5": -1.33
+        },
+        {
+          "rodada": 12,
+          "data": "2026-11-28T15:00:00.000Z",
+          "local": "Casa",
+          "adversario": "Panetolikos",
+          "gols_pro": 1,
+          "gols_contra": 0,
+          "placar": "1 x 0",
+          "xg": 0,
+          "xga": 0,
+          "xgd": 0,
+          "posse": null,
+          "chutes": null,
+          "chutes_no_gol": null,
+          "escanteios": null,
+          "desarmes": null,
+          "xg_movel_5": 0.72,
+          "xga_movel_5": 1.82,
+          "xgd_movel_5": -1.09
         }
       ],
       "tendencia": {
         "ataque": {
-          "status": "Melhorando",
-          "variacao": 15.9,
-          "temporada": 0.76,
-          "ultimos_5": 0.88
+          "status": "Estável",
+          "variacao": 4.3,
+          "temporada": 0.69,
+          "ultimos_5": 0.72
         },
         "defesa": {
           "status": "Piorando",
-          "variacao": -26.4,
-          "temporada": 1.75,
-          "ultimos_5": 2.21
+          "variacao": -13.4,
+          "temporada": 1.6,
+          "ultimos_5": 1.82
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -34.5,
-          "temporada": -0.99,
-          "ultimos_5": -1.33
+          "variacao": -20.4,
+          "temporada": -0.91,
+          "ultimos_5": -1.09
         }
       },
       "resumo": {
-        "jogos": 11,
-        "xg_medio": 0.76,
-        "xga_medio": 1.75,
-        "xgd_medio": -0.99
+        "jogos": 12,
+        "xg_medio": 0.69,
+        "xga_medio": 1.6,
+        "xgd_medio": -0.91
       }
     },
     "Kalamata": {
@@ -1941,33 +1961,53 @@
           "xg_movel_5": 0.51,
           "xga_movel_5": 1.71,
           "xgd_movel_5": -1.19
+        },
+        {
+          "rodada": 12,
+          "data": "2026-11-28T15:00:00.000Z",
+          "local": "Casa",
+          "adversario": "Asteras Tripolis",
+          "gols_pro": 0,
+          "gols_contra": 0,
+          "placar": "0 x 0",
+          "xg": 0,
+          "xga": 0,
+          "xgd": 0,
+          "posse": null,
+          "chutes": null,
+          "chutes_no_gol": null,
+          "escanteios": null,
+          "desarmes": null,
+          "xg_movel_5": 0.47,
+          "xga_movel_5": 1.51,
+          "xgd_movel_5": -1.04
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Piorando",
-          "variacao": -37.4,
-          "temporada": 0.82,
-          "ultimos_5": 0.51
+          "variacao": -37.1,
+          "temporada": 0.75,
+          "ultimos_5": 0.47
         },
         "defesa": {
-          "status": "Estável",
-          "variacao": 4.1,
-          "temporada": 1.78,
-          "ultimos_5": 1.71
+          "status": "Melhorando",
+          "variacao": 7.5,
+          "temporada": 1.63,
+          "ultimos_5": 1.51
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -24.3,
-          "temporada": -0.96,
-          "ultimos_5": -1.19
+          "variacao": -17.6,
+          "temporada": -0.88,
+          "ultimos_5": -1.04
         }
       },
       "resumo": {
-        "jogos": 11,
-        "xg_medio": 0.82,
-        "xga_medio": 1.78,
-        "xgd_medio": -0.96
+        "jogos": 12,
+        "xg_medio": 0.75,
+        "xga_medio": 1.63,
+        "xgd_medio": -0.88
       }
     },
     "PAOK Thessaloniki": {
@@ -2694,33 +2734,53 @@
           "xg_movel_5": 0.96,
           "xga_movel_5": 2.19,
           "xgd_movel_5": -1.23
+        },
+        {
+          "rodada": 12,
+          "data": "2026-11-28T15:00:00.000Z",
+          "local": "Fora",
+          "adversario": "Iraklis",
+          "gols_pro": 0,
+          "gols_contra": 1,
+          "placar": "0 x 1",
+          "xg": 0,
+          "xga": 0,
+          "xgd": 0,
+          "posse": null,
+          "chutes": null,
+          "chutes_no_gol": null,
+          "escanteios": null,
+          "desarmes": null,
+          "xg_movel_5": 0.7,
+          "xga_movel_5": 1.69,
+          "xgd_movel_5": -0.99
         }
       ],
       "tendencia": {
         "ataque": {
-          "status": "Estável",
-          "variacao": -0.3,
-          "temporada": 0.96,
-          "ultimos_5": 0.96
+          "status": "Piorando",
+          "variacao": -20.2,
+          "temporada": 0.88,
+          "ultimos_5": 0.7
         },
         "defesa": {
-          "status": "Piorando",
-          "variacao": -13.3,
-          "temporada": 1.94,
-          "ultimos_5": 2.19
+          "status": "Estável",
+          "variacao": 4.6,
+          "temporada": 1.78,
+          "ultimos_5": 1.69
         },
         "equilibrio": {
           "status": "Piorando",
-          "variacao": -26.6,
-          "temporada": -0.97,
-          "ultimos_5": -1.23
+          "variacao": -10.8,
+          "temporada": -0.89,
+          "ultimos_5": -0.99
         }
       },
       "resumo": {
-        "jogos": 11,
-        "xg_medio": 0.96,
-        "xga_medio": 1.94,
-        "xgd_medio": -0.97
+        "jogos": 12,
+        "xg_medio": 0.88,
+        "xga_medio": 1.78,
+        "xgd_medio": -0.89
       }
     },
     "Asteras Tripolis": {
@@ -2945,33 +3005,53 @@
           "xg_movel_5": 0.71,
           "xga_movel_5": 1.7,
           "xgd_movel_5": -1
+        },
+        {
+          "rodada": 12,
+          "data": "2026-11-28T15:00:00.000Z",
+          "local": "Fora",
+          "adversario": "NFC Volos",
+          "gols_pro": 0,
+          "gols_contra": 0,
+          "placar": "0 x 0",
+          "xg": 0,
+          "xga": 0,
+          "xgd": 0,
+          "posse": null,
+          "chutes": null,
+          "chutes_no_gol": null,
+          "escanteios": null,
+          "desarmes": null,
+          "xg_movel_5": 0.54,
+          "xga_movel_5": 0.76,
+          "xgd_movel_5": -0.22
         }
       ],
       "tendencia": {
         "ataque": {
           "status": "Piorando",
-          "variacao": -22,
-          "temporada": 0.91,
-          "ultimos_5": 0.71
+          "variacao": -35.6,
+          "temporada": 0.83,
+          "ultimos_5": 0.54
         },
         "defesa": {
-          "status": "Piorando",
-          "variacao": -17.5,
-          "temporada": 1.45,
-          "ultimos_5": 1.7
+          "status": "Melhorando",
+          "variacao": 42.8,
+          "temporada": 1.33,
+          "ultimos_5": 0.76
         },
         "equilibrio": {
-          "status": "Piorando",
-          "variacao": -83.8,
-          "temporada": -0.54,
-          "ultimos_5": -1
+          "status": "Melhorando",
+          "variacao": 54.9,
+          "temporada": -0.5,
+          "ultimos_5": -0.22
         }
       },
       "resumo": {
-        "jogos": 11,
-        "xg_medio": 0.91,
-        "xga_medio": 1.45,
-        "xgd_medio": -0.54
+        "jogos": 12,
+        "xg_medio": 0.83,
+        "xga_medio": 1.33,
+        "xgd_medio": -0.5
       }
     },
     "Kifisia FC": {

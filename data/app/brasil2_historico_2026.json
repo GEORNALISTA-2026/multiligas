@@ -1,6 +1,6 @@
 {
   "season": "2026",
-  "updated_at": "2026-11-27T16:44:51.697Z",
+  "updated_at": "2026-11-28T15:36:34.697Z",
   "teams": {
     "Vila Nova": {
       "team": "Vila Nova",
@@ -26,6 +26,26 @@
           "xgd_movel_5": -0.25
         },
         {
+          "rodada": 0,
+          "data": "2026-11-27T23:00:00Z",
+          "local": "Casa",
+          "adversario": "Atlético-GO",
+          "gols_pro": 2,
+          "gols_contra": 0,
+          "placar": "2 x 0",
+          "xg": 1.01,
+          "xga": 0.29,
+          "xgd": 0.72,
+          "posse": 34,
+          "chutes": 15,
+          "chutes_no_gol": 5,
+          "escanteios": 3,
+          "desarmes": 16,
+          "xg_movel_5": 1.23,
+          "xga_movel_5": 0.99,
+          "xgd_movel_5": 0.24
+        },
+        {
           "rodada": 1,
           "data": "2026-03-21T20:00:00Z",
           "local": "Casa",
@@ -41,9 +61,9 @@
           "chutes_no_gol": 4,
           "escanteios": 3,
           "desarmes": 15,
-          "xg_movel_5": 0.96,
-          "xga_movel_5": 1.41,
-          "xgd_movel_5": -0.45
+          "xg_movel_5": 0.97,
+          "xga_movel_5": 1.04,
+          "xgd_movel_5": -0.06
         },
         {
           "rodada": 2,
@@ -61,9 +81,9 @@
           "chutes_no_gol": 2,
           "escanteios": 3,
           "desarmes": 17,
-          "xg_movel_5": 1.18,
-          "xga_movel_5": 1.17,
-          "xgd_movel_5": 0.02
+          "xg_movel_5": 1.14,
+          "xga_movel_5": 0.95,
+          "xgd_movel_5": 0.19
         },
         {
           "rodada": 3,
@@ -81,9 +101,9 @@
           "chutes_no_gol": 5,
           "escanteios": 8,
           "desarmes": 16,
-          "xg_movel_5": 1.44,
-          "xga_movel_5": 1.23,
-          "xgd_movel_5": 0.21
+          "xg_movel_5": 1.35,
+          "xga_movel_5": 1.04,
+          "xgd_movel_5": 0.31
         },
         {
           "rodada": 4,
@@ -101,9 +121,9 @@
           "chutes_no_gol": 5,
           "escanteios": 4,
           "desarmes": 18,
-          "xg_movel_5": 1.31,
-          "xga_movel_5": 1.35,
-          "xgd_movel_5": -0.04
+          "xg_movel_5": 1.22,
+          "xga_movel_5": 1.07,
+          "xgd_movel_5": 0.16
         },
         {
           "rodada": 5,
@@ -789,28 +809,28 @@
       "tendencia": {
         "ataque": {
           "status": "Estável",
-          "variacao": -0.2,
+          "variacao": 0.1,
           "temporada": 1.15,
           "ultimos_5": 1.15
         },
         "defesa": {
           "status": "Melhorando",
-          "variacao": 20.8,
-          "temporada": 1.08,
+          "variacao": 19.3,
+          "temporada": 1.06,
           "ultimos_5": 0.85
         },
         "equilibrio": {
           "status": "Melhorando",
-          "variacao": 281.1,
-          "temporada": 0.08,
+          "variacao": 216.6,
+          "temporada": 0.09,
           "ultimos_5": 0.3
         }
       },
       "resumo": {
-        "jogos": 39,
+        "jogos": 40,
         "xg_medio": 1.15,
-        "xga_medio": 1.08,
-        "xgd_medio": 0.08
+        "xga_medio": 1.06,
+        "xgd_medio": 0.09
       }
     },
     "CRB": {
@@ -4001,6 +4021,26 @@
           "xgd_movel_5": 0.25
         },
         {
+          "rodada": 0,
+          "data": "2026-11-27T23:00:00Z",
+          "local": "Fora",
+          "adversario": "Vila Nova",
+          "gols_pro": 0,
+          "gols_contra": 2,
+          "placar": "0 x 2",
+          "xg": 0.29,
+          "xga": 1.01,
+          "xgd": -0.72,
+          "posse": 66,
+          "chutes": 11,
+          "chutes_no_gol": 1,
+          "escanteios": 7,
+          "desarmes": 7,
+          "xg_movel_5": 0.99,
+          "xga_movel_5": 1.23,
+          "xgd_movel_5": -0.23
+        },
+        {
           "rodada": 1,
           "data": "2026-03-21T21:15:00Z",
           "local": "Fora",
@@ -4016,9 +4056,9 @@
           "chutes_no_gol": 0,
           "escanteios": 7,
           "desarmes": 9,
-          "xg_movel_5": 1.14,
-          "xga_movel_5": 2.09,
-          "xgd_movel_5": -0.94
+          "xg_movel_5": 0.86,
+          "xga_movel_5": 1.73,
+          "xgd_movel_5": -0.87
         },
         {
           "rodada": 2,
@@ -4036,9 +4076,9 @@
           "chutes_no_gol": 2,
           "escanteios": 7,
           "desarmes": 16,
-          "xg_movel_5": 1.25,
-          "xga_movel_5": 1.66,
-          "xgd_movel_5": -0.41
+          "xg_movel_5": 1.01,
+          "xga_movel_5": 1.5,
+          "xgd_movel_5": -0.49
         },
         {
           "rodada": 3,
@@ -4056,9 +4096,9 @@
           "chutes_no_gol": 4,
           "escanteios": 3,
           "desarmes": 18,
-          "xg_movel_5": 1.29,
-          "xga_movel_5": 1.8,
-          "xgd_movel_5": -0.51
+          "xg_movel_5": 1.09,
+          "xga_movel_5": 1.64,
+          "xgd_movel_5": -0.55
         },
         {
           "rodada": 4,
@@ -4076,9 +4116,9 @@
           "chutes_no_gol": 5,
           "escanteios": 8,
           "desarmes": 13,
-          "xg_movel_5": 1.57,
-          "xga_movel_5": 1.53,
-          "xgd_movel_5": 0.05
+          "xg_movel_5": 1.29,
+          "xga_movel_5": 1.44,
+          "xgd_movel_5": -0.15
         },
         {
           "rodada": 5,
@@ -4764,28 +4804,28 @@
       "tendencia": {
         "ataque": {
           "status": "Melhorando",
-          "variacao": 33.2,
-          "temporada": 1.59,
+          "variacao": 36,
+          "temporada": 1.55,
           "ultimos_5": 2.11
         },
         "defesa": {
           "status": "Melhorando",
-          "variacao": 7.8,
+          "variacao": 7.4,
           "temporada": 1.23,
           "ultimos_5": 1.14
         },
         "equilibrio": {
           "status": "Melhorando",
-          "variacao": 177,
-          "temporada": 0.35,
+          "variacao": 199.8,
+          "temporada": 0.33,
           "ultimos_5": 0.98
         }
       },
       "resumo": {
-        "jogos": 39,
-        "xg_medio": 1.59,
+        "jogos": 40,
+        "xg_medio": 1.55,
         "xga_medio": 1.23,
-        "xgd_medio": 0.35
+        "xgd_medio": 0.33
       }
     },
     "Botafogo SP": {
